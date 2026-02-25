@@ -1,0 +1,427 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>わが家の献立カレンダー</title>
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:-apple-system,BlinkMacSystemFont,"Hiragino Sans","Noto Sans JP","Yu Gothic",sans-serif;background:#fef9f0;color:#2c3e50;line-height:1.6}
+.container{max-width:900px;margin:0 auto;padding:16px}
+header{text-align:center;margin-bottom:24px}
+header h1{font-size:1.5rem;color:#d35400;margin-bottom:4px}
+header .month-nav{display:flex;align-items:center;justify-content:center;gap:16px;font-size:1.2rem;font-weight:bold}
+header .month-nav button{background:none;border:2px solid #d35400;color:#d35400;border-radius:50%;width:36px;height:36px;font-size:1.2rem;cursor:pointer;transition:.2s}
+header .month-nav button:hover{background:#d35400;color:#fff}
+.calendar{margin-bottom:32px}
+.cal-header{display:grid;grid-template-columns:repeat(5,1fr);gap:4px;margin-bottom:4px}
+.cal-header div{text-align:center;font-weight:bold;font-size:.85rem;color:#7f8c8d;padding:6px 0}
+.cal-body{display:grid;grid-template-columns:repeat(5,1fr);gap:6px}
+.cal-cell{background:#fff;border-radius:10px;padding:10px 8px;min-height:90px;cursor:pointer;border:2px solid transparent;transition:.2s;position:relative;box-shadow:0 1px 4px rgba(0,0,0,.06)}
+.cal-cell:hover{border-color:#e67e22;transform:translateY(-2px);box-shadow:0 4px 12px rgba(0,0,0,.1)}
+.cal-cell.empty{background:transparent;box-shadow:none;cursor:default;border:none}
+.cal-cell.empty:hover{transform:none}
+.cal-cell .day{font-size:.8rem;color:#95a5a6;margin-bottom:4px}
+.cal-cell .dish{font-size:.95rem;font-weight:600;line-height:1.4}
+.cal-cell .cat-dot{display:inline-block;width:8px;height:8px;border-radius:50%;margin-right:4px;vertical-align:middle}
+.cat-wa{background:#27ae60}.cat-yo{background:#e67e22}.cat-ch{background:#e74c3c}
+.section-title{font-size:1.2rem;font-weight:bold;color:#d35400;margin-bottom:12px;padding-bottom:8px;border-bottom:2px solid #f0e0c8}
+.week-tabs{display:flex;gap:6px;margin-bottom:16px;flex-wrap:wrap}
+.week-tab{padding:8px 16px;border:2px solid #ddd;border-radius:20px;background:#fff;cursor:pointer;font-size:.85rem;transition:.2s}
+.week-tab:hover{border-color:#e67e22}
+.week-tab.active{background:#d35400;color:#fff;border-color:#d35400}
+.shop-group{margin-bottom:16px}
+.shop-group h4{font-size:.9rem;color:#7f8c8d;margin-bottom:8px;padding-left:4px}
+.shop-item{display:flex;align-items:flex-start;gap:8px;padding:8px 12px;background:#fff;border-radius:8px;margin-bottom:4px;font-size:.9rem;cursor:pointer;transition:.15s}
+.shop-item:hover{background:#fef3e6}
+.shop-item.checked{opacity:.4;text-decoration:line-through}
+.shop-item input[type=checkbox]{margin-top:3px;accent-color:#d35400}
+.shop-item .item-name{font-weight:600;min-width:100px}
+.shop-item .item-detail{color:#7f8c8d;font-size:.82rem}
+.shop-seasoning{background:#fff;border-radius:8px;padding:12px 16px;font-size:.85rem;color:#7f8c8d;line-height:1.8}
+.shop-seasoning span{display:inline-block;background:#f7f1e8;padding:2px 10px;border-radius:12px;margin:2px 4px;font-size:.82rem;color:#2c3e50}
+.modal-overlay{display:none;position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,.5);z-index:100;justify-content:center;align-items:center;padding:16px}
+.modal-overlay.show{display:flex}
+.modal{background:#fff;border-radius:16px;max-width:560px;width:100%;max-height:85vh;overflow-y:auto;padding:28px;position:relative;box-shadow:0 8px 32px rgba(0,0,0,.2)}
+.modal-close{position:absolute;top:12px;right:16px;background:none;border:none;font-size:1.8rem;cursor:pointer;color:#95a5a6;transition:.2s}
+.modal-close:hover{color:#2c3e50}
+.modal h2{font-size:1.3rem;margin-bottom:4px}
+.modal .meta{font-size:.85rem;color:#7f8c8d;margin-bottom:16px;display:flex;gap:16px;align-items:center}
+.modal .meta .cat-badge{padding:2px 12px;border-radius:12px;color:#fff;font-size:.8rem}
+.modal h3{font-size:1rem;color:#d35400;margin:16px 0 8px;padding-bottom:4px;border-bottom:1px solid #f0e0c8}
+.modal .ing-list{list-style:none;padding:0}
+.modal .ing-list li{padding:4px 0;font-size:.9rem;border-bottom:1px dotted #ecf0f1}
+.modal .ing-list li:last-child{border:none}
+.modal .ing-list .qty{float:right;color:#7f8c8d}
+.modal .steps{list-style:none;padding:0;counter-reset:step}
+.modal .steps li{padding:6px 0 6px 32px;font-size:.9rem;position:relative;border-bottom:1px dotted #ecf0f1;counter-increment:step}
+.modal .steps li:last-child{border:none}
+.modal .steps li::before{content:counter(step);position:absolute;left:0;top:6px;width:24px;height:24px;background:#fef3e6;border-radius:50%;text-align:center;line-height:24px;font-size:.8rem;font-weight:bold;color:#d35400}
+.modal .ref-links{margin-top:8px}
+.modal .ref-links a{display:inline-block;padding:6px 16px;background:#fef3e6;border-radius:8px;color:#d35400;text-decoration:none;font-size:.85rem;margin-right:8px;margin-bottom:6px;transition:.2s}
+.modal .ref-links a:hover{background:#d35400;color:#fff}
+@media(max-width:600px){
+  .cal-body{grid-template-columns:repeat(5,1fr);gap:3px}
+  .cal-cell{padding:6px 4px;min-height:70px}
+  .cal-cell .dish{font-size:.78rem}
+  .modal{padding:20px;margin:8px}
+  .container{padding:10px}
+}
+@media print{
+  .calendar,.modal-overlay,header{display:none}
+  .shop-item{break-inside:avoid}
+}
+</style>
+</head>
+<body>
+<div class="container">
+  <header>
+    <h1>わが家の献立カレンダー</h1>
+    <div class="month-nav">
+      <button id="prevMonth">◀</button>
+      <span id="monthLabel"></span>
+      <button id="nextMonth">▶</button>
+    </div>
+  </header>
+  <section class="calendar">
+    <div class="cal-header"><div>月</div><div>火</div><div>水</div><div>木</div><div>金</div></div>
+    <div class="cal-body" id="calBody"></div>
+  </section>
+  <section class="shopping-list">
+    <div class="section-title">買い物リスト</div>
+    <div class="week-tabs" id="weekTabs"></div>
+    <div id="shopContent"></div>
+  </section>
+</div>
+<div class="modal-overlay" id="modalOverlay">
+  <div class="modal">
+    <button class="modal-close" id="modalClose">&times;</button>
+    <div id="modalBody"></div>
+  </div>
+</div>
+<script>
+// ===== レシピデータ =====
+// i: [名前, 数量, 単位, グループ] グループ: M=肉, F=魚, V=野菜, T=豆腐加工品, G=麺穀物, D=乳卵, S=調味料
+const recipes = {
+nikujaga: {
+  n:"肉じゃが", c:"和", t:30,
+  i:[["牛薄切り肉",200,"g","M"],["じゃがいも",3,"個","V"],["玉ねぎ",1,"個","V"],["にんじん",1,"本","V"],["しらたき",1,"袋","T"],["醤油",3,"大さじ","S"],["みりん",3,"大さじ","S"],["砂糖",1.5,"大さじ","S"],["だし汁",300,"ml","S"],["サラダ油",1,"大さじ","S"]],
+  s:["じゃがいもとにんじんは一口大、玉ねぎはくし切り、しらたきは食べやすく切る","鍋にサラダ油を熱し牛肉を炒め、色が変わったら野菜を加えて炒める","だし汁・醤油・みりん・砂糖を加え、落とし蓋をして中火で20分煮る","じゃがいもに火が通ったら完成"]
+},
+teriyaki: {
+  n:"鶏の照り焼き", c:"和", t:20,
+  i:[["鶏もも肉",2,"枚","M"],["醤油",3,"大さじ","S"],["みりん",3,"大さじ","S"],["酒",2,"大さじ","S"],["砂糖",1,"大さじ","S"],["サラダ油",1,"大さじ","S"],["キャベツ千切り",null,"適量","V"]],
+  s:["鶏もも肉をフォークで数カ所刺し、皮目から中火で焼く","皮がパリッとしたら裏返して蓋をし、弱火で5分蒸し焼き","醤油・みりん・酒・砂糖を混ぜたタレを加え、煮絡める","食べやすく切ってキャベツの千切りと盛り付ける"]
+},
+mapo: {
+  n:"麻婆豆腐", c:"中", t:20,
+  i:[["絹ごし豆腐",2,"丁","T"],["豚ひき肉",150,"g","M"],["長ねぎ",1,"本","V"],["にんにく",1,"片","V"],["しょうが",1,"片","V"],["甜面醤",1,"大さじ","S"],["醤油",1,"大さじ","S"],["鶏ガラスープの素",1,"小さじ","S"],["水",200,"ml","S"],["片栗粉",1,"大さじ","S"],["ごま油",1,"大さじ","S"]],
+  s:["豆腐はさいの目に切り、軽く水切りする。長ねぎはみじん切り","フライパンにごま油を熱し、にんにく・しょうがを炒め、ひき肉を加えて炒める","甜面醤・醤油を加え炒め、水と鶏ガラスープの素を加えて煮る","豆腐を加えて3分煮て、水溶き片栗粉でとろみをつけ、ねぎを散らす"]
+},
+sake: {
+  n:"鮭の塩焼き", c:"和", t:15,
+  i:[["生鮭切り身",3,"切れ","F"],["塩",null,"適量","S"],["大根おろし用大根",0.25,"本","V"],["レモン",0.5,"個","V"]],
+  s:["鮭の両面に塩をふり、10分ほど置いてキッチンペーパーで水気を拭く","魚焼きグリルまたはフライパンで両面をこんがり焼く（中火で片面5分ずつ）","大根おろしとレモンを添えて盛り付ける"]
+},
+curry: {
+  n:"カレーライス", c:"洋", t:40,
+  i:[["豚こま切れ肉",250,"g","M"],["じゃがいも",2,"個","V"],["にんじん",1,"本","V"],["玉ねぎ",2,"個","V"],["カレールー",0.5,"箱","S"],["サラダ油",1,"大さじ","S"],["水",600,"ml","S"]],
+  s:["野菜は一口大に切る。玉ねぎはくし切り","鍋にサラダ油を熱し、肉と野菜を炒める","水を加え、沸騰したらアクを取り、弱火で15分煮る","火を止めてルーを割り入れ、溶かしてからとろみが出るまで10分煮る"]
+},
+shogayaki: {
+  n:"豚の生姜焼き", c:"和", t:15,
+  i:[["豚ロース薄切り",300,"g","M"],["玉ねぎ",1,"個","V"],["しょうがすりおろし",1,"大さじ","S"],["醤油",2,"大さじ","S"],["みりん",2,"大さじ","S"],["酒",1,"大さじ","S"],["サラダ油",1,"大さじ","S"],["キャベツ千切り",null,"適量","V"]],
+  s:["醤油・みりん・酒・しょうがを混ぜてタレを作る","フライパンにサラダ油を熱し、薄切りにした玉ねぎを炒めて取り出す","豚肉を広げて焼き、両面に焼き色がついたらタレと玉ねぎを加える","全体に絡めてキャベツの千切りと盛り付ける"]
+},
+oyakodon: {
+  n:"親子丼", c:"和", t:20,
+  i:[["鶏もも肉",250,"g","M"],["卵",4,"個","D"],["玉ねぎ",1,"個","V"],["だし汁",200,"ml","S"],["醤油",2.5,"大さじ","S"],["みりん",2,"大さじ","S"],["砂糖",1,"大さじ","S"],["ごはん",3,"人分","G"],["三つ葉",null,"適量","V"]],
+  s:["鶏肉は一口大に切り、玉ねぎは薄切りにする","フライパンにだし汁・醤油・みりん・砂糖を入れ、玉ねぎと鶏肉を煮る","鶏肉に火が通ったら溶き卵を回し入れ、蓋をして半熟で火を止める","ごはんの上に盛り、三つ葉を飾る"]
+},
+hamburg: {
+  n:"ハンバーグ", c:"洋", t:30,
+  i:[["合い挽き肉",300,"g","M"],["玉ねぎ",1,"個","V"],["パン粉",0.5,"カップ","S"],["牛乳",3,"大さじ","S"],["卵",1,"個","D"],["塩こしょう",null,"少々","S"],["ナツメグ",null,"少々","S"],["ケチャップ",3,"大さじ","S"],["ウスターソース",2,"大さじ","S"],["サラダ油",1,"大さじ","S"]],
+  s:["玉ねぎをみじん切りにし、レンジで2分加熱して冷ます","ボウルに挽き肉・玉ねぎ・パン粉・牛乳・卵・塩こしょう・ナツメグを入れ、よく練る","小判型に成形し、中央をくぼませる。フライパンで両面焼き、蓋をして蒸し焼き5分","ケチャップとウスターソースを混ぜたソースをかける"]
+},
+sabamiso: {
+  n:"さばの味噌煮", c:"和", t:25,
+  i:[["さば切り身",3,"切れ","F"],["味噌",3,"大さじ","S"],["砂糖",2,"大さじ","S"],["みりん",2,"大さじ","S"],["酒",3,"大さじ","S"],["しょうが",1,"片","V"],["水",200,"ml","S"]],
+  s:["さばに熱湯をかけて霜降りにし、水気を拭く","鍋に水・酒・砂糖・しょうが薄切りを入れ沸騰させ、さばを入れる","落とし蓋をして中火で10分煮る","味噌を溶き入れ、さらに5分煮て煮汁をかけて盛り付ける"]
+},
+omurice: {
+  n:"オムライス", c:"洋", t:25,
+  i:[["鶏もも肉",150,"g","M"],["玉ねぎ",1,"個","V"],["ごはん",3,"人分","G"],["ケチャップ",5,"大さじ","S"],["卵",6,"個","D"],["塩こしょう",null,"少々","S"],["バター",30,"g","S"],["サラダ油",1,"大さじ","S"]],
+  s:["鶏肉は小さめに切り、玉ねぎはみじん切りにする","フライパンで鶏肉と玉ねぎを炒め、ごはんとケチャップを加えて炒める","別のフライパンにバターを溶かし、溶き卵を流して半熟のうちにケチャップライスを包む","ケチャップをかけて完成"]
+},
+tonjiru: {
+  n:"豚汁", c:"和", t:25,
+  i:[["豚バラ薄切り",150,"g","M"],["大根",0.25,"本","V"],["にんじん",0.5,"本","V"],["ごぼう",0.5,"本","V"],["こんにゃく",0.5,"枚","T"],["長ねぎ",1,"本","V"],["豆腐",0.5,"丁","T"],["味噌",3,"大さじ","S"],["だし汁",800,"ml","S"],["ごま油",1,"大さじ","S"]],
+  s:["野菜はいちょう切り、ごぼうはささがき、こんにゃくは手でちぎる","鍋にごま油を熱し、豚肉を炒め、野菜とこんにゃくを加えて炒める","だし汁を加え、沸騰したらアクを取り、弱火で15分煮る","豆腐を加え、火を止めて味噌を溶き入れ、ねぎを散らす"]
+},
+nanban: {
+  n:"チキン南蛮", c:"洋", t:30,
+  i:[["鶏もも肉",2,"枚","M"],["小麦粉",null,"適量","S"],["卵",2,"個","D"],["醤油",3,"大さじ","S"],["酢",3,"大さじ","S"],["砂糖",2,"大さじ","S"],["マヨネーズ",4,"大さじ","S"],["ゆで卵",2,"個","D"],["玉ねぎみじん切り",0.25,"個","V"],["揚げ油",null,"適量","S"]],
+  s:["鶏肉を食べやすい大きさに切り、塩こしょうし、小麦粉→溶き卵の順につける","170℃の油でカリッと揚げる","醤油・酢・砂糖を混ぜた南蛮酢に揚げたてを漬ける","ゆで卵を潰してマヨネーズ・みじん切り玉ねぎと混ぜたタルタルをかける"]
+},
+yasaiitame: {
+  n:"野菜炒め", c:"中", t:15,
+  i:[["豚こま切れ肉",200,"g","M"],["キャベツ",0.25,"個","V"],["にんじん",0.5,"本","V"],["もやし",1,"袋","V"],["ピーマン",2,"個","V"],["醤油",1.5,"大さじ","S"],["酒",1,"大さじ","S"],["塩こしょう",null,"少々","S"],["鶏ガラスープの素",1,"小さじ","S"],["サラダ油",1,"大さじ","S"],["ごま油",1,"小さじ","S"]],
+  s:["キャベツはざく切り、にんじんは短冊切り、ピーマンは細切りにする","フライパンにサラダ油を熱し、豚肉を炒めて一度取り出す","にんじん→キャベツ→もやし→ピーマンの順に炒め、肉を戻す","醤油・酒・鶏ガラスープの素で味付けし、仕上げにごま油を回しかける"]
+},
+nikuudon: {
+  n:"肉うどん", c:"和", t:20,
+  i:[["うどん",3,"玉","G"],["牛薄切り肉",200,"g","M"],["長ねぎ",1,"本","V"],["醤油",3,"大さじ","S"],["みりん",2,"大さじ","S"],["だし汁",900,"ml","S"],["砂糖",1,"大さじ","S"]],
+  s:["長ねぎは斜め切りにする","鍋にだし汁を沸かし、醤油・みりん・砂糖を加える","牛肉を加えてアクを取り、うどんとねぎを加えて3分煮る","器に盛り付けて完成。お好みで七味をかける"]
+},
+gratin: {
+  n:"グラタン", c:"洋", t:35,
+  i:[["鶏もも肉",200,"g","M"],["玉ねぎ",1,"個","V"],["マカロニ",100,"g","G"],["バター",30,"g","S"],["小麦粉",3,"大さじ","S"],["牛乳",400,"ml","S"],["ピザ用チーズ",100,"g","D"],["塩こしょう",null,"少々","S"],["コンソメ",1,"小さじ","S"]],
+  s:["マカロニを茹でておく。鶏肉は一口大、玉ねぎは薄切りにする","フライパンにバターを溶かし鶏肉と玉ねぎを炒め、小麦粉を加えて粉っぽさがなくなるまで炒める","牛乳を少しずつ加えてとろみをつけ、コンソメ・塩こしょうで味を整える","マカロニと合わせて耐熱皿に入れ、チーズをのせてオーブン220℃で15分焼く"]
+},
+hoikoro: {
+  n:"回鍋肉", c:"中", t:20,
+  i:[["豚バラ薄切り",250,"g","M"],["キャベツ",0.25,"個","V"],["ピーマン",2,"個","V"],["長ねぎ",1,"本","V"],["にんにく",1,"片","V"],["甜面醤",2,"大さじ","S"],["醤油",1,"大さじ","S"],["酒",1,"大さじ","S"],["サラダ油",1,"大さじ","S"]],
+  s:["キャベツはざく切り、ピーマンは乱切り、ねぎは斜め切りにする","フライパンにサラダ油とにんにくを熱し、豚肉を炒める","野菜を加えて強火でさっと炒める","甜面醤・醤油・酒を加え、全体に絡めたら完成"]
+},
+karaage: {
+  n:"唐揚げ", c:"和", t:25,
+  i:[["鶏もも肉",2,"枚","M"],["醤油",2,"大さじ","S"],["酒",1,"大さじ","S"],["しょうがすりおろし",1,"小さじ","S"],["にんにくすりおろし",1,"小さじ","S"],["片栗粉",5,"大さじ","S"],["揚げ油",null,"適量","S"],["レモン",0.5,"個","V"]],
+  s:["鶏肉を一口大に切り、醤油・酒・しょうが・にんにくに15分漬ける","片栗粉をまぶし、170℃の油で4分揚げる","一度取り出して3分休ませ、180℃で1分二度揚げしてカリッと仕上げる","レモンを添えて盛り付ける"]
+},
+stew: {
+  n:"クリームシチュー", c:"洋", t:35,
+  i:[["鶏もも肉",250,"g","M"],["じゃがいも",2,"個","V"],["にんじん",1,"本","V"],["玉ねぎ",1,"個","V"],["ブロッコリー",0.5,"株","V"],["シチューのルー",0.5,"箱","S"],["牛乳",200,"ml","S"],["水",400,"ml","S"],["サラダ油",1,"大さじ","S"]],
+  s:["鶏肉と野菜を一口大に切る。ブロッコリーは小房に分けて別茹で","鍋にサラダ油を熱し、鶏肉と玉ねぎ・にんじん・じゃがいもを炒める","水を加えて沸騰したらアクを取り、弱火で15分煮る","火を止めてルーを溶かし、牛乳を加えてとろみがつくまで煮て、ブロッコリーを加える"]
+},
+hokke: {
+  n:"ほっけの塩焼き", c:"和", t:15,
+  i:[["ほっけの開き",2,"枚","F"],["大根おろし用大根",0.25,"本","V"],["レモン",0.5,"個","V"],["醤油",null,"少々","S"]],
+  s:["ほっけを魚焼きグリルに入れ、中火で皮目から7分、裏返して5分焼く","大根おろしを作る","器に盛り、大根おろしとレモンを添える。お好みで醤油をかける"]
+},
+meatpasta: {
+  n:"ミートソースパスタ", c:"洋", t:30,
+  i:[["スパゲッティ",300,"g","G"],["合い挽き肉",200,"g","M"],["玉ねぎ",1,"個","V"],["にんじん",0.5,"本","V"],["トマト缶",1,"缶","V"],["にんにく",1,"片","V"],["ケチャップ",2,"大さじ","S"],["ウスターソース",1,"大さじ","S"],["コンソメ",1,"小さじ","S"],["オリーブオイル",1,"大さじ","S"],["塩こしょう",null,"少々","S"],["粉チーズ",null,"適量","S"]],
+  s:["玉ねぎ・にんじん・にんにくをみじん切りにする","フライパンにオリーブオイルとにんにくを熱し、野菜を炒め、挽き肉を加えて炒める","トマト缶・ケチャップ・ウスターソース・コンソメを加えて15分煮詰める","茹でたスパゲッティにかけ、粉チーズをふる"]
+},
+champuru: {
+  n:"豆腐チャンプルー", c:"和", t:15,
+  i:[["木綿豆腐",1,"丁","T"],["豚バラ薄切り",150,"g","M"],["もやし",1,"袋","V"],["ニラ",0.5,"束","V"],["卵",2,"個","D"],["醤油",1.5,"大さじ","S"],["和風だしの素",1,"小さじ","S"],["塩こしょう",null,"少々","S"],["ごま油",1,"大さじ","S"],["かつお節",null,"適量","S"]],
+  s:["豆腐は水切りして手でちぎる。ニラは5cm幅に切る","フライパンにごま油を熱し、豆腐を焼き色がつくまで焼いて取り出す","豚肉を炒め、もやし・ニラを加えて炒め、豆腐を戻す","醤油・だしの素・塩こしょうで味付け、溶き卵を回し入れ、かつお節をかける"]
+},
+chikuzenni: {
+  n:"筑前煮", c:"和", t:35,
+  i:[["鶏もも肉",250,"g","M"],["れんこん",1,"節","V"],["にんじん",1,"本","V"],["ごぼう",1,"本","V"],["こんにゃく",1,"枚","T"],["しいたけ",4,"枚","V"],["醤油",3,"大さじ","S"],["みりん",2,"大さじ","S"],["砂糖",1.5,"大さじ","S"],["酒",2,"大さじ","S"],["だし汁",300,"ml","S"],["サラダ油",1,"大さじ","S"]],
+  s:["鶏肉は一口大、れんこん・にんじんは乱切り、ごぼうは斜め切り、こんにゃくは手でちぎる","フライパンにサラダ油を熱し、鶏肉を炒め、野菜とこんにゃくを加えて炒める","だし汁・醤油・みりん・砂糖・酒を加え、落とし蓋をして中火で20分煮る","煮汁が少なくなったら完成"]
+}
+};
+
+// ===== カレンダーデータ（2026年3月） =====
+const defaultCalendar = {
+  "2026-3-2":"nikujaga","2026-3-3":"teriyaki","2026-3-4":"mapo","2026-3-5":"sake","2026-3-6":"curry",
+  "2026-3-9":"shogayaki","2026-3-10":"oyakodon","2026-3-11":"hamburg","2026-3-12":"sabamiso","2026-3-13":"omurice",
+  "2026-3-16":"tonjiru","2026-3-17":"nanban","2026-3-18":"yasaiitame","2026-3-19":"nikuudon","2026-3-20":"gratin",
+  "2026-3-23":"hoikoro","2026-3-24":"karaage","2026-3-25":"stew","2026-3-26":"hokke","2026-3-27":"meatpasta",
+  "2026-3-30":"champuru","2026-3-31":"chikuzenni"
+};
+
+let calendarData = JSON.parse(localStorage.getItem('kondate_cal')) || {...defaultCalendar};
+let checkedItems = JSON.parse(localStorage.getItem('kondate_checked')) || {};
+let currentYear = 2026, currentMonth = 2; // 0-indexed: 2 = March
+
+// ===== ヘルパー =====
+function fmtQty(q, u) {
+  if (q === null || q === undefined) return u || '適量';
+  const prefix = ['大さじ','小さじ'];
+  let qs;
+  if (q === 0.25) qs = '1/4';
+  else if (q === 0.5) qs = '1/2';
+  else if (q === 0.75) qs = '3/4';
+  else qs = String(q);
+  return prefix.includes(u) ? u + qs : qs + u;
+}
+
+function catLabel(c) { return {和:'和食',洋:'洋食',中:'中華'}[c] || c; }
+function catClass(c) { return {和:'cat-wa',洋:'cat-yo',中:'cat-ch'}[c] || ''; }
+function catColor(c) { return {和:'#27ae60',洋:'#e67e22',中:'#e74c3c'}[c] || '#999'; }
+
+function getWeekdays(year, month) {
+  const weeks = [];
+  const dim = new Date(year, month + 1, 0).getDate();
+  let cw = null;
+  for (let d = 1; d <= dim; d++) {
+    const dow = new Date(year, month, d).getDay();
+    if (dow >= 1 && dow <= 5) {
+      if (!cw) cw = [null,null,null,null,null];
+      cw[dow - 1] = d;
+    }
+    if (dow === 5 && cw) { weeks.push(cw); cw = null; }
+  }
+  if (cw) weeks.push(cw);
+  return weeks;
+}
+
+function dateKey(y, m, d) { return y + '-' + (m+1) + '-' + d; }
+
+const groupLabels = {M:'🥩 肉類',F:'🐟 魚介類',V:'🥬 野菜・果物',T:'豆腐・加工品',G:'🍚 麺・穀物',D:'🥛 乳製品・卵'};
+
+// ===== レンダリング =====
+function renderCalendar() {
+  const ml = document.getElementById('monthLabel');
+  ml.textContent = currentYear + '年' + (currentMonth+1) + '月';
+  const body = document.getElementById('calBody');
+  body.innerHTML = '';
+  const weeks = getWeekdays(currentYear, currentMonth);
+  for (const week of weeks) {
+    for (let i = 0; i < 5; i++) {
+      const day = week[i];
+      const cell = document.createElement('div');
+      cell.className = 'cal-cell' + (day ? '' : ' empty');
+      if (day) {
+        const dk = dateKey(currentYear, currentMonth, day);
+        const rid = calendarData[dk];
+        const r = rid ? recipes[rid] : null;
+        cell.innerHTML = '<div class="day">' + day + '日</div>' +
+          (r ? '<span class="cat-dot ' + catClass(r.c) + '"></span><span class="dish">' + r.n + '</span>' : '<span class="dish" style="color:#ccc">未定</span>');
+        if (r) cell.onclick = () => openModal(rid);
+      }
+      body.appendChild(cell);
+    }
+  }
+  renderWeekTabs();
+}
+
+function renderWeekTabs() {
+  const tabs = document.getElementById('weekTabs');
+  tabs.innerHTML = '';
+  const weeks = getWeekdays(currentYear, currentMonth);
+  weeks.forEach((w, idx) => {
+    const days = w.filter(d => d !== null);
+    const label = '第' + (idx+1) + '週 (' + (currentMonth+1) + '/' + days[0] + '-' + days[days.length-1] + ')';
+    const btn = document.createElement('button');
+    btn.className = 'week-tab' + (idx === 0 ? ' active' : '');
+    btn.textContent = label;
+    btn.onclick = () => {
+      document.querySelectorAll('.week-tab').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      renderShoppingList(w);
+    };
+    tabs.appendChild(btn);
+  });
+  if (weeks.length > 0) renderShoppingList(weeks[0]);
+}
+
+function renderShoppingList(week) {
+  const container = document.getElementById('shopContent');
+  container.innerHTML = '';
+  const agg = {};
+  const seasonings = new Set();
+  const weekRecipes = [];
+
+  for (const day of week) {
+    if (!day) continue;
+    const dk = dateKey(currentYear, currentMonth, day);
+    const rid = calendarData[dk];
+    if (!rid || !recipes[rid]) continue;
+    const r = recipes[rid];
+    weekRecipes.push({day, recipe: r});
+    for (const ing of r.i) {
+      const [name, qty, unit, group] = ing;
+      if (group === 'S') { seasonings.add(name); continue; }
+      if (!agg[name]) agg[name] = {group, entries:[]};
+      agg[name].entries.push({qty, unit, dish: r.n, day});
+    }
+  }
+
+  if (weekRecipes.length === 0) {
+    container.innerHTML = '<p style="color:#95a5a6;padding:20px">この週には献立が登録されていません</p>';
+    return;
+  }
+
+  // Group by category
+  const grouped = {};
+  for (const [name, data] of Object.entries(agg)) {
+    const g = data.group;
+    if (!grouped[g]) grouped[g] = [];
+    // Calculate total
+    const units = [...new Set(data.entries.map(e => e.unit))];
+    let totalStr;
+    if (units.length === 1 && data.entries[0].qty !== null) {
+      const total = data.entries.reduce((s, e) => s + (e.qty || 0), 0);
+      totalStr = fmtQty(total, units[0]);
+    } else {
+      totalStr = data.entries.map(e => fmtQty(e.qty, e.unit)).join(' + ');
+    }
+    const detail = data.entries.map(e => e.dish).join(', ');
+    grouped[g].push({name, totalStr, detail});
+  }
+
+  const order = ['M','F','V','T','G','D'];
+  const weekKey = currentYear + '-' + currentMonth + '-w' + week.filter(d=>d)[0];
+
+  for (const g of order) {
+    if (!grouped[g]) continue;
+    const div = document.createElement('div');
+    div.className = 'shop-group';
+    div.innerHTML = '<h4>' + (groupLabels[g] || g) + '</h4>';
+    for (const item of grouped[g]) {
+      const ck = weekKey + '_' + item.name;
+      const checked = checkedItems[ck] || false;
+      const row = document.createElement('label');
+      row.className = 'shop-item' + (checked ? ' checked' : '');
+      row.innerHTML = '<input type="checkbox"' + (checked ? ' checked' : '') + '>' +
+        '<span class="item-name">' + item.name + '</span>' +
+        '<span>' + item.totalStr + '</span>' +
+        '<span class="item-detail">（' + item.detail + '）</span>';
+      row.querySelector('input').onchange = function() {
+        checkedItems[ck] = this.checked;
+        row.classList.toggle('checked', this.checked);
+        localStorage.setItem('kondate_checked', JSON.stringify(checkedItems));
+      };
+      div.appendChild(row);
+    }
+    container.appendChild(div);
+  }
+
+  // Seasonings
+  if (seasonings.size > 0) {
+    const sdiv = document.createElement('div');
+    sdiv.className = 'shop-group';
+    sdiv.innerHTML = '<h4>🧂 調味料（常備品を確認）</h4>';
+    const sp = document.createElement('div');
+    sp.className = 'shop-seasoning';
+    sp.innerHTML = [...seasonings].map(s => '<span>' + s + '</span>').join('');
+    sdiv.appendChild(sp);
+    container.appendChild(sdiv);
+  }
+}
+
+function openModal(rid) {
+  const r = recipes[rid];
+  if (!r) return;
+  const body = document.getElementById('modalBody');
+  const encName = encodeURIComponent(r.n);
+  body.innerHTML =
+    '<h2>' + r.n + '</h2>' +
+    '<div class="meta"><span class="cat-badge" style="background:' + catColor(r.c) + '">' + catLabel(r.c) + '</span>' +
+    '<span>3人分</span><span>⏱ 約' + r.t + '分</span></div>' +
+    '<h3>材料</h3>' +
+    '<ul class="ing-list">' + r.i.map(([n,q,u]) => '<li>' + n + '<span class="qty">' + fmtQty(q,u) + '</span></li>').join('') + '</ul>' +
+    '<h3>作り方</h3>' +
+    '<ol class="steps">' + r.s.map(s => '<li>' + s + '</li>').join('') + '</ol>' +
+    '<h3>参考レシピ</h3>' +
+    '<div class="ref-links">' +
+    '<a href="https://cookpad.com/search/' + encName + '" target="_blank" rel="noopener">Cookpad で検索</a>' +
+    '<a href="https://delishkitchen.tv/search?q=' + encName + '" target="_blank" rel="noopener">DELISH KITCHEN で検索</a>' +
+    '</div>';
+  document.getElementById('modalOverlay').classList.add('show');
+}
+
+document.getElementById('modalClose').onclick = () => document.getElementById('modalOverlay').classList.remove('show');
+document.getElementById('modalOverlay').onclick = function(e) { if (e.target === this) this.classList.remove('show'); };
+document.getElementById('prevMonth').onclick = () => { if (currentMonth === 0) { currentMonth = 11; currentYear--; } else currentMonth--; renderCalendar(); };
+document.getElementById('nextMonth').onclick = () => { if (currentMonth === 11) { currentMonth = 0; currentYear++; } else currentMonth++; renderCalendar(); };
+
+renderCalendar();
+</script>
+</body>
+</html>
