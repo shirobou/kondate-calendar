@@ -1,0 +1,354 @@
+[
+  {
+    "reference": "法1条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\"><span class=\"subject\">労働者災害補償保険</span>は、</div><ul class=\"condition-list\"><li>業務上の事由</li><li><span class=\"subject\">事業主</span>が同一人でない2以上の事業に使用される<span class=\"subject\">労働者</span>（以下「複数事業<span class=\"subject\">労働者</span>」という。）の2以上の事業の業務を要因とする事由<span class=\"logic\">又は</span>通勤による<span class=\"subject\">労働者</span>の負傷、疾病、障害</li><li>死亡等に対して迅速<span class=\"logic\">かつ</span>公正な保護をするため</li><li>必要な保険給付を行い</li><li>あわせて</li><li>業務上の事由</li><li>複数事業<span class=\"subject\">労働者</span>の2以上の事業の業務を要因とする事由<span class=\"logic\">又は</span>通勤により負傷し</li><li><span class=\"logic\">又は</span>疾病にかかった<span class=\"subject\">労働者</span>の社会復帰の促進</li><li>当該<span class=\"subject\">労働者</span><span class=\"logic\">及び</span>その<span class=\"subject\">遺族</span>の援護</li><li><span class=\"subject\">労働者</span>の安全<span class=\"logic\">及び</span>衛生の確保等を図り</li></ul><div class=\"predicate-line\">もって<span class=\"subject\">労働者</span>の福祉の増進に寄与することを目的<span class=\"predicate\">とする。</span></div></div></div>"
+  },
+  {
+    "reference": "法2条の2",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\"><span class=\"subject\">労働者災害補償保険</span>は、</div><ul class=\"condition-list\"><li>第1条の目的を達成するため</li><li>業務上の事由</li><li>複数事業<span class=\"subject\">労働者</span>の2以上の事業の業務を要因とする事由<span class=\"logic\">又は</span>通勤による<span class=\"subject\">労働者</span>の負傷、疾病、障害</li><li>死亡等に関して保険給付を行うほか</li></ul><div class=\"predicate-line\">社会復帰促進等事業を行うことが<span class=\"predicate\">できる。</span></div></div></div>"
+  },
+  {
+    "reference": "法2条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\"><span class=\"subject\">労働者災害補償保険</span>は、</div><div class=\"predicate-line\"><span class=\"subject\">政府</span>が、これを<span class=\"predicate\">管掌する。</span></div></div></div>"
+  },
+  {
+    "reference": "則1条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第2項</span><div class=\"subject-line\"><span class=\"subject\">労働者災害補償保険</span>等関係事務は、</div><ul class=\"condition-list\"><li>厚生労働省労働基準局長の指揮監督を受けて</li></ul><div class=\"predicate-line\">所轄<span class=\"subject\">都道府県労働局長</span>が<span class=\"predicate\">行う。</span></div></div><div class=\"exception-section\"><div class=\"exception-keyword\"><span class=\"exception\">ただし、</span></div><ul class=\"condition-list\"><li>次の各号に掲げる場合は</li></ul><div class=\"predicate-line\"><span class=\"exception\">→ 当該各号に定める者を所轄<span class=\"subject\">都道府県労働局長</span>とする。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">第3項</span><div class=\"subject-line\"><span class=\"subject\">労働者災害補償保険</span>等関係事務のうち、保険給付（二次健康診断等給付を除く。）<span class=\"logic\">並びに</span>社会復帰促進等事業のうち労災就学等援護費<span class=\"logic\">及び</span>特別支給金の支給<span class=\"logic\">並びに</span>厚生労働省労働基準局長が定める給付に関する事務は、</div><ul class=\"condition-list\"><li><span class=\"subject\">都道府県労働局長</span>の指揮監督を受けて</li></ul><div class=\"predicate-line\">事業場の所在地を管轄する<span class=\"subject\">労働基準監督署長</span>（以下「<span class=\"subject\">所轄労働基準監督署長</span>」という。）が<span class=\"predicate\">行う。</span></div></div><div class=\"exception-section\"><div class=\"exception-keyword\"><span class=\"exception\">ただし、</span></div><ul class=\"condition-list\"><li>次の各号に掲げる場合は</li></ul><div class=\"predicate-line\"><span class=\"exception\">→ 当該各号に定める者を<span class=\"subject\">所轄労働基準監督署長</span>とする。</span></div></div></div>"
+  },
+  {
+    "reference": "法5条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\">労災保険法に基づく政令<span class=\"logic\">及び</span>厚生労働省令<span class=\"logic\">並びに</span>徴収法に基づく政令<span class=\"logic\">及び</span>厚生労働省令（<span class=\"subject\">労働者災害補償保険</span>事業に係るものに限る。）は、</div><ul class=\"condition-list\"><li>その草案について</li><li>労働政策審議会の意見を聞いて</li></ul><div class=\"predicate-line\">これを制定する。</div></div></div>"
+  },
+  {
+    "reference": "法3条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\">労災保険法においては、</div><div class=\"predicate-line\"><span class=\"subject\">労働者</span>を使用する事業を適用事業<span class=\"predicate\">とする。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">第2項</span><div class=\"subject-line\">前項の規定にかかわらず、<span class=\"subject\">国</span>の直営事業<span class=\"logic\">及び</span>官公署の事業（労働基準法別表第1に掲げる事業を除く。）については、</div><div class=\"predicate-line\">労災保険法は、<span class=\"predicate\">適用しない。</span></div></div></div>"
+  },
+  {
+    "reference": "法7条1項",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\">「業務災害」とは、</div><ul class=\"condition-list\"><li><span class=\"subject\">労働者</span>の業務上の負傷、疾病</li></ul><div class=\"predicate-line\">障害<span class=\"logic\">又は</span>死亡を<span class=\"predicate\">いう。</span></div></div></div>"
+  },
+  {
+    "reference": "法7条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第2項</span><div class=\"subject-line\">通勤とは、</div><ul class=\"condition-list\"><li><span class=\"subject\">労働者</span>が</li><li>就業に関し</li><li>次に掲げる移動を</li><li>合理的な経路<span class=\"logic\">及び</span>方法により行うことをいい</li></ul><div class=\"predicate-line\">業務の性質を有するものを除く<span class=\"predicate\">ものとする。</span></div></div></div>"
+  },
+  {
+    "reference": "法22条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\">療養給付は、</div><ul class=\"condition-list\"><li><span class=\"subject\">労働者</span>が通勤により負傷し</li><li><span class=\"logic\">又は</span>疾病（厚生労働省令（労災保険法施行規則18条の4）で定めるものに限る。以下この節において同じ。）にかかった場合に</li><li>当該<span class=\"subject\">労働者</span>に対し</li></ul><div class=\"predicate-line\">その請求に基づいて<span class=\"predicate\">行う。</span></div></div></div>"
+  },
+  {
+    "reference": "則18条の4",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\">第22条第1項の厚生労働省令で定める疾病は、</div><div class=\"predicate-line\">通勤による負傷に起因する疾病その他通勤に起因することの明らかな疾病<span class=\"predicate\">とする。</span></div></div></div>"
+  },
+  {
+    "reference": "法8条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\">給付基礎日額は、</div><div class=\"predicate-line\">労働基準法第12条の平均賃金に相当する額<span class=\"predicate\">とする。</span></div></div><div class=\"principle-section\"><div class=\"subject-line\">この場合において、同条第1 項の平均賃金を算定すべき事由の発生した日は、</div><div class=\"predicate-line\">第7条第1項第1号から第3号までに規定する負傷<span class=\"logic\">若しくは</span>死亡の原因である事故が発生した日<span class=\"logic\">又は</span>診断によって同項第1号から第3号までに規定する疾病の発生が確定した日（以下「算定事由発生日」という。）<span class=\"predicate\">とする。</span></div></div></div>"
+  },
+  {
+    "reference": "法8条の5",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\">給付基礎日額に<span class=\"period\">1円</span>未満の端数があるときは、</div><div class=\"predicate-line\">これを<span class=\"period\">1円</span>に切り上げる<span class=\"predicate\">ものとする。</span></div></div></div>"
+  },
+  {
+    "reference": "則9条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\">第8条第2項の規定による給付基礎日額の算定は、</div><ul class=\"condition-list\"><li><span class=\"subject\">所轄労働基準監督署長</span>が</li></ul><div class=\"predicate-line\">労災保険法施行規則第9条第1項各号に定めるところによって<span class=\"predicate\">行う。</span></div></div></div>"
+  },
+  {
+    "reference": "則9条1項",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\">平均賃金相当額が自動変更対象額に満たない場合には、</div><div class=\"predicate-line\">自動変更対象額<span class=\"predicate\">とする。</span></div></div></div>"
+  },
+  {
+    "reference": "法8条の2",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\">休業補償給付、複数事業<span class=\"subject\">労働者</span>休業給付<span class=\"logic\">又は</span>休業給付（以下「休業補償給付等」という。）の額の算定の基礎として用いる給付基礎日額（以下「休業給付基礎日額」という。）については、</div><div class=\"predicate-line\">次に定めるところに<span class=\"predicate\">よる。</span></div></div></div>"
+  },
+  {
+    "reference": "法8条の2第1項",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\">かっこ書改定日額（スライド改定の規定により算定した額をいう。）を休業給付基礎日額とすることとされている場合にあっては、</div><ul class=\"condition-list\"><li>四半期ごとの平均給与額が</li><li><span class=\"condition\">当該改定日額を休業補償給付等の額の算定の基礎として用いるべき最初の四半期の前々四半期の平均給与額の<span class=\"period\">100分の110</span>を超え</span></li><li><span class=\"condition\"><span class=\"logic\">又は</span>10 0分の90を下るに至った場合において</span></li><li>その上昇し</li><li><span class=\"logic\">又は</span>低下するに至った四半期の翌々四半期に属する最初の日以後に支給すべき事由が生じた休業補償給付等については</li><li>その上昇し</li></ul><div class=\"predicate-line\"><span class=\"logic\">又は</span>低下した比率を基準として<span class=\"subject\">厚生労働大臣</span>が定める率を当該改定日額に乗じて得た額を休業給付基礎日額<span class=\"predicate\">とする。</span></div></div></div>"
+  },
+  {
+    "reference": "法8条の3",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\">年金たる保険給付の額の算定の基礎として用いる給付基礎日額（以下「年金給付基礎日額」という。）については、</div><div class=\"predicate-line\">次に定めるところに<span class=\"predicate\">よる。</span></div></div></div>"
+  },
+  {
+    "reference": "法8条の4",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\">第8条の3第1項（年金給付基礎日額のスライド）の規定は、</div><ul class=\"condition-list\"><li>障害補償一時金<span class=\"logic\">若しくは</span><span class=\"subject\">遺族</span>補償一時金</li></ul><div class=\"predicate-line\">複数事業<span class=\"subject\">労働者</span>障害一時金<span class=\"logic\">若しくは</span>複数事業<span class=\"subject\">労働者</span><span class=\"subject\">遺族</span>一時金<span class=\"logic\">又は</span>障害一時金<span class=\"logic\">若しくは</span><span class=\"subject\">遺族</span>一時金の額の算定の基礎として用いる給付基礎日額について<span class=\"predicate\">準用する。</span></div></div></div>"
+  },
+  {
+    "reference": "法12条の8",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第2項</span><div class=\"subject-line\">業務災害に関する保険給付（傷病補償年金<span class=\"logic\">及び</span>介護補償給付を除く。）は、</div><ul class=\"condition-list\"><li>労働基準法に規定する災害補償の事由<span class=\"logic\">又は</span>船員法に規定する災害補償の事由（労働基準法に規定する災害補償の事由に相当する部分に限る。）が生じた場合に</li><li>補償を受けるべき<span class=\"subject\">労働者</span><span class=\"logic\">若しくは</span><span class=\"subject\">遺族</span><span class=\"logic\">又は</span>葬祭を行う者に対し</li></ul><div class=\"predicate-line\">その請求に基づいて<span class=\"predicate\">行う。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\">労働基準法に規定する災害補償の事由について、<span class=\"subject\">労働者災害補償保険</span>法<span class=\"logic\">又は</span>厚生労働省令で指定する法令に基づいて労働基準法の災害補償に相当する給付が行なわれるべきものである場合においては、</div><div class=\"predicate-line\"><span class=\"subject\">使用者</span>は、補償の責を<span class=\"predicate\">免れる。</span></div></div></div>"
+  },
+  {
+    "reference": "法13条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\">療養補償給付は、</div><div class=\"predicate-line\">療養の給付<span class=\"predicate\">とする。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">第3項</span><div class=\"subject-line\"><span class=\"subject\">政府</span>は、</div><ul class=\"condition-list\"><li><span class=\"condition\">第1項の療養の給付をすることが困難な場合<span class=\"logic\">又は</span>療養の給付を受けないことについて<span class=\"subject\">労働者</span>に相当の理由がある場合には</span></li></ul><div class=\"predicate-line\">療養の給付に代えて療養の費用を支給<span class=\"predicate\">することができる。</span></div></div></div>"
+  },
+  {
+    "reference": "則11条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\">療養の給付は、</div><ul class=\"condition-list\"><li>社会復帰促進等事業として設置された病院<span class=\"logic\">若しくは</span>診療所<span class=\"logic\">又は</span><span class=\"subject\">都道府県労働局長</span>の指定する病院<span class=\"logic\">若しくは</span>診療所</li></ul><div class=\"predicate-line\">薬局<span class=\"logic\">若しくは</span>訪問看護<span class=\"subject\">事業者</span>において<span class=\"predicate\">行う。</span></div></div></div>"
+  },
+  {
+    "reference": "則12条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\">療養補償給付たる療養の給付を受けようとする者は、</div><ul class=\"condition-list\"><li>次に掲げる事項を記載した請求書を</li><li>当該療養の給付を受けようとする病院<span class=\"logic\">若しくは</span>診療所</li></ul><div class=\"predicate-line\">薬局<span class=\"logic\">又は</span>訪問看護<span class=\"subject\">事業者</span>（以下「指定病院等」という。）を経由して<span class=\"subject\">所轄労働基準監督署長</span>に提出<span class=\"predicate\">しなければならない。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">第2項</span><div class=\"subject-line\">前項第3号<span class=\"logic\">及び</span>第4号に掲げる事項については、</div><ul class=\"condition-list\"><li><span class=\"subject\">事業主</span>（非災害の<span class=\"subject\">事業主</span>を除く。）の証明を受けなければならない。※通勤災害の場合は</li></ul><div class=\"predicate-line\">前項3.<span class=\"logic\">及び</span>「災害の発生の時刻<span class=\"logic\">及び</span>場所」「通常の通勤の経路<span class=\"logic\">及び</span>方法」等についても<span class=\"subject\">事業主</span>（複数事業<span class=\"subject\">労働者</span>にあっては、移動の終点である就業の場所に係る<span class=\"subject\">事業主</span>以外の<span class=\"subject\">事業主</span>（通勤災害に係る<span class=\"subject\">事業主</span>以外の<span class=\"subject\">事業主</span>）の証明は要しない）の証明を受ける必要が<span class=\"predicate\">ある。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">第3項</span><div class=\"subject-line\">療養（補償）給付たる療養の給付を受ける<span class=\"subject\">労働者</span>は、</div><ul class=\"condition-list\"><li><span class=\"condition\">当該療養の給付を受ける指定病院等を変更しようとするときは</span></li><li>所定の事項を記載した届書を</li></ul><div class=\"predicate-line\">新たに当該療養の給付を受けようとする指定病院等を経由して<span class=\"subject\">所轄労働基準監督署長</span>に提出<span class=\"predicate\">しなければならない。</span></div></div></div>"
+  },
+  {
+    "reference": "則12条の2",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\">療養補償給付たる療養の費用の支給を受けようとする者は、</div><ul class=\"condition-list\"><li>次に掲げる事項を記載した請求書を</li></ul><div class=\"predicate-line\"><span class=\"subject\">所轄労働基準監督署長</span>に提出<span class=\"predicate\">しなければならない。</span></div></div><div class=\"exception-section\"><div class=\"exception-keyword\"><span class=\"exception\">ただし、</span></div><ul class=\"condition-list\"><li><span class=\"condition\">当該者が施術所（あはき法の届出に係る施術所<span class=\"logic\">及び</span>柔道整復師法に規定する施術所をいう。）のうち<span class=\"subject\">都道府県労働局長</span>が定めるもの（以下「指名施術所」という。）において治療を受ける場合にあっては</span></li><li>当該請求書を</li></ul><div class=\"predicate-line\"><span class=\"exception\">→ 当該指名施術所を経由して<span class=\"subject\">所轄労働基準監督署長</span>に提出することができる。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">第2項</span><ul class=\"condition-list\"><li>前項3号<span class=\"logic\">及び</span>4号に掲げる事項については<span class=\"subject\">事業主</span>（非災害の<span class=\"subject\">事業主</span>を除く。）の証明を</li><li>同項第5号<span class=\"logic\">及び</span>第6号に掲げる事項については医師その他の診療</li><li>薬剤の支給</li></ul><div class=\"predicate-line\">手当<span class=\"logic\">又は</span>訪問看護を担当した者（以下「診療担当者」という。）の証明を<span class=\"predicate\">受けなければならない。</span></div></div><div class=\"exception-section\"><div class=\"exception-keyword\"><span class=\"exception\">ただし、</span></div><ul class=\"condition-list\"><li>看護（病院<span class=\"logic\">又は</span>診療所の<span class=\"subject\">労働者</span>が提供するもの<span class=\"logic\">及び</span>訪問看護を除く。以下同じ。）<span class=\"logic\">又は</span>移送に要した費用の額については</li></ul><div class=\"predicate-line\"><span class=\"exception\">→ この限りでない。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">第3項</span><div class=\"subject-line\">第1項6号の額が看護<span class=\"logic\">又は</span>移送に要した費用の額を含むものであるときは、</div><ul class=\"condition-list\"><li>当該費用の額を証明することができる書類を</li></ul><div class=\"predicate-line\">同項の請求書に添えなければならない。</div></div></div>"
+  },
+  {
+    "reference": "法31条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第2項</span><div class=\"subject-line\"><span class=\"subject\">政府</span>は、</div><ul class=\"condition-list\"><li>療養給付を受ける<span class=\"subject\">労働者</span>（厚生労働省令で定める者を除く。）から</li></ul><div class=\"predicate-line\"><span class=\"period\">200円</span>を超えない範囲内で厚生労働省令で定める額（<span class=\"period\">200円</span>（健康保険法に規定する日雇特例<span class=\"subject\">被保険者</span>である<span class=\"subject\">労働者</span>については、<span class=\"period\">100円</span>）。ただし、現に療養に要した費用の総額がこの額に満たない場合には、当該現に療養に要した費用の総額に相当する額）を一部負担金として<span class=\"predicate\">徴収する。</span></div></div><div class=\"exception-section\"><div class=\"exception-keyword\"><span class=\"exception\">ただし、</span></div><ul class=\"condition-list\"><li>第22条の2第3 項に規定により減額した休業給付の支給を受けた<span class=\"subject\">労働者</span>については</li></ul><div class=\"predicate-line\"><span class=\"exception\">→ この限りでない。</span></div></div></div>"
+  },
+  {
+    "reference": "法22条の2",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第3項</span><div class=\"subject-line\">療養給付を受ける<span class=\"subject\">労働者</span>（第31条第2項の厚生労働省令で定める者を除く。）に支給する休業給付であって最初に支給すべき事由の生じた日に係るものの額は、</div><div class=\"predicate-line\">その額から第31条第2項の厚生労働省令で定める額（一部負担金）に相当する額を減じた額<span class=\"predicate\">とする。</span></div></div></div>"
+  },
+  {
+    "reference": "法14条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\">休業補償給付は、</div><div class=\"predicate-line\"><span class=\"subject\">労働者</span>が業務上の負傷<span class=\"logic\">又は</span>疾病による療養のため労働することができないために賃金を受けない日の第<span class=\"period\">4日目</span>から支給する<span class=\"predicate\">ものとする。</span></div></div></div>"
+  },
+  {
+    "reference": "法14条の2",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\"><span class=\"subject\">労働者</span>が次の各号のいずれかに該当する場合（厚生労働省令で定める場合に限る。）には、</div><div class=\"predicate-line\">休業補償給付は、<span class=\"predicate\">行わない。</span></div></div></div>"
+  },
+  {
+    "reference": "則18条の2",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\">業務上の事由により負傷し、<span class=\"logic\">又は</span>疾病にかかった<span class=\"subject\">労働者</span>が、当該負傷<span class=\"logic\">又は</span>疾病に係る療養の開始後<span class=\"period\">1年6箇月</span>を経過した日において法第12条の8第3項各号（傷病補償年金の支給要件）のいずれにも該当するとき、<span class=\"logic\">又は</span>同日後同項各号のいずれにも該当することとなったときは、</div><ul class=\"condition-list\"><li><span class=\"subject\">所轄労働基準監督署長</span>は</li></ul><div class=\"predicate-line\">当該<span class=\"subject\">労働者</span>について傷病補償年金の支給の決定を<span class=\"predicate\">しなければならない。</span></div></div></div>"
+  },
+  {
+    "reference": "法18条の2",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\">傷病補償年金を受ける<span class=\"subject\">労働者</span>の当該障害の程度に変更があったため、新たに別表第1中の他の傷病等級に該当するに至った場合には、</div><ul class=\"condition-list\"><li><span class=\"subject\">政府</span>は</li><li>新たに該当するに至った傷病等級に応ずる傷病補償年金を支給するものとし</li><li>その後は</li><li>従前の傷病補償年金は</li></ul><div class=\"predicate-line\"><span class=\"predicate\">支給しない。</span></div></div></div>"
+  },
+  {
+    "reference": "法19条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\">業務上負傷し、<span class=\"logic\">又は</span>疾病にかかった<span class=\"subject\">労働者</span>が、当該負傷<span class=\"logic\">又は</span>疾病に係る療養の開始後<span class=\"period\">3年を経過した日</span>において傷病補償年金を受けている場合<span class=\"logic\">又は</span>同日後において傷病補償年金を受けることとなった場合には、</div><ul class=\"condition-list\"><li>労働基準法第19条第1項（解雇制限）の規定の適用については</li><li>当該<span class=\"subject\">使用者</span>は</li><li>それぞれ</li><li><span class=\"condition\">当該<span class=\"period\">3年を経過した日</span><span class=\"logic\">又は</span>傷病補償年金を受けることとなった日において</span></li></ul><div class=\"predicate-line\">同法第81条の規定により打切補償を支払ったものと<span class=\"predicate\">みなす。</span></div></div></div>"
+  },
+  {
+    "reference": "法15条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\">障害補償給付は、</div><ul class=\"condition-list\"><li>厚生労働省令で定める障害等級に応じ</li></ul><div class=\"predicate-line\">障害補償年金<span class=\"logic\">又は</span>障害補償一時金<span class=\"predicate\">とする。</span></div></div></div>"
+  },
+  {
+    "reference": "則14条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第2項</span><div class=\"subject-line\">別表第1に掲げる身体障害が2以上ある場合には、</div><div class=\"predicate-line\">重い方の身体障害の該当する障害等級に<span class=\"predicate\">よる。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">第3項</span><div class=\"subject-line\">次の各号に掲げる場合には、</div><div class=\"predicate-line\">前2項の規定による障害等級をそれぞれ当該各号に掲げる等級だけ繰り上げた障害等級に<span class=\"predicate\">よる。</span></div></div><div class=\"exception-section\"><div class=\"exception-keyword\"><span class=\"exception\">ただし、</span></div><ul class=\"condition-list\"><li><span class=\"condition\">本文の規定による障害等級が第8級以下である場合において</span></li><li><span class=\"condition\">各の身体障害の該当する障害等級に応ずる障害補償給付の額の合算額が本文の規定による障害等級に応ずる障害補償給付の額に満たないときは</span></li><li>その者に支給する障害補償給付は</li></ul><div class=\"predicate-line\"><span class=\"exception\">→ 当該合算額による。</span></div></div></div>"
+  },
+  {
+    "reference": "法15条の2",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\">障害補償年金を受ける<span class=\"subject\">労働者</span>の当該障害の程度に変更があったため、新たに別表第1<span class=\"logic\">又は</span>別表第2 中の他の障害等級に該当するに至った場合には、</div><ul class=\"condition-list\"><li><span class=\"subject\">政府</span>は</li><li>新たに該当するに至った障害等級に応ずる障害補償年金<span class=\"logic\">又は</span>障害補償一時金を支給するものとし</li><li>その後は</li><li>従前の障害補償年金は</li></ul><div class=\"predicate-line\"><span class=\"predicate\">支給しない。</span></div></div></div>"
+  },
+  {
+    "reference": "附則59条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"subject\">政府</span>は、</div><ul class=\"condition-list\"><li>当分の間</li><li><span class=\"subject\">労働者</span>が業務上負傷し</li><li><span class=\"logic\">又は</span>疾病にかかり</li><li>治ったとき身体に障害が存する場合における当該障害に関しては</li><li>障害補償年金を受ける権利を有する者に対し</li><li>その請求に基づき</li><li>保険給付として</li></ul><div class=\"predicate-line\">障害補償年金前払一時金を<span class=\"predicate\">支給する。</span></div></div></div>"
+  },
+  {
+    "reference": "附則58条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"subject\">政府</span>は、</div><ul class=\"condition-list\"><li>当分の間</li><li><span class=\"condition\">障害補償年金を受ける権利を有する者が死亡した場合において</span></li><li>その者に支給された当該障害補償年金の額<span class=\"logic\">及び</span>当該障害補償年金に係る障害補償年金前払一時金の額の合計額が当該障害補償年金に係る障害等級に応じ</li><li><span class=\"condition\">所定の額に満たないときは</span></li><li>その者の<span class=\"subject\">遺族</span>に対し</li><li>その請求に基づき</li><li>保険給付として</li></ul><div class=\"predicate-line\">その差額に相当する額の障害補償年金差額一時金を<span class=\"predicate\">支給する。</span></div></div></div>"
+  },
+  {
+    "reference": "附則58条5項",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\">1. <span class=\"subject\">労働者</span>を故意に死亡させた者は、</div><div class=\"predicate-line\">障害補償年金差額一時金を受けることができる<span class=\"subject\">遺族</span>としない。</div></div></div>"
+  },
+  {
+    "reference": "法19条の2",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\">介護補償給付は、</div><ul class=\"condition-list\"><li>月を単位として支給するものとし</li><li>その月額は</li></ul><div class=\"predicate-line\">常時<span class=\"logic\">又は</span>随時介護を受ける場合に通常要する費用を考慮して<span class=\"subject\">厚生労働大臣</span>が定める額<span class=\"predicate\">とする。</span></div></div></div>"
+  },
+  {
+    "reference": "則18条の3の5",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\">障害補償年金を受ける権利を有する者が介護補償給付を請求する場合における当該請求は、</div><ul class=\"condition-list\"><li>当該障害補償年金の請求と同時に</li></ul><div class=\"predicate-line\"><span class=\"logic\">又は</span>請求をした後に行わなければならない。</div></div><div class=\"principle-section\"><span class=\"item-number\">第2項</span><div class=\"subject-line\">介護補償給付の支給を受けようとする者は、</div><ul class=\"condition-list\"><li>所定事項を記載した請求書を</li></ul><div class=\"predicate-line\"><span class=\"subject\">所轄労働基準監督署長</span>に提出<span class=\"predicate\">しなければならない。</span></div></div></div>"
+  },
+  {
+    "reference": "法16条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\"><span class=\"subject\">遺族</span>補償給付は、</div><div class=\"predicate-line\"><span class=\"subject\">遺族</span>補償年金<span class=\"logic\">又は</span><span class=\"subject\">遺族</span>補償一時金<span class=\"predicate\">とする。</span></div></div></div>"
+  },
+  {
+    "reference": "法16条の2",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"subject\">遺族</span>補償年金を受けることができる<span class=\"subject\">遺族</span>は、</div><ul class=\"condition-list\"><li><span class=\"subject\">労働者</span>の<span class=\"subject\">配偶者</span>、子、父母、孫</li><li>祖父母<span class=\"logic\">及び</span>兄弟姉妹であって</li></ul><div class=\"predicate-line\"><span class=\"subject\">労働者</span>の死亡の当時その収入によって生計を維持していた<span class=\"predicate\">ものとする。</span></div></div><div class=\"exception-section\"><div class=\"exception-keyword\"><span class=\"exception\">ただし、</span></div><ul class=\"condition-list\"><li><span class=\"condition\">妻（婚姻の届出をしていないが、事実上婚姻関係と同様の事情にあった者を含む。以下同じ。）以外の者にあっては</span></li></ul><div class=\"predicate-line\"><span class=\"exception\">→ <span class=\"subject\">労働者</span>の死亡の当時次の各号に掲げる要件に該当した場合に限るものとする。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">第2項</span><div class=\"subject-line\"><span class=\"subject\">労働者</span>の死亡の当時胎児であった子が出生したときは、</div><ul class=\"condition-list\"><li>前項の規定の適用については</li><li>将来に向かって</li><li>その子は</li></ul><div class=\"predicate-line\"><span class=\"subject\">労働者</span>の死亡の当時その収入によって生計を維持していた子と<span class=\"predicate\">みなす。</span></div></div></div>"
+  },
+  {
+    "reference": "則14条の4",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\">法第16条の2第1項<span class=\"logic\">及び</span>法第16条の7第1項第2号に規定する<span class=\"subject\">労働者</span>の死亡の当時その収入によって生計を維持していたことの認定は、</div><ul class=\"condition-list\"><li>当該<span class=\"subject\">労働者</span>との同居の事実の有無</li></ul><div class=\"predicate-line\">当該<span class=\"subject\">労働者</span>以外の扶養義務者の有無その他必要な事項を基礎として厚生労働省労働基準局長が定める基準によって<span class=\"predicate\">行う。</span></div></div></div>"
+  },
+  {
+    "reference": "法16条の9",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"subject\">労働者</span>を故意に死亡させた者は、</div><div class=\"predicate-line\"><span class=\"subject\">遺族</span>補償給付を受けることができる<span class=\"subject\">遺族</span>としない。</div></div><div class=\"principle-section\"><span class=\"item-number\">第2項</span><div class=\"subject-line\"><span class=\"subject\">労働者</span>の死亡前に、当該<span class=\"subject\">労働者</span>の死亡によって<span class=\"subject\">遺族</span>補償年金を受けることができる先順位<span class=\"logic\">又は</span>同順位の<span class=\"subject\">遺族</span>となるべき者を故意に死亡させた者は、</div><div class=\"predicate-line\"><span class=\"subject\">遺族</span>補償年金を受けることができる<span class=\"subject\">遺族</span>としない。</div></div><div class=\"principle-section\"><span class=\"item-number\">第4項</span><div class=\"subject-line\"><span class=\"subject\">遺族</span>補償年金を受けることができる<span class=\"subject\">遺族</span>が、<span class=\"subject\">遺族</span>補償年金を受けることができる先順位<span class=\"logic\">又は</span>同順位の他の<span class=\"subject\">遺族</span>を故意に死亡させたときは、</div><div class=\"predicate-line\">その者は、<span class=\"subject\">遺族</span>補償年金を受けることができる<span class=\"subject\">遺族</span>でなくなる。</div></div><div class=\"principle-section\"><div class=\"subject-line\">この場合において、その者が<span class=\"subject\">遺族</span>補償年金を受ける権利を有する者であるときは、</div><div class=\"predicate-line\">その権利は、消滅する。</div></div></div>"
+  },
+  {
+    "reference": "法16条の3",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"subject\">遺族</span>補償年金の額は、</div><div class=\"predicate-line\">別表第1に規定する額<span class=\"predicate\">とする。</span></div></div></div>"
+  },
+  {
+    "reference": "法16条の5",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"subject\">遺族</span>補償年金を受ける権利を有する者の所在が<span class=\"period\">1年</span>以上明らかでない場合には、</div><ul class=\"condition-list\"><li>当該<span class=\"subject\">遺族</span>補償年金は</li><li>同順位者があるときは同順位者の</li><li><span class=\"condition\">同順位者がないときは次順位者の申請によって</span></li><li>その所在が明らかでない間</li></ul><div class=\"predicate-line\">その支給を停止する。</div></div><div class=\"principle-section\"><div class=\"subject-line\">この場合において、同順位者がないときは、</div><div class=\"predicate-line\">その間、次順位者を先順位者<span class=\"predicate\">とする。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">第2項</span><div class=\"subject-line\">前項の規定により<span class=\"subject\">遺族</span>補償年金の支給を停止された<span class=\"subject\">遺族</span>は、</div><div class=\"predicate-line\">いつでも、その支給の停止の解除を申請<span class=\"predicate\">することができる。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">第3項</span><div class=\"subject-line\">第1項の規定により<span class=\"subject\">遺族</span>補償年金の支給が停止され、<span class=\"logic\">又は</span>前項の規定によりその停止が解除されたときは、</div><ul class=\"condition-list\"><li>その支給が停止され</li><li><span class=\"logic\">又は</span>その停止が解除された月の翌月から</li></ul><div class=\"predicate-line\"><span class=\"subject\">遺族</span>補償年金の額を改定する。</div></div></div>"
+  },
+  {
+    "reference": "法16条の4",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"subject\">遺族</span>補償年金を受ける権利は、</div><ul class=\"condition-list\"><li><span class=\"condition\">その権利を有する<span class=\"subject\">遺族</span>が次の各号の一に該当するに至ったときは</span></li></ul><div class=\"predicate-line\">消滅する。</div></div><div class=\"principle-section\"><div class=\"subject-line\">この場合において、同順位者がなくて後順位者があるときは、</div><div class=\"predicate-line\">次順位者に<span class=\"subject\">遺族</span>補償年金を支給する。1. 死亡したとき。</div></div><div class=\"principle-section\"><span class=\"item-number\">第2項</span><div class=\"subject-line\"><span class=\"subject\">遺族</span>補償年金を受けることができる<span class=\"subject\">遺族</span>が前項各号の一に該当するに至ったときは、</div><div class=\"predicate-line\">その者は、<span class=\"subject\">遺族</span>補償年金を受けることができる<span class=\"subject\">遺族</span>でなくなる。</div></div></div>"
+  },
+  {
+    "reference": "附則60条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"subject\">政府</span>は、</div><ul class=\"condition-list\"><li>当分の間</li><li><span class=\"subject\">労働者</span>が業務上の事由により死亡した場合における当該死亡に関しては</li><li><span class=\"subject\">遺族</span>補償年金を受ける権利を有する<span class=\"subject\">遺族</span>に対し</li><li>その請求に基づき</li><li>保険給付として</li></ul><div class=\"predicate-line\"><span class=\"subject\">遺族</span>補償年金前払一時金を<span class=\"predicate\">支給する。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">第2項</span><div class=\"subject-line\"><span class=\"subject\">遺族</span>補償年金前払一時金の額は、</div><ul class=\"condition-list\"><li>給付基礎日額の<span class=\"period\">200日分</span></li><li><span class=\"period\">400日分</span></li><li><span class=\"period\">600日分</span></li></ul><div class=\"predicate-line\"><span class=\"period\">800日分</span><span class=\"logic\">又は</span>1,<span class=\"period\">000日分</span>に相当する額<span class=\"predicate\">とする。</span></div></div></div>"
+  },
+  {
+    "reference": "法16条の6",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"subject\">遺族</span>補償一時金は、</div><div class=\"predicate-line\">次の場合に<span class=\"predicate\">支給する。</span></div></div></div>"
+  },
+  {
+    "reference": "法16条の7",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"subject\">遺族</span>補償一時金を受けることができる<span class=\"subject\">遺族</span>は、</div><div class=\"predicate-line\">次の各号に掲げる者<span class=\"predicate\">とする。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">第2項</span><div class=\"subject-line\"><span class=\"subject\">遺族</span>補償一時金を受けるべき<span class=\"subject\">遺族</span>の順位は、</div><ul class=\"condition-list\"><li>前項各号の順序により</li><li><span class=\"condition\">同項第2号<span class=\"logic\">及び</span>第3号に掲げる者のうちにあっては</span></li><li>それぞれ</li></ul><div class=\"predicate-line\">当該各号に掲げる順序に<span class=\"predicate\">よる。</span></div></div></div>"
+  },
+  {
+    "reference": "則17条の2",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\">葬祭料の支給を受けようとする者は、</div><ul class=\"condition-list\"><li>次に掲げる事項を記載した請求書を</li></ul><div class=\"predicate-line\"><span class=\"subject\">所轄労働基準監督署長</span>に提出<span class=\"predicate\">しなければならない。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">第2項</span><div class=\"subject-line\">前項第4号から第6号までに掲げる事項（死亡の年月日を除き、死亡した複数事業<span class=\"subject\">労働者</span>に係る非災害発生事業場の<span class=\"subject\">事業主</span>にあっては、同号に掲げる事項に限る。）については、</div><div class=\"predicate-line\"><span class=\"subject\">事業主</span>の証明を<span class=\"predicate\">受けなければならない。</span></div></div><div class=\"exception-section\"><div class=\"exception-keyword\"><span class=\"exception\">ただし、</span></div><ul class=\"condition-list\"><li><span class=\"condition\">死亡した<span class=\"subject\">労働者</span>が傷病補償年金を受けていた者であるときは</span></li></ul><div class=\"predicate-line\"><span class=\"exception\">→ この限りでない。</span></div></div></div>"
+  },
+  {
+    "reference": "法20条の3",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\">複数事業<span class=\"subject\">労働者</span>療養給付は、</div><ul class=\"condition-list\"><li>複数事業<span class=\"subject\">労働者</span>がその従事する2以上の事業の業務を要因として負傷し</li><li><span class=\"logic\">又は</span>疾病（厚生労働省令で定めるものに限る。以下同じ。）にかかった場合に</li><li>当該複数事業<span class=\"subject\">労働者</span>に対し</li></ul><div class=\"predicate-line\">その請求に基づいて<span class=\"predicate\">行う。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">第2項</span><div class=\"subject-line\">第13条（療養補償給付）の規定は、</div><div class=\"predicate-line\">複数事業<span class=\"subject\">労働者</span>療養給付について<span class=\"predicate\">準用する。</span></div></div></div>"
+  },
+  {
+    "reference": "法20条の4",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\">複数事業<span class=\"subject\">労働者</span>休業給付は、</div><ul class=\"condition-list\"><li>複数事業<span class=\"subject\">労働者</span>がその従事する2以上の事業の業務を要因とする負傷<span class=\"logic\">又は</span>疾病による療養のため労働することができないために賃金を受けない場合に</li><li>当該複数事業<span class=\"subject\">労働者</span>に対し</li></ul><div class=\"predicate-line\">その請求に基づいて<span class=\"predicate\">行う。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">第2項</span><div class=\"subject-line\">第14条（休業補償給付）<span class=\"logic\">及び</span>第14条の2（休業補償の不支給）の規定は、</div><div class=\"predicate-line\">複数事業<span class=\"subject\">労働者</span>休業給付について<span class=\"predicate\">準用する。</span></div></div></div>"
+  },
+  {
+    "reference": "法20条の5",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\">複数事業<span class=\"subject\">労働者</span>障害給付は、</div><ul class=\"condition-list\"><li>複数事業<span class=\"subject\">労働者</span>がその従事する2以上の事業の業務を要因として負傷し</li><li><span class=\"logic\">又は</span>疾病にかかり</li><li>治ったとき身体に障害が存する場合に</li><li>当該複数事業<span class=\"subject\">労働者</span>に対し</li></ul><div class=\"predicate-line\">その請求に基づいて<span class=\"predicate\">行う。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">第2項</span><div class=\"subject-line\">複数事業<span class=\"subject\">労働者</span>障害給付は、</div><ul class=\"condition-list\"><li>第15条第1項の厚生労働省令で定める障害等級に応じ</li></ul><div class=\"predicate-line\">複数事業<span class=\"subject\">労働者</span>障害年金<span class=\"logic\">又は</span>複数事業<span class=\"subject\">労働者</span>障害一時金<span class=\"predicate\">とする。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">第3項</span><div class=\"subject-line\">第15条第2項（障害補償年金<span class=\"logic\">又は</span>障害補償一時金の額）<span class=\"logic\">及び</span>第15条の2（障害等級の変更）<span class=\"logic\">並びに</span>別表第1（障害補償年金に係る部分に限る。）<span class=\"logic\">及び</span>別表第2（障害補償一時金に係る部分に限る。）の規定は、</div><div class=\"predicate-line\">複数事業<span class=\"subject\">労働者</span>障害給付について<span class=\"predicate\">準用する。</span></div></div></div>"
+  },
+  {
+    "reference": "附則60条の3",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"subject\">政府</span>は、</div><ul class=\"condition-list\"><li>当分の間</li><li>複数事業<span class=\"subject\">労働者</span>がその従事する2以上の事業の業務を要因として負傷し</li><li><span class=\"logic\">又は</span>疾病にかかり</li><li>治ったとき身体に障害が存する場合における当該障害に関しては</li><li>複数事業<span class=\"subject\">労働者</span>障害年金を受ける権利を有する者に対し</li><li>その請求に基づき</li><li>保険給付として</li></ul><div class=\"predicate-line\">複数事業<span class=\"subject\">労働者</span>障害年金前払一時金を<span class=\"predicate\">支給する。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">第3項</span><div class=\"subject-line\">第59条第3項（障害補償年金の支給停止）、第4項（障害補償年金前払一時金の時効）<span class=\"logic\">及び</span>第6項（<span class=\"period\">20歳</span>前傷病による障害基礎年金等の不支給）の規定は、</div><div class=\"predicate-line\">複数事業<span class=\"subject\">労働者</span>障害年金前払一時金について<span class=\"predicate\">準用する。</span></div></div></div>"
+  },
+  {
+    "reference": "附則60条の2",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"subject\">政府</span>は、</div><ul class=\"condition-list\"><li>当分の間</li><li><span class=\"condition\">複数事業<span class=\"subject\">労働者</span>障害年金を受ける権利を有する者が死亡した場合において</span></li><li>その者に支給された当該複数事業<span class=\"subject\">労働者</span>障害年金の額<span class=\"logic\">及び</span>当該複数事業<span class=\"subject\">労働者</span>障害年金に係る複数事業<span class=\"subject\">労働者</span>障害年金前払一時金の額の合計額が当該複数事業<span class=\"subject\">労働者</span>障害年金に係る障害等級に応じ</li><li><span class=\"condition\">所定の額に満たないときは</span></li><li>その者の<span class=\"subject\">遺族</span>に対し</li><li>その請求に基づき</li><li>保険給付として</li></ul><div class=\"predicate-line\">その差額に相当する額の複数事業<span class=\"subject\">労働者</span>障害年金差額一時金を<span class=\"predicate\">支給する。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">第2項</span><div class=\"subject-line\">第16条の3第2項（<span class=\"subject\">遺族</span>補償年金の額）、第16条の9第1項<span class=\"logic\">及び</span>第2項（<span class=\"subject\">遺族</span>補償年金の不支給）<span class=\"logic\">並びに</span>第58条第2項（障害補償年金差額一時金を受けることができる<span class=\"subject\">遺族</span>）<span class=\"logic\">及び</span>第3項（障害補償年金差額一時金の時効）の規定は、</div><div class=\"predicate-line\">複数事業<span class=\"subject\">労働者</span>障害年金差額一時金について<span class=\"predicate\">準用する。</span></div></div></div>"
+  },
+  {
+    "reference": "法20条の6",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\">複数事業<span class=\"subject\">労働者</span><span class=\"subject\">遺族</span>給付は、</div><ul class=\"condition-list\"><li>複数事業<span class=\"subject\">労働者</span>がその従事する2以上の事業の業務を要因として死亡した場合に</li><li>当該複数事業<span class=\"subject\">労働者</span>の<span class=\"subject\">遺族</span>に対し</li></ul><div class=\"predicate-line\">その請求に基づいて<span class=\"predicate\">行う。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">第2項</span><div class=\"subject-line\">複数事業<span class=\"subject\">労働者</span><span class=\"subject\">遺族</span>給付は、</div><div class=\"predicate-line\">複数事業<span class=\"subject\">労働者</span><span class=\"subject\">遺族</span>年金<span class=\"logic\">又は</span>複数事業<span class=\"subject\">労働者</span><span class=\"subject\">遺族</span>一時金<span class=\"predicate\">とする。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">第3項</span><div class=\"subject-line\">第16条の2（<span class=\"subject\">遺族</span>補償給付の<span class=\"subject\">遺族</span>）から第16条の9（<span class=\"subject\">遺族</span>補償給付の欠格）まで<span class=\"logic\">並びに</span>別表第1（<span class=\"subject\">遺族</span>補償年金に係る部分に限る。）<span class=\"logic\">及び</span>別表第2（<span class=\"subject\">遺族</span>補償一時金に係る部分に限る。）の規定は、</div><div class=\"predicate-line\">複数事業<span class=\"subject\">労働者</span><span class=\"subject\">遺族</span>給付について<span class=\"predicate\">準用する。</span></div></div></div>"
+  },
+  {
+    "reference": "附則60条の4",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"subject\">政府</span>は、</div><ul class=\"condition-list\"><li>当分の間</li><li>複数事業<span class=\"subject\">労働者</span>がその従事する2以上の事業の業務を要因として死亡した場合における当該死亡に関しては</li><li>複数事業<span class=\"subject\">労働者</span><span class=\"subject\">遺族</span>年金を受ける権利を有する<span class=\"subject\">遺族</span>に対し</li><li>その請求に基づき</li><li>保険給付として</li></ul><div class=\"predicate-line\">複数事業<span class=\"subject\">労働者</span><span class=\"subject\">遺族</span>年金前払一時金を<span class=\"predicate\">支給する。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">第4項</span><div class=\"subject-line\">第60条第3項（<span class=\"subject\">遺族</span>補償年金の支給停止）、第5項（<span class=\"subject\">遺族</span>補償年金前払一時金の時効）<span class=\"logic\">及び</span>第7項（<span class=\"period\">20歳</span>前傷病による障害基礎年金等の不支給）の規定は、</div><div class=\"predicate-line\">複数事業<span class=\"subject\">労働者</span><span class=\"subject\">遺族</span>年金前払一時金について<span class=\"predicate\">準用する。</span></div></div></div>"
+  },
+  {
+    "reference": "法20条の7",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\">複数事業<span class=\"subject\">労働者</span>葬祭給付は、</div><ul class=\"condition-list\"><li>複数事業<span class=\"subject\">労働者</span>がその従事する2以上の事業の業務を要因として死亡した場合に</li><li>葬祭を行う者に対し</li></ul><div class=\"predicate-line\">その請求に基づいて<span class=\"predicate\">行う。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">第2項</span><div class=\"subject-line\">第17条（葬祭料の額）の規定は、</div><div class=\"predicate-line\">複数事業<span class=\"subject\">労働者</span>葬祭給付について<span class=\"predicate\">準用する。</span></div></div></div>"
+  },
+  {
+    "reference": "法20条の8",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\">複数事業<span class=\"subject\">労働者</span>傷病年金は、</div><ul class=\"condition-list\"><li>複数事業<span class=\"subject\">労働者</span>がその従事する2以上の事業の業務を要因として負傷し</li><li><span class=\"logic\">又は</span>疾病にかかった場合に</li><li><span class=\"condition\">当該負傷<span class=\"logic\">又は</span>疾病に係る療養の開始後<span class=\"period\">1年6箇月</span>を経過した日において次の各号のいずれにも該当するとき</span></li><li><span class=\"logic\">又は</span>同日後次の各号のいずれにも該当することとなったときに</li><li>その状態が継続している間</li></ul><div class=\"predicate-line\">当該複数事業<span class=\"subject\">労働者</span>に対して<span class=\"predicate\">支給する。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">第2項</span><div class=\"subject-line\">第18条（傷病補償年金の額）、第18条の2（傷病等級の変更）<span class=\"logic\">及び</span>別表第1（傷病補償年金に係る部分に限る。）の規定は、</div><div class=\"predicate-line\">複数事業<span class=\"subject\">労働者</span>傷病年金について<span class=\"predicate\">準用する。</span></div></div></div>"
+  },
+  {
+    "reference": "法20条の9",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\">複数事業<span class=\"subject\">労働者</span>介護給付は、</div><ul class=\"condition-list\"><li>複数事業<span class=\"subject\">労働者</span>障害年金<span class=\"logic\">又は</span>複数事業<span class=\"subject\">労働者</span>傷病年金を受ける権利を有する複数事業<span class=\"subject\">労働者</span>が</li><li>その受ける権利を有する複数事業<span class=\"subject\">労働者</span>障害年金<span class=\"logic\">又は</span>複数事業<span class=\"subject\">労働者</span>傷病年金の支給事由となる障害であって厚生労働省令で定める程度のものにより</li><li>常時<span class=\"logic\">又は</span>随時介護を要する状態にあり、<span class=\"logic\">かつ</span></li><li>常時<span class=\"logic\">又は</span>随時介護を受けているときに</li><li>当該介護を受けている間（次に掲げる間を除く。）</li><li>当該複数事業<span class=\"subject\">労働者</span>に対し</li></ul><div class=\"predicate-line\">その請求に基づいて<span class=\"predicate\">行う。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">第2項</span><div class=\"subject-line\">第19条の2（介護補償給付の額）の規定は、</div><div class=\"predicate-line\">複数事業<span class=\"subject\">労働者</span>介護給付について<span class=\"predicate\">準用する。</span></div></div></div>"
+  },
+  {
+    "reference": "法26条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\">二次健康診断等給付は、</div><div class=\"predicate-line\">労働安全衛生法第66条第1項の規定による健康診断<span class=\"logic\">又は</span>当該健康診断に係る同条第5項</div></div><div class=\"exception-section\"><div class=\"exception-keyword\"><span class=\"exception\">ただし、</span></div><ul class=\"condition-list\"><li>書の規定による<span class=\"subject\">労働者</span>指定医による健康診断のうち</li><li><span class=\"condition\">直近のもの（以下「一次健康診断」という。）において</span></li><li>血圧検査</li><li>血液検査その他業務上の事由による脳血管疾患<span class=\"logic\">及び</span>心臓疾患の発生にかかわる身体の状態に関する検査であって</li><li><span class=\"condition\">厚生労働省令で定めるものが行われた場合において</span></li><li>当該検査を受けた<span class=\"subject\">労働者</span>がそのいずれの項目にも異常の所見があると診断されたときに</li><li>当該<span class=\"subject\">労働者</span>（当該一次健康診断の結果その他の事情により既に脳血管疾患<span class=\"logic\">又は</span>心臓疾患の症状を有すると認められるものを除く。）に対し</li></ul><div class=\"predicate-line\"><span class=\"exception\">→ その請求に基づいて行う。</span></div></div></div>"
+  },
+  {
+    "reference": "則11条の3",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\">二次健康診断等給付は、</div><div class=\"predicate-line\">社会復帰促進等事業として設置された病院<span class=\"logic\">若しくは</span>診療所<span class=\"logic\">又は</span><span class=\"subject\">都道府県労働局長</span>の指定する病院<span class=\"logic\">若しくは</span>診療所において<span class=\"predicate\">行う。</span></div></div></div>"
+  },
+  {
+    "reference": "則18条の19",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\">二次健康診断等給付を受けようとする者は、</div><ul class=\"condition-list\"><li>所定の事項を記載した請求書を</li></ul><div class=\"predicate-line\">当該二次健康診断等給付を受けようとする健診給付病院等を経由して所轄<span class=\"subject\">都道府県労働局長</span>に提出<span class=\"predicate\">しなければならない。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">第4項</span><div class=\"subject-line\">二次健康診断等給付の請求は、</div><div class=\"predicate-line\">一次健康診断を受けた日から<span class=\"period\">3箇月</span>以内に行わなければならない。</div></div><div class=\"exception-section\"><div class=\"exception-keyword\"><span class=\"exception\">ただし、</span></div><ul class=\"condition-list\"><li><span class=\"condition\">天災その他請求をしなかったことについてやむを得ない理由があるときは</span></li></ul><div class=\"predicate-line\"><span class=\"exception\">→ この限りでない。</span></div></div></div>"
+  },
+  {
+    "reference": "法9条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\">年金たる保険給付の支給は、</div><ul class=\"condition-list\"><li>支給すべき事由が生じた月の翌月から始め</li></ul><div class=\"predicate-line\">支給を受ける権利が消滅した月で終わる<span class=\"predicate\">ものとする。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">第2項</span><div class=\"subject-line\">年金たる保険給付は、</div><ul class=\"condition-list\"><li><span class=\"condition\">その支給を停止すべき事由が生じたときは</span></li><li>その事由が生じた月の翌月からその事由が消滅した月までの間は</li></ul><div class=\"predicate-line\"><span class=\"predicate\">支給しない。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">第3項</span><div class=\"subject-line\">年金たる保険給付は、</div><ul class=\"condition-list\"><li>毎年2月、4月、6月、8月</li><li>10月<span class=\"logic\">及び</span>12月の6期に</li></ul><div class=\"predicate-line\">それぞれその前月分までを支払う。</div></div><div class=\"exception-section\"><div class=\"exception-keyword\"><span class=\"exception\">ただし、</span></div><ul class=\"condition-list\"><li>支給を受ける権利が消滅した場合におけるその期の年金たる保険給付は</li><li>支払期月でない月であっても</li></ul><div class=\"predicate-line\"><span class=\"exception\">→ 支払うものとする。</span></div></div></div>"
+  },
+  {
+    "reference": "法10条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第4項</span><div class=\"subject-line\">障害補償年金差額一時金は、</div><div class=\"predicate-line\"><span class=\"subject\">遺族</span>補償給付とみなして第10条の規定を<span class=\"predicate\">適用する。</span></div></div></div>"
+  },
+  {
+    "reference": "法11条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\">労災保険法に基づく保険給付を受ける権利を有する者が死亡した場合において、その死亡した者に支給すべき保険給付でまだその者に支給しなかったものがあるときは、</div><ul class=\"condition-list\"><li>その者の<span class=\"subject\">配偶者</span>（婚姻の届出をしていないが、事実上婚姻関係と同様の事情にあった者を含む。以下同じ。）、子、父母、孫</li><li>祖父母<span class=\"logic\">又は</span>兄弟姉妹であって</li><li>その者の死亡の当時その者と生計を同じくしていたもの（<span class=\"subject\">遺族</span>補償年金については当該<span class=\"subject\">遺族</span>補償年金を受けることができる他の<span class=\"subject\">遺族</span>、複数事業<span class=\"subject\">労働者</span><span class=\"subject\">遺族</span>年金については当該複数事業<span class=\"subject\">労働者</span><span class=\"subject\">遺族</span>年金を受けることができる他の<span class=\"subject\">遺族</span>、<span class=\"subject\">遺族</span>年金については当該<span class=\"subject\">遺族</span>年金を受けることができる他の<span class=\"subject\">遺族</span>）は</li><li>自己の名で</li></ul><div class=\"predicate-line\">その未支給の保険給付の支給を請求<span class=\"predicate\">することができる。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">第2項</span><div class=\"subject-line\">前項の場合において、死亡した者が死亡前にその保険給付を請求していなかったときは、</div><ul class=\"condition-list\"><li>同項に規定する者は</li><li>自己の名で</li></ul><div class=\"predicate-line\">その保険給付を請求<span class=\"predicate\">することができる。</span></div></div></div>"
+  },
+  {
+    "reference": "法12条の5",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\">保険給付を受ける権利は、</div><div class=\"predicate-line\"><span class=\"subject\">労働者</span>の退職によって変更されることはない。</div></div></div>"
+  },
+  {
+    "reference": "法12条の6",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\">租税その他の公課は、</div><ul class=\"condition-list\"><li>保険給付として支給を受けた金品を標準として課することはできない。公課の禁止租税その他の公課は</li><li>保険給付として支給を受けた金品を標準として課することはできない。（法12条の6）<span class=\"subject\">労働者災害補償保険</span>に関する書類には</li></ul><div class=\"predicate-line\">印紙税を課さない。</div></div></div>"
+  },
+  {
+    "reference": "法12条の7",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\">保険給付を受ける権利を有する者は、</div><ul class=\"condition-list\"><li><span class=\"subject\">政府</span>に対して</li><li>保険給付に関し必要な厚生労働省令で定める事項を届け出</li></ul><div class=\"predicate-line\"><span class=\"logic\">又は</span>保険給付に関し必要な厚生労働省令で定める書類その他の物件を提出<span class=\"predicate\">しなければならない。</span></div></div></div>"
+  },
+  {
+    "reference": "則21条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\">年金たる保険給付の受給権者は、</div><ul class=\"condition-list\"><li>毎年</li><li><span class=\"subject\">厚生労働大臣</span>が指定する日（以下「指定日」という。）までに</li><li>所定事項を記載した報告書を</li></ul><div class=\"predicate-line\"><span class=\"subject\">所轄労働基準監督署長</span>に提出<span class=\"predicate\">しなければならない。</span></div></div><div class=\"exception-section\"><div class=\"exception-keyword\"><span class=\"exception\">ただし、</span></div><ul class=\"condition-list\"><li><span class=\"condition\"><span class=\"subject\">所轄労働基準監督署長</span>があらかじめその必要がないと認めて通知したとき<span class=\"logic\">又は</span><span class=\"subject\">厚生労働大臣</span>が番号利用法第22条第1項の規定により当該報告書と同一の内容を含む利用特定個人情報の提供を受けることができるときは</span></li></ul><div class=\"predicate-line\"><span class=\"exception\">→ この限りでない。</span></div></div></div>"
+  },
+  {
+    "reference": "法12条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\">前段年金たる保険給付の支給を停止すべき事由が生じたにもかかわらず、その停止すべき期間の分として年金たる保険給付が支払われたときは、</div><ul class=\"condition-list\"><li>その支払われた年金たる保険給付は</li></ul><div class=\"predicate-line\">その後に支払うべき年金たる保険給付の内払とみなすことが<span class=\"predicate\">できる。</span></div></div></div>"
+  },
+  {
+    "reference": "法12条の2",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\">年金たる保険給付を受ける権利を有する者が死亡したためその支給を受ける権利が消滅したにもかかわらず、その死亡の日の属する月の翌月以後の分として当該年金たる保険給付の過誤払が行われた場合において、当該過誤払による返還金に係る債権（以下「返還金債権」という。）に係る債務の弁済をすべき者に支払うべき保険給付があるときは、</div><div class=\"predicate-line\">当該保険給付の支払金の金額を当該過誤払による返還金債権の金額に充当<span class=\"predicate\">することができる。</span></div></div></div>"
+  },
+  {
+    "reference": "法12条の2の2",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"subject\">労働者</span>が、故意に負傷、疾病、障害<span class=\"logic\">若しくは</span>死亡<span class=\"logic\">又は</span>その直接の原因となった事故を生じさせたときは、</div><div class=\"predicate-line\"><span class=\"subject\">政府</span>は、保険給付を<span class=\"predicate\">行わない。</span></div></div></div>"
+  },
+  {
+    "reference": "法47条の3",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\"><span class=\"subject\">政府</span>は、</div><ul class=\"condition-list\"><li>保険給付を受ける権利を有する者が</li><li>正当な理由がなくて</li><li>第12条の7の規定による届出をせず</li><li><span class=\"condition\"><span class=\"logic\">若しくは</span>書類その他の物件の提出をしないとき</span></li><li><span class=\"condition\"><span class=\"logic\">又は</span>第47条<span class=\"logic\">及び</span>第47条の2（<span class=\"subject\">労働者</span><span class=\"logic\">及び</span>受給者の報告、出頭等<span class=\"logic\">及び</span>受診命令）の規定による命令に従わないときは</span></li></ul><div class=\"predicate-line\">保険給付の支払を一時差し止めることが<span class=\"predicate\">できる。</span></div></div></div>"
+  },
+  {
+    "reference": "法12条の3",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\">偽りその他不正の手段により保険給付を受けた者があるときは、</div><div class=\"predicate-line\"><span class=\"subject\">政府</span>は、その保険給付に要した費用に相当する金額の全部<span class=\"logic\">又は</span>一部をその者から徴収<span class=\"predicate\">することができる。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">第2項</span><div class=\"subject-line\">前項の場合において、<span class=\"subject\">事業主</span>（徴収法第8条第1項<span class=\"logic\">又は</span>第2項の規定により元請負人が<span class=\"subject\">事業主</span>とされる場合にあっては、当該元請負人。以下同じ。）が虚偽の報告<span class=\"logic\">又は</span>証明をしたためその保険給付が行なわれたものであるときは、</div><ul class=\"condition-list\"><li><span class=\"subject\">政府</span>は</li><li>その<span class=\"subject\">事業主</span>に対し</li></ul><div class=\"predicate-line\">保険給付を受けた者と連帯して前項の徴収金を納付すべきことを命ずることが<span class=\"predicate\">できる。</span></div></div></div>"
+  },
+  {
+    "reference": "法12条の4",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"subject\">政府</span>は、</div><ul class=\"condition-list\"><li><span class=\"condition\">保険給付の原因である事故が第三者の行為によって生じた場合において</span></li><li><span class=\"condition\">保険給付をしたときは</span></li><li>その給付の価額の限度で</li></ul><div class=\"predicate-line\">保険給付を受けた者が第三者に対して有する損害賠償の請求権を取得する。</div></div><div class=\"principle-section\"><span class=\"item-number\">第2項</span><div class=\"subject-line\">前項の場合において、保険給付を受けるべき者が当該第三者から同一の事由について損害賠償を受けたときは、</div><div class=\"predicate-line\"><span class=\"subject\">政府</span>は、その価額の限度で保険給付をしないことが<span class=\"predicate\">できる。</span></div></div></div>"
+  },
+  {
+    "reference": "附則64条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><ul class=\"condition-list\"><li><span class=\"subject\">労働者</span><span class=\"logic\">又は</span>その<span class=\"subject\">遺族</span>が障害補償年金<span class=\"logic\">若しくは</span><span class=\"subject\">遺族</span>補償年金</li><li>複数事業<span class=\"subject\">労働者</span>障害年金<span class=\"logic\">若しくは</span>複数事業<span class=\"subject\">労働者</span><span class=\"subject\">遺族</span>年金<span class=\"logic\">又は</span>障害年金<span class=\"logic\">若しくは</span><span class=\"subject\">遺族</span>年金（以下「年金給付」という。）を受けるべき場合（当該年金給付を受ける権利を有することとなった時に、当該年金給付に係る障害補償年金前払一時金<span class=\"logic\">若しくは</span><span class=\"subject\">遺族</span>補償年金前払一時金、複数事業<span class=\"subject\">労働者</span>障害年金前払一時金<span class=\"logic\">若しくは</span>複数事業<span class=\"subject\">労働者</span><span class=\"subject\">遺族</span>年金前払一時金<span class=\"logic\">又は</span>障害年金前払一時金<span class=\"logic\">若しくは</span><span class=\"subject\">遺族</span>年金前払一時金（以下「前払一時金給付」という。）を請求することができる場合に限る。）であって</li><li>同一の事由について</li><li><span class=\"condition\">当該<span class=\"subject\">労働者</span>を使用している<span class=\"subject\">事業主</span><span class=\"logic\">又は</span>使用していた<span class=\"subject\">事業主</span>から民法その他の法律による損害賠償（当該年金給付によって填補される損害を填補する部分に限る。）を受けることができるときは</span></li><li>当該損害賠償については</li><li>当分の間</li></ul><div class=\"predicate-line\">次に定めるところによる<span class=\"predicate\">ものとする。</span></div></div></div>"
+  },
+  {
+    "reference": "法29条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"subject\">政府</span>は、</div><ul class=\"condition-list\"><li><span class=\"subject\">労働者災害補償保険</span>の適用事業に係る<span class=\"subject\">労働者</span><span class=\"logic\">及び</span>その<span class=\"subject\">遺族</span>について</li><li>社会復帰促進等事業として</li></ul><div class=\"predicate-line\">次の事業を行うことが<span class=\"predicate\">できる。</span></div></div></div>"
+  },
+  {
+    "reference": "則4条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><ul class=\"condition-list\"><li>別表第1）このスライド図を利用して</li></ul><div class=\"predicate-line\">支給額を総復習してください。</div></div></div>"
+  },
+  {
+    "reference": "法33条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\">則46条の16次の各号に掲げる者の業務災害、複数業務要因災害<span class=\"logic\">及び</span>通勤災害に関しては、</div><div class=\"predicate-line\">この章に定めるところに<span class=\"predicate\">よる。</span></div></div></div>"
+  },
+  {
+    "reference": "法38条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\">保険給付に関する決定に不服のある者は、</div><ul class=\"condition-list\"><li><span class=\"subject\">労働者災害補償保険</span>審査官に対して審査請求をし</li><li>その決定に不服のある者は</li></ul><div class=\"predicate-line\">労働保険審査会に対して再審査請求を<span class=\"predicate\">することができる。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">第2項</span><div class=\"subject-line\">前項の審査請求をしている者は、</div><ul class=\"condition-list\"><li><span class=\"condition\">審査請求をした日から<span class=\"period\">3箇月</span>を経過しても審査請求についての決定がないときは</span></li></ul><div class=\"predicate-line\"><span class=\"subject\">労働者災害補償保険</span>審査官が審査請求を棄却したものとみなすことが<span class=\"predicate\">できる。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">第3項</span><div class=\"subject-line\">第1項の審査請求<span class=\"logic\">及び</span>再審査請求は、</div><ul class=\"condition-list\"><li>時効の完成猶予<span class=\"logic\">及び</span>更新に関しては</li></ul><div class=\"predicate-line\">これを裁判上の請求と<span class=\"predicate\">みなす。</span></div></div></div>"
+  },
+  {
+    "reference": "法40条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\">第38条第1項（保険給付に関する決定）に規定する処分の取消しの訴えは、</div><ul class=\"condition-list\"><li>当該処分についての審査請求に対する<span class=\"subject\">労働者災害補償保険</span>審査官の決定を経た後でなければ</li></ul><div class=\"predicate-line\">提起することができない。</div></div></div>"
+  },
+  {
+    "reference": "法30条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\"><span class=\"subject\">労働者災害補償保険</span>事業に要する費用にあてるため<span class=\"subject\">政府</span>が徴収する保険料については、</div><div class=\"predicate-line\">徴収法の定めるところに<span class=\"predicate\">よる。</span></div></div></div>"
+  },
+  {
+    "reference": "法42条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\">療養補償給付、休業補償給付、葬祭料、介護補償給付、複数事業<span class=\"subject\">労働者</span>療養給付、複数事業<span class=\"subject\">労働者</span>休業給付、複数事業<span class=\"subject\">労働者</span>葬祭給付、複数事業<span class=\"subject\">労働者</span>介護給付、療養給付、休業給付、葬祭給付、介護給付<span class=\"logic\">及び</span>二次健康診断等給付を受ける権利は、</div><ul class=\"condition-list\"><li><span class=\"condition\">これらを行使することができる時から<span class=\"period\">2年</span>を経過したとき</span></li><li>障害補償給付</li><li><span class=\"subject\">遺族</span>補償給付</li><li>複数事業<span class=\"subject\">労働者</span>障害給付</li><li>複数事業<span class=\"subject\">労働者</span><span class=\"subject\">遺族</span>給付</li><li>障害給付<span class=\"logic\">及び</span><span class=\"subject\">遺族</span>給付を受ける権利は</li><li><span class=\"condition\">これらを行使することができる時から<span class=\"period\">5年</span>を経過したときは</span></li></ul><div class=\"predicate-line\">時効によって消滅する。</div></div><div class=\"principle-section\"><span class=\"item-number\">第2項</span><ul class=\"condition-list\"><li>第8条の2第1項第2号の規定による四半期ごとの平均給与額<span class=\"logic\">又は</span>第8条の3第1項第2号の規定による年度の平均給与額が修正されたことにより</li><li>第8条の2第1項第2号</li><li>第8条の3第1項第2号<span class=\"logic\">又は</span>第16条の6第2項（第20条の6第3項<span class=\"logic\">若しくは</span>第22条の4第3項において準用する場合<span class=\"logic\">又は</span>第58条第1項、第60条の2第1項<span class=\"logic\">若しくは</span>第61条第1項の規定によりその例によることとされる場合を含む。）に規定する<span class=\"subject\">厚生労働大臣</span>が定める率を<span class=\"subject\">厚生労働大臣</span>が</li><li><span class=\"condition\">第8条第2項に規定する<span class=\"subject\">政府</span>が算定する額を<span class=\"subject\">政府</span>がそれぞれ変更した場合において</span></li><li><span class=\"condition\">当該変更に伴いその額が再び算定された保険給付があるときは</span></li><li>当該保険給付に係る第11条の規定による未支給の保険給付の支給を受ける権利については</li></ul><div class=\"predicate-line\">会計法第31条第1項の規定を<span class=\"predicate\">適用しない。</span></div></div></div>"
+  },
+  {
+    "reference": "法45条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\"><span class=\"subject\">市町村長</span>（特別区の区長を含むものとし、指定都市においては、区長<span class=\"logic\">又は</span>総合区長とする。）は、</div><ul class=\"condition-list\"><li>行政庁<span class=\"logic\">又は</span>保険給付を受けようとする者に対して</li><li>当該市（特別区を含む。）町村の条例で定めるところにより</li><li>保険給付を受けようとする者<span class=\"logic\">又は</span><span class=\"subject\">遺族</span>の戸籍に関し</li></ul><div class=\"predicate-line\">無料で証明を行うことが<span class=\"predicate\">できる。</span></div></div></div>"
+  },
+  {
+    "reference": "則51条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\">労災保険に係る保険関係が成立し、<span class=\"logic\">若しくは</span>成立していた事業の<span class=\"subject\">事業主</span><span class=\"logic\">又は</span>労働保険事務組合<span class=\"logic\">若しくは</span>労働保険事務組合であった団体は、</div><ul class=\"condition-list\"><li>労災保険に関する書類（徴収法<span class=\"logic\">又は</span>徴収法施行規則による書類を除く。）を</li></ul><div class=\"predicate-line\">その完結の日から<span class=\"period\">3年間</span>保存<span class=\"predicate\">しなければならない。</span></div></div></div>"
+  },
+  {
+    "reference": "法46条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\">則51条の2所轄<span class=\"subject\">都道府県労働局長</span><span class=\"logic\">又は</span><span class=\"subject\">所轄労働基準監督署長</span>は、</div><ul class=\"condition-list\"><li><span class=\"subject\">労働者</span>を使用する者</li><li>労働保険事務組合</li><li>一人親方等の団体</li><li>派遣先の<span class=\"subject\">事業主</span><span class=\"logic\">又は</span>船員派遣の役務の提供を受ける者に対して</li><li>労災保険法の施行に関し必要な報告</li></ul><div class=\"predicate-line\">文書の提出<span class=\"logic\">又は</span>出頭を命ずることが<span class=\"predicate\">できる。</span></div></div></div>"
+  },
+  {
+    "reference": "法48条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\">行政庁（所轄<span class=\"subject\">都道府県労働局長</span><span class=\"logic\">又は</span><span class=\"subject\">所轄労働基準監督署長</span>）は、</div><ul class=\"condition-list\"><li><span class=\"condition\">労災保険法の施行に必要な限度において</span></li><li>当該職員に</li><li>適用事業の事業場</li><li>労働保険事務組合<span class=\"logic\">若しくは</span>一人親方等の団体の事務所</li><li>派遣先の事業の事業場<span class=\"logic\">又は</span>船員派遣の役務の提供を受ける者の事業場に立ち入り</li><li>関係者に質問させ</li></ul><div class=\"predicate-line\"><span class=\"logic\">又は</span>帳簿書類その他の物件を検査させることが<span class=\"predicate\">できる。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">第2項</span><div class=\"subject-line\">前項の規定により立入検査をする職員は、</div><ul class=\"condition-list\"><li>その身分を示す証明書を携帯し</li></ul><div class=\"predicate-line\">関係者に提示<span class=\"predicate\">しなければならない。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">第3項</span><div class=\"subject-line\">第1項の規定による立入検査の権限は、</div><ul class=\"condition-list\"><li>犯罪捜査のために認められたものと解釈してはならない。立入検査など行政庁（所轄<span class=\"subject\">都道府県労働局長</span>または<span class=\"subject\">所轄労働基準監督署長</span>）は</li><li><span class=\"condition\">労災保険法の施行に必要な限度において</span></li><li>当該職員に</li><li>適用事業の事業場</li><li>労働保険事務組合<span class=\"logic\">若しくは</span>一人親方等の団体の事務所</li><li>派遣先の事業の事業場または船員派遣の役務の提供を受ける者の事業場に立ち入り</li><li>関係者に質問させ</li></ul><div class=\"predicate-line\">または帳簿書類その他の物件を検査させることが<span class=\"predicate\">できる。</span></div></div></div>"
+  },
+  {
+    "reference": "法49条の3",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"subject\">厚生労働大臣</span>は、</div><ul class=\"condition-list\"><li>労災保険法の施行に関し</li><li>関係行政機関<span class=\"logic\">又は</span>公私の団体に対し</li></ul><div class=\"predicate-line\">資料の提供その他必要な協力を求めることが<span class=\"predicate\">できる。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">第2項</span><div class=\"subject-line\">前項の規定による協力を求められた関係行政機関<span class=\"logic\">又は</span>公私の団体は、</div><ul class=\"condition-list\"><li>できるだけその求めに応じなければならない。関係機関などへの要請など<span class=\"subject\">厚生労働大臣</span>は</li><li>労災保険法の施行に関し</li><li>関係行政機関または公私の団体に対し</li></ul><div class=\"predicate-line\">資料の提供その他必要な協力を求めることが<span class=\"predicate\">できる。</span></div></div></div>"
+  }
+]
