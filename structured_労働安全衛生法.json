@@ -1,0 +1,518 @@
+[
+  {
+    "reference": "法1条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\"><span class=\"subject\">労働安全衛生法</span>は、</div><ul class=\"condition-list\"><li>労働基準法と相まって、</li><li>労働災害の防止のための危害防止基準の確立、</li><li>責任体制の明確化<span class=\"logic\">及び</span></li><li>自主的活動の促進の措置を講ずる等</li><li>その防止に関する総合的計画的な対策を推進することにより</li></ul><div class=\"predicate-line\">職場における労働者の安全と健康を確保するとともに、<br>快適な職場環境の形成を促進することを<span class=\"predicate\">目的とする。</span></div></div></div>"
+  },
+  {
+    "reference": "法2条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\">労働安全衛生法において、次の各号に掲げる用語の意義は、それぞれ当該各号に定めるところによる。</div><ul class=\"condition-list\"><li><span class=\"item-number\">1号</span> <span class=\"subject\">労働災害</span>…労働者の就業に係る建設物、設備、原材料、ガス、蒸気、粉じん等により、<span class=\"logic\">又は</span>作業行動その他業務に起因して、<br>労働者が負傷し、疾病にかかり、<span class=\"logic\">又は</span>死亡することをいう。</li><li><span class=\"item-number\">2号</span> <span class=\"subject\">労働者</span>…労働基準法第9条に規定する労働者<br>（<span class=\"exception\">同居の親族のみを使用する事業<span class=\"logic\">又は</span>事務所に使用される者<span class=\"logic\">及び</span>家事使用人を除く。</span>）をいう。</li><li><span class=\"item-number\">3号</span> <span class=\"subject\">事業者</span>…事業を行う者で、労働者を使用するものをいう。</li><li><span class=\"item-number\">3号の2</span> <span class=\"subject\">化学物質</span>…元素<span class=\"logic\">及び</span>化合物をいう。</li><li><span class=\"item-number\">4号</span> <span class=\"subject\">作業環境測定</span>…作業環境の実態をは握するため空気環境その他の作業環境について行う<br>デザイン、サンプリング<span class=\"logic\">及び</span>分析（解析を含む。）をいう。</li></ul></div></div>"
+  },
+  {
+    "reference": "法115条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"subject\">労働安全衛生法</span>（<span class=\"exception\">労働災害防止計画に関する規定を除く。</span>）は、</div><ul class=\"condition-list\"><li>鉱山保安法第2条第2項<span class=\"logic\">及び</span>第4項の規定による鉱山における保安については、</li></ul><div class=\"predicate-line\"><span class=\"predicate\">適用しない。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">第2項</span><div class=\"subject-line\"><span class=\"subject\">労働安全衛生法</span>は、</div><ul class=\"condition-list\"><li>船員法の適用を受ける船員については、</li></ul><div class=\"predicate-line\"><span class=\"predicate\">適用しない。</span></div></div></div>"
+  },
+  {
+    "reference": "法3条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"subject\">事業者</span>は、</div><ul class=\"condition-list\"><li>単に労働安全衛生法で定める労働災害の防止のための最低基準を守るだけでなく、</li><li>快適な職場環境の実現と労働条件の改善を通じて</li><li>職場における労働者の安全と健康を確保するように</li></ul><div class=\"predicate-line\"><span class=\"predicate\">しなければならない。</span></div><div class=\"subject-line\">また、<span class=\"subject\">事業者</span>は、</div><div class=\"predicate-line\">国が実施する労働災害の防止に関する施策に協力するように<span class=\"predicate\">しなければならない。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">第2項</span><div class=\"subject-line\"><span class=\"subject\">機械、器具その他の設備を設計し、製造し、<span class=\"logic\">若しくは</span>輸入する者、<br>原材料を製造し、<span class=\"logic\">若しくは</span>輸入する者<span class=\"logic\">又は</span><br>建設物を建設し、<span class=\"logic\">若しくは</span>設計する者</span>は、</div><div class=\"predicate-line\">これらの物の設計、製造、輸入<span class=\"logic\">又は</span>建設に際して、<br>これらの物が使用されることによる労働災害の発生の防止に資するように<span class=\"predicate\">努めなければならない。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">第3項</span><div class=\"subject-line\"><span class=\"subject\">建設工事の注文者その他の仕事を他人に請け負わせる者</span>は、</div><div class=\"predicate-line\">施工方法、作業方法、工期、納期等について、<br>安全で衛生的な作業の遂行を損なうおそれのある条件を付さないように<span class=\"predicate\">配慮しなければならない。</span></div></div></div>"
+  },
+  {
+    "reference": "法4条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\"><span class=\"subject\">労働者<span class=\"logic\">及び</span>労働者以外の者で労働者と同一の場所において仕事の作業に従事するもの</span>は、</div><ul class=\"condition-list\"><li>労働災害を防止するため必要な事項を守るほか、</li><li>事業者その他の関係者が実施する労働災害の防止に関する措置に協力するように</li></ul><div class=\"predicate-line\"><span class=\"predicate\">努めなければならない。</span></div></div></div>"
+  },
+  {
+    "reference": "法5条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\">2以上の建設業に属する事業の事業者が、一の場所において行われる当該事業の仕事を<span class=\"condition\">共同連帯して請け負った場合</span>においては、</div><ul class=\"condition-list\"><li>そのうちの1人を代表者として定め、</li><li>これを当該仕事の開始の日の<span class=\"period\">14日前</span>までに、</li><li>当該仕事が行われる場所を管轄する労働基準監督署長を経由して、</li><li>当該仕事が行われる場所を管轄する都道府県労働局長に</li></ul><div class=\"predicate-line\"><span class=\"predicate\">届け出なければならない。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">第2項</span><div class=\"subject-line\"><span class=\"condition\">前項の規定による届出がないとき</span>は、</div><div class=\"predicate-line\"><span class=\"subject\">都道府県労働局長</span>が代表者を<span class=\"predicate\">指名する。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">第4項</span><div class=\"subject-line\"><span class=\"condition\">第1項に規定する場合</span>においては、</div><ul class=\"condition-list\"><li>当該事業を同項<span class=\"logic\">又は</span>第2項の代表者のみの事業と、</li><li>当該代表者のみを当該事業の事業者と、</li><li>当該事業の仕事に従事する労働者を当該代表者のみが使用する労働者と</li></ul><div class=\"predicate-line\">それぞれみなして、労働安全衛生法を<span class=\"predicate\">適用する。</span></div></div></div>"
+  },
+  {
+    "reference": "法6条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\"><span class=\"subject\">厚生労働大臣</span>は、</div><ul class=\"condition-list\"><li>労働政策審議会の意見をきいて、</li><li>労働災害の防止のための主要な対策に関する事項その他労働災害の防止に関し重要な事項を定めた計画<br>（以下「労働災害防止計画」という。）を</li></ul><div class=\"predicate-line\"><span class=\"predicate\">策定しなければならない。</span></div></div></div>"
+  },
+  {
+    "reference": "法7条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\"><span class=\"subject\">厚生労働大臣</span>は、</div><ul class=\"condition-list\"><li>労働災害の発生状況、労働災害の防止に関する対策の効果等を考慮して</li><li>必要があると<span class=\"condition\">認めるとき</span>は、</li><li>労働政策審議会の意見をきいて、</li></ul><div class=\"predicate-line\">労働災害防止計画を<span class=\"predicate\">変更しなければならない。</span></div></div></div>"
+  },
+  {
+    "reference": "法8条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\"><span class=\"subject\">厚生労働大臣</span>は、</div><ul class=\"condition-list\"><li><span class=\"condition\">労働災害防止計画を策定したとき</span>は、</li></ul><div class=\"predicate-line\">遅滞なく、これを<span class=\"predicate\">公表しなければならない。</span></div><div class=\"predicate-line\">これを変更したときも、同様とする。</div></div></div>"
+  },
+  {
+    "reference": "法9条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\"><span class=\"subject\">厚生労働大臣</span>は、</div><ul class=\"condition-list\"><li>労働災害防止計画の的確かつ円滑な実施のため</li><li>必要があると<span class=\"condition\">認めるとき</span>は、</li></ul><div class=\"predicate-line\">事業を行う者、その団体その他の関係者に対し、<br>労働災害の防止に関する事項について必要な勧告<span class=\"logic\">又は</span>要請を<span class=\"predicate\">することができる。</span></div></div></div>"
+  },
+  {
+    "reference": "法10条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"subject\">事業者</span>は、</div><ul class=\"condition-list\"><li>政令で定める規模の事業場ごとに、</li><li><span class=\"subject\">総括安全衛生管理者</span>を選任し、</li><li>その者に安全管理者、衛生管理者<span class=\"logic\">又は</span>救護技術管理者の指揮をさせるとともに、</li></ul><div class=\"predicate-line\">安全衛生に関する業務を統括管理<span class=\"predicate\">させなければならない。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">第2項</span><div class=\"subject-line\"><span class=\"subject\">総括安全衛生管理者</span>は、</div><div class=\"predicate-line\">当該事業場においてその事業の実施を統括管理する者をもって<span class=\"predicate\">充てなければならない。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">第3項</span><div class=\"subject-line\"><span class=\"subject\">都道府県労働局長</span>は、</div><ul class=\"condition-list\"><li>労働災害を防止するため必要があると<span class=\"condition\">認めるとき</span>は、</li></ul><div class=\"predicate-line\">総括安全衛生管理者の業務の執行について事業者に<span class=\"predicate\">勧告することができる。</span></div></div></div>"
+  },
+  {
+    "reference": "法11条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"subject\">事業者</span>は、</div><ul class=\"condition-list\"><li>政令で定める業種<span class=\"logic\">及び</span>規模の事業場ごとに、</li><li>厚生労働省令で定める資格を有する者のうちから、</li><li><span class=\"subject\">安全管理者</span>を選任し、</li></ul><div class=\"predicate-line\">その者に第10条第1項各号の業務のうち安全に係る技術的事項を<span class=\"predicate\">管理させなければならない。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">第2項</span><div class=\"subject-line\"><span class=\"subject\">労働基準監督署長</span>は、</div><ul class=\"condition-list\"><li>労働災害を防止するため必要があると<span class=\"condition\">認めるとき</span>は、</li></ul><div class=\"predicate-line\">事業者に対し、安全管理者の増員<span class=\"logic\">又は</span>解任を<span class=\"predicate\">命ずることができる。</span></div></div></div>"
+  },
+  {
+    "reference": "法12条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"subject\">事業者</span>は、</div><ul class=\"condition-list\"><li>政令で定める規模の事業場ごとに、</li><li>都道府県労働局長の免許を受けた者その他厚生労働省令で定める資格を有する者のうちから、</li><li>当該事業場の業務の区分に応じて、</li><li><span class=\"subject\">衛生管理者</span>を選任し、</li></ul><div class=\"predicate-line\">その者に第10条第1項各号の業務のうち衛生に係る技術的事項を<span class=\"predicate\">管理させなければならない。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">第2項</span><div class=\"subject-line\"><span class=\"subject\">労働基準監督署長</span>は、</div><ul class=\"condition-list\"><li>労働災害を防止するため必要があると<span class=\"condition\">認めるとき</span>は、</li></ul><div class=\"predicate-line\">事業者に対し、衛生管理者の増員<span class=\"logic\">又は</span>解任を<span class=\"predicate\">命ずることができる。</span></div></div></div>"
+  },
+  {
+    "reference": "法13条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"subject\">事業者</span>は、</div><ul class=\"condition-list\"><li>政令で定める規模の事業場ごとに、</li><li>医師のうちから<span class=\"subject\">産業医</span>を選任し、</li></ul><div class=\"predicate-line\">その者に労働者の健康管理その他の厚生労働省令で定める事項（以下「労働者の健康管理等」という。）を<span class=\"predicate\">行わせなければならない。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">第3項</span><div class=\"subject-line\"><span class=\"subject\">産業医</span>は、</div><div class=\"predicate-line\">労働者の健康管理等を行うのに必要な医学に関する知識に基づいて、<br>誠実にその職務を<span class=\"predicate\">行わなければならない。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">第4項</span><div class=\"subject-line\">産業医を選任した<span class=\"subject\">事業者</span>は、</div><div class=\"predicate-line\"><span class=\"subject\">産業医</span>に対し、労働者の労働時間に関する情報その他の<br>産業医が労働者の健康管理等を適切に行うために必要な情報として厚生労働省令で定めるものを<span class=\"predicate\">提供しなければならない。</span></div></div></div>"
+  },
+  {
+    "reference": "法13条の2",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"subject\">事業者</span>は、</div><ul class=\"condition-list\"><li>第13条第1項の事業場以外の事業場については、</li><li>労働者の健康管理等を行うのに必要な医学に関する知識を有する医師その他厚生労働省令で定める者に</li></ul><div class=\"predicate-line\">労働者の健康管理等の全部<span class=\"logic\">又は</span>一部を行わせるように<span class=\"predicate\">努めなければならない。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">第2項</span><div class=\"subject-line\"><span class=\"subject\">前項に規定する者に労働者の健康管理等の全部<span class=\"logic\">又は</span>一部を行わせる事業者</span>は、</div><div class=\"predicate-line\">同項に規定する者に対し、労働者の労働時間に関する情報その他の<br>労働者の健康管理等を適切に行うために必要な情報として厚生労働省令で定めるものを提供するように<span class=\"predicate\">努めなければならない。</span></div></div></div>"
+  },
+  {
+    "reference": "法13条の3",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\"><span class=\"subject\">事業者</span>は、</div><ul class=\"condition-list\"><li>産業医<span class=\"logic\">又は</span>第13条の2第1項に規定する者による労働者の健康管理等の適切な実施を図るため、</li><li>産業医<span class=\"logic\">又は</span>同項に規定する者が労働者からの健康相談に応じ、適切に対応するために必要な体制の整備</li><li>その他の必要な措置を講ずるように</li></ul><div class=\"predicate-line\"><span class=\"predicate\">努めなければならない。</span></div></div></div>"
+  },
+  {
+    "reference": "法12条の2",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\"><span class=\"subject\">事業者</span>は、</div><ul class=\"condition-list\"><li>安全管理者の選任を要する事業場<span class=\"logic\">及び</span>衛生管理者の選任を要する事業場以外の事業場で、</li><li>使用する労働者の数が<span class=\"period\">常時10人以上50人未満</span>の事業場ごとに、</li><li><span class=\"subject\">安全衛生推進者</span>（安全管理者の選任を要する業種以外の業種の事業場にあっては、<span class=\"subject\">衛生推進者</span>）を選任し、</li></ul><div class=\"predicate-line\">その者に総括安全衛生管理者が統括管理する業務を<span class=\"predicate\">担当させなければならない。</span></div></div></div>"
+  },
+  {
+    "reference": "法14条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\"><span class=\"subject\">事業者</span>は、</div><ul class=\"condition-list\"><li>高圧室内作業その他の労働災害を防止するための管理を必要とする作業で、政令で定めるものについては、</li><li><span class=\"subject\">都道府県労働局長の免許を受けた者</span><span class=\"logic\">又は</span><span class=\"subject\">登録教習機関が行う技能講習を修了した者</span>のうちから、</li><li>当該作業の区分に応じて、</li></ul><div class=\"predicate-line\"><span class=\"subject\">作業主任者</span>を選任し、その者に当該作業に従事する労働者の指揮その他の厚生労働省令で定める事項を<span class=\"predicate\">行わせなければならない。</span></div></div></div>"
+  },
+  {
+    "reference": "法17条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"subject\">事業者</span>は、</div><ul class=\"condition-list\"><li>政令で定める業種<span class=\"logic\">及び</span>規模の事業場ごとに、</li><li>次の事項を調査審議させ、事業者に対し意見を述べさせるため、</li></ul><div class=\"predicate-line\"><span class=\"subject\">安全委員会</span>を<span class=\"predicate\">設けなければならない。</span></div><ul class=\"condition-list\"><li>1. 労働者の危険を防止するための基本となるべき対策に関すること。</li><li>2. 労働災害の原因<span class=\"logic\">及び</span>再発防止対策で、安全に係るものに関すること。</li><li>3. 1.<span class=\"logic\">及び</span>2.に掲げるもののほか、労働者の危険の防止に関する重要事項</li></ul></div></div>"
+  },
+  {
+    "reference": "法18条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"subject\">事業者</span>は、</div><ul class=\"condition-list\"><li>政令で定める規模の事業場ごとに、</li><li>次の事項を調査審議させ、事業者に対し意見を述べさせるため、</li></ul><div class=\"predicate-line\"><span class=\"subject\">衛生委員会</span>を<span class=\"predicate\">設けなければならない。</span></div><ul class=\"condition-list\"><li>1. 労働者の健康障害を防止するための基本となるべき対策に関すること。</li><li>2. 労働者の健康の保持増進を図るための基本となるべき対策に関すること。</li><li>3. 労働災害の原因<span class=\"logic\">及び</span>再発防止対策で、衛生に係るものに関すること。</li><li>4. 1.〜3.に掲げるもののほか、労働者の健康障害の防止<span class=\"logic\">及び</span>健康の保持増進に関する重要事項</li></ul></div></div>"
+  },
+  {
+    "reference": "法19条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"subject\">事業者</span>は、</div><ul class=\"condition-list\"><li>第17条<span class=\"logic\">及び</span>前条の規定により安全委員会<span class=\"logic\">及び</span>衛生委員会を設けなければならないときは、</li><li>それぞれの委員会の設置に代えて、</li></ul><div class=\"predicate-line\"><span class=\"subject\">安全衛生委員会</span>を<span class=\"predicate\">設置することができる。</span></div></div></div>"
+  },
+  {
+    "reference": "則23条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"subject\">事業者</span>は、</div><div class=\"predicate-line\">安全委員会、衛生委員会<span class=\"logic\">又は</span>安全衛生委員会（以下「委員会」という。）を<br><span class=\"period\">毎月1回以上</span>開催するように<span class=\"predicate\">しなければならない。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">第3項</span><div class=\"subject-line\"><span class=\"subject\">事業者</span>は、</div><div class=\"predicate-line\">委員会の開催の都度、遅滞なく、<br>委員会における議事の概要を所定の方法によって労働者に<span class=\"predicate\">周知させなければならない。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">第4項</span><div class=\"subject-line\"><span class=\"subject\">事業者</span>は、</div><div class=\"predicate-line\">委員会の開催の都度、所定の事項を記録し、これを<span class=\"period\">3年間</span><span class=\"predicate\">保存しなければならない。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">第5項</span><div class=\"subject-line\"><span class=\"subject\">産業医</span>は、</div><div class=\"predicate-line\">衛生委員会<span class=\"logic\">又は</span>安全衛生委員会に対して<br>労働者の健康を確保する観点から必要な調査審議を<span class=\"predicate\">求めることができる。</span></div></div></div>"
+  },
+  {
+    "reference": "法15条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"subject\">特定元方事業者</span>は、</div><ul class=\"condition-list\"><li>当該一の場所において、その労働者<span class=\"logic\">及び</span>関係請負人に係る作業従事者が作業を行うときは、</li><li>これらの作業従事者の作業が同一の場所において行われることによって生ずる労働災害を防止するため、</li><li><span class=\"subject\">統括安全衛生責任者</span>を選任し、</li><li>その者に元方安全衛生管理者の指揮をさせるとともに、</li></ul><div class=\"predicate-line\">第30条第1項各号の事項を統括管理<span class=\"predicate\">させなければならない。</span></div></div><div class=\"exception-section\"><div class=\"exception-keyword\"><span class=\"exception\">ただし、</span></div><ul class=\"condition-list\"><li>これらの作業従事者の数が政令で定める数未満であるときは、</li></ul><div class=\"predicate-line\"><span class=\"exception\">この限りでない。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">第2項</span><div class=\"subject-line\"><span class=\"subject\">統括安全衛生責任者</span>は、</div><div class=\"predicate-line\">当該場所においてその事業の実施を統括管理する者をもって<span class=\"predicate\">充てなければならない。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">第5項</span><div class=\"subject-line\"><span class=\"subject\">都道府県労働局長</span>は、</div><ul class=\"condition-list\"><li>労働災害を防止するため必要があると<span class=\"condition\">認めるとき</span>は、</li></ul><div class=\"predicate-line\">統括安全衛生責任者の業務の執行について当該統括安全衛生責任者を選任した事業者に<span class=\"predicate\">勧告することができる。</span></div></div></div>"
+  },
+  {
+    "reference": "法15条の2",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"subject\">統括安全衛生責任者を選任した事業者で、建設業その他政令で定める業種に属する事業を行うもの</span>は、</div><ul class=\"condition-list\"><li>厚生労働省令で定める資格を有する者のうちから、</li><li><span class=\"subject\">元方安全衛生管理者</span>を選任し、</li></ul><div class=\"predicate-line\">その者に統括安全衛生責任者が統括管理する事項のうち技術的事項を<span class=\"predicate\">管理させなければならない。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">第2項</span><div class=\"subject-line\"><span class=\"subject\">労働基準監督署長</span>は、</div><ul class=\"condition-list\"><li>労働災害を防止するため必要があると<span class=\"condition\">認めるとき</span>は、</li></ul><div class=\"predicate-line\">当該元方安全衛生管理者を選任した事業者に対し、<br>元方安全衛生管理者の増員<span class=\"logic\">又は</span>解任を<span class=\"predicate\">命ずることができる。</span></div></div></div>"
+  },
+  {
+    "reference": "法16条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"condition\">統括安全衛生責任者を選任すべき場合</span>において、</div><ul class=\"condition-list\"><li>統括安全衛生責任者を選任すべき事業者以外の請負人で、当該仕事を自ら行うものは、</li></ul><div class=\"predicate-line\"><span class=\"subject\">安全衛生責任者</span>を選任し、<br>その者に統括安全衛生責任者との連絡その他の厚生労働省令で定める事項を<span class=\"predicate\">行わせなければならない。</span></div></div></div>"
+  },
+  {
+    "reference": "法15条の3",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"subject\">建設業に属する事業の元方事業者</span>は、</div><ul class=\"condition-list\"><li>その労働者<span class=\"logic\">及び</span>関係請負人に係る作業従事者が一の場所において作業を行うときは、</li><li>当該場所において行われる仕事に係る請負契約を締結している事業場ごとに、</li><li>これらの作業従事者の作業が同一の場所で行われることによって生ずる労働災害を防止するため、</li><li>厚生労働省令で定める資格を有する者のうちから、</li></ul><div class=\"predicate-line\"><span class=\"subject\">店社安全衛生管理者</span>を選任し、その者に所定の事項を<span class=\"predicate\">行わせなければならない。</span></div></div></div>"
+  },
+  {
+    "reference": "法19条の2",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"subject\">事業者</span>は、</div><ul class=\"condition-list\"><li>事業場における安全衛生の水準の向上を図るため、</li><li>安全管理者、衛生管理者、安全衛生推進者、衛生推進者その他労働災害の防止のための業務に従事する者に対し、</li></ul><div class=\"predicate-line\">これらの者が従事する業務に関する能力の向上を図るための教育、講習等を行い、<br><span class=\"logic\">又は</span>これらを受ける機会を与えるように<span class=\"predicate\">努めなければならない。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">第2項</span><div class=\"subject-line\"><span class=\"subject\">厚生労働大臣</span>は、</div><div class=\"predicate-line\">前項の教育、講習等の適切<span class=\"logic\">かつ</span>有効な実施を図るため必要な指針を<span class=\"predicate\">公表するものとする。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">第3項</span><div class=\"subject-line\"><span class=\"subject\">厚生労働大臣</span>は、</div><div class=\"predicate-line\">前項の指針に従い、事業者<span class=\"logic\">又は</span>その団体に対し、必要な指導等を<span class=\"predicate\">行うことができる。</span></div></div></div>"
+  },
+  {
+    "reference": "法19条の3",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\"><span class=\"subject\">国</span>は、</div><ul class=\"condition-list\"><li>産業医の選任が義務づけられていない事業場の労働者の健康の確保に資するため、</li></ul><div class=\"predicate-line\">労働者の健康管理等に関する相談、情報の提供その他の必要な援助を行うように<span class=\"predicate\">努めるものとする。</span></div></div></div>"
+  },
+  {
+    "reference": "法20条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\"><span class=\"subject\">事業者</span>は、</div><div class=\"predicate-line\">次の危険を防止するため必要な措置を<span class=\"predicate\">講じなければならない。</span></div><ul class=\"condition-list\"><li>1. 機械、器具その他の設備（以下「機械等」という。）による危険</li><li>2. 爆発性の物、発火性の物、引火性の物等による危険</li><li>3. 電気、熱その他のエネルギーによる危険</li></ul></div></div>"
+  },
+  {
+    "reference": "法21条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"subject\">事業者</span>は、</div><div class=\"predicate-line\">掘削、採石、荷役、伐木等の業務における作業方法から生ずる危険を防止するため<br>必要な措置を<span class=\"predicate\">講じなければならない。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">第2項</span><div class=\"subject-line\"><span class=\"subject\">事業者</span>は、</div><div class=\"predicate-line\">労働者が墜落するおそれのある場所、土砂等が崩壊するおそれのある場所等に係る危険を防止するため<br>必要な措置を<span class=\"predicate\">講じなければならない。</span></div></div></div>"
+  },
+  {
+    "reference": "法22条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\"><span class=\"subject\">事業者</span>は、</div><div class=\"predicate-line\">次の健康障害を防止するため必要な措置を<span class=\"predicate\">講じなければならない。</span></div><ul class=\"condition-list\"><li>1. 原材料、ガス、蒸気、粉じん、酸素欠乏空気、病原体等による健康障害</li><li>2. 放射線、高温、低温、超音波、騒音、振動、異常気圧等による健康障害</li><li>3. 計器監視、精密工作等の作業による健康障害</li><li>4. 排気、排液<span class=\"logic\">又は</span>残さい物による健康障害</li></ul></div></div>"
+  },
+  {
+    "reference": "法23条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\"><span class=\"subject\">事業者</span>は、</div><ul class=\"condition-list\"><li>労働者を就業させる建設物その他の作業場について、</li><li>通路、床面、階段等の保全<span class=\"logic\">並びに</span></li><li>換気、採光、照明、保温、防湿、休養、避難<span class=\"logic\">及び</span>清潔に必要な措置</li><li>その他労働者の健康、風紀<span class=\"logic\">及び</span>生命の保持のため必要な措置を</li></ul><div class=\"predicate-line\"><span class=\"predicate\">講じなければならない。</span></div></div></div>"
+  },
+  {
+    "reference": "法24条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\"><span class=\"subject\">事業者</span>は、</div><div class=\"predicate-line\">労働者の作業行動から生ずる労働災害を防止するため必要な措置を<span class=\"predicate\">講じなければならない。</span></div></div></div>"
+  },
+  {
+    "reference": "法26条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\"><span class=\"subject\">労働者<span class=\"logic\">及び</span>労働者と同一の場所において仕事の作業に従事する労働者以外の作業従事者</span>は、</div><div class=\"predicate-line\">事業者が第20条から第25条まで<span class=\"logic\">及び</span>前条第1項の規定に基づき講ずる措置に応じて、<br>必要な事項を<span class=\"predicate\">守らなければならない。</span></div></div></div>"
+  },
+  {
+    "reference": "法28条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"subject\">厚生労働大臣</span>は、</div><ul class=\"condition-list\"><li>第20条から第25条まで<span class=\"logic\">及び</span>第25条の2第1項の規定により事業者が講ずべき措置の適切<span class=\"logic\">かつ</span>有効な実施を図るため</li><li>必要な業種<span class=\"logic\">又は</span>作業ごとの技術上の指針を</li></ul><div class=\"predicate-line\"><span class=\"predicate\">公表するものとする。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">第2項</span><div class=\"subject-line\"><span class=\"subject\">厚生労働大臣</span>は、</div><div class=\"predicate-line\">前項の技術上の指針を定めるに当たっては、<br>中高年齢者に関して、特に<span class=\"predicate\">配慮するものとする。</span></div></div></div>"
+  },
+  {
+    "reference": "法25条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\"><span class=\"subject\">事業者</span>は、</div><ul class=\"condition-list\"><li><span class=\"condition\">労働災害発生の急迫した危険があるとき</span>は、</li></ul><div class=\"predicate-line\">直ちに作業を中止し、労働者を作業場から退避させる等必要な措置を<span class=\"predicate\">講じなければならない。</span></div></div></div>"
+  },
+  {
+    "reference": "法25条の2",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"subject\">建設業その他政令で定める業種に属する事業の仕事で、政令で定めるものを行う事業者</span>は、</div><ul class=\"condition-list\"><li>爆発、火災等が生じたことに伴い作業従事者の救護に関する措置がとられる場合における<br>労働災害の発生を防止するため、次の措置を</li></ul><div class=\"predicate-line\"><span class=\"predicate\">講じなければならない。</span></div><ul class=\"condition-list\"><li>1. 作業従事者の救護に関し必要な機械等の備付け<span class=\"logic\">及び</span>管理を行うこと。</li><li>2. 作業従事者の救護に関し必要な事項についての訓練を行うこと。</li><li>3. 1.<span class=\"logic\">及び</span>2.に掲げるもののほか、爆発、火災等に備えて、作業従事者の救護に関し必要な事項を行うこと。</li></ul></div><div class=\"principle-section\"><span class=\"item-number\">第2項</span><div class=\"subject-line\"><span class=\"subject\">前項に規定する事業者</span>は、</div><div class=\"predicate-line\">厚生労働省令で定める資格を有する者のうちから、<br>同項各号の措置のうち技術的事項を管理する者を選任し、<br>その者に当該技術的事項を<span class=\"predicate\">管理させなければならない。</span></div></div></div>"
+  },
+  {
+    "reference": "法29条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"subject\">元方事業者</span>は、</div><div class=\"predicate-line\">関係請負人<span class=\"logic\">及び</span>関係請負人に係る作業従事者が、当該仕事に関し、<br>労働安全衛生法<span class=\"logic\">又は</span>これに基づく命令の規定に違反しないよう<br>必要な指導を<span class=\"predicate\">行わなければならない。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">第2項</span><div class=\"subject-line\"><span class=\"subject\">元方事業者</span>は、</div><ul class=\"condition-list\"><li>関係請負人又は関係請負人に係る作業従事者が、当該仕事に関し、</li><li>労働安全衛生法<span class=\"logic\">又は</span>これに基づく命令の規定に違反していると<span class=\"condition\">認めるとき</span>は、</li></ul><div class=\"predicate-line\">是正のため必要な指示を<span class=\"predicate\">行わなければならない。</span></div></div></div>"
+  },
+  {
+    "reference": "法29条の2",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\"><span class=\"subject\">建設業に属する事業の元方事業者</span>は、</div><ul class=\"condition-list\"><li>土砂等が崩壊するおそれのある場所、機械等が転倒するおそれのある場所その他の厚生労働省令で定める場所において</li><li>関係請負人に係る作業従事者が当該事業の仕事の作業を<span class=\"condition\">行うとき</span>は、</li></ul><div class=\"predicate-line\">当該関係請負人が講ずべき当該場所に係る危険を防止するための措置が適正に講ぜられるように、<br>技術上の指導その他の必要な措置を<span class=\"predicate\">講じなければならない。</span></div></div></div>"
+  },
+  {
+    "reference": "法30条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"subject\">特定元方事業者</span>は、</div><ul class=\"condition-list\"><li>その労働者<span class=\"logic\">及び</span>関係請負人に係る作業従事者の作業が同一の場所において行われることによって生ずる労働災害を防止するため、</li><li>次の事項に関する必要な措置を</li></ul><div class=\"predicate-line\"><span class=\"predicate\">講じなければならない。</span></div><ul class=\"condition-list\"><li>1. 協議組織の設置<span class=\"logic\">及び</span>運営を行うこと。</li><li>2. 作業間の連絡<span class=\"logic\">及び</span>調整を行うこと。</li><li>3. 作業場所を巡視すること。</li><li>4. 関係請負人が行う労働者の安全<span class=\"logic\">又は</span>衛生のための教育に対する指導<span class=\"logic\">及び</span>援助を行うこと。</li><li>5. 建設業の特定元方事業者にあっては、仕事の工程に関する計画<span class=\"logic\">及び</span>作業場所における機械、設備等の配置に関する計画を作成すること。</li><li>6. 1.〜5.に掲げるもののほか、当該労働災害を防止するため必要な事項</li></ul></div></div>"
+  },
+  {
+    "reference": "法30条の2",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"subject\">製造業その他政令で定める業種に属する事業（特定事業を除く。）の元方事業者</span>は、</div><ul class=\"condition-list\"><li>その労働者<span class=\"logic\">及び</span>関係請負人に係る作業従事者の作業が同一の場所において行われることによって生ずる労働災害を防止するため、</li></ul><div class=\"predicate-line\">作業間の連絡<span class=\"logic\">及び</span>調整を行うことに関する措置その他必要な措置を<span class=\"predicate\">講じなければならない。</span></div></div></div>"
+  },
+  {
+    "reference": "法31条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"subject\">特定事業の仕事を自ら行う注文者</span>は、</div><ul class=\"condition-list\"><li>建設物、設備<span class=\"logic\">又は</span>原材料（以下「建設物等」という。）を、</li><li>当該仕事を行う場所においてその請負人に係る作業従事者に使用させるときは、</li></ul><div class=\"predicate-line\">当該建設物等について、労働災害を防止するため必要な措置を<span class=\"predicate\">講じなければならない。</span></div></div></div>"
+  },
+  {
+    "reference": "法33条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"subject\">機械等貸与者</span>は、</div><div class=\"predicate-line\">当該機械等の貸与を受けた事業を行う者の事業場における<br>当該機械等による労働災害を防止するため必要な措置を<span class=\"predicate\">講じなければならない。</span></div><ul class=\"condition-list\"><li>1. 当該機械等をあらかじめ点検し、異常を認めたときは、補修その他必要な整備を行うこと。</li><li>2. 当該機械等の貸与を受ける事業者に対し、所定事項を記載した書面を交付すること。</li></ul></div><div class=\"principle-section\"><span class=\"item-number\">第2項</span><div class=\"subject-line\"><span class=\"subject\">機械等貸与者から機械等の貸与を受けた者</span>は、</div><ul class=\"condition-list\"><li>当該機械等を操作する者がその使用する労働者で<span class=\"condition\">ないとき</span>は、</li></ul><div class=\"predicate-line\">当該機械等の操作による労働災害を防止するため必要な措置を<span class=\"predicate\">講じなければならない。</span></div></div></div>"
+  },
+  {
+    "reference": "法34条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\"><span class=\"subject\">建築物貸与者</span>は、</div><div class=\"predicate-line\">当該建築物の貸与を受けた者の事業に係る当該建築物による<br>労働災害を防止するため必要な措置を<span class=\"predicate\">講じなければならない。</span></div></div><div class=\"exception-section\"><div class=\"exception-keyword\"><span class=\"exception\">ただし、</span></div><ul class=\"condition-list\"><li>当該建築物の全部を一の事業者<span class=\"logic\">若しくは</span>個人事業者に貸与するとき、</li><li class=\"logic-item\"><span class=\"logic\">又は</span></li><li>2以上の個人事業者のみに貸与するときは、</li></ul><div class=\"predicate-line\"><span class=\"exception\">この限りでない。</span></div></div></div>"
+  },
+  {
+    "reference": "法35条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\">一の貨物で、重量が<span class=\"period\">1トン</span>以上のものを発送しようとする者は、</div><div class=\"predicate-line\">見やすく、<span class=\"logic\">かつ</span>、容易に消滅しない方法で、<br>当該貨物にその重量を<span class=\"predicate\">表示しなければならない。</span></div></div><div class=\"exception-section\"><div class=\"exception-keyword\"><span class=\"exception\">ただし、</span></div><ul class=\"condition-list\"><li>包装されていない貨物で、その重量が一見して明らかであるものを発送しようとするときは、</li></ul><div class=\"predicate-line\"><span class=\"exception\">この限りでない。</span></div></div></div>"
+  },
+  {
+    "reference": "法37条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"predicate-line\">特に危険な作業を必要とする機械等として別表第1に掲げるもので、<br>政令で定めるものを「<span class=\"subject\">特定機械等</span>」という。</div></div></div>"
+  },
+  {
+    "reference": "法38条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\">次の者は、</div><ul class=\"condition-list\"><li>特定機械等を製造し、<span class=\"logic\">若しくは</span>輸入した者、</li><li>特定機械等で厚生労働省令で定める期間設置されなかったものを設置しようとする者<span class=\"logic\">又は</span></li><li>特定機械等で使用を廃止したものを再び設置し、<span class=\"logic\">若しくは</span>使用しようとする者</li></ul><div class=\"predicate-line\">当該特定機械等<span class=\"logic\">及び</span>これに係る厚生労働省令で定める事項について、<br><span class=\"subject\">登録設計審査等機関</span>の検査を<span class=\"predicate\">受けなければならない。</span></div></div><div class=\"exception-section\"><div class=\"exception-keyword\"><span class=\"exception\">ただし、</span></div><ul class=\"condition-list\"><li>輸入された特定機械等について当該特定機械等を外国において製造した者が同項の規定による検査を受けた場合は、</li></ul><div class=\"predicate-line\"><span class=\"exception\">この限りでない。</span></div></div></div>"
+  },
+  {
+    "reference": "法39条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"subject\">登録設計審査等機関</span>は、</div><ul class=\"condition-list\"><li>第38条第1項<span class=\"logic\">又は</span>第2項の検査（以下「製造時等検査」という。）に合格した移動式の特定機械等について、</li></ul><div class=\"predicate-line\">検査証を<span class=\"predicate\">交付する。</span></div></div></div>"
+  },
+  {
+    "reference": "法40条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"predicate-line\">検査証を受けていない特定機械等は、<span class=\"predicate\">使用してはならない。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">第2項</span><div class=\"predicate-line\">検査証を受けた特定機械等は、検査証とともにするのでなければ、<br>譲渡し、<span class=\"logic\">又は</span>貸与<span class=\"predicate\">してはならない。</span></div></div></div>"
+  },
+  {
+    "reference": "法41条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"subject\">検査証の有効期間</span>は、</div><div class=\"predicate-line\">特定機械等の種類に応じて、厚生労働省令で定める期間とする。</div></div><div class=\"principle-section\"><span class=\"item-number\">第2項</span><div class=\"subject-line\">検査証の有効期間の更新を受けようとする者は、</div><div class=\"predicate-line\">当該特定機械等<span class=\"logic\">及び</span>これに係る厚生労働省令で定める事項について、<br><span class=\"subject\">登録性能検査機関</span>が行う性能検査を<span class=\"predicate\">受けなければならない。</span></div></div></div>"
+  },
+  {
+    "reference": "法42条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\">特定機械等以外の機械等で、</div><ul class=\"condition-list\"><li>別表第2に掲げるものその他危険<span class=\"logic\">若しくは</span>有害な作業を必要とするもの、</li><li>危険な場所において使用するもの<span class=\"logic\">又は</span></li><li>危険<span class=\"logic\">若しくは</span>健康障害を防止するため使用するもの</li></ul><div class=\"predicate-line\">のうち、政令で定めるものは、<br>厚生労働大臣が定める規格<span class=\"logic\">又は</span>安全装置を具備しなければ、<br>譲渡し、貸与し、<span class=\"logic\">又は</span>設置<span class=\"predicate\">してはならない。</span></div></div></div>"
+  },
+  {
+    "reference": "法43条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\">動力により駆動される機械等で、</div><ul class=\"condition-list\"><li>作動部分上の突起物<span class=\"logic\">又は</span>動力伝導部分<span class=\"logic\">若しくは</span>調速部分に</li><li>厚生労働省令で定める防護のための措置が施されていないものは、</li></ul><div class=\"predicate-line\">譲渡し、貸与し、<span class=\"logic\">又は</span>譲渡<span class=\"logic\">若しくは</span>貸与の目的で<span class=\"predicate\">展示してはならない。</span></div></div></div>"
+  },
+  {
+    "reference": "法44条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\">第42条の機械等のうち、別表第3に掲げる機械等で政令で定めるものを製造し、<span class=\"logic\">又は</span>輸入した者は、</div><div class=\"predicate-line\"><span class=\"subject\">登録個別検定機関</span>が個々に行う当該機械等についての検定（以下「個別検定」という。）を<span class=\"predicate\">受けなければならない。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">第4項</span><div class=\"subject-line\">個別検定を受けた者は、</div><div class=\"predicate-line\">当該個別検定に合格した機械等に、当該個別検定に合格した旨の表示を<span class=\"predicate\">付さなければならない。</span></div></div></div>"
+  },
+  {
+    "reference": "法44条の2",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\">第42条の機械等のうち、別表第4に掲げる機械等で政令で定めるものを製造し、<span class=\"logic\">又は</span>輸入した者は、</div><div class=\"predicate-line\"><span class=\"subject\">登録型式検定機関</span>が行う当該機械等の型式についての検定（以下「型式検定」という。）を<span class=\"predicate\">受けなければならない。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">第4項</span><div class=\"subject-line\"><span class=\"subject\">登録型式検定機関</span>は、</div><div class=\"predicate-line\">型式検定に合格した型式について、型式検定合格証を申請者に<span class=\"predicate\">交付する。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">第5項</span><div class=\"subject-line\">型式検定を受けた者は、</div><div class=\"predicate-line\">当該型式検定に合格した型式の機械等を本邦において製造し、<span class=\"logic\">又は</span>本邦に輸入したときは、<br>当該機械等に、型式検定に合格した型式の機械等である旨の表示を<span class=\"predicate\">付さなければならない。</span></div></div></div>"
+  },
+  {
+    "reference": "法43条の2",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\"><span class=\"subject\">厚生労働大臣<span class=\"logic\">又は</span>都道府県労働局長</span>は、</div><ul class=\"condition-list\"><li>特定機械等以外の機械等を製造し、又は輸入した者が、</li><li>当該機械等で、所定の各号のいずれかに該当するものを譲渡し、<span class=\"logic\">又は</span>貸与した<span class=\"condition\">場合</span>には、</li></ul><div class=\"predicate-line\">その者に対し、当該機械等の回収<span class=\"logic\">又は</span>改善を図ること、<br>当該機械等を使用している者へ厚生労働省令で定める事項を通知すること<br>その他当該機械等が使用されることによる労働災害を防止するため必要な措置を講ずることを<span class=\"predicate\">命ずることができる。</span></div></div></div>"
+  },
+  {
+    "reference": "法45条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"subject\">事業者</span>は、</div><div class=\"predicate-line\">ボイラーその他の機械等で、政令で定めるものについて、<br>定期に自主検査を行い、<span class=\"logic\">及び</span>その結果を記録して<span class=\"predicate\">おかなければならない。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">第2項</span><div class=\"subject-line\"><span class=\"subject\">事業者</span>は、</div><ul class=\"condition-list\"><li>前項の機械等で政令で定めるものについて同項の規定による自主検査のうち</li><li>厚生労働省令で定める自主検査（以下「<span class=\"subject\">特定自主検査</span>」という。）を行うときは、</li></ul><div class=\"predicate-line\">その事業者で厚生労働省令で定める資格を有するものが自ら実施し、<br><span class=\"logic\">又は</span>その使用する労働者で当該資格を有するもの<span class=\"logic\">若しくは</span>検査業者に<span class=\"predicate\">実施させなければならない。</span></div></div></div>"
+  },
+  {
+    "reference": "法55条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\">黄りんマツチ、ベンジジン、ベンジジンを含有する製剤その他の<br>労働者に重度の健康障害を生ずる物で、政令で定めるものは、</div><div class=\"predicate-line\">製造し、輸入し、譲渡し、提供し、<span class=\"logic\">又は</span>使用<span class=\"predicate\">してはならない。</span></div></div><div class=\"exception-section\"><div class=\"exception-keyword\"><span class=\"exception\">ただし、</span></div><ul class=\"condition-list\"><li>試験研究のため製造し、輸入し、<span class=\"logic\">又は</span>使用する場合で、</li><li>政令で定める要件に該当するときは、</li></ul><div class=\"predicate-line\"><span class=\"exception\">この限りでない。</span></div></div></div>"
+  },
+  {
+    "reference": "法56条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\">ジクロルベンジジン、ジクロルベンジジンを含有する製剤その他の<br>労働者に重度の健康障害を生ずるおそれのある物で、政令で定めるものを製造しようとする者は、</div><div class=\"predicate-line\">あらかじめ、<span class=\"subject\">厚生労働大臣</span>の許可を<span class=\"predicate\">受けなければならない。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">第2項</span><div class=\"subject-line\"><span class=\"subject\">厚生労働大臣</span>は、</div><ul class=\"condition-list\"><li><span class=\"condition\">前項の許可の申請があった場合</span>には、</li><li>その申請を審査し、</li><li>製造設備、作業方法等が厚生労働大臣の定める基準に適合していると<span class=\"condition\">認めるとき</span>でなければ、</li></ul><div class=\"predicate-line\">同項の許可を<span class=\"predicate\">してはならない。</span></div></div></div>"
+  },
+  {
+    "reference": "法57条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\">爆発性の物、発火性の物、引火性の物その他の労働者に危険を生ずるおそれのある物<br><span class=\"logic\">若しくは</span>労働者に健康障害を生ずるおそれのある物で政令で定めるもの<br><span class=\"logic\">又は</span>製造許可物質を容器に入れ、<span class=\"logic\">又は</span>包装して、譲渡し、<span class=\"logic\">又は</span>提供する者は、</div><div class=\"predicate-line\">その容器<span class=\"logic\">又は</span>包装に所定の事項を<span class=\"predicate\">表示しなければならない。</span></div></div><div class=\"exception-section\"><div class=\"exception-keyword\"><span class=\"exception\">ただし、</span></div><ul class=\"condition-list\"><li>その容器<span class=\"logic\">又は</span>包装のうち、主として一般消費者の生活の用に供するためのものについては、</li></ul><div class=\"predicate-line\"><span class=\"exception\">この限りでない。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">第2項</span><div class=\"subject-line\">前項の政令で定める物<span class=\"logic\">又は</span>製造許可物質を前項に規定する方法以外の方法により譲渡し、<span class=\"logic\">又は</span>提供する者は、</div><div class=\"predicate-line\">同項に定める所定の事項を記載した文書を、<br>譲渡し、<span class=\"logic\">又は</span>提供する相手方に<span class=\"predicate\">交付しなければならない。</span></div></div></div>"
+  },
+  {
+    "reference": "法57条の2",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"subject\">通知対象物を譲渡し、<span class=\"logic\">又は</span>提供する者（通知対象物譲渡者等）</span>は、</div><div class=\"predicate-line\">文書の交付その他厚生労働省令で定める方法により通知対象物に関する所定の事項を、<br>譲渡し、<span class=\"logic\">又は</span>提供する相手方に<span class=\"predicate\">通知しなければならない。</span></div></div><div class=\"exception-section\"><div class=\"exception-keyword\"><span class=\"exception\">ただし、</span></div><ul class=\"condition-list\"><li>主として一般消費者の生活の用に供される製品として通知対象物を譲渡し、<span class=\"logic\">又は</span>提供する場合については、</li></ul><div class=\"predicate-line\"><span class=\"exception\">この限りでない。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">第2項</span><div class=\"subject-line\"><span class=\"subject\">通知対象物譲渡者等</span>は、</div><ul class=\"condition-list\"><li>前項の規定により通知した事項に変更を行う必要が<span class=\"condition\">生じたとき</span>は、</li></ul><div class=\"predicate-line\">文書の交付その他厚生労働省令で定める方法により、<br>変更後の事項を、速やかに、譲渡し、<span class=\"logic\">又は</span>提供した相手方に通知するよう<span class=\"predicate\">努めなければならない。</span></div></div></div>"
+  },
+  {
+    "reference": "法57条の3",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"subject\">事業者</span>は、</div><div class=\"predicate-line\">表示対象物<span class=\"logic\">及び</span>通知対象物による危険性<span class=\"logic\">又は</span>有害性等を<span class=\"predicate\">調査しなければならない。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">第2項</span><div class=\"subject-line\"><span class=\"subject\">事業者</span>は、</div><div class=\"predicate-line\">前項の調査の結果に基づいて、労働安全衛生法<span class=\"logic\">又は</span>これに基づく命令の規定による措置を講ずるほか、<br>労働者の危険<span class=\"logic\">又は</span>健康障害を防止するため必要な措置を講ずるように<span class=\"predicate\">努めなければならない。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">第3項</span><div class=\"subject-line\"><span class=\"subject\">厚生労働大臣</span>は、</div><div class=\"predicate-line\">前2項の措置に関して、その適切<span class=\"logic\">かつ</span>有効な実施を図るため必要な指針を<span class=\"predicate\">公表するものとする。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">第4項</span><div class=\"subject-line\"><span class=\"subject\">厚生労働大臣</span>は、</div><div class=\"predicate-line\">前項の指針に従い、事業者<span class=\"logic\">又は</span>その団体に対し、必要な指導、援助等を<span class=\"predicate\">行うことができる。</span></div></div></div>"
+  },
+  {
+    "reference": "法57条の4",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"subject\">新規化学物質を製造し、<span class=\"logic\">又は</span>輸入しようとする事業者</span>は、</div><ul class=\"condition-list\"><li>あらかじめ、厚生労働大臣の定める基準に従って有害性の調査を行い、</li><li>当該新規化学物質の名称、有害性の調査の結果その他の事項を</li></ul><div class=\"predicate-line\"><span class=\"subject\">厚生労働大臣</span>に<span class=\"predicate\">届け出なければならない。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">第3項</span><div class=\"subject-line\"><span class=\"subject\">厚生労働大臣</span>は、</div><ul class=\"condition-list\"><li><span class=\"condition\">第1項の規定による届出があった場合</span>には、</li></ul><div class=\"predicate-line\">当該新規化学物質の名称を<span class=\"predicate\">公表するものとする。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">第4項</span><div class=\"subject-line\"><span class=\"subject\">厚生労働大臣</span>は、</div><ul class=\"condition-list\"><li><span class=\"condition\">第1項の規定による届出があった場合</span>には、</li><li>有害性の調査の結果について学識経験者の意見を聴き、</li><li>当該届出に係る化学物質による労働者の健康障害を防止するため必要があると<span class=\"condition\">認めるとき</span>は、</li></ul><div class=\"predicate-line\">届出をした事業者に対し、施設<span class=\"logic\">又は</span>設備の設置<span class=\"logic\">又は</span>整備、保護具の備付けその他の措置を講ずべきことを<span class=\"predicate\">勧告することができる。</span></div></div></div>"
+  },
+  {
+    "reference": "法57条の4第1項",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><div class=\"predicate-line\">（法57条の4第1項の詳細規定 — 上位条文を参照）</div></div></div>"
+  },
+  {
+    "reference": "法57条の5",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"subject\">厚生労働大臣</span>は、</div><ul class=\"condition-list\"><li>化学物質で、がんその他の重度の健康障害を労働者に生ずるおそれのあるものについて、</li><li>当該化学物質による労働者の健康障害を防止するため必要があると<span class=\"condition\">認めるとき</span>は、</li></ul><div class=\"predicate-line\">当該化学物質を製造し、輸入し、<span class=\"logic\">又は</span>使用している事業者その他厚生労働省令で定める事業者に対し、<br>政令で定める有害性の調査を行い、その結果を報告すべきことを<span class=\"predicate\">指示することができる。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">第3項</span><div class=\"subject-line\"><span class=\"subject\">厚生労働大臣</span>は、</div><ul class=\"condition-list\"><li><span class=\"condition\">第1項の規定による指示を行おうとするとき</span>は、</li></ul><div class=\"predicate-line\">あらかじめ、学識経験者の意見を<span class=\"predicate\">聴かなければならない。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">第4項</span><div class=\"subject-line\"><span class=\"subject\">第1項の規定による有害性の調査を行った事業者</span>は、</div><div class=\"predicate-line\">その結果に基づいて、当該化学物質による労働者の健康障害を防止するため<br>必要な措置を速やかに<span class=\"predicate\">講じなければならない。</span></div></div></div>"
+  },
+  {
+    "reference": "法61条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"subject\">事業者</span>は、</div><ul class=\"condition-list\"><li>クレーンの運転その他の業務で、政令で定めるものについては、</li><li>都道府県労働局長の当該業務に係る免許を受けた者<span class=\"logic\">又は</span>登録教習機関が行う当該業務に係る技能講習を修了した者<br>その他厚生労働省令で定める資格を有する者でなければ、</li></ul><div class=\"predicate-line\">当該業務に<span class=\"predicate\">就かせてはならない。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">第2項</span><div class=\"predicate-line\">前項の規定により当該業務につくことができる者以外の者は、当該業務を<span class=\"predicate\">行なってはならない。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">第3項</span><div class=\"subject-line\">第1項の規定により当該業務につくことができる者は、</div><ul class=\"condition-list\"><li><span class=\"condition\">当該業務に従事するとき</span>は、</li></ul><div class=\"predicate-line\">これに係る免許証その他その資格を証する書面を<span class=\"predicate\">携帯していなければならない。</span></div></div></div>"
+  },
+  {
+    "reference": "法75条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\"><span class=\"subject\">免許試験</span>は、</div><div class=\"predicate-line\">厚生労働省令で定める区分ごとに、<span class=\"subject\">都道府県労働局長</span>が<span class=\"predicate\">行う。</span></div></div></div>"
+  },
+  {
+    "reference": "法72条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\">第12条第1項（衛生管理者）、第14条（作業主任者）<span class=\"logic\">又は</span>第61条第1項（就業制限業務）の免許は、</div><div class=\"predicate-line\">第75条第1項の免許試験に合格した者その他厚生労働省令で定める資格を有する者に対し、<br>免許証を交付して<span class=\"predicate\">行う。</span></div></div></div>"
+  },
+  {
+    "reference": "法76条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"subject\">技能講習</span>は、</div><div class=\"predicate-line\">別表第18に掲げる区分ごとに、学科講習<span class=\"logic\">又は</span>実技講習によって<span class=\"predicate\">行う。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">第2項</span><div class=\"subject-line\">技能講習を行なった者（<span class=\"subject\">登録教習機関</span>）は、</div><div class=\"predicate-line\">当該技能講習を修了した者に対し、技能講習修了証を<span class=\"predicate\">交付しなければならない。</span></div></div></div>"
+  },
+  {
+    "reference": "法62条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\"><span class=\"subject\">事業者</span>は、</div><ul class=\"condition-list\"><li>中高年齢者その他労働災害の防止上その就業に当たって特に配慮を必要とする者については、</li></ul><div class=\"predicate-line\">これらの者の心身の条件に応じて適正な配置を行うように<span class=\"predicate\">努めなければならない。</span></div></div></div>"
+  },
+  {
+    "reference": "法62条の2",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"subject\">事業者</span>は、</div><ul class=\"condition-list\"><li>高年齢者の労働災害の防止を図るため、</li><li>高年齢者の特性に配慮した作業環境の改善、作業の管理その他の必要な措置を講ずるように</li></ul><div class=\"predicate-line\"><span class=\"predicate\">努めなければならない。</span></div></div></div>"
+  },
+  {
+    "reference": "法59条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"subject\">事業者</span>は、</div><ul class=\"condition-list\"><li><span class=\"condition\">労働者を雇い入れたとき</span>は、</li></ul><div class=\"predicate-line\">当該労働者に対し、その従事する業務に関する安全<span class=\"logic\">又は</span>衛生のための教育を<span class=\"predicate\">行なわなければならない。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">第2項</span><div class=\"predicate-line\">前項の規定は、<span class=\"condition\">労働者の作業内容を変更したとき</span>について<span class=\"predicate\">準用する。</span></div></div></div>"
+  },
+  {
+    "reference": "法60条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\"><span class=\"subject\">事業者</span>は、</div><ul class=\"condition-list\"><li>その事業場の業種が政令で定めるものに<span class=\"condition\">該当するとき</span>は、</li><li>新たに職務につくこととなった職長その他の作業中の労働者を直接指導<span class=\"logic\">又は</span>監督する者<br>（<span class=\"exception\">作業主任者を除く。</span>）に対し、</li></ul><div class=\"predicate-line\">次の事項について、安全<span class=\"logic\">又は</span>衛生のための教育を<span class=\"predicate\">行なわなければならない。</span></div><ul class=\"condition-list\"><li>1. 作業方法の決定<span class=\"logic\">及び</span>労働者の配置に関すること。</li><li>2. 労働者に対する指導<span class=\"logic\">又は</span>監督の方法に関すること。</li><li>3. 1.<span class=\"logic\">及び</span>2.に掲げるもののほか、労働災害を防止するため必要な事項で、厚生労働省令で定めるもの</li></ul></div></div>"
+  },
+  {
+    "reference": "法60条の2",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"subject\">事業者</span>は、</div><ul class=\"condition-list\"><li>第59条<span class=\"logic\">及び</span>第60条に定めるもののほか、</li><li>その事業場における安全衛生の水準の向上を図るため、</li><li>危険<span class=\"logic\">又は</span>有害な業務に現に就いている者に対し、</li></ul><div class=\"predicate-line\">その従事する業務に関する安全<span class=\"logic\">又は</span>衛生のための教育を行うように<span class=\"predicate\">努めなければならない。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">第2項</span><div class=\"subject-line\"><span class=\"subject\">厚生労働大臣</span>は、</div><div class=\"predicate-line\">前項の教育の適切<span class=\"logic\">かつ</span>有効な実施を図るため必要な指針を<span class=\"predicate\">公表するものとする。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">第3項</span><div class=\"subject-line\"><span class=\"subject\">厚生労働大臣</span>は、</div><div class=\"predicate-line\">前項の指針に従い、事業者<span class=\"logic\">又は</span>その団体に対し、必要な指導等を<span class=\"predicate\">行うことができる。</span></div></div></div>"
+  },
+  {
+    "reference": "法65条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"subject\">事業者</span>は、</div><div class=\"predicate-line\">有害な業務を行う屋内作業場その他の作業場で、政令で定めるものについて、<br>必要な作業環境測定を行い、<span class=\"logic\">及び</span>その結果を記録して<span class=\"predicate\">おかなければならない。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">第2項</span><div class=\"predicate-line\">前項の規定による作業環境測定は、<span class=\"subject\">厚生労働大臣</span>の定める作業環境測定基準に従って<span class=\"predicate\">行わなければならない。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">第3項</span><div class=\"subject-line\"><span class=\"subject\">厚生労働大臣</span>は、</div><div class=\"predicate-line\">第1項の規定による作業環境測定の適切<span class=\"logic\">かつ</span>有効な実施を図るため<br>必要な作業環境測定指針を<span class=\"predicate\">公表するものとする。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">第5項</span><div class=\"subject-line\"><span class=\"subject\">都道府県労働局長</span>は、</div><ul class=\"condition-list\"><li>作業環境の改善により労働者の健康を保持する必要があると<span class=\"condition\">認めるとき</span>は、</li></ul><div class=\"predicate-line\">労働衛生指導医の意見に基づき、事業者に対し、<br>作業環境測定の実施その他必要な事項を<span class=\"predicate\">指示することができる。</span></div></div></div>"
+  },
+  {
+    "reference": "法65条の2",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"subject\">事業者</span>は、</div><ul class=\"condition-list\"><li>作業環境測定の結果の評価に基づいて、</li><li>労働者の健康を保持するため必要があると<span class=\"condition\">認められるとき</span>は、</li></ul><div class=\"predicate-line\">施設<span class=\"logic\">又は</span>設備の設置<span class=\"logic\">又は</span>整備、健康診断の実施その他の適切な措置を<span class=\"predicate\">講じなければならない。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">第2項</span><div class=\"subject-line\"><span class=\"subject\">事業者</span>は、</div><div class=\"predicate-line\">前項の評価を行うに当たっては、<span class=\"subject\">厚生労働大臣</span>の定める作業環境評価基準に従って<span class=\"predicate\">行わなければならない。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">第3項</span><div class=\"subject-line\"><span class=\"subject\">事業者</span>は、</div><ul class=\"condition-list\"><li>前項の規定による作業環境測定の結果の評価を<span class=\"condition\">行ったとき</span>は、</li></ul><div class=\"predicate-line\">その結果を記録して<span class=\"predicate\">おかなければならない。</span></div></div></div>"
+  },
+  {
+    "reference": "法66条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"subject\">事業者</span>は、</div><div class=\"predicate-line\">労働者に対し、医師による健康診断を<span class=\"predicate\">行わなければならない。</span></div></div></div>"
+  },
+  {
+    "reference": "則43条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\"><span class=\"subject\">事業者</span>は、</div><ul class=\"condition-list\"><li><span class=\"condition\">常時使用する労働者を雇い入れるとき</span>は、</li></ul><div class=\"predicate-line\">当該労働者に対し、所定の項目について医師による健康診断を<span class=\"predicate\">行わなければならない。</span></div></div><div class=\"exception-section\"><div class=\"exception-keyword\"><span class=\"exception\">ただし、</span></div><ul class=\"condition-list\"><li>医師による健康診断を受けた後、<span class=\"period\">3月</span>を経過しない者を雇い入れる場合において、</li><li>その者が当該健康診断の結果を証明する書面を提出したときは、</li></ul><div class=\"predicate-line\">当該健康診断の項目に相当する項目については、<span class=\"exception\">この限りでない。</span></div></div></div>"
+  },
+  {
+    "reference": "則44条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"subject\">事業者</span>は、</div><ul class=\"condition-list\"><li>常時使用する労働者（<span class=\"exception\">特定業務従事者を除く。</span>）に対し、</li><li><span class=\"period\">1年以内ごとに1回</span>、定期に、</li></ul><div class=\"predicate-line\">所定の項目について医師による健康診断を<span class=\"predicate\">行わなければならない。</span></div></div></div>"
+  },
+  {
+    "reference": "則45条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"subject\">事業者</span>は、</div><ul class=\"condition-list\"><li>特定業務に常時従事する労働者に対し、</li><li>当該業務への配置替えの際<span class=\"logic\">及び</span><span class=\"period\">6月以内ごとに1回</span>、定期に、</li></ul><div class=\"predicate-line\">定期健康診断の検査項目について医師による健康診断を<span class=\"predicate\">行わなければならない。</span></div><div class=\"predicate-line\">この場合において、胸部エックス線検査<span class=\"logic\">及び</span>喀痰検査については、<br><span class=\"period\">1年以内ごとに1回</span>、定期に、行えば<span class=\"predicate\">足りるものとする。</span></div></div></div>"
+  },
+  {
+    "reference": "則45条の2",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"subject\">事業者</span>は、</div><ul class=\"condition-list\"><li>労働者を本邦外の地域に<span class=\"period\">6月以上</span>派遣しようとするときは、</li></ul><div class=\"predicate-line\">あらかじめ、当該労働者に対し、定期健康診断の検査項目<span class=\"logic\">及び</span>厚生労働大臣が定める項目のうち<br>医師が必要であると認める項目について、医師による健康診断を<span class=\"predicate\">行わなければならない。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">第2項</span><div class=\"subject-line\"><span class=\"subject\">事業者</span>は、</div><ul class=\"condition-list\"><li>本邦外の地域に<span class=\"period\">6月以上</span>派遣した労働者を本邦の地域内における業務に就かせるとき<br>（一時的に就かせるときを除く。）は、</li></ul><div class=\"predicate-line\">当該労働者に対し、所定の項目について、医師による健康診断を<span class=\"predicate\">行わなければならない。</span></div></div></div>"
+  },
+  {
+    "reference": "則47条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\"><span class=\"subject\">事業者</span>は、</div><ul class=\"condition-list\"><li>事業に附属する食堂<span class=\"logic\">又は</span>炊事場における給食の業務に従事する労働者に対し、</li><li>その雇入れの際<span class=\"logic\">又は</span>当該業務への配置替えの際、</li></ul><div class=\"predicate-line\">検便による健康診断を<span class=\"predicate\">行なわなければならない。</span></div></div></div>"
+  },
+  {
+    "reference": "法66条の2",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\"><span class=\"subject\">深夜業に従事する労働者であって、その深夜業の回数その他の事項が厚生労働省令で定める要件に該当するもの</span>は、</div><div class=\"predicate-line\">自ら受けた健康診断の結果を証明する書面を事業者に<span class=\"predicate\">提出することができる。</span></div></div></div>"
+  },
+  {
+    "reference": "則51条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\"><span class=\"subject\">事業者</span>は、</div><div class=\"predicate-line\">安全衛生法の規定による健康診断の結果に基づき、<br>健康診断個人票を作成して、これを<span class=\"period\">5年間</span><span class=\"predicate\">保存しなければならない。</span></div></div></div>"
+  },
+  {
+    "reference": "則52条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"period\">常時50人以上</span>の労働者を使用する<span class=\"subject\">事業者</span>は、</div><ul class=\"condition-list\"><li>健康診断（定期健康診断<span class=\"logic\">又は</span>特定業務従事者の健康診断であって定期のものに限る。）を行ったときは、</li></ul><div class=\"predicate-line\">遅滞なく、所定の事項を所轄労働基準監督署長に<span class=\"predicate\">報告しなければならない。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">第2項</span><div class=\"subject-line\"><span class=\"subject\">事業者</span>は、</div><ul class=\"condition-list\"><li>歯科医師による健康診断（定期のものに限る。）を行ったときは、</li></ul><div class=\"predicate-line\">遅滞なく、所定の事項を所轄労働基準監督署長に<span class=\"predicate\">報告しなければならない。</span></div></div></div>"
+  },
+  {
+    "reference": "法66条の4",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\"><span class=\"subject\">事業者</span>は、</div><ul class=\"condition-list\"><li>労働安全衛生法の規定による健康診断の結果<br>（当該健康診断の項目に異常の所見があると診断された労働者に係るものに限る。）に基づき、</li></ul><div class=\"predicate-line\">当該労働者の健康を保持するために必要な措置について、<br>医師<span class=\"logic\">又は</span>歯科医師の意見を<span class=\"predicate\">聴かなければならない。</span></div></div></div>"
+  },
+  {
+    "reference": "法66条の5",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"subject\">事業者</span>は、</div><ul class=\"condition-list\"><li>前条の規定による医師<span class=\"logic\">又は</span>歯科医師の意見を勘案し、</li><li><span class=\"condition\">その必要があると認めるとき</span>は、</li></ul><div class=\"predicate-line\">当該労働者の実情を考慮して、就業場所の変更、作業の転換、労働時間の短縮、深夜業の回数の減少等の措置を講ずるほか、<br>作業環境測定の実施、施設<span class=\"logic\">又は</span>設備の設置<span class=\"logic\">又は</span>整備、<br>当該医師<span class=\"logic\">又は</span>歯科医師の意見の衛生委員会<span class=\"logic\">若しくは</span>安全衛生委員会<span class=\"logic\">又は</span>労働時間等設定改善委員会への報告<br>その他の適切な措置を<span class=\"predicate\">講じなければならない。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">第2項</span><div class=\"subject-line\"><span class=\"subject\">厚生労働大臣</span>は、</div><div class=\"predicate-line\">前項の規定により事業者が講ずべき措置の適切<span class=\"logic\">かつ</span>有効な実施を図るため<br>必要な指針を<span class=\"predicate\">公表するものとする。</span></div></div></div>"
+  },
+  {
+    "reference": "法66条の6",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\"><span class=\"subject\">事業者</span>は、</div><ul class=\"condition-list\"><li>一般健康診断、特殊健康診断、歯科医師による健康診断<span class=\"logic\">及び</span>臨時健康診断を受けた労働者に対し、</li></ul><div class=\"predicate-line\">遅滞なく、当該健康診断の結果を<span class=\"predicate\">通知しなければならない。</span></div></div></div>"
+  },
+  {
+    "reference": "法66条の7",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"subject\">事業者</span>は、</div><ul class=\"condition-list\"><li>一般健康診断<span class=\"logic\">若しくは</span>当該健康診断に係る労働者指定医師による健康診断<span class=\"logic\">又は</span>自発的健康診断の結果、</li><li>特に健康の保持に努める必要があると認める労働者に対し、</li></ul><div class=\"predicate-line\">医師<span class=\"logic\">又は</span>保健師による保健指導を行うように<span class=\"predicate\">努めなければならない。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">第2項</span><div class=\"subject-line\"><span class=\"subject\">労働者</span>は、</div><div class=\"predicate-line\">前条の規定により通知された健康診断の結果<span class=\"logic\">及び</span>前項の規定による保健指導を利用して、<br>その健康の保持に<span class=\"predicate\">努めるものとする。</span></div></div></div>"
+  },
+  {
+    "reference": "法66条の8",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"subject\">事業者</span>は、</div><ul class=\"condition-list\"><li>その労働時間の状況その他の事項が労働者の健康の保持を考慮して<br>厚生労働省令で定める要件に該当する労働者に対し、</li></ul><div class=\"predicate-line\">医師による<span class=\"subject\">面接指導</span>（問診その他の方法により心身の状況を把握し、<br>これに応じて面接により必要な指導を行うことをいう。）を<span class=\"predicate\">行わなければならない。</span></div></div></div>"
+  },
+  {
+    "reference": "法66条の8の2",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"subject\">事業者</span>は、</div><ul class=\"condition-list\"><li>その労働時間が労働者の健康の保持を考慮して厚生労働省令で定める時間を超える労働者</li><li>（労働基準法第36条第11項に規定する業務（新たな技術、商品<span class=\"logic\">又は</span>役務の研究開発に係る業務）に従事する者に<span class=\"period\">限る。</span>）に対し、</li></ul><div class=\"predicate-line\">医師による面接指導を<span class=\"predicate\">行わなければならない。</span></div></div></div>"
+  },
+  {
+    "reference": "則52条の7の2",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\">法66条の8の2第1項の厚生労働省令で定める時間は、</div><div class=\"predicate-line\">休憩時間を除き1週間当たり<span class=\"period\">40時間</span>を超えて労働させた場合におけるその超えた時間について、<br>1月当たり<span class=\"period\">100時間</span>とする。</div></div></div>"
+  },
+  {
+    "reference": "法66条の8の4",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"subject\">事業者</span>は、</div><ul class=\"condition-list\"><li>労働基準法第41条の2第1項（高度プロフェッショナル制度）の規定により労働する労働者であって、</li><li>その健康管理時間が当該労働者の健康の保持を考慮して厚生労働省令で定める時間を超えるものに対し、</li></ul><div class=\"predicate-line\">医師による面接指導を<span class=\"predicate\">行わなければならない。</span></div></div></div>"
+  },
+  {
+    "reference": "法66条の10",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"subject\">事業者</span>は、</div><div class=\"predicate-line\">労働者に対し、医師、保健師その他の厚生労働省令で定める者（以下「<span class=\"subject\">医師等</span>」という。）による<br>心理的な負担の程度を把握するための検査を<span class=\"predicate\">行わなければならない。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">第2項</span><div class=\"subject-line\"><span class=\"subject\">事業者</span>は、</div><div class=\"predicate-line\">前項の規定により行う検査を受けた労働者に対し、<br>当該検査を行った医師等から当該検査の結果が通知されるように<span class=\"predicate\">しなければならない。</span></div><div class=\"predicate-line\">この場合において、当該<span class=\"subject\">医師等</span>は、<br>あらかじめ当該検査を受けた労働者の同意を得ないで、<br>当該労働者の検査の結果を事業者に<span class=\"predicate\">提供してはならない。</span></div></div></div>"
+  },
+  {
+    "reference": "法67条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"subject\">都道府県労働局長</span>は、</div><ul class=\"condition-list\"><li>がんその他の重度の健康障害を生ずるおそれのある業務で、政令で定めるものに従事していた者のうち、</li><li>厚生労働省令で定める要件に該当する者に対し、</li></ul><div class=\"predicate-line\">離職の際に<span class=\"logic\">又は</span>離職の後に、当該業務に係る<span class=\"subject\">健康管理手帳</span>を<span class=\"predicate\">交付するものとする。</span></div></div><div class=\"exception-section\"><div class=\"exception-keyword\"><span class=\"exception\">ただし、</span></div><ul class=\"condition-list\"><li>現に当該業務に係る健康管理手帳を所持している者については、</li></ul><div class=\"predicate-line\"><span class=\"exception\">この限りでない。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">第2項</span><div class=\"subject-line\"><span class=\"subject\">政府</span>は、</div><div class=\"predicate-line\">健康管理手帳を所持している者に対する健康診断に関し、必要な措置を<span class=\"predicate\">行う。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">第3項</span><div class=\"predicate-line\">健康管理手帳の交付を受けた者は、当該健康管理手帳を他人に譲渡し、<span class=\"logic\">又は</span>貸与<span class=\"predicate\">してはならない。</span></div></div></div>"
+  },
+  {
+    "reference": "法68条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\"><span class=\"subject\">事業者</span>は、</div><ul class=\"condition-list\"><li>伝染性の疾病その他の疾病で、厚生労働省令で定めるものにかかった労働者については、</li></ul><div class=\"predicate-line\">その就業を<span class=\"predicate\">禁止しなければならない。</span></div></div></div>"
+  },
+  {
+    "reference": "法68条の2",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\"><span class=\"subject\">事業者</span>は、</div><div class=\"predicate-line\">労働者の受動喫煙を防止するため、<br>当該事業者<span class=\"logic\">及び</span>事業場の実情に応じ適切な措置を講ずるよう<span class=\"predicate\">努めるものとする。</span></div></div></div>"
+  },
+  {
+    "reference": "法71条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"subject\">国</span>は、</div><ul class=\"condition-list\"><li>労働者の健康の保持増進に関する措置の適切<span class=\"logic\">かつ</span>有効な実施を図るため、</li></ul><div class=\"predicate-line\">必要な資料の提供、作業環境測定<span class=\"logic\">及び</span>健康診断の実施の促進、<br>受動喫煙の防止のための設備の設置の促進、<br>事業場における健康教育等に関する指導員の確保<span class=\"logic\">及び</span>資質の向上の促進<br>その他の必要な援助に<span class=\"predicate\">努めるものとする。</span></div></div></div>"
+  },
+  {
+    "reference": "法65条の4",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\"><span class=\"subject\">事業者</span>は、</div><ul class=\"condition-list\"><li>潜水業務その他の健康障害を生ずるおそれのある業務で、厚生労働省令で定めるものに従事させる労働者については、</li></ul><div class=\"predicate-line\">厚生労働省令で定める作業時間についての基準に違反して、<br>当該業務に<span class=\"predicate\">従事させてはならない。</span></div></div></div>"
+  },
+  {
+    "reference": "法65条の3",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\"><span class=\"subject\">事業者</span>は、</div><div class=\"predicate-line\">労働者の健康に配慮して、労働者の従事する作業を適切に管理するように<span class=\"predicate\">努めなければならない。</span></div></div></div>"
+  },
+  {
+    "reference": "法69条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"subject\">事業者</span>は、</div><div class=\"predicate-line\">労働者に対する健康教育<span class=\"logic\">及び</span>健康相談その他労働者の健康の保持増進を図るため<br>必要な措置を継続的<span class=\"logic\">かつ</span>計画的に講ずるように<span class=\"predicate\">努めなければならない。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">第2項</span><div class=\"subject-line\"><span class=\"subject\">労働者</span>は、</div><div class=\"predicate-line\">前項の事業者が講ずる措置を利用して、その健康の保持増進に<span class=\"predicate\">努めるものとする。</span></div></div></div>"
+  },
+  {
+    "reference": "法71条の2",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"subject\">事業者</span>は、</div><ul class=\"condition-list\"><li>事業場における安全衛生の水準の向上を図るため、</li><li>次の措置を継続的<span class=\"logic\">かつ</span>計画的に講ずることにより、</li></ul><div class=\"predicate-line\">快適な職場環境を形成するように<span class=\"predicate\">努めなければならない。</span></div><ul class=\"condition-list\"><li>1. 作業環境を快適な状態に維持管理するための措置</li><li>2. 労働者の従事する作業について、その方法を改善するための措置</li><li>3. 作業に従事することによる労働者の疲労を回復するための施設<span class=\"logic\">又は</span>設備の設置<span class=\"logic\">又は</span>整備</li><li>4. 前3号に掲げるもののほか、快適な職場環境を形成するため必要な措置</li></ul></div></div>"
+  },
+  {
+    "reference": "法78条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"subject\">厚生労働大臣</span>は、</div><ul class=\"condition-list\"><li>重大な労働災害が<span class=\"condition\">発生した場合</span>において、</li><li>重大な労働災害の再発を防止するため必要がある場合として厚生労働省令で定める場合に該当すると<span class=\"condition\">認めるとき</span>は、</li></ul><div class=\"predicate-line\"><span class=\"subject\">事業者</span>に対し、その事業場の安全<span class=\"logic\">又は</span>衛生に関する改善計画<br>（以下「<span class=\"subject\">特別安全衛生改善計画</span>」という。）を作成し、<br>これを厚生労働大臣に提出すべきことを<span class=\"predicate\">指示することができる。</span></div></div><div class=\"principle-section\"><div class=\"subject-line\"><span class=\"subject\">事業者</span>は、</div><ul class=\"condition-list\"><li><span class=\"condition\">特別安全衛生改善計画を作成しようとする場合</span>には、</li></ul><div class=\"predicate-line\">当該事業場の過半数労働組合<span class=\"logic\">又は</span>過半数代表者の意見を<span class=\"predicate\">聴かなければならない。</span></div></div></div>"
+  },
+  {
+    "reference": "法79条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"subject\">都道府県労働局長</span>は、</div><ul class=\"condition-list\"><li>事業場の施設その他の事項について、労働災害の防止を図るため総合的な改善措置を講ずる必要があると<span class=\"condition\">認めるとき</span>は、</li></ul><div class=\"predicate-line\">事業者に対し、当該事業場の安全<span class=\"logic\">又は</span>衛生に関する改善計画<br>（以下「<span class=\"subject\">安全衛生改善計画</span>」という。）を作成すべきことを<span class=\"predicate\">指示することができる。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">第2項</span><div class=\"subject-line\"><span class=\"subject\">事業者</span>は、</div><ul class=\"condition-list\"><li><span class=\"condition\">安全衛生改善計画を作成しようとする場合</span>には、</li></ul><div class=\"predicate-line\">当該事業場の過半数労働組合<span class=\"logic\">又は</span>過半数代表者の意見を<span class=\"predicate\">聴かなければならない。</span></div><div class=\"predicate-line\">また、第1項の事業者<span class=\"logic\">及び</span>その労働者は、安全衛生改善計画を<span class=\"predicate\">守らなければならない。</span></div></div></div>"
+  },
+  {
+    "reference": "法80条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"subject\">厚生労働大臣</span>は、</div><ul class=\"condition-list\"><li>第78条第1項又は第4項の規定による特別安全衛生改善計画の作成<span class=\"logic\">又は</span>変更の指示をした<span class=\"condition\">場合</span>において、</li><li>専門的な助言を必要とすると認めるときは、</li></ul><div class=\"predicate-line\">当該事業者に対し、<span class=\"subject\">労働安全コンサルタント<span class=\"logic\">又は</span>労働衛生コンサルタント</span>による安全<span class=\"logic\">又は</span>衛生に係る診断を受け、<br><span class=\"logic\">かつ</span>、特別安全衛生改善計画の作成<span class=\"logic\">又は</span>変更について、これらの者の意見を聴くべきことを<span class=\"predicate\">勧奨することができる。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">第2項</span><div class=\"subject-line\"><span class=\"subject\">都道府県労働局長</span>は、</div><ul class=\"condition-list\"><li>第79条第1項の規定による安全衛生改善計画の作成の指示をした<span class=\"condition\">場合</span>において、</li><li>専門的な助言を必要とすると認めるときは、</li></ul><div class=\"predicate-line\">当該事業者に対し、労働安全コンサルタント<span class=\"logic\">又は</span>労働衛生コンサルタントによる安全<span class=\"logic\">又は</span>衛生に係る診断を受け、<br><span class=\"logic\">かつ</span>、安全衛生改善計画の作成について、これらの者の意見を聴くべきことを<span class=\"predicate\">勧奨することができる。</span></div></div></div>"
+  },
+  {
+    "reference": "法81条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"subject\">労働安全コンサルタント</span>は、</div><div class=\"predicate-line\">労働安全コンサルタントの名称を用いて、他人の求めに応じ報酬を得て、<br>労働者の安全の水準の向上を図るため、事業場の安全についての診断<span class=\"logic\">及び</span>これに基づく指導を行うことを<span class=\"predicate\">業とする。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">第2項</span><div class=\"subject-line\"><span class=\"subject\">労働衛生コンサルタント</span>は、</div><div class=\"predicate-line\">労働衛生コンサルタントの名称を用いて、他人の求めに応じ報酬を得て、<br>労働者の衛生の水準の向上を図るため、事業場の衛生についての診断<span class=\"logic\">及び</span>これに基づく指導を行うことを<span class=\"predicate\">業とする。</span></div></div></div>"
+  },
+  {
+    "reference": "法86条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"subject\">コンサルタント</span>は、</div><div class=\"predicate-line\">コンサルタントの信用を傷つけ、<span class=\"logic\">又は</span>コンサルタント全体の不名誉となるような行為を<span class=\"predicate\">してはならない。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">第2項</span><div class=\"subject-line\"><span class=\"subject\">コンサルタント</span>は、</div><div class=\"predicate-line\">その業務に関して知り得た秘密を漏らし、<span class=\"logic\">又は</span>盗用<span class=\"predicate\">してはならない。</span></div><div class=\"predicate-line\">コンサルタントでなくなった後においても、同様とする。</div></div></div>"
+  },
+  {
+    "reference": "法88条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"subject\">事業者</span>は、</div><ul class=\"condition-list\"><li>機械等で、厚生労働省令で定めるものを設置し、<span class=\"logic\">若しくは</span>移転し、<span class=\"logic\">又は</span>これらの主要構造部分を変更しようとするときは、</li></ul><div class=\"predicate-line\">その計画を当該工事の開始の日の<span class=\"period\">30日前</span>までに、<br><span class=\"subject\">労働基準監督署長</span>に<span class=\"predicate\">届け出なければならない。</span></div></div></div>"
+  },
+  {
+    "reference": "法88条1項",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><div class=\"predicate-line\">（法88条第1項の詳細規定 — 上位条文を参照）</div></div></div>"
+  },
+  {
+    "reference": "法89条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"subject\">厚生労働大臣</span>は、</div><div class=\"predicate-line\">第88条第1項から第3項までの規定による届出があった計画のうち、<br>高度の技術的検討を要するものについて審査を<span class=\"predicate\">することができる。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">第2項</span><div class=\"subject-line\"><span class=\"subject\">厚生労働大臣</span>は、</div><div class=\"predicate-line\">前項の審査を行うに当たっては、学識経験者の意見を<span class=\"predicate\">きかなければならない。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">第3項</span><div class=\"subject-line\"><span class=\"subject\">厚生労働大臣</span>は、</div><ul class=\"condition-list\"><li><span class=\"condition\">第1項の審査の結果必要があると認めるとき</span>は、</li></ul><div class=\"predicate-line\">届出をした事業者に対し、労働災害の防止に関する事項について<br>必要な勧告<span class=\"logic\">又は</span>要請を<span class=\"predicate\">することができる。</span></div></div></div>"
+  },
+  {
+    "reference": "法89条の2",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"subject\">都道府県労働局長</span>は、</div><div class=\"predicate-line\">第88条第1項<span class=\"logic\">又は</span>第3項の規定による届出があった計画のうち、<br>高度の技術的検討を要するものに準ずるものとして厚生労働省令で定めるものについて<br>審査を<span class=\"predicate\">することができる。</span></div></div></div>"
+  },
+  {
+    "reference": "法90条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\"><span class=\"subject\">労働基準監督署長<span class=\"logic\">及び</span>労働基準監督官</span>は、</div><div class=\"predicate-line\">労働安全衛生法の施行に関する事務を<span class=\"predicate\">つかさどる。</span></div></div></div>"
+  },
+  {
+    "reference": "法91条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"subject\">労働基準監督官</span>は、</div><ul class=\"condition-list\"><li>労働安全衛生法を施行するため必要があると<span class=\"condition\">認めるとき</span>は、</li></ul><div class=\"predicate-line\">事業場に立ち入り、関係者に質問し、帳簿、書類その他の物件を検査し、<br><span class=\"logic\">若しくは</span>作業環境測定を行い、<span class=\"logic\">又は</span>検査に必要な限度において<br>無償で製品、原材料<span class=\"logic\">若しくは</span>器具を<span class=\"predicate\">収去することができる。</span></div></div></div>"
+  },
+  {
+    "reference": "法93条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"predicate-line\">厚生労働省、都道府県労働局<span class=\"logic\">及び</span>労働基準監督署に、<br><span class=\"subject\">産業安全専門官<span class=\"logic\">及び</span>労働衛生専門官</span>を<span class=\"predicate\">置く。</span></div></div></div>"
+  },
+  {
+    "reference": "法95条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"predicate-line\">都道府県労働局に、<span class=\"subject\">労働衛生指導医</span>を<span class=\"predicate\">置く。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">第2項</span><div class=\"subject-line\"><span class=\"subject\">労働衛生指導医</span>は、</div><div class=\"predicate-line\">第65条第5項（作業環境測定の実施等）<span class=\"logic\">又は</span>第66条第4項（臨時の健康診断等）の規定による指示に関する事務<br>その他労働者の衛生に関する事務に<span class=\"predicate\">参画する。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">第3項</span><div class=\"subject-line\"><span class=\"subject\">労働衛生指導医</span>は、</div><div class=\"predicate-line\">労働衛生に関し学識経験を有する医師のうちから、<span class=\"subject\">厚生労働大臣</span>が<span class=\"predicate\">任命する。</span></div></div></div>"
+  },
+  {
+    "reference": "法96条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第4項</span><div class=\"subject-line\"><span class=\"subject\">都道府県労働局長</span>は、</div><ul class=\"condition-list\"><li>労働衛生指導医を第95条第2項の規定による事務に参画させるため必要があると<span class=\"condition\">認めるとき</span>は、</li></ul><div class=\"predicate-line\">当該労働衛生指導医をして事業場に立ち入り、関係者に質問させ、<br><span class=\"logic\">又は</span>作業環境測定<span class=\"logic\">若しくは</span>健康診断の結果の記録その他の物件を<span class=\"predicate\">検査させることができる。</span></div></div></div>"
+  },
+  {
+    "reference": "法97条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"subject\">作業従事者</span>は、</div><ul class=\"condition-list\"><li>事業場に労働安全衛生法<span class=\"logic\">又は</span>これに基づく命令の規定に違反する事実があるときは、</li></ul><div class=\"predicate-line\">その事実を都道府県労働局長、労働基準監督署長<span class=\"logic\">又は</span>労働基準監督官に申告して<br>是正のため適当な措置をとるように<span class=\"predicate\">求めることができる。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">第2項</span><div class=\"subject-line\"><span class=\"subject\">事業者</span>は、</div><div class=\"predicate-line\">前項の申告をしたことを理由として、労働者に対し、<br>解雇その他不利益な取扱いを<span class=\"predicate\">してはならない。</span></div></div></div>"
+  },
+  {
+    "reference": "法98条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"subject\">都道府県労働局長<span class=\"logic\">又は</span>労働基準監督署長</span>は、</div><ul class=\"condition-list\"><li>第20条から第25条まで等の規定に違反する事実が<span class=\"condition\">あるとき</span>は、</li></ul><div class=\"predicate-line\">その違反した事業者、注文者、機械等貸与者<span class=\"logic\">又は</span>建築物貸与者に対し、<br>作業の全部<span class=\"logic\">又は</span>一部の停止、建設物等の全部<span class=\"logic\">又は</span>一部の使用の停止<span class=\"logic\">又は</span>変更<br>その他労働災害を防止するため必要な事項を<span class=\"predicate\">命ずることができる。</span></div></div></div>"
+  },
+  {
+    "reference": "法99条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"subject\">都道府県労働局長<span class=\"logic\">又は</span>労働基準監督署長</span>は、</div><ul class=\"condition-list\"><li>法98条第1項の場合以外の場合において、</li><li>労働災害発生の急迫した危険があり、<span class=\"logic\">かつ</span>、緊急の必要があるときは、</li></ul><div class=\"predicate-line\">必要な限度において、事業を行う者に対し、<br>作業の全部<span class=\"logic\">又は</span>一部の一時停止、建設物等の全部<span class=\"logic\">又は</span>一部の使用の一時停止<br>その他当該労働災害を防止するため必要な応急の措置を講ずることを<span class=\"predicate\">命ずることができる。</span></div></div></div>"
+  },
+  {
+    "reference": "法99条の2",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"subject\">都道府県労働局長</span>は、</div><ul class=\"condition-list\"><li>労働災害が<span class=\"condition\">発生した場合</span>において、</li><li>その再発を防止するため必要があると認めるときは、</li></ul><div class=\"predicate-line\">当該労働災害に係る事業者に対し、期間を定めて、<br>当該労働災害が発生した事業場の総括安全衛生管理者、安全管理者、衛生管理者、統括安全衛生責任者<br>その他労働災害の防止のための業務に従事する者に<br>都道府県労働局長の指定する者が行う講習を受けさせるよう<span class=\"predicate\">指示することができる。</span></div></div></div>"
+  },
+  {
+    "reference": "法100条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\"><span class=\"subject\">厚生労働大臣</span>、<span class=\"subject\">都道府県労働局長</span><span class=\"logic\">又は</span><span class=\"subject\">労働基準監督署長</span>は、</div><ul class=\"condition-list\"><li>労働安全衛生法を施行するため必要があると認めるときは、</li><li>事業者、労働者、機械等貸与者、建築物貸与者、通知対象物譲渡者等<span class=\"logic\">又は</span>コンサルタントに対し、</li></ul><div class=\"predicate-line\">必要な事項を報告させ、<span class=\"logic\">又は</span>出頭を<span class=\"predicate\">命ずることができる。</span></div></div></div>"
+  },
+  {
+    "reference": "則97条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"subject\">事業者</span>は、</div><ul class=\"condition-list\"><li>労働者が労働災害等により死亡し、<span class=\"logic\">又は</span>休業したときは、</li></ul><div class=\"predicate-line\">遅滞なく、所定事項を所轄労働基準監督署長に<span class=\"predicate\">報告しなければならない。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">第2項</span><div class=\"subject-line\">前項の場合において、休業の日数が<span class=\"period\">4日に満たないとき</span>は、</div><div class=\"subject-line\"><span class=\"subject\">事業者</span>は、</div><ul class=\"condition-list\"><li><span class=\"period\">1月から3月</span>まで、<span class=\"period\">4月から6月</span>まで、<span class=\"period\">7月から9月</span>まで<span class=\"logic\">及び</span><span class=\"period\">10月から12月</span>までの期間における当該事実について、</li></ul><div class=\"predicate-line\">それぞれの期間における最後の月の翌月末日までに、<br>所定の事項<span class=\"logic\">及び</span>休業日数を所轄労働基準監督署長に<span class=\"predicate\">報告しなければならない。</span></div></div></div>"
+  },
+  {
+    "reference": "則96条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\"><span class=\"subject\">事業者</span>は、</div><ul class=\"condition-list\"><li>所定の場合は、</li></ul><div class=\"predicate-line\">遅滞なく、報告書を所轄労働基準監督署長に<span class=\"predicate\">提出しなければならない。</span></div></div></div>"
+  },
+  {
+    "reference": "法101条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"subject\">事業者</span>は、</div><div class=\"predicate-line\">労働安全衛生法<span class=\"logic\">及び</span>これに基づく命令の要旨を常時各作業場の見やすい場所に掲示し、<br><span class=\"logic\">又は</span>備え付けることその他の厚生労働省令で定める方法により、労働者に<span class=\"predicate\">周知させなければならない。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">第4項</span><div class=\"subject-line\"><span class=\"subject\">事業者</span>は、</div><div class=\"predicate-line\">第57条の2第1項<span class=\"logic\">又は</span>第2項の規定により通知された事項を、<br>化学物質等を取り扱う各作業場の見やすい場所に常時掲示し、<span class=\"logic\">又は</span>備え付けることその他の厚生労働省令で定める方法により、<br>当該物を取り扱う労働者に<span class=\"predicate\">周知させなければならない。</span></div></div></div>"
+  },
+  {
+    "reference": "法102条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\"><span class=\"subject\">ガス工作物その他政令で定める工作物を設けている者</span>は、</div><ul class=\"condition-list\"><li>当該工作物の所在する場所<span class=\"logic\">又は</span>その附近で工事その他の仕事を行う事業者から、</li><li>当該工作物による労働災害の発生を防止するためにとるべき措置についての教示を求められたときは、</li></ul><div class=\"predicate-line\">これを<span class=\"predicate\">教示しなければならない。</span></div></div></div>"
+  },
+  {
+    "reference": "法104条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"subject\">事業者</span>は、</div><ul class=\"condition-list\"><li>労働安全衛生法<span class=\"logic\">又は</span>同法に基づく命令の規定による措置の実施に関し、</li><li>労働者の心身の状態に関する情報を収集し、保管し、<span class=\"logic\">又は</span>使用するに当たっては、</li></ul><div class=\"predicate-line\">労働者の健康の確保に必要な範囲内で労働者の心身の状態に関する情報を収集し、<br><span class=\"logic\">並びに</span>当該収集の目的の範囲内でこれを保管し、<span class=\"logic\">及び</span>使用<span class=\"predicate\">しなければならない。</span></div></div><div class=\"exception-section\"><div class=\"exception-keyword\"><span class=\"exception\">ただし、</span></div><ul class=\"condition-list\"><li>本人の同意がある場合その他正当な事由がある場合は、</li></ul><div class=\"predicate-line\"><span class=\"exception\">この限りでない。</span></div></div></div>"
+  },
+  {
+    "reference": "法106条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"subject\">国</span>は、</div><ul class=\"condition-list\"><li>労働災害の防止に資するため、</li><li>事業者が行う安全衛生施設の整備、特別安全衛生改善計画<span class=\"logic\">又は</span>安全衛生改善計画の実施その他の活動について、</li></ul><div class=\"predicate-line\">金融上の措置、技術上の助言その他必要な援助を行うように<span class=\"predicate\">努めるものとする。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">第2項</span><div class=\"subject-line\"><span class=\"subject\">国</span>は、</div><div class=\"predicate-line\">前項の援助を行うに当たっては、中小企業者に対し、特別の<span class=\"predicate\">配慮をするものとする。</span></div></div></div>"
+  },
+  {
+    "reference": "法111条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"predicate-line\">製造時等検査、性能検査、個別検定<span class=\"logic\">又は</span>型式検定の結果についての処分については、<br>審査請求を<span class=\"predicate\">することができない。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">第2項</span><div class=\"predicate-line\">指定試験機関が行う試験事務に係る処分<span class=\"logic\">若しくは</span>その不作為、<br>指定コンサルタント試験機関が行うコンサルタント試験事務に係る処分<span class=\"logic\">若しくは</span>その不作為<span class=\"logic\">又は</span><br>指定登録機関が行う登録事務に係る処分<span class=\"logic\">若しくは</span>その不作為については、<br><span class=\"subject\">厚生労働大臣</span>に対し、審査請求を<span class=\"predicate\">することができる。</span></div></div></div>"
+  },
+  {
+    "reference": "法116条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><div class=\"predicate-line\">第55条（製造等禁止物質の製造等の禁止）の規定に違反した者は、<br><span class=\"period\">3年</span>以下の拘禁刑<span class=\"logic\">又は</span><span class=\"period\">300万円</span>以下の罰金に<span class=\"predicate\">処する。</span></div></div></div>"
+  },
+  {
+    "reference": "法122条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><div class=\"predicate-line\">法人の代表者又は法人<span class=\"logic\">若しくは</span>人の代理人、使用人その他の従業者が、<br>その法人又は人の業務に関して、<br>第116条、第117条、第119条<span class=\"logic\">又は</span>第120条の違反行為をしたときは、<br>行為者を罰するほか、その法人<span class=\"logic\">又は</span>人に対しても、各本条の罰金刑を<span class=\"predicate\">科する。</span></div></div></div>"
+  }
+]

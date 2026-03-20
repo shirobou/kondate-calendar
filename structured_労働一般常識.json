@@ -1,0 +1,598 @@
+[
+  {
+    "reference": "法1条",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<span class=\"item-number\">第1項</span>\n<div class=\"subject-line\"><span class=\"subject\">労働組合法</span>は、</div>\n<ul class=\"condition-list\">\n<li>労働者が使用者との交渉において対等の立場に立つことを促進することにより労働者の地位を向上させること、労働者がその労働条件について交渉するために自ら代表者を選出することその他の団体行動を行うために自主的に労働組合を組織し、団結することを擁護すること<span class=\"logic\">並びに</span>使用者と労働者との関係を規制する</li>\n</ul>\n</div>\n</div>"
+  },
+  {
+    "reference": "法2条",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<div class=\"subject-line\"><span class=\"subject\">労働組合法で「労働組合」と</span>は、</div>\n<ul class=\"condition-list\">\n<li>労働者が主体となって自主的に労働条件の維持改善その他経済的地位の向上を図ることを主たる</li>\n</ul>\n</div>\n</div>"
+  },
+  {
+    "reference": "法3条",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<div class=\"subject-line\"><span class=\"subject\">労働組合法で「労働者」と</span>は、</div>\n<ul class=\"condition-list\">\n<li>職業の種類を問わず、賃金、給料その他これに準ずる収入によって生活する者をいう。労働者</li>\n</ul>\n</div>\n</div>"
+  },
+  {
+    "reference": "法6条",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<div class=\"subject-line\"><span class=\"subject\">労働組合の代表者<span class=\"logic\">又は</span>労働組合の委任を受けた者</span>は、</div>\n<ul class=\"condition-list\">\n<li>労働組合又は組合員のために使用者<span class=\"logic\">又は</span>その団体と労働協約の締結その他の事項に関して交渉する権限</li>\n</ul>\n<div class=\"predicate-line\"><span class=\"predicate\">を有する。</span></div>\n</div>\n</div>"
+  },
+  {
+    "reference": "法8条",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<div class=\"subject-line\"><span class=\"subject\">使用者</span>は、</div>\n<ul class=\"condition-list\">\n<li>同盟罷業その他の争議行為であって正当なものによって損害を受けたことの故をもって、労働組合<span class=\"logic\">又は</span>その組合員に対し賠償を請求</li>\n</ul>\n<div class=\"predicate-line\"><span class=\"predicate\">することができない。</span></div>\n</div>\n</div>"
+  },
+  {
+    "reference": "法7条",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<div class=\"subject-line\"><span class=\"subject\">使用者</span>は、</div>\n<ul class=\"condition-list\">\n<li>次の各号に掲げる行為（不当労働行為）をしてはならない。1. 労働者が労働組合の組合員であること、労働組合に加入し、若しくはこれを結成しようとしたこと若しくは労働組合の正当な行為をしたことの故をもって、その労働者を解雇し、その他これに対して不利益な取扱いをすること又は労働者が労働組合に加入せず、<span class=\"logic\">若しくは</span>労働組合から脱退することを雇用条件とすること。</li>\n</ul>\n</div>\n<div class=\"exception-section\">\n<span class=\"exception\">ただし、労働組合が特定の工場事業場に雇用される労働者の過半数を代表する場合において、その労働者がその労働組合の組合員であることを雇用条件とする</span>\n</div>\n</div>"
+  },
+  {
+    "reference": "法14条",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<ul class=\"condition-list\">\n<li>労働組合と使用者<span class=\"logic\">又は</span>その団体との間の労働条件その他に関する</li>\n</ul>\n</div>\n</div>"
+  },
+  {
+    "reference": "法15条",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<span class=\"item-number\">第1項</span>\n<div class=\"subject-line\"><span class=\"subject\">労働協約に</span>は、</div>\n<ul class=\"condition-list\">\n<li><span class=\"period\">3年をこえる</span></li>\n</ul>\n</div>\n</div>"
+  },
+  {
+    "reference": "法16条",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\">労働協約に定める労働条件その他の労働者の待遇に関する基準に違反する労働契約の部分は、<span class=\"predicate\">無効とする。</span></div><div class=\"exception-section\">この場合において無効となった部分は、基準の定めるところに<span class=\"predicate\">よる。</span>労働契約に定がない部分についても、同様と<span class=\"predicate\">する。</span></div></div></div>"
+  },
+  {
+    "reference": "法17条",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<ul class=\"condition-list\">\n<li>一の工場事業場に常時使用される同種の労働者の<span class=\"period\">4分の3以上の数の労働者が一の</span></li>\n</ul>\n</div>\n</div>"
+  },
+  {
+    "reference": "法18条",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<span class=\"item-number\">第1項</span>\n<ul class=\"condition-list\">\n<li>一の地域において従業する同種の労働者の大部分が一の</li>\n</ul>\n</div>\n</div>"
+  },
+  {
+    "reference": "法19条",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<span class=\"item-number\">第1項</span>\n<div class=\"subject-line\"><span class=\"subject\">労働委員会</span>は、</div>\n<ul class=\"condition-list\">\n<li>使用者を代表する者（以下「使用者委員」という。）、労働者を代表する者（以下「労働者委員」という。）<span class=\"logic\">及び</span>公益を代表する者（以下「公益委員」という。）各同数をもって組織する。</li>\n</ul>\n</div>\n<div class=\"principle-section\">\n<span class=\"item-number\">第2項</span>\n<div class=\"subject-line\"><span class=\"subject\">労働委員会</span>は、</div>\n<ul class=\"condition-list\">\n<li>中央労働委員会<span class=\"logic\">及び</span>都道府県労働委員会</li>\n</ul>\n<div class=\"predicate-line\"><span class=\"predicate\">とする。</span></div>\n</div>\n</div>"
+  },
+  {
+    "reference": "法20条",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\"><span class=\"subject\">労働委員会</span>は、</div>第5条、第11条<span class=\"logic\">及び</span>第18条の規定によるもののほか、不当労働行為事件の審査等<span class=\"logic\">並びに</span>労働争議のあっせん、調停<span class=\"logic\">及び</span>仲裁をする権限を<span class=\"predicate\">有する。</span></div></div></div>"
+  },
+  {
+    "reference": "法27条",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<span class=\"item-number\">第1項</span>\n<div class=\"subject-line\"><span class=\"subject\">労働委員会</span>は、</div>\n<ul class=\"condition-list\">\n<li>使用者が第7条（不当労働行為）の規定に違反した旨の申立てを受けたときは、遅滞なく調査を行い、必要があると認めたときは、当該申立てが理由があるかどうかについて審問を行わなければならない。この場合において、審問の手続においては、当該使用者<span class=\"logic\">及び</span>申立人に対し、証拠を提出し、証人に反対尋問をする充分な機会が与えられなければならない。</li>\n</ul>\n</div>\n<div class=\"principle-section\">\n<span class=\"item-number\">第2項</span>\n<div class=\"subject-line\"><span class=\"subject\">労働委員会</span>は、</div>\n<ul class=\"condition-list\">\n<li>前項の申立てが、行為の日（継続する行為にあってはその終了した日）から<span class=\"period\">1年を経過した事件に係るものであるときは、これを受けることができない。不当労働行為事件の審査・救済の流れ労働委員会は、使用者が法7条（不当労働行為）の規定に違反した旨の申立てを受けたときは、遅滞なく調査を行い、必要があると認めたときは、当該申立てが理由があるかどうかについて審問を</span></li>\n</ul>\n<div class=\"predicate-line\"><span class=\"predicate\">行わなければならない。</span></div>\n</div>\n</div>"
+  },
+  {
+    "reference": "法27条の12",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"subject\">労働委員会</span>は、</div><ul class=\"condition-list\"><li>事件が命令を発するのに<span class=\"condition\">熟したときは</span>、</li></ul>事実の認定をし、この認定に基づいて、申立人の請求に係る救済の全部<span class=\"logic\">若しくは</span>一部を認容し、<span class=\"logic\">又は</span>申立てを棄却する命令（以下「救済命令等」という。）を<div class=\"predicate-line\"><span class=\"predicate\">発しなければならない。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">第3項</span><div class=\"subject-line\">第1項の事実の認定<span class=\"logic\">及び</span><span class=\"subject\">救済命令等</span>は、</div>書面によるものとし、その写しを使用者<span class=\"logic\">及び</span>申立人に<div class=\"predicate-line\"><span class=\"predicate\">交付しなければならない。</span></div></div></div></div>"
+  },
+  {
+    "reference": "法27条の15",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<span class=\"item-number\">第1項</span>\n<div class=\"subject-line\"><span class=\"subject\">使用者</span>は、</div>\n<ul class=\"condition-list\">\n<li>都道府県労働委員会の</li>\n</ul>\n</div>\n</div>"
+  },
+  {
+    "reference": "法27条の19",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><ul class=\"condition-list\"><li><span class=\"subject\">使用者</span>が都道府県労働委員会の救済命令等について中央労働委員会に再審査の申立てを<span class=\"condition\">しないとき</span>、</li><li><span class=\"logic\">又は</span><span class=\"subject\">中央労働委員会</span>が救済命令等を<span class=\"condition\">発したときは</span>、</li></ul><span class=\"subject\">使用者</span>は、救済命令等の交付の日から<span class=\"period\">30日以内</span>に、救済命令等の取消しの訴えを<div class=\"predicate-line\"><span class=\"predicate\">提起することができる。</span></div>この期間は、不変期間とする。</div><div class=\"principle-section\">行政事件訴訟法14条第1項<br>取消訴訟は、処分<span class=\"logic\">又は</span>裁決があったことを知った日から<span class=\"period\">6箇月</span>を<span class=\"condition\">経過したときは</span>、<div class=\"predicate-line\"><span class=\"predicate\">提起することができない。</span></div><div class=\"exception-section\"><span class=\"exception\">ただし、正当な理由があるときは、この限りでない。</span></div></div></div></div>"
+  },
+  {
+    "reference": "法9条",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<div class=\"subject-line\"><span class=\"subject\">争議行為が発生したとき</span>は、</div>\n<ul class=\"condition-list\">\n<li>その当事者は、直ちにその旨を労働委員会<span class=\"logic\">又は</span>都道府県知事に</li>\n</ul>\n<div class=\"predicate-line\"><span class=\"predicate\">届け出なければならない。</span></div>\n</div>\n</div>"
+  },
+  {
+    "reference": "法37条",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span>公益事業に関する事件につき<span class=\"subject\">関係当事者</span>が争議行為をするには、その争議行為をしようとする日の少なくとも<span class=\"period\">10日前</span>までに、<span class=\"subject\">労働委員会</span><span class=\"logic\">及び</span><span class=\"subject\">厚生労働大臣</span><span class=\"logic\">又は</span><span class=\"subject\">都道府県知事</span>にその旨を<span class=\"predicate\">通知しなければならない。</span></div><div class=\"principle-section\"><span class=\"item-number\">第2項</span>緊急調整の決定があった公益事業に関する事件については、前項の規定による通知は、第38条に規定する期間を経過した後でなければこれをすることが<span class=\"predicate\">できない。</span></div><div class=\"principle-section\">第38条 緊急調整の決定をなした旨の公表が<span class=\"condition\">あったとき</span>は、<span class=\"subject\">関係当事者</span>は、公表の日から<span class=\"period\">50日間</span>は、争議行為をなすことが<span class=\"predicate\">できない。</span></div></div></div>"
+  },
+  {
+    "reference": "法36条",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<div class=\"subject-line\"><span class=\"subject\">工場事業場における安全保持の施設の正常な維持<span class=\"logic\">又は</span>運行を停廃し、<span class=\"logic\">又は</span>これを妨げる行為</span>は、</div>\n<ul class=\"condition-list\">\n<li>争議行為としてでもこれをなすことはできない。</li>\n</ul>\n</div>\n</div>"
+  },
+  {
+    "reference": "法12条",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<span class=\"item-number\">第1項</span>\n<div class=\"subject-line\"><span class=\"subject\">労働争議が発生したとき</span>は、</div>\n<ul class=\"condition-list\">\n<li>労働委員会の会長は、関係当事者の双方若しくは一方の申請<span class=\"logic\">又は</span>職権に基いて、斡旋員名簿に記されている者の中から、斡旋員を指名</li>\n</ul>\n<div class=\"predicate-line\"><span class=\"predicate\">しなければならない。</span></div>\n</div>\n<div class=\"exception-section\">\n<span class=\"exception\">但し、労働委員会の同意を得れば、斡旋員名簿に記されていない者を臨時の斡旋員に委嘱することもできる。</span>\n</div>\n</div>"
+  },
+  {
+    "reference": "法30条",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\"><span class=\"subject\">労働委員会</span>は、</div>左の各号の一に<span class=\"condition\">該当する場合</span>に、仲裁を行う。<ul class=\"condition-list\"><li>1. 関係当事者の双方から、労働委員会に対して、仲裁の申請が<span class=\"condition\">なされたとき</span>。</li><li>2. 労働協約に、労働委員会による仲裁の申請をなさなければならない旨の定が<span class=\"condition\">ある場合</span>に、その定に基いて、関係当事者の双方<span class=\"logic\">又は</span>一方から、労働委員会に対して、仲裁の申請が<span class=\"condition\">なされたとき</span>。</li></ul></div></div></div>"
+  },
+  {
+    "reference": "法34条",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<div class=\"subject-line\"><span class=\"subject\">仲裁裁定</span>は、</div>\n<ul class=\"condition-list\">\n<li>労働協約と同一の効力</li>\n</ul>\n<div class=\"predicate-line\"><span class=\"predicate\">を有する。</span></div>\n</div>\n</div>"
+  },
+  {
+    "reference": "法4条",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<span class=\"item-number\">第1項</span>\n<div class=\"subject-line\"><span class=\"subject\">使用者</span>は、</div>\n<ul class=\"condition-list\">\n<li>労働者に提示する労働条件<span class=\"logic\">及び</span>労働契約の内容について、労働者の理解を深めるように</li>\n</ul>\n<div class=\"predicate-line\"><span class=\"predicate\">するものとする。</span></div>\n</div>\n<div class=\"principle-section\">\n<span class=\"item-number\">第2項</span>\n<div class=\"subject-line\"><span class=\"subject\">労働者<span class=\"logic\">及び</span>使用者</span>は、</div>\n<ul class=\"condition-list\">\n<li>労働契約の内容（期間の定めのある労働契約に関する事項を含む。）について、できる限り書面により確認</li>\n</ul>\n<div class=\"predicate-line\"><span class=\"predicate\">するものとする。</span></div>\n</div>\n</div>"
+  },
+  {
+    "reference": "法5条",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<div class=\"subject-line\"><span class=\"subject\">使用者</span>は、</div>\n<ul class=\"condition-list\">\n<li>労働契約に伴い、労働者がその生命、身体等の安全を確保しつつ労働することができるよう、必要な配慮を</li>\n</ul>\n<div class=\"predicate-line\"><span class=\"predicate\">するものとする。</span></div>\n</div>\n</div>"
+  },
+  {
+    "reference": "法10条",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<div class=\"subject-line\"><span class=\"subject\">使用者が就業規則の変更により労働条件を変更する場合において、変更後の就業規則を労働者に周知させ、<span class=\"logic\">かつ</span>、就業規則の変更が、労働者の受ける不利益の程度、労働条件の変更の必要性、変更後の就業規則の内容の相当性、労働組合等との交渉の状況その他の就業規則の変更に係る事情に照らして合理的なものであるとき</span>は、</div>\n<ul class=\"condition-list\">\n<li>労働契約の内容である労働条件は、当該変更後の就業規則に定めるところによるもの</li>\n</ul>\n<div class=\"predicate-line\"><span class=\"predicate\">とする。</span></div>\n</div>\n<div class=\"exception-section\">\n<span class=\"exception\">ただし、労働契約において、労働者<span class=\"logic\">及び</span>使用者が就業規則の変更によっては変更されない労働条件として合意していた部分については、第12条（就業規則違反の労働契約）に該当する場合を除き、この限りでない。</span>\n</div>\n</div>"
+  },
+  {
+    "reference": "法11条",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<div class=\"subject-line\"><span class=\"subject\">就業規則の変更の手続に関して</span>は、</div>\n<ul class=\"condition-list\">\n<li>労働基準法第89条<span class=\"logic\">及び</span>第90条の定めるところによる。</li>\n</ul>\n</div>\n</div>"
+  },
+  {
+    "reference": "法13条",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<div class=\"subject-line\"><span class=\"subject\">就業規則が法令<span class=\"logic\">又は</span>労働協約に反する場合に</span>は、</div>\n<ul class=\"condition-list\">\n<li>当該反する部分については、第7条、第10条及び第12条の規定は、当該法令<span class=\"logic\">又は</span>労働協約の適用を受ける労働者との間の労働契約については、適用しない。基準に「達しない」労働条件であり、基準と「異なる」労働条件ではありません（有利な部分は有効であり、無効とはなりません）。</li>\n</ul>\n</div>\n</div>"
+  },
+  {
+    "reference": "法21条",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<span class=\"item-number\">第1項</span>\n<div class=\"subject-line\"><span class=\"subject\">労働契約法</span>は、</div>\n<ul class=\"condition-list\">\n<li>国家公務員<span class=\"logic\">及び</span>地方公務員については、</li>\n</ul>\n<div class=\"predicate-line\"><span class=\"predicate\">適用しない。</span></div>\n</div>\n<div class=\"principle-section\">\n<span class=\"item-number\">第2項</span>\n<div class=\"subject-line\"><span class=\"subject\">労働契約法</span>は、</div>\n<ul class=\"condition-list\">\n<li>使用者が同居の親族のみを<span class=\"condition\">使用する場合</span>の労働契約については、</li>\n</ul>\n<div class=\"predicate-line\"><span class=\"predicate\">適用しない。</span></div>\n</div>\n</div>"
+  },
+  {
+    "reference": "法1条の2",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<span class=\"item-number\">第1項</span>\n<div class=\"subject-line\"><span class=\"subject\">「労働時間等」と</span>は、</div>\n<ul class=\"condition-list\">\n<li>労働時間、休日<span class=\"logic\">及び</span>年次有給休暇その他の休暇</li>\n</ul>\n<div class=\"predicate-line\"><span class=\"predicate\">をいう。</span></div>\n</div>\n<div class=\"principle-section\">\n<span class=\"item-number\">第2項</span>\n<div class=\"subject-line\"><span class=\"subject\">「労働時間等の設定」と</span>は、</div>\n<ul class=\"condition-list\">\n<li>労働時間、休日数、年次有給休暇を与える時季、深夜業の回数、終業から始業までの時間その他の労働時間等に関する事項を定めること</li>\n</ul>\n<div class=\"predicate-line\"><span class=\"predicate\">をいう。</span></div>\n</div>\n</div>"
+  },
+  {
+    "reference": "法7条の2",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\"><span class=\"subject\">事業主</span>は、</div>事業場ごとに、当該事業場における労働時間等の設定の改善に関する事項について、労使協定により、第6条に規定する委員会のうち全部の事業場を通じて一の委員会であって次に掲げる要件に適合するもの（以下「労働時間等設定改善企業委員会」という。）に調査審議させ、事業主に対して意見を述べさせることを定めた場合であって、</div></div></div>"
+  },
+  {
+    "reference": "法22条",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<div class=\"subject-line\"><span class=\"subject\">個別労働関係紛争解決促進法</span>は、</div>\n<ul class=\"condition-list\">\n<li>国家公務員<span class=\"logic\">及び</span>地方公務員については、</li>\n</ul>\n<div class=\"predicate-line\"><span class=\"predicate\">適用しない。</span></div>\n</div>\n<div class=\"exception-section\">\n<span class=\"exception\">ただし、行政執行法人の労働関係に関する法律第2条第2号の職員、地方公営企業法第15条第1項の企業職員、地方独立行政法人法第47条の職員<span class=\"logic\">及び</span>地方公務員法第57条に規定する単純な労務に雇用される一般職に属する地方公務員であって地方公営企業等の労働関係に関する法律第3条第4号の職員以外のものの勤務条件に関する事項についての紛争については、この限りでない。</span>\n</div>\n</div>"
+  },
+  {
+    "reference": "法2条の2",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<div class=\"subject-line\"><span class=\"subject\">短時間・有期雇用労働者<span class=\"logic\">及び</span>短時間・有期雇用労働者になろうとする者</span>は、</div>\n<ul class=\"condition-list\">\n<li>生活との調和を保ちつつその意欲<span class=\"logic\">及び</span>能力に応じて就業することができる機会が確保され、職業生活の充実が図られるように配慮されるもの</li>\n</ul>\n<div class=\"predicate-line\"><span class=\"predicate\">とする。</span></div>\n</div>\n</div>"
+  },
+  {
+    "reference": "法24条",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<span class=\"item-number\">第1項</span>\n<div class=\"subject-line\"><span class=\"subject\">都道府県労働局長</span>は、</div>\n<ul class=\"condition-list\">\n<li>第23条に規定する紛争に関し、当該紛争の当事者の双方又は一方からその解決につき援助を求められた場合には、当該紛争の当事者に対し、必要な助言、指導<span class=\"logic\">又は</span>勧告を</li>\n</ul>\n<div class=\"predicate-line\"><span class=\"predicate\">することができる。</span></div>\n</div>\n<div class=\"principle-section\">\n<span class=\"item-number\">第2項</span>\n<div class=\"subject-line\"><span class=\"subject\">事業主</span>は、</div>\n<ul class=\"condition-list\">\n<li>短時間・有期雇用労働者が前項の援助を求めたことを理由として、当該短時間・有期雇用労働者に対して解雇その他不利益な取扱いを</li>\n</ul>\n<div class=\"predicate-line\"><span class=\"predicate\">してはならない。</span></div>\n</div>\n</div>"
+  },
+  {
+    "reference": "法25条",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<span class=\"item-number\">第1項</span>\n<div class=\"subject-line\"><span class=\"subject\">都道府県労働局長</span>は、</div>\n<ul class=\"condition-list\">\n<li>第23条に規定する紛争について、当該紛争の当事者の双方<span class=\"logic\">又は</span>一方から調停の申請があった場合において当該紛争の解決のために必要があると認めるときは、紛争調整委員会に調停を行わせるもの</li>\n</ul>\n<div class=\"predicate-line\"><span class=\"predicate\">とする。</span></div>\n</div>\n<div class=\"principle-section\">\n<span class=\"item-number\">第2項</span>\n<div class=\"subject-line\"><span class=\"subject\">事業主</span>は、</div>\n<ul class=\"condition-list\">\n<li>短時間・有期雇用労働者が調停の申請をしたことを理由として、当該短時間・有期雇用労働者に対して解雇その他不利益な取扱いをしてはならない。当事者の「一方」からの求めも対象です。</li>\n</ul>\n</div>\n</div>"
+  },
+  {
+    "reference": "則4条",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<span class=\"item-number\">第1項</span>\n<div class=\"subject-line\"><span class=\"subject\">中小企業退職金共済法に規定する退職金共済契約、法人税法に規定する適格退職年金契約、所得税法施行令に規定する退職金共済契約、平成<span class=\"period\">25年</span>改正前の厚生年金保険法に規定する厚生年金基金制度、確定給付企業年金法に規定する企業年金制度などの制度を採用している事業主等</span>は、</div>\n<ul class=\"condition-list\">\n<li>退職手当の保全措置を講ずることを要しない。退職手当の保全措置</li>\n</ul>\n</div>\n</div>"
+  },
+  {
+    "reference": "法11条の2",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"subject\">国</span>は、</div>法11条第1項に規定する不利益を与える行為<span class=\"logic\">又は</span>労働者の就業環境を害する同項に規定する言動を行ってはならないことその他当該言動に起因する問題（以下この条において「性的言動問題」という。）に対する事業主その他国民一般の関心と理解を深めるため、広報活動、啓発活動その他の措置を講ずるように<span class=\"predicate\">努めなければならない。</span></div></div></div>"
+  },
+  {
+    "reference": "法11条の3",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<span class=\"item-number\">第1項</span>\n<div class=\"subject-line\"><span class=\"subject\">事業主</span>は、</div>\n<ul class=\"condition-list\">\n<li>職場において行われるその雇用する女性労働者に対する当該女性労働者が妊娠したこと、出産したこと、労働基準法第65条第1項の規定による産前休業を請求し、又は同項若しくは同条第2項の規定による産後休業をしたことその他の妊娠<span class=\"logic\">又は</span>出産に関する事由であって厚生労働省令で定めるものに関する言動により当該女性労働者の就業環境が害されることのないよう、当該女性労働者からの相談に応じ、適切に対応するために必要な体制の整備その他の雇用管理上必要な措置を</li>\n</ul>\n<div class=\"predicate-line\"><span class=\"predicate\">講じなければならない。</span></div>\n</div>\n<div class=\"principle-section\">\n<span class=\"item-number\">第2項</span>\n<div class=\"subject-line\"><span class=\"subject\">事業主</span>は、</div>\n<ul class=\"condition-list\">\n<li>労働者が前項の相談を行い、<span class=\"logic\">又は</span>事業主による当該相談への対応に協力した際に事実を述べたことを理由として、当該労働者に対して解雇その他不利益な取扱いを</li>\n</ul>\n<div class=\"predicate-line\"><span class=\"predicate\">してはならない。</span></div>\n</div>\n<div class=\"principle-section\">\n<span class=\"item-number\">第3項</span>\n<div class=\"subject-line\"><span class=\"subject\">厚生労働大臣</span>は、</div>\n<ul class=\"condition-list\">\n<li>前2項の規定に基づき事業主が講ずべき措置等に関して、その適切<span class=\"logic\">かつ</span>有効な実施を図るために必要な指針を定めるもの</li>\n</ul>\n<div class=\"predicate-line\"><span class=\"predicate\">とする。</span></div>\n</div>\n</div>"
+  },
+  {
+    "reference": "法11条の4",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"subject\">国</span>は、</div>労働者の就業環境を害する前条第1項に規定する言動を行ってはならないことその他当該言動に起因する問題（以下この条において「妊娠・出産等関係言動問題」という。）に対する事業主その他国民一般の関心と理解を深めるため、広報活動、啓発活動その他の措置を講ずるように<span class=\"predicate\">努めなければならない。</span></div><div class=\"principle-section\"><span class=\"item-number\">第2項</span><div class=\"subject-line\"><span class=\"subject\">事業主</span>は、</div>妊娠・出産等関係言動問題に対するその雇用する労働者の関心と理解を深めるとともに、当該労働者が他の労働者に対する言動に必要な注意を払うよう、研修の実施その他の必要な配慮をするほか、国の講ずる前項の措置に協力するように<span class=\"predicate\">努めなければならない。</span></div><div class=\"principle-section\"><span class=\"item-number\">第3項</span><div class=\"subject-line\"><span class=\"subject\">事業主</span>（その者が法人<span class=\"condition\">である場合</span>にあっては、その役員）は、</div>自らも、妊娠・出産等関係言動問題に対する関心と理解を深め、労働者に対する言動に必要な注意を払うように<span class=\"predicate\">努めなければならない。</span></div></div></div>"
+  },
+  {
+    "reference": "法13条の2",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<div class=\"subject-line\"><span class=\"subject\">事業主</span>は、</div>\n<ul class=\"condition-list\">\n<li>法8条、法11条1項、法11条の2第2項、法11条の3第1項、法11条の4第2項、法12条及び法13 条1項に定める措置等並びに職場における男女の均等な機会及び待遇の確保が図られるようにするために講ずべきその他の措置の適切<span class=\"logic\">かつ</span>有効な実施を図るための業務を担当する</li>\n</ul>\n</div>\n</div>"
+  },
+  {
+    "reference": "法29条",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"subject\">厚生労働大臣</span>は、</div>男女雇用機会均等法の施行に関し<span class=\"condition\">必要があると認めるときは</span>、事業主に対して、報告を求め、<span class=\"logic\">又は</span>助言、指導<span class=\"logic\">若しくは</span>勧告を<div class=\"predicate-line\"><span class=\"predicate\">することができる。</span></div></div></div></div>"
+  },
+  {
+    "reference": "法5条1項",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<div class=\"subject-line\"><span class=\"subject\">期間を定めて雇用される者にあって</span>は、</div>\n<ul class=\"condition-list\">\n<li>その養育する子が<span class=\"period\">1歳<span class=\"period\">6か月</span>に達する日までに、その労働契約（労働契約が更新される場合にあっては、更新後のもの。第3項、第9条の2第1項<span class=\"logic\">及び</span>第11条第1項において同じ。）が満了することが明らかでない者に限り、当該育児休業の申出をすることができる。育児休業（期間雇用者の場合）</span></li>\n</ul>\n</div>\n</div>"
+  },
+  {
+    "reference": "法9条の6",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span>労働者の養育する子について、当該労働者の配偶者が当該子の<span class=\"period\">1歳到達日以前</span>のいずれかの日において当該子を養育するために育児休業を<span class=\"condition\">している場合</span>には、<br><span class=\"subject\">当該労働者</span>はその養育する<span class=\"period\">1歳2か月</span>に満たない子について、その事業主に申し出ることにより、育児休業をすることが<span class=\"predicate\">できる。</span></div><div class=\"principle-section\"><span class=\"item-number\">第2項</span>前項の規定は、次のいずれかに<span class=\"condition\">該当する場合</span>には、<span class=\"predicate\">適用しない。</span></div></div></div>"
+  },
+  {
+    "reference": "法9条の2",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"subject\">労働者</span>は、</div>その養育する子について、その事業主に申し出ることにより、</div></div></div>"
+  },
+  {
+    "reference": "法9条の2第1項",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<div class=\"subject-line\"><span class=\"subject\">期間を定めて雇用される者にあって</span>は、</div>\n<ul class=\"condition-list\">\n<li>その養育する子の出生の日（出産予定日前に当該子が出生した場合にあっては、当該出産予定日）から起算して<span class=\"period\">8週間を経過する日の翌日から<span class=\"period\">6月</span>を経過する日までに、その労働契約が満了することが明らかでない者に限り、当該申出をすることができる。期間雇用者の場合</span></li>\n</ul>\n</div>\n</div>"
+  },
+  {
+    "reference": "法9条の3",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<span class=\"item-number\">第1項</span>\n<div class=\"subject-line\"><span class=\"subject\">事業主</span>は、</div>\n<ul class=\"condition-list\">\n<li>労働者からの</li>\n</ul>\n</div>\n</div>"
+  },
+  {
+    "reference": "法9条の5",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span>出生時育児休業申出をした労働者がその期間中は出生時育児休業をすることができる期間（以下「</div></div></div>"
+  },
+  {
+    "reference": "法11条1項",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<div class=\"subject-line\"><span class=\"subject\">期間を定めて雇用される者にあって</span>は、</div>\n<ul class=\"condition-list\">\n<li>第3項に規定する</li>\n</ul>\n</div>\n</div>"
+  },
+  {
+    "reference": "法12条1項",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<div class=\"subject-line\"><span class=\"subject\">・2項、則24条、則8条2号、平成<span class=\"period\">28年</span>厚労告428号事業主</span>は、</div>\n<ul class=\"condition-list\">\n<li>労働者からの</li>\n</ul>\n</div>\n</div>"
+  },
+  {
+    "reference": "法16条の2",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span>、則34条<br><span class=\"period\">9歳に達する日以後の最初の3月31日まで</span>の間にある子（以下この項において「小学校第3学年修了前の子」という。）を養育する<span class=\"subject\">労働者</span>（日々雇用される者を除く。以下同じ。）は、その事業主に申し出ることにより、一の年度において<span class=\"period\">5労働日</span>（その養育する小学校第3学年修了前の子が2人以上<span class=\"condition\">の場合</span>にあっては、<span class=\"period\">10労働日</span>）を限度として、<ul class=\"condition-list\"><li>負傷し、<span class=\"logic\">若しくは</span>疾病にかかった当該小学校第3学年修了前の子の世話、</li><li>疾病の予防を図るために必要なものとして厚生労働省令で定める当該小学校第3学年修了前の子の世話</li><li><span class=\"logic\">若しくは</span>学校保健安全法第20条の規定による学校の休業その他これに準ずるものとして厚生労働省令で定める事由に伴う当該小学校第3学年修了前の子の世話を行うため、</li><li><span class=\"logic\">又は</span>当該小学校第3学年修了前の子の教育<span class=\"logic\">若しくは</span>保育に係る行事のうち厚生労働省令で定めるものへの参加をするための</li></ul>休暇（以下「子の看護等休暇」という。）を取得することが<span class=\"predicate\">できる。</span></div></div></div>"
+  },
+  {
+    "reference": "法16条の4",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<div class=\"subject-line\"><span class=\"subject\">事業主</span>は、</div>\n<ul class=\"condition-list\">\n<li>労働者が子の看護等休暇の申出をし、又は子の看護等休暇を取得したことを理由として、当該労働者に対して解雇その他不利益な取扱いをしてはならない。不利益取扱いの禁止事業主は、労働者が子の看護等休暇の申出をし、または子の看護等休暇を取得したことを理由として、当該労働者に対して解雇その他不利益な取扱いをしてはならない。（法16条の4、法16条）</li>\n</ul>\n</div>\n</div>"
+  },
+  {
+    "reference": "法16条の5",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span>、則40条<br>要介護状態にある対象家族の介護その他の厚生労働省令で定める世話を行う<span class=\"subject\">労働者</span>（日々雇用される者を除く。以下同じ。）は、その事業主に申し出ることにより、一の年度において<span class=\"period\">5労働日</span>（要介護状態にある対象家族が2人以上<span class=\"condition\">の場合</span>にあっては、<span class=\"period\">10労働日</span>）を限度として、当該世話を行うための休暇（以下「介護休暇」という。）を取得することが<span class=\"predicate\">できる。</span></div></div></div>"
+  },
+  {
+    "reference": "法16条の8第1項",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<div class=\"subject-line\"><span class=\"subject\">、法2条1号、則44条、則48条事業主</span>は、</div>\n<ul class=\"condition-list\">\n<li>小学校就学の始期に達するまでの子を養育する労働者（日々雇用される者を除く。以下同じ。）又は要介護状態にある対象家族を介護する労働者であって、労使協定で、次に掲げる労働者のうち所定外労働の制限の請求をできないものとして定められた労働者に該当しない労働者が当該子を養育<span class=\"logic\">又は</span>対象家族を介護するために請求した場合においては、所定労働時間を超えて労働させてはならない。</li>\n</ul>\n</div>\n<div class=\"exception-section\">\n<span class=\"exception\">ただし、事業の正常な運営を妨げる場合は、この限りでない。1. 当該事業主に引き続き雇用された期間が<span class=\"period\">1年</span>に満たない労働者 2. <span class=\"period\">1週間</span>の所定労働日数が<span class=\"period\">2日</span>以下の労働者所定外労働の制限（残業免除）</span>\n</div>\n</div>"
+  },
+  {
+    "reference": "法17条1項",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<div class=\"subject-line\"><span class=\"subject\">、法2条1号、則52条、則56条事業主</span>は、</div>\n<ul class=\"condition-list\">\n<li>労働基準法第36条第1項本文の規定により労働時間を延長することができる場合において、小学校就学の始期に達するまでの子を養育する労働者（日々雇用される者を除く。以下同じ。）又は要介護状態にある対象家族を介護する労働者であって、次の各号のいずれにも該当しないものが当該子を養育<span class=\"logic\">又は</span>対象家族を介護するために請求したときは、制限時間（<span class=\"period\">1箇月について<span class=\"period\">24時間</span>、<span class=\"period\">1年</span>について<span class=\"period\">150時間</span>をいう。）を超えて労働時間を延長</span></li>\n</ul>\n<div class=\"predicate-line\"><span class=\"predicate\">してはならない。</span></div>\n</div>\n<div class=\"exception-section\">\n<span class=\"exception\">ただし、事業の正常の運営を妨げる場合は、この限りでない。1. 当該事業主に引き続き雇用された期間が<span class=\"period\">1年</span>に満たない労働者 2. <span class=\"period\">1週間</span>の所定労働日数が<span class=\"period\">2日</span>以下の労働者法定時間外労働の制限（残業制限）</span>\n</div>\n</div>"
+  },
+  {
+    "reference": "法19条1項",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<div class=\"subject-line\"><span class=\"subject\">、法2条1号、則61条、則66条事業主</span>は、</div>\n<ul class=\"condition-list\">\n<li>小学校就学の始期に達するまでの子を養育する労働者（日々雇用される者を除く。以下同じ。）又は要介護状態にある対象家族を介護する労働者であって次の各号のいずれにも該当しないものが当該子を養育<span class=\"logic\">又は</span>当該対象家族を介護するために請求した場合においては、午後10時から午前5 時までの間（以下「深夜」という。）において労働させてはならない。</li>\n</ul>\n</div>\n<div class=\"exception-section\">\n<span class=\"exception\">ただし、事業の正常な運営を妨げる場合は、この限りでない。1. 当該事業主に引き続き雇用された期間が<span class=\"period\">1年</span>に満たない労働者 2. 当該請求に係る深夜において、常態として当該子を保育<span class=\"logic\">又は</span>当該対象家族を介護することができる同居の家族その他の厚生労働省令で定める者がいる場合における当該労働者 3. <span class=\"period\">1週間</span>の所定労働日数が<span class=\"period\">2日</span>以下の労働者 4. 所定労働時間の全部が深夜にある労働者</span>\n</div>\n</div>"
+  },
+  {
+    "reference": "法23条1項",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\">、則72条、則73条<br><div class=\"subject-line\"><span class=\"subject\">事業主</span>は、</div>その雇用する労働者（日々雇用される者を除く。以下同じ。）のうち、その<span class=\"period\">3歳</span>に満たない子を養育する労働者であって育児休業をしていないもの（1日の所定労働時間が<span class=\"period\">6時間以下</span>の労働者を除く。）に関して、労働者の申出に基づき所定労働時間を短縮することにより当該労働者が就業しつつその子を養育することを容易にするための措置（以下「育児のための所定労働時間の短縮措置」という。）を<span class=\"predicate\">講じなければならない。</span></div><div class=\"exception-section\">ただし、労使協定で、次に掲げる労働者のうち育児のための所定労働時間の短縮措置を講じないものとして定められた労働者に該当する労働者については、この限りで<span class=\"predicate\">ない。</span><ul class=\"condition-list\"><li>1. 当該事業主に引き続き雇用された期間が<span class=\"period\">1年</span>に満たない労働者</li><li>2. 1週間の所定労働日数が<span class=\"period\">2日以下</span>の労働者</li><li>3. 前2号に定めるもののほか、業務の性質<span class=\"logic\">又は</span>業務の実施体制に照らして、育児のための所定労働時間の短縮措置を講ずることが困難と認められる業務に従事する労働者</li></ul></div><div class=\"principle-section\">育児のための所定労働時間の短縮措置（短時間勤務制度）<br><span class=\"subject\">事業主</span>は、その雇用する労働者（日々雇用される者を除く）のうち、その<span class=\"period\">3歳</span>に満たない子を養育する労働者であって育児休業をしていないもの（1日の所定労働時間が<span class=\"period\">6時間以下</span>の労働者を除く）に関して、労働者の申出に基づき所定労働時間を短縮することにより当該労働者が就業しつつ当該子を養育することを容易にするための「育児のための所定労働時間の短縮措置（短時間勤務制度）」を<span class=\"predicate\">講じなければならない。</span></div></div></div>"
+  },
+  {
+    "reference": "法23条の3",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"subject\">事業主</span>は、</div>その雇用する労働者のうち、その<span class=\"period\">3歳</span>から小学校就学の始期に達するまでの子を養育するものに関して、労働者の申出に基づく次に掲げる措置のうち<span class=\"period\">2以上</span>の措置を<span class=\"predicate\">講じなければならない。</span><ul class=\"condition-list\"><li>1. 始業時刻変更等の措置であって厚生労働省令で定めるもの</li><li>2. 在宅勤務等の措置</li><li>3. 育児のための所定労働時間の短縮措置</li><li>4. 労働者が就業しつつ当該子を養育することを容易にするための休暇（子の看護等休暇、介護休暇<span class=\"logic\">及び</span>労働基準法第39条の規定による年次有給休暇として与えられるものを除く。</li></ul></div></div></div>"
+  },
+  {
+    "reference": "法23条3項",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\">、則75条<br><div class=\"subject-line\"><span class=\"subject\">事業主</span>は、</div>その雇用する労働者（日々雇用される者を除く。以下同じ。）のうち、その要介護状態にある対象家族を介護する労働者であって介護休業をしていないものに関して、労働者の申出に基づく連続する<span class=\"period\">3年の期間以上</span>の期間における所定労働時間の短縮その他の当該労働者が就業しつつその要介護状態にある対象家族を介護することを容易にするための措置（以下「介護のための所定労働時間の短縮等の措置」という。）を<span class=\"predicate\">講じなければならない。</span></div><div class=\"exception-section\">ただし、労使協定で、次に掲げる労働者のうち介護のための所定労働時間の短縮措置を講じないものとして定められた労働者に該当する労働者については、この限りで<span class=\"predicate\">ない。</span><ul class=\"condition-list\"><li>1. 当該事業主に引き続き雇用された期間が<span class=\"period\">1年</span>に満たない労働者</li><li>2. 1週間の所定労働日数が<span class=\"period\">2日以下</span>の労働者</li></ul></div><div class=\"principle-section\">介護のための所定労働時間の短縮等の措置<br><span class=\"subject\">事業主</span>は、その雇用する労働者（日々雇用される者を除く）のうち、その要介護状態にある対象家族を介護する労働者であって介護休業をしていないものに関して、労働者の申出に基づく連続する「<span class=\"period\">3年の期間以上</span>」の期間における所定労働時間の短縮その他の当該労働者が就業しつつその要介護状態にある対象家族を介護することを容易にするため「介護のための所定労働時間の短縮等の措置」を<span class=\"predicate\">講じなければならない。</span></div></div></div>"
+  },
+  {
+    "reference": "法25条の2",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"subject\">国</span>は、</div>労働者の就業環境を害する第25条第1項に規定する言動を行ってはならないことその他当該言動に起因する問題（以下この条において「育児休業等関係言動問題」という。）に対する事業主その他国民一般の関心と理解を深めるため、広報活動、啓発活動その他の措置を講ずるように<span class=\"predicate\">努めなければならない。</span></div><div class=\"principle-section\"><span class=\"item-number\">第2項</span><div class=\"subject-line\"><span class=\"subject\">事業主</span>は、</div>育児休業等関係言動問題に対するその雇用する労働者の関心と理解を深めるとともに、当該労働者が他の労働者に対する言動に必要な注意を払うよう、研修の実施その他の必要な配慮をするほか、国の講ずる前項の措置に協力するように<span class=\"predicate\">努めなければならない。</span></div><div class=\"principle-section\"><span class=\"item-number\">第3項</span><div class=\"subject-line\"><span class=\"subject\">事業主</span>（その者が法人<span class=\"condition\">である場合</span>にあっては、その役員）は、</div>自らも、育児休業等関係言動問題に対する関心と理解を深め、労働者に対する言動に必要な注意を払うように<span class=\"predicate\">努めなければならない。</span></div></div></div>"
+  },
+  {
+    "reference": "法21条の2",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span>前条第1項、第4項<span class=\"logic\">及び</span>第5項に定めるもののほか、<span class=\"subject\">事業主</span>は、育児休業<span class=\"logic\">及び</span>介護休業に関して、あらかじめ、次に掲げる事項を定めるとともに、これを労働者（日々雇用される者を除く。以下同じ。）に周知させるための措置（労働者<span class=\"logic\">若しくは</span>その配偶者が妊娠し、<span class=\"logic\">若しくは</span>出産したこと<span class=\"logic\">又は</span>労働者が対象家族を介護していることを知ったときに、当該労働者に対し知らせる措置を含む。）を講ずるように<span class=\"predicate\">努めなければならない。</span></div></div></div>"
+  },
+  {
+    "reference": "法22条の2",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<div class=\"subject-line\"><span class=\"subject\">常時雇用する労働者の数が<span class=\"period\">300人</span>を超える事業主</span>は、</div>\n<ul class=\"condition-list\">\n<li>毎年少なくとも1回、その雇用する労働者の</li>\n</ul>\n</div>\n</div>"
+  },
+  {
+    "reference": "法26条",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\"><span class=\"subject\">事業主</span>は、</div>その雇用する労働者（日々雇用される者を除く。以下同じ。）の配置の変更で就業の場所の変更を伴うものを<span class=\"condition\">しようとする場合</span>において、その就業の場所の変更により就業しつつその子の養育<span class=\"logic\">又は</span>家族の介護を行うことが困難となることとなる労働者が<span class=\"condition\">いるときは</span>、当該労働者の子の養育<span class=\"logic\">又は</span>家族の介護の状況に<div class=\"predicate-line\"><span class=\"predicate\">配慮しなければならない。</span></div></div></div></div>"
+  },
+  {
+    "reference": "法52条の2",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<div class=\"subject-line\"><span class=\"subject\">1号事業主</span>は、</div>\n<ul class=\"condition-list\">\n<li>所定の事項に関し、労働者（日々雇用される者を除く。）から苦情の申出を受けたときは、苦情処理機関（事業主を代表する者<span class=\"logic\">及び</span>当該事業所の労働者を代表する者を構成員とする当該事業所の労働者の苦情を処理するための機関をいう。）に対し当該苦情の処理を委ねる等その自主的な解決を図るように</li>\n</ul>\n<div class=\"predicate-line\"><span class=\"predicate\">努めなければならない。</span></div>\n</div>\n</div>"
+  },
+  {
+    "reference": "法52条の4",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<span class=\"item-number\">第1項</span>\n<div class=\"subject-line\"><span class=\"subject\">都道府県労働局長</span>は、</div>\n<ul class=\"condition-list\">\n<li>所定の紛争に関し、当該紛争の当事者の双方又は一方からその解決につき援助を求められた場合には、当該紛争の当事者に対し、必要な助言、指導<span class=\"logic\">又は</span>勧告を</li>\n</ul>\n<div class=\"predicate-line\"><span class=\"predicate\">することができる。</span></div>\n</div>\n<div class=\"principle-section\">\n<span class=\"item-number\">第2項</span>\n<div class=\"subject-line\"><span class=\"subject\">事業主</span>は、</div>\n<ul class=\"condition-list\">\n<li>労働者が前項の援助を求めたことを理由として、当該労働者に対して解雇その他不利益な取扱いを</li>\n</ul>\n<div class=\"predicate-line\"><span class=\"predicate\">してはならない。</span></div>\n</div>\n</div>"
+  },
+  {
+    "reference": "法52条の5",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<span class=\"item-number\">第1項</span>\n<div class=\"subject-line\"><span class=\"subject\">都道府県労働局長</span>は、</div>\n<ul class=\"condition-list\">\n<li>所定の紛争について、当該紛争の当事者の双方<span class=\"logic\">又は</span>一方から調停の申請があった場合において当該紛争の解決のために必要があると認めるときは、紛争調整委員会に調停を行わせるもの</li>\n</ul>\n<div class=\"predicate-line\"><span class=\"predicate\">とする。</span></div>\n</div>\n<div class=\"principle-section\">\n<span class=\"item-number\">第2項</span>\n<div class=\"subject-line\"><span class=\"subject\">事業主</span>は、</div>\n<ul class=\"condition-list\">\n<li>労働者が調停の申請をしたことを理由として、当該労働者に対して解雇その他不利益な取扱いを</li>\n</ul>\n<div class=\"predicate-line\"><span class=\"predicate\">してはならない。</span></div>\n</div>\n</div>"
+  },
+  {
+    "reference": "法56条",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\"><span class=\"subject\">厚生労働大臣</span>は、</div>育児・介護休業法の施行に関し<span class=\"condition\">必要があると認めるときは</span>、事業主に対して、報告を求め、<span class=\"logic\">又は</span>助言、指導<span class=\"logic\">若しくは</span>勧告を<div class=\"predicate-line\"><span class=\"predicate\">することができる。</span></div></div></div></div>"
+  },
+  {
+    "reference": "法56条の2",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<div class=\"subject-line\"><span class=\"subject\">厚生労働大臣</span>は、</div>\n<ul class=\"condition-list\">\n<li>一定の規定に違反している事業主に対し、第56条第1項の規定による勧告を<span class=\"condition\">した場合</span>において、その勧告を受けた者がこれに従わなかったときは、その旨を公表</li>\n</ul>\n<div class=\"predicate-line\"><span class=\"predicate\">することができる。</span></div>\n</div>\n</div>"
+  },
+  {
+    "reference": "法8条1項",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\">・4項・5項<br><span class=\"subject\">一般事業主</span>であって、常時雇用する労働者の数が<span class=\"period\">100人</span>を超えるものは、事業主行動計画策定指針に即して、一般事業主行動計画（一般事業主が実施する女性の職業生活における活躍の推進に関する取組に関する計画をいう。以下同じ。）を定め、厚生労働大臣に届け出なければならないほか、当該計画を公表するとともに、これを労働者に周知させるための措置を<span class=\"predicate\">講じなければならない。</span>これを変更したときも、同様と<span class=\"predicate\">する。</span></div><div class=\"principle-section\">法8条7項・8項<br><span class=\"subject\">一般事業主</span>であって、常時雇用する労働者の数が<span class=\"period\">100人以下</span>のものは、事業主行動計画策定指針に即して、</div></div></div>"
+  },
+  {
+    "reference": "則1条の3",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<span class=\"item-number\">第2項</span>\n<div class=\"subject-line\"><span class=\"subject\">事業主</span>は、</div>\n<ul class=\"condition-list\">\n<li>法第9条に基づいて行う労働者の募集及び採用に当たっては、事業主が当該募集及び採用に係る職務に適合する労働者を雇い入れ、かつ、労働者がその年齢にかかわりなく、その有する能力を有効に発揮することができる職業を選択することを容易にするため、当該募集<span class=\"logic\">及び</span>採用に係る職務の内容、当該職務を遂行するために必要とされる労働者の適性、能力、経験、技能の程度その他の労働者が応募するに当たり求められる事項をできる限り明示</li>\n</ul>\n<div class=\"predicate-line\"><span class=\"predicate\">するものとする。</span></div>\n</div>\n</div>"
+  },
+  {
+    "reference": "法27条の2",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<span class=\"item-number\">第1項</span>\n<div class=\"subject-line\"><span class=\"subject\">常時雇用する労働者の数が<span class=\"period\">300人</span>を超える事業主</span>は、</div>\n<ul class=\"condition-list\">\n<li>労働者の職業選択に資するよう、雇い入れた通常の労働者及びこれに準ずる者として厚生労働省令で定める者の数に占める中途採用（新規学卒等採用者（学校教育法第1条に規定する学校（小学校及び幼稚園を除く。）その他厚生労働省令で定める施設の学生<span class=\"logic\">又は</span>生徒であって卒業することが見込まれる者その他厚生労働省令で定める者であることを条件とした求人により雇い入れられた者をいう。）以外の雇入れをいう。次項において同じ。）により雇い入れられた者の数の割合を定期的に公表</li>\n</ul>\n<div class=\"predicate-line\"><span class=\"predicate\">しなければならない。</span></div>\n</div>\n</div>"
+  },
+  {
+    "reference": "法27条の3",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<span class=\"item-number\">第1項</span>\n<div class=\"subject-line\"><span class=\"subject\">事業主</span>は、</div>\n<ul class=\"condition-list\">\n<li>疾病、負傷その他の理由により治療を受ける労働者について、就業によって疾病<span class=\"logic\">又は</span>負傷の症状が増悪すること等を防止し、その治療と就業との両立を支援するため、当該労働者からの相談に応じ、適切に対応するために必要な体制の整備その他の必要な措置を講ずるよう</li>\n</ul>\n<div class=\"predicate-line\"><span class=\"predicate\">努めなければならない。</span></div>\n</div>\n</div>"
+  },
+  {
+    "reference": "法28条",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<span class=\"item-number\">第1項</span>\n<div class=\"subject-line\"><span class=\"subject\">事業主</span>は、</div>\n<ul class=\"condition-list\">\n<li>新たに外国人を雇い入れた場合又はその雇用する外国人が離職した場合には、その者の氏名並びに在留資格<span class=\"logic\">及び</span>在留期間（その者が在留資格を有しない者であって、許可を受けて報酬を受ける活動を行うものである場合にあっては、これらの許可を受けている旨）その他厚生労働省令で定める事項について確認し、当該事項を厚生労働大臣に</li>\n</ul>\n<div class=\"predicate-line\"><span class=\"predicate\">届け出なければならない。</span></div>\n</div>\n</div>"
+  },
+  {
+    "reference": "則10条",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<span class=\"item-number\">第2項</span>\n<ul class=\"condition-list\">\n<li>新たに雇い入れられ、<span class=\"logic\">又は</span>離職する外国人が雇用保険法に規定する</li>\n</ul>\n</div>\n</div>"
+  },
+  {
+    "reference": "則12条",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<span class=\"item-number\">第1項</span>\n<div class=\"subject-line\"><span class=\"subject\">外国人雇用状況届出</span>は、</div>\n<ul class=\"condition-list\">\n<li>新たに外国人を雇い入れた場合にあっては当該事実のあった日の属する月の翌月<span class=\"period\">10日までに、その雇用する外国人が離職した場合にあっては当該事実のあった日の翌日から起算して<span class=\"period\">10日</span>以内に、当該事業所の所在地を管轄する公共職業安定所の長に提出することによって</span></li>\n</ul>\n<div class=\"predicate-line\"><span class=\"predicate\">行わなければならない。</span></div>\n</div>\n<div class=\"principle-section\">\n<span class=\"item-number\">第2項</span>\n<div class=\"subject-line\"><span class=\"subject\">被保険者でない外国人に係る外国人雇用状況届出</span>は、</div>\n<ul class=\"condition-list\">\n<li>前項の規定にかかわらず、当該外国人を雇い入れた日<span class=\"logic\">又は</span>当該外国人が離職した日の属する月の翌月の末日までに、当該事業所の所在地を管轄する公共職業安定所の長に提出することによって行わなければならない。外国人雇用状況の届出</li>\n</ul>\n</div>\n</div>"
+  },
+  {
+    "reference": "法30条の2",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<span class=\"item-number\">第1項</span>\n<div class=\"subject-line\"><span class=\"subject\">事業主</span>は、</div>\n<ul class=\"condition-list\">\n<li>職場において行われる優越的な関係を背景とした言動であって、業務上必要<span class=\"logic\">かつ</span>相当な範囲を超えたものによりその雇用する労働者の就業環境が害されることのないよう、当該労働者からの相談に応じ、適切に対応するために必要な体制の整備その他の雇用管理上必要な措置を</li>\n</ul>\n<div class=\"predicate-line\"><span class=\"predicate\">講じなければならない。</span></div>\n</div>\n<div class=\"principle-section\">\n<span class=\"item-number\">第2項</span>\n<div class=\"subject-line\"><span class=\"subject\">事業主</span>は、</div>\n<ul class=\"condition-list\">\n<li>労働者が前項の相談を行ったこと<span class=\"logic\">又は</span>事業主による当該相談への対応に協力した際に事実を述べたことを理由として、当該労働者に対して解雇その他不利益な取扱いを</li>\n</ul>\n<div class=\"predicate-line\"><span class=\"predicate\">してはならない。</span></div>\n</div>\n<div class=\"principle-section\">\n<span class=\"item-number\">第3項</span>\n<div class=\"subject-line\"><span class=\"subject\">厚生労働大臣</span>は、</div>\n<ul class=\"condition-list\">\n<li>前2項の規定に基づき事業主が講ずべき措置等に関して、その適切<span class=\"logic\">かつ</span>有効な実施を図るために必要な指針（以下この条において「指針」という。）を定めるものとする。職場におけるパワーハラスメントの対策</li>\n</ul>\n</div>\n</div>"
+  },
+  {
+    "reference": "法30条の3",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"subject\">国</span>は、</div>労働者の就業環境を害する第30条の2第1項に規定する言動を行ってはならないことその他当該言動に起因する問題（以下この条において「優越的言動問題」という。）に対する事業主その他国民一般の関心と理解を深めるため、広報活動、啓発活動その他の措置を講ずるように<span class=\"predicate\">努めなければならない。</span></div><div class=\"principle-section\"><span class=\"item-number\">第2項</span><div class=\"subject-line\"><span class=\"subject\">事業主</span>は、</div>優越的言動問題に対するその雇用する労働者の関心と理解を深めるとともに、当該労働者が他の労働者に対する言動に必要な注意を払うよう、研修の実施その他の必要な配慮をするほか、国の講ずる前項の措置に協力するように<span class=\"predicate\">努めなければならない。</span></div><div class=\"principle-section\"><span class=\"item-number\">第3項</span><div class=\"subject-line\"><span class=\"subject\">事業主</span>（その者が法人<span class=\"condition\">である場合</span>にあっては、その役員）は、</div>自らも、優越的言動問題に対する関心と理解を深め、労働者に対する言動に必要な注意を払うように<span class=\"predicate\">努めなければならない。</span></div></div></div>"
+  },
+  {
+    "reference": "法31条",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<div class=\"subject-line\"><span class=\"subject\">国<span class=\"logic\">及び</span>地方公共団体</span>は、</div>\n<ul class=\"condition-list\">\n<li>国の行う職業指導及び職業紹介の事業等と地方公共団体の講ずる雇用に関する施策について、相互の連携協力の確保に関する協定の締結、同一の施設における一体的な実施その他の措置を講ずることにより、密接な関連の下に円滑かつ効果的に実施されるように相互に連絡し、<span class=\"logic\">及び</span>協力するものとする。国と地方公共団体との連携</li>\n</ul>\n</div>\n</div>"
+  },
+  {
+    "reference": "法30条の5",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<span class=\"item-number\">第1項</span>\n<div class=\"subject-line\"><span class=\"subject\">都道府県労働局長</span>は、</div>\n<ul class=\"condition-list\">\n<li>第30条の4に規定する紛争に関し、当該紛争の当事者の双方又は一方からその解決につき援助を求められた場合には、当該紛争の当事者に対し、必要な助言、指導<span class=\"logic\">又は</span>勧告を</li>\n</ul>\n<div class=\"predicate-line\"><span class=\"predicate\">することができる。</span></div>\n</div>\n<div class=\"principle-section\">\n<span class=\"item-number\">第2項</span>\n<div class=\"subject-line\"><span class=\"subject\">事業主</span>は、</div>\n<ul class=\"condition-list\">\n<li>労働者が援助を求めたことを理由として、当該労働者に対して解雇その他不利益な取扱いを</li>\n</ul>\n<div class=\"predicate-line\"><span class=\"predicate\">してはならない。</span></div>\n</div>\n</div>"
+  },
+  {
+    "reference": "法30条の6",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<span class=\"item-number\">第1項</span>\n<div class=\"subject-line\"><span class=\"subject\">都道府県労働局長</span>は、</div>\n<ul class=\"condition-list\">\n<li>第30条の4に規定する紛争について、当該紛争の当事者の双方<span class=\"logic\">又は</span>一方から調停の申請があった場合において当該紛争の解決のために必要があると認めるときは、個別労働関係紛争の解決の促進に関する法律第6条第1項の紛争調整委員会に調停を行わせるもの</li>\n</ul>\n<div class=\"predicate-line\"><span class=\"predicate\">とする。</span></div>\n</div>\n<div class=\"principle-section\">\n<span class=\"item-number\">第2項</span>\n<div class=\"subject-line\"><span class=\"subject\">事業主</span>は、</div>\n<ul class=\"condition-list\">\n<li>労働者が前項の申請をしたことを理由として、当該労働者に対して解雇その他不利益な取扱いを</li>\n</ul>\n<div class=\"predicate-line\"><span class=\"predicate\">してはならない。</span></div>\n</div>\n</div>"
+  },
+  {
+    "reference": "法33条",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<span class=\"item-number\">第1項</span>\n<div class=\"subject-line\"><span class=\"subject\">厚生労働大臣</span>は、</div>\n<ul class=\"condition-list\">\n<li>労働施策総合推進法の施行に関し必要があると認めるときは、事業主に対して、助言、指導<span class=\"logic\">又は</span>勧告を</li>\n</ul>\n<div class=\"predicate-line\"><span class=\"predicate\">することができる。</span></div>\n</div>\n<div class=\"principle-section\">\n<span class=\"item-number\">第2項</span>\n<div class=\"subject-line\"><span class=\"subject\">厚生労働大臣</span>は、</div>\n<ul class=\"condition-list\">\n<li>第30条の2第1項及び第2項（第30条の5第2項及び第30条の6第2項において準用する場合を含む。第35条<span class=\"logic\">及び</span>第36条第1項において同じ。）の規定に違反している事業主に対し、前項の規定による勧告をした場合において、その勧告を受けた者がこれに従わなかったときは、その旨を公表</li>\n</ul>\n<div class=\"predicate-line\"><span class=\"predicate\">することができる。</span></div>\n</div>\n</div>"
+  },
+  {
+    "reference": "法5条の3",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<span class=\"item-number\">第1項</span>\n<div class=\"subject-line\"><span class=\"subject\">公共職業安定所、特定地方公共団体<span class=\"logic\">及び</span>職業紹介事業者、労働者の募集を行う者<span class=\"logic\">及び</span>募集受託者<span class=\"logic\">並びに</span>労働者供給事業者</span>は、</div>\n<ul class=\"condition-list\">\n<li>それぞれ、職業紹介、労働者の募集又は労働者供給に当たり、求職者、募集に応じて労働者になろうとする者又は供給される労働者に対し、その者が従事すべき業務の内容<span class=\"logic\">及び</span>賃金、労働時間その他の労働条件を明示</li>\n</ul>\n<div class=\"predicate-line\"><span class=\"predicate\">しなければならない。</span></div>\n</div>\n<div class=\"principle-section\">\n<span class=\"item-number\">第2項</span>\n<ul class=\"condition-list\">\n<li>求人者は求人の申込みに当たり公共職業安定所、特定地方公共団体又は職業紹介事業者に対し、労働者供給を受けようとする者はあらかじめ労働者供給事業者に対し、それぞれ、求職者又は供給される労働者が従事すべき業務の内容<span class=\"logic\">及び</span>賃金、労働時間その他の労働条件を明示</li>\n</ul>\n<div class=\"predicate-line\"><span class=\"predicate\">しなければならない。</span></div>\n</div>\n<div class=\"principle-section\">\n<span class=\"item-number\">第3項</span>\n<div class=\"subject-line\"><span class=\"subject\">求人者、労働者の募集を行う者<span class=\"logic\">及び</span>労働者供給を受けようとする者（供給される労働者を雇用する場合に限る。）</span>は、</div>\n<ul class=\"condition-list\">\n<li>それぞれ、求人の申込みをした公共職業安定所、特定地方公共団体若しくは職業紹介事業者の紹介による求職者、募集に応じて労働者になろうとする者又は供給される労働者と労働契約を締結しようとする場合であって、これらの者に対して第1項の規定により明示された従事すべき業務の内容<span class=\"logic\">及び</span>賃金、労働時間その他の労働条件（以下この項において「従事すべき業務の内容等」という。）を変更する場合その他厚生労働省令で定める場合は、当該契約の相手方となろうとする者に対し、当該変更する従事すべき業務の内容等その他厚生労働省令で定める事項を明示</li>\n</ul>\n<div class=\"predicate-line\"><span class=\"predicate\">しなければならない。</span></div>\n</div>\n</div>"
+  },
+  {
+    "reference": "法5条の4",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<span class=\"item-number\">第1項</span>\n<div class=\"subject-line\"><span class=\"subject\">公共職業安定所、特定地方公共団体<span class=\"logic\">及び</span>職業紹介事業者、労働者の募集を行う者<span class=\"logic\">及び</span>募集受託者、募集情報等提供事業を行う者<span class=\"logic\">並びに</span>労働者供給事業者</span>は、</div>\n<ul class=\"condition-list\">\n<li>この法律に基づく業務に関して新聞、雑誌その他の刊行物に掲載する広告、文書の掲出又は頒布その他厚生労働省令で定める方法（以下この条において「広告等」という。）により求人若しくは労働者の募集に関する情報又は求職者若しくは労働者になろうとする者に関する情報その他厚生労働省令で定める情報（第3項において「求人等に関する情報」という。）を提供するときは、当該情報について虚偽の表示<span class=\"logic\">又は</span>誤解を生じさせる表示をしてはならない。求人等に関する情報の的確な表示</li>\n</ul>\n</div>\n</div>"
+  },
+  {
+    "reference": "法5条の5",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<span class=\"item-number\">第1項</span>\n<div class=\"subject-line\"><span class=\"subject\">公共職業安定所等</span>は、</div>\n<ul class=\"condition-list\">\n<li>それぞれ、その業務に関し、求職者等の個人情報を収集し、保管し、<span class=\"logic\">又は</span>使用するに当たっては、その業務の</li>\n</ul>\n</div>\n</div>"
+  },
+  {
+    "reference": "法5条の6",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"subject\">公共職業安定所</span>、<span class=\"subject\">特定地方公共団体</span><span class=\"logic\">及び</span><span class=\"subject\">職業紹介事業者</span>は、</div>求人の申込みは全て受理<span class=\"predicate\">しなければならない。</span></div><div class=\"exception-section\">ただし、次の各号のいずれかに該当する求人の申込みは受理しないことが<span class=\"predicate\">できる。</span></div></div></div>"
+  },
+  {
+    "reference": "法5条の7",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<span class=\"item-number\">第1項</span>\n<div class=\"subject-line\"><span class=\"subject\">公共職業安定所、特定地方公共団体<span class=\"logic\">及び</span>職業紹介事業者</span>は、</div>\n<ul class=\"condition-list\">\n<li>求職の申込みは全て受理</li>\n</ul>\n<div class=\"predicate-line\"><span class=\"predicate\">しなければならない。</span></div>\n</div>\n<div class=\"exception-section\">\n<span class=\"exception\">ただし、その申込みの内容が法令に違反するときは、これを受理しないことができる。</span>\n</div>\n</div>"
+  },
+  {
+    "reference": "法29条の5",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<div class=\"subject-line\"><span class=\"subject\">公共職業安定所</span>は、</div>\n<ul class=\"condition-list\">\n<li>特定地方公共団体が求人又は求職に関する情報の提供を希望するときは、当該特定地方公共団体に対して、求人<span class=\"logic\">又は</span>求職に関する情報として厚生労働省令で定めるものを電磁的方</li>\n</ul>\n</div>\n</div>"
+  },
+  {
+    "reference": "法",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<ul class=\"condition-list\">\n<li>（電子情報処理組織を使用する方法その他の情報通信の技術を利用する方法をいう。）その他厚生労働省令で定める方法により提供</li>\n</ul>\n<div class=\"predicate-line\"><span class=\"predicate\">するものとする。</span></div>\n</div>\n</div>"
+  },
+  {
+    "reference": "法29条の6",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<div class=\"subject-line\"><span class=\"subject\">公共職業安定所</span>は、</div>\n<ul class=\"condition-list\">\n<li>特定地方公共団体に対して、雇用情報、職業に関する調査研究の成果等の提供その他無料の職業紹介事業の運営についての援助を与えることができる。</li>\n</ul>\n</div>\n</div>"
+  },
+  {
+    "reference": "法29条の7",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<div class=\"subject-line\"><span class=\"subject\">特定地方公共団体</span>は、</div>\n<ul class=\"condition-list\">\n<li>無料の職業紹介事業の運営に当たっては、職業安定機関との連携の下に、その改善向上を図るために必要な措置を講ずるように</li>\n</ul>\n<div class=\"predicate-line\"><span class=\"predicate\">努めなければならない。</span></div>\n</div>\n</div>"
+  },
+  {
+    "reference": "法32条の3",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<span class=\"item-number\">第1項</span>\n<div class=\"subject-line\"><span class=\"subject\">有料職業紹介事業者</span>は、</div>\n<ul class=\"condition-list\">\n<li>次に<span class=\"condition\">掲げる場合を除き</span>、職業紹介に関し、いかなる名義でも、実費その他の</li>\n</ul>\n</div>\n</div>"
+  },
+  {
+    "reference": "法32条の11",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<span class=\"item-number\">第1項</span>\n<div class=\"subject-line\"><span class=\"subject\">有料職業紹介事業者</span>は、</div>\n<ul class=\"condition-list\">\n<li>港湾運送業務に就く職業、建設業務に就く職業その他有料の職業紹介事業においてその職業のあっせんを行うことが当該職業に就く労働者の保護に支障を及ぼすおそれがあるものとして厚生労働省令で定める職業を求職者に紹介してはならない。有料職業紹介ができない職業有料職業紹介事業者は、次の職業を求職者に紹介してはならない。有料職業紹介ができない職業</li>\n<li>1. 港湾運送業務</li>\n<li>2. 建設業務</li>\n<li>3. その他厚生労働省令で定める職業（現在のところ、定められていない）</li>\n</ul>\n</div>\n</div>"
+  },
+  {
+    "reference": "法33条の2",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<span class=\"item-number\">第1項</span>\n<div class=\"subject-line\"><span class=\"subject\">次の各号に掲げる施設の長</span>は、</div>\n<ul class=\"condition-list\">\n<li>厚生労働大臣に届け出て、当該各号に定める者（これらの者に準ずる者として厚生労働省令で定めるものを含む。）について、無料の職業紹介事業を行うことができる。1. 学校（小学校<span class=\"logic\">及び</span>幼稚園を除く。）…当該学校の学生生徒等</li>\n<li>2. 専修学校…当該専修学校の学生<span class=\"logic\">若しくは</span>当該専修学校を卒業した者</li>\n<li>3. 職業能力開発促進法に掲げる施設…当該施設の行う職業訓練を受ける者<span class=\"logic\">又は</span>当該職業訓練を修了した者</li>\n<li>4. 職業能力開発総合大学校…当該職業能力開発総合大学校の行う職業訓練若しくは職業能力開発促進法に規定する指導員訓練を受ける者又は当該職業訓練<span class=\"logic\">若しくは</span>当該指導員訓練を修了した者学校等の行う無料職業紹介事業学校等の長は、厚生労働大臣に届け出て、所定の者（これらの者に準ずる者として厚生労働省令で定めるものを含む。）について、無料の職業紹介事業を</li>\n</ul>\n<div class=\"predicate-line\"><span class=\"predicate\">行うことができる。</span></div>\n</div>\n</div>"
+  },
+  {
+    "reference": "法33条の3",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<span class=\"item-number\">第1項</span>\n<div class=\"subject-line\"><span class=\"subject\">特別の法律により設立された法人であって厚生労働省令で定めるもの</span>は、</div>\n<ul class=\"condition-list\">\n<li>厚生労働大臣に届け出て、当該法人の直接若しくは間接の構成員（以下「構成員」という。）を求人者とし、又は当該法人の構成員<span class=\"logic\">若しくは</span>構成員に雇用されている者を求職者とする無料の職業紹介事業を</li>\n</ul>\n<div class=\"predicate-line\"><span class=\"predicate\">行うことができる。</span></div>\n</div>\n</div>"
+  },
+  {
+    "reference": "法32条の16",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<span class=\"item-number\">第3項</span>\n<div class=\"subject-line\"><span class=\"subject\">有料職業紹介事業者</span>は、</div>\n<ul class=\"condition-list\">\n<li>職業安定局長の定めるところによりインターネットを利用して、当該有料職業紹介事業者の紹介により就職した者の数、当該有料職業紹介事業者の紹介により就職した者（期間の定めのない労働契約を締結した者に限る。）のうち離職した者（解雇により離職した者<span class=\"logic\">及び</span>就職した日から<span class=\"period\">6月経過後に離職した者を除く。）の数、手数料に関する事項その他厚生労働省令で定める事項に関し情報の提供を行わなければならない。法33条4項、法33条の3第2項、法32条の16第3項、則25条1項、則25条の3第2項無料の職業紹介事業を行う者（学校等を除く。）は、職業安定局長の定めるところによりインターネットを利用して、当該無料の職業紹介事業を行う者の紹介により就職した者の数、当該無料の職業紹介事業を行う者の紹介により就職した者（期間の定めのない労働契約を締結した者に限る。）のうち離職した者（解雇により離職した者<span class=\"logic\">及び</span>就職した日から<span class=\"period\">6月</span>経過後に離職した者を除く。）の数その他厚生労働省令で定める事項に関し情報の提供を</span></li>\n</ul>\n<div class=\"predicate-line\"><span class=\"predicate\">行わなければならない。</span></div>\n</div>\n</div>"
+  },
+  {
+    "reference": "法33条の6",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<div class=\"subject-line\"><span class=\"subject\">厚生労働大臣</span>は、</div>\n<ul class=\"condition-list\">\n<li>労働力の需要供給を調整するため特に必要が<span class=\"condition\">あるとき</span>は、職業紹介事業者に対し、書面で職業紹介の範囲、時期、手段、件数その他職業紹介を行う方法に関し必要な</li>\n</ul>\n</div>\n</div>"
+  },
+  {
+    "reference": "法39条",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<div class=\"subject-line\"><span class=\"subject\">労働者の募集を行う者<span class=\"logic\">及び</span>第36条第1項<span class=\"logic\">又は</span>第3項の規定により労働者の募集に従事する者（以下「募集受託者」という。）</span>は、</div>\n<ul class=\"condition-list\">\n<li>募集に応じた労働者から、その募集に関し、いかなる名義でも、報酬を</li>\n</ul>\n<div class=\"predicate-line\"><span class=\"predicate\">受けてはならない。</span></div>\n</div>\n</div>"
+  },
+  {
+    "reference": "法40条",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<div class=\"subject-line\"><span class=\"subject\">労働者の募集を行う者</span>は、</div>\n<ul class=\"condition-list\">\n<li>その被用者で当該労働者の募集に従事するもの又は募集受託者に対し、賃金、給料その他これらに準ずるものを支払う場合<span class=\"logic\">又は</span>第36条第2項の認可に係る報酬（委託募集に係る報酬の額）を与える場合を除き、報酬を</li>\n</ul>\n<div class=\"predicate-line\"><span class=\"predicate\">与えてはならない。</span></div>\n</div>\n</div>"
+  },
+  {
+    "reference": "法43条の2",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<span class=\"item-number\">第1項</span>\n<div class=\"subject-line\"><span class=\"subject\">特定募集情報等提供事業を行おうとする者</span>は、</div>\n<ul class=\"condition-list\">\n<li>氏名又は名称<span class=\"logic\">及び</span>住所その他の厚生労働省令で定める事項を厚生労働大臣に</li>\n</ul>\n<div class=\"predicate-line\"><span class=\"predicate\">届け出なければならない。</span></div>\n</div>\n</div>"
+  },
+  {
+    "reference": "法44条",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<ul class=\"condition-list\">\n<li>何人も、第45条に規定する場合を除くほか、労働者供給事業を行い、<span class=\"logic\">又は</span>その労働者供給事業を行う者から供給される労働者を自らの指揮命令の下に労働させてはならない。</li>\n</ul>\n</div>\n</div>"
+  },
+  {
+    "reference": "法45条",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<div class=\"subject-line\"><span class=\"subject\">労働組合等が、厚生労働大臣の許可を受けた場合</span>は、</div>\n<ul class=\"condition-list\">\n<li>無料の労働者供給事業を</li>\n</ul>\n<div class=\"predicate-line\"><span class=\"predicate\">行うことができる。</span></div>\n</div>\n</div>"
+  },
+  {
+    "reference": "法29条の2",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<div class=\"subject-line\"><span class=\"subject\">労働者派遣の役務の提供を受ける者</span>は、</div>\n<ul class=\"condition-list\">\n<li>その者の都合による</li>\n</ul>\n</div>\n</div>"
+  },
+  {
+    "reference": "法40条の2第1項",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<div class=\"subject-line\"><span class=\"subject\">・2項派遣先</span>は、</div>\n<ul class=\"condition-list\">\n<li>当該派遣先の事業所その他派遣就業の場所ごとの業務について、派遣元事業主から派遣可能期間（<span class=\"period\">3年）を超える期間継続して労働者派遣の役務の提供を</span></li>\n</ul>\n<div class=\"predicate-line\"><span class=\"predicate\">受けてはならない。</span></div>\n</div>\n</div>"
+  },
+  {
+    "reference": "法40条の2",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<span class=\"item-number\">第3項</span>\n<div class=\"subject-line\"><span class=\"subject\">派遣先</span>は、</div>\n<ul class=\"condition-list\">\n<li>当該派遣先の事業所その他派遣就業の場所ごとの業務について、派遣元事業主から<span class=\"period\">3年を超える期間継続して労働者派遣（第1項各号のいずれかに該当するものを除く。以下同じ。）の役務の提供を受けようとするときは、当該派遣先の事業所その他派遣就業の場所ごとの業務に係る労働者派遣の役務の提供が開始された日（この項の規定により派遣可能期間を延長した場合にあっては、当該延長前の派遣可能期間が経過した日）以後当該事業所その他派遣就業の場所ごとの業務について法40条の2第1 項の規定に抵触することとなる最初の日の<span class=\"period\">1月</span>前の日までの間（以下「意見聴取期間」という。）に、<span class=\"period\">3年</span>を限り、派遣可能期間を延長することができる。当該延長に係る期間が経過した場合において、これを更に延長しようとするときも、同様</span></li>\n</ul>\n<div class=\"predicate-line\"><span class=\"predicate\">とする。</span></div>\n</div>\n<div class=\"principle-section\">\n<span class=\"item-number\">第4項</span>\n<div class=\"subject-line\"><span class=\"subject\">派遣先</span>は、</div>\n<ul class=\"condition-list\">\n<li>派遣可能期間を延長しようとするときは、意見聴取期間に、過半数労働組合等（当該派遣先の事業所に、労働者の過半数で組織する労働組合がある場合においてはその労働組合、労働者の過半数で組織する労働組合が<span class=\"condition\">ない場合</span>においては労働者の過半数を代表する者をいう。以下同じ。）の意見を聴かなければならない。</li>\n</ul>\n</div>\n</div>"
+  },
+  {
+    "reference": "法35条の3",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<div class=\"subject-line\"><span class=\"subject\">派遣元事業主</span>は、</div>\n<ul class=\"condition-list\">\n<li>派遣先の事業所その他派遣就業の場所における組織単位ごとの業務について、<span class=\"period\">3年を超える期間継続して同一の派遣労働者に係る労働者派遣（第40条の2第1項各号のいずれかに該当するもの（派遣期間制限の例外）を除く。）を</span></li>\n</ul>\n<div class=\"predicate-line\"><span class=\"predicate\">行ってはならない。</span></div>\n</div>\n</div>"
+  },
+  {
+    "reference": "法40条の3",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\"><span class=\"subject\">派遣先</span>は、</div>第40条の2第3項の規定により派遣可能期間が<span class=\"condition\">延長された場合</span>において、当該派遣先の事業所その他派遣就業の場所における組織単位ごとの業務について、派遣元事業主から<span class=\"period\">3年</span>を超える期間継続して同一の派遣労働者に係る労働者派遣（同条第1項各号のいずれかに該当するものを除く。）の役務の提供を<div class=\"predicate-line\"><span class=\"predicate\">受けてはならない。</span></div></div></div></div>"
+  },
+  {
+    "reference": "法30条の4",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<span class=\"item-number\">第1項</span>\n<div class=\"subject-line\"><span class=\"subject\">派遣元事業主</span>は、</div>\n<ul class=\"condition-list\">\n<li>労使協定により、その雇用する派遣労働者の待遇（第40条第2項の教育訓練、同条第3項の福利厚生施設を除く。）について、所定の事項を定めたときは、第30条の3の規定（不合理な待遇の禁止等）は、<span class=\"condition\">締結事項第1号に掲げる</span>範囲に属する派遣労働者の待遇については</li>\n</ul>\n<div class=\"predicate-line\"><span class=\"predicate\">適用しない。</span></div>\n</div>\n<div class=\"exception-section\">\n<span class=\"exception\">ただし、締結事項第2号、第4号<span class=\"logic\">若しくは</span>第5号に掲げる事項であって当該協定で定めたものを遵守していない場合<span class=\"logic\">又は</span>第3号に関する当該協定の定めによる公正な評価に取り組んでいない場合は、この限りでない。</span>\n</div>\n<div class=\"principle-section\">\n<span class=\"item-number\">第2項</span>\n<div class=\"subject-line\"><span class=\"subject\">前項の労使協定を締結した派遣元事業主</span>は、</div>\n<ul class=\"condition-list\">\n<li>当該労使協定をその雇用する労働者に周知</li>\n</ul>\n<div class=\"predicate-line\"><span class=\"predicate\">しなければならない。</span></div>\n</div>\n</div>"
+  },
+  {
+    "reference": "法31条の2",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"subject\">派遣元事業主</span>は、</div>派遣労働者として雇用しようとする労働者に対し、当該労働者を派遣労働者として<span class=\"condition\">雇用した場合</span>における当該労働者の賃金の額の見込みその他の当該労働者の待遇に関する事項その他の厚生労働省令で定める事項を<div class=\"predicate-line\"><span class=\"predicate\">説明しなければならない。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">第2項</span><div class=\"subject-line\"><span class=\"subject\">派遣元事業主</span>は、</div>労働者を派遣労働者として<span class=\"condition\">雇い入れようとするときは</span>、あらかじめ、当該労働者に対し、文書の交付その他厚生労働省令で定める方法（次項において「文書の交付等」という。）により、第1号に掲げる事項を明示するとともに、第2号に掲げる措置の内容を<span class=\"predicate\">説明しなければならない。</span><ul class=\"condition-list\"><li>1. 労働条件に関する事項のうち、労働基準法第15条第1項に規定する厚生労働省令で定める事項以外のものであって厚生労働省令で定めるもの</li><li>2. 第30条の3（派遣先均等・均衡方式）、第30条の4第1項（労使協定方式）<span class=\"logic\">及び</span>第30条の5（職務の内容等を勘案した賃金の決定）の規定により措置を講ずべきこととされている事項に関し講ずることとしている措置の内容</li></ul></div><div class=\"principle-section\"><span class=\"item-number\">第3項</span><div class=\"subject-line\"><span class=\"subject\">派遣元事業主</span>は、</div>労働者派遣（第30条の4第1項（労使協定方式）の協定に係るものを除く。）を<span class=\"condition\">しようとするときは</span>、あらかじめ、当該労働者派遣に係る派遣労働者に対し、文書の交付等により、第1号に掲げる事項を明示するとともに、第2号に掲げる措置の内容を<div class=\"predicate-line\"><span class=\"predicate\">説明しなければならない。</span></div></div></div></div>"
+  },
+  {
+    "reference": "法32条",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<span class=\"item-number\">第1項</span>\n<div class=\"subject-line\"><span class=\"subject\">派遣元事業主</span>は、</div>\n<ul class=\"condition-list\">\n<li>労働者を派遣労働者として雇い入れようとするときは、あらかじめ、当該労働者にその旨（紹介予定派遣に係る派遣労働者として雇い入れようと<span class=\"condition\">する場合</span>にあっては、その旨を含む。）を明示</li>\n</ul>\n<div class=\"predicate-line\"><span class=\"predicate\">しなければならない。</span></div>\n</div>\n<div class=\"principle-section\">\n<span class=\"item-number\">第2項</span>\n<div class=\"subject-line\"><span class=\"subject\">派遣元事業主</span>は、</div>\n<ul class=\"condition-list\">\n<li>その雇用する労働者であって、派遣労働者として雇い入れた労働者以外のものを新たに労働者派遣の対象としようとするときは、あらかじめ、当該労働者にその旨（新たに紹介予定派遣の対象としようと<span class=\"condition\">する場合</span>にあっては、その旨を含む。）を明示し、その同意を得なければならない。</li>\n</ul>\n</div>\n</div>"
+  },
+  {
+    "reference": "法34条の2",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<div class=\"subject-line\"><span class=\"subject\">派遣元事業主</span>は、</div>\n<ul class=\"condition-list\">\n<li>次の各号に<span class=\"condition\">掲げる場合には</span>、当該各号に定める労働者に対し、当該労働者に係る</li>\n</ul>\n</div>\n</div>"
+  },
+  {
+    "reference": "法35条",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<ul class=\"condition-list\">\n<li>2号、則32条の4</li>\n</ul>\n</div>\n<div class=\"principle-section\">\n<span class=\"item-number\">第1項</span>\n<div class=\"subject-line\"><span class=\"subject\">派遣元事業主</span>は、</div>\n<ul class=\"condition-list\">\n<li>労働者派遣を<span class=\"condition\">するとき</span>は、次に掲げる事項を派遣先に通知しなければならない。1. 当該労働者派遣に係る派遣労働者の氏名</li>\n<li>2. 当該労働者派遣に係る派遣労働者が協定対象派遣労働者であるか否かの別</li>\n<li>3. 当該労働者派遣に係る派遣労働者が無期雇用派遣労働者であるか有期雇用派遣労働者であるかの別</li>\n<li>4. 当該労働者派遣に係る派遣労働者が<span class=\"period\">60歳以上の者であるか否かの別</span></li>\n<li>5. 当該労働者派遣に係る派遣労働者に関する健康保険法の規定による</li>\n</ul>\n</div>\n</div>"
+  },
+  {
+    "reference": "法35条の4",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"subject\">派遣元事業主</span>は、</div>その業務を迅速<span class=\"logic\">かつ</span>的確に遂行するために専門的な知識、技術<span class=\"logic\">又は</span>経験を必要とする業務のうち、労働者派遣により日雇労働者を従事させても当該日雇労働者の適正な雇用管理に支障を及ぼすおそれがないと認められる業務として政令で定める業務について労働者派遣を<span class=\"condition\">する場合</span><span class=\"logic\">又は</span>雇用の機会の確保が特に困難であると認められる労働者の雇用の継続等を図るために必要であると認められる場合その他の場合で政令で定める<span class=\"condition\">場合を除き</span>、その雇用する日雇労働者について労働者派遣を行っては<span class=\"predicate\">ならない。</span></div></div></div>"
+  },
+  {
+    "reference": "法23条の2",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\"><span class=\"subject\">派遣元事業主</span>は、</div>関係派遣先に労働者派遣を<span class=\"condition\">するときは</span>、関係派遣先への派遣割合が<span class=\"period\">100分の80</span>以下となるように<div class=\"predicate-line\"><span class=\"predicate\">しなければならない。</span></div></div></div></div>"
+  },
+  {
+    "reference": "法23条",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<span class=\"item-number\">第3項</span>\n<div class=\"subject-line\"><span class=\"subject\">派遣元事業主</span>は、</div>\n<ul class=\"condition-list\">\n<li>関係派遣先への派遣割合を厚生労働大臣に報告</li>\n</ul>\n<div class=\"predicate-line\"><span class=\"predicate\">しなければならない。</span></div>\n</div>\n</div>"
+  },
+  {
+    "reference": "法48条",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<span class=\"item-number\">第3項</span>\n<div class=\"subject-line\"><span class=\"subject\">厚生労働大臣</span>は、</div>\n<ul class=\"condition-list\">\n<li>第23条第3項、第23条の2の規定に違反した派遣元事業主に対し、第48条第1項の規定による指導<span class=\"logic\">又は</span>助言をした場合において、当該派遣元事業主がなお当該規定に違反したときは、当該派遣元事業主に対し、必要な措置をとるべきことを指示</li>\n</ul>\n<div class=\"predicate-line\"><span class=\"predicate\">することができる。</span></div>\n</div>\n</div>"
+  },
+  {
+    "reference": "法24条の3",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<span class=\"item-number\">第1項</span>\n<div class=\"subject-line\"><span class=\"subject\">派遣元事業主</span>は、</div>\n<ul class=\"condition-list\">\n<li>労働者派遣に関し、労働者の個人情報を収集し、保管し、<span class=\"logic\">又は</span>使用するに当たっては、その業務（紹介予定派遣をする場合における職業紹介を含む。）の</li>\n</ul>\n</div>\n</div>"
+  },
+  {
+    "reference": "法35条の5",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<div class=\"subject-line\"><span class=\"subject\">派遣元事業主</span>は、</div>\n<ul class=\"condition-list\">\n<li>労働者派遣をしようと<span class=\"condition\">する場合</span>において、派遣先が当該労働者派遣の役務の提供を受けたならば第40条の9第1項の規定に抵触することとなるときは、当該労働者派遣を</li>\n</ul>\n<div class=\"predicate-line\"><span class=\"predicate\">行ってはならない。</span></div>\n</div>\n</div>"
+  },
+  {
+    "reference": "法40条の9",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<span class=\"item-number\">第1項</span>\n<div class=\"subject-line\"><span class=\"subject\">派遣先</span>は、</div>\n<ul class=\"condition-list\">\n<li>労働者派遣の役務の提供を受けようとする場合において、当該労働者派遣に係る派遣労働者が当該派遣先を離職した者であるときは、当該離職の日から起算して<span class=\"period\">1年を経過する日までの間は、当該派遣労働者（雇用の機会の確保が特に困難であり、その雇用の継続等を図る必要があると認められる者として厚生労働省令で定める者を除く。）に係る労働者派遣の役務の提供を</span></li>\n</ul>\n<div class=\"predicate-line\"><span class=\"predicate\">受けてはならない。</span></div>\n</div>\n</div>"
+  },
+  {
+    "reference": "法41条",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\"><span class=\"subject\">派遣先</span>は、</div>派遣就業に関し所定の事項を行わせるため、派遣先責任者を選任<span class=\"predicate\">しなければならない。</span></div></div></div>"
+  },
+  {
+    "reference": "法42条",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"subject\">派遣先</span>は、</div>派遣就業に関し、派遣先管理台帳を作成し、当該台帳に派遣労働者ごとに所定の事項を記載<span class=\"predicate\">しなければならない。</span></div><div class=\"principle-section\"><span class=\"item-number\">第2項</span><div class=\"subject-line\"><span class=\"subject\">派遣先</span>は、</div>前項の派遣先管理台帳を<span class=\"period\">3年間</span>保存<span class=\"predicate\">しなければならない。</span></div></div></div>"
+  },
+  {
+    "reference": "法40条の4",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\"><span class=\"subject\">派遣先</span>は、</div>当該派遣先の事業所その他派遣就業の場所における組織単位ごとの同一の業務について派遣元事業主から継続して<span class=\"period\">1年以上</span>の期間同一の特定有期雇用派遣労働者に係る労働者派遣（第40条の2第1項各号のいずれかに該当するものを除く。）の役務の提供を受けた場合において、引き続き当該同一の業務に労働者を従事させるため、当該労働者派遣の役務の提供を受けた期間（以下「派遣実施期間」という。）が経過した日以後労働者を雇い入れようとする<span class=\"condition\">ときは</span>、当該同一の業務に派遣実施期間継続して従事した特定有期雇用派遣労働者（継続して就業することを希望する者として厚生労働省令で定めるものに限る。）を、遅滞なく、雇い入れるように<span class=\"predicate\">努めなければならない。</span></div></div></div>"
+  },
+  {
+    "reference": "法40条の5",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<span class=\"item-number\">第1項</span>\n<div class=\"subject-line\"><span class=\"subject\">派遣先</span>は、</div>\n<ul class=\"condition-list\">\n<li>当該派遣先の同一の事業所その他派遣就業の場所において派遣元事業主から<span class=\"period\">1年以上の期間継続して同一の派遣労働者に係る労働者派遣の役務の提供を受けている場合において、当該事業所その他派遣就業の場所において労働に従事する通常の労働者の募集を行うときは、当該募集に係る事業所その他派遣就業の場所に掲示することその他の措置を講ずることにより、その者が従事すべき業務の内容、賃金、労働時間その他の当該募集に係る事項を当該派遣労働者に周知しなければならない。募集情報の提供義務派遣先は、当該派遣先の同一の事業所その他派遣就業の場所において派遣元事業主から<span class=\"period\">1年</span>以上の期間継続して同一の派遣労働者に係る労働者派遣の役務の提供を受けている場合において、当該事業所その他派遣就業の場所において労働に従事する通常の労働者の募集を行うときは、当該募集に係る事業所その他派遣就業の場所に掲示することその他の措置を講ずることにより、その者が従事すべき業務の内容、賃金、労働時間その他の当該募集に係る事項を当該派遣労働者に周知しなければならない。（法40条の5第1項）</span></li>\n</ul>\n</div>\n</div>"
+  },
+  {
+    "reference": "法40条の6",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<span class=\"item-number\">第1項</span>\n<div class=\"subject-line\"><span class=\"subject\">労働者派遣の役務の提供を受ける者（国（行政執行法人を含む。）<span class=\"logic\">及び</span>地方公共団体（特定地方独立行政法人を含む。）の機関を除く。）が一定の行為を行った場合に</span>は、</div>\n<ul class=\"condition-list\">\n<li>その時点において、当該労働者派遣の役務の提供を受ける者から当該労働者派遣に係る派遣労働者に対し、その時点における当該派遣労働者に係る労働条件と同一の労働条件を内容とする労働契約の申込みをしたもの</li>\n</ul>\n<div class=\"predicate-line\"><span class=\"predicate\">とみなす。</span></div>\n</div>\n<div class=\"exception-section\">\n<span class=\"exception\">ただし、労働者派遣の役務の提供を受ける者が、その行った行為が一定の行為に該当することを知らず、<span class=\"logic\">かつ</span>、知らなかったことにつき過失がなかったときは、この限りでない。</span>\n</div>\n<div class=\"principle-section\">\n<span class=\"item-number\">第2項</span>\n<div class=\"subject-line\"><span class=\"subject\">前項の規定により労働契約の申込みをしたものとみなされた労働者派遣の役務の提供を受ける者</span>は、</div>\n<ul class=\"condition-list\">\n<li>当該労働契約の申込みに係る同項に規定する行為が終了した日から<span class=\"period\">1年を経過する日までの間は、当該申込みを撤回することができない。労働契約申込みみなし制度「労働契約申込みみなし制度」は、違法派遣の是正に当たって、派遣労働者の希望を踏まえつつ雇用の安定が図られるようにするため、禁止業務に従事させた場合、無許可事業主から派遣労働者を受け入れた場合、派遣可能期間の制限に違反した場合、またはいわゆる偽装請負などの場合については、当該行為を行った時点において、労働者派遣の役務の提供を受ける者が派遣労働者に対して、原則として、労働契約の申込みをしたものとみなす制度である。（法40条の6第1項、平成<span class=\"period\">27年</span><span class=\"period\">9月</span><span class=\"period\">30日</span>職発0930第13号）労働契約申込みみなし制度が適用される場合（法40条の6第1項1号～5号）</span></li>\n<li><span class=\"condition\">1. 派遣禁止業務に従事させた場合</span></li>\n<li>2. 無許可事業主から派遣労働者を<span class=\"condition\">受け入れた場合</span></li>\n<li><span class=\"condition\">3. 派遣可能期間の制限に違反した場合</span></li>\n<li>4. いわゆる偽装請負などの場合派遣先は、法40条の6第1項に規定する行為が終了した日から<span class=\"period\">1年を経過する日までの間は、当該申込みを撤回することができない。（法40条の6第2項）</span></li>\n</ul>\n</div>\n</div>"
+  },
+  {
+    "reference": "法47条の5",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<span class=\"item-number\">第1項</span>\n<div class=\"subject-line\"><span class=\"subject\">派遣元事業主</span>は、</div>\n<ul class=\"condition-list\">\n<li>第30条の3、第30条の4及び第31条の2第2項から第5項までに定める事項に関し、派遣労働者から苦情の申出を受けたとき、<span class=\"logic\">又は</span>派遣労働者が派遣先に対して申し出た苦情の内容が当該派遣先から通知されたときは、その自主的な解決を図るように</li>\n</ul>\n<div class=\"predicate-line\"><span class=\"predicate\">努めなければならない。</span></div>\n</div>\n<div class=\"principle-section\">\n<span class=\"item-number\">第2項</span>\n<div class=\"subject-line\"><span class=\"subject\">派遣先</span>は、</div>\n<ul class=\"condition-list\">\n<li>第40条第2項<span class=\"logic\">及び</span>第3項に定める事項に関し、派遣労働者から苦情の申出を受けたときは、その自主的な解決を図るように</li>\n</ul>\n<div class=\"predicate-line\"><span class=\"predicate\">努めなければならない。</span></div>\n</div>\n</div>"
+  },
+  {
+    "reference": "法47条の7",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<span class=\"item-number\">第1項</span>\n<div class=\"subject-line\"><span class=\"subject\">都道府県労働局長</span>は、</div>\n<ul class=\"condition-list\">\n<li>第47条の6に規定する紛争に関し、当該紛争の当事者の双方又は一方からその解決につき援助を求められた場合には、当該紛争の当事者に対し、必要な助言、指導<span class=\"logic\">又は</span>勧告を</li>\n</ul>\n<div class=\"predicate-line\"><span class=\"predicate\">することができる。</span></div>\n</div>\n<div class=\"principle-section\">\n<span class=\"item-number\">第2項</span>\n<div class=\"subject-line\"><span class=\"subject\">派遣元事業主<span class=\"logic\">及び</span>派遣先</span>は、</div>\n<ul class=\"condition-list\">\n<li>派遣労働者が前項の援助を求めたことを理由として、当該派遣労働者に対して不利益な取扱いをしてはならない。紛争解決の援助</li>\n</ul>\n</div>\n</div>"
+  },
+  {
+    "reference": "法47条の8",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<span class=\"item-number\">第1項</span>\n<div class=\"subject-line\"><span class=\"subject\">都道府県労働局長</span>は、</div>\n<ul class=\"condition-list\">\n<li>第47条の6に規定する紛争について、当該紛争の当事者の双方<span class=\"logic\">又は</span>一方から調停の申請があった場合において当該紛争の解決のために必要があると認めるときは、個別労働関係紛争の解決の促進に関する法律第6条第1項の紛争調整委員会に調停を行わせるもの</li>\n</ul>\n<div class=\"predicate-line\"><span class=\"predicate\">とする。</span></div>\n</div>\n<div class=\"principle-section\">\n<span class=\"item-number\">第2項</span>\n<div class=\"subject-line\"><span class=\"subject\">派遣元事業主<span class=\"logic\">及び</span>派遣先</span>は、</div>\n<ul class=\"condition-list\">\n<li>派遣労働者が前項の申請をしたことを理由として、当該派遣労働者に対して不利益な取扱いをしてはならない。当事者の「一方」からの求めも対象です。</li>\n</ul>\n</div>\n</div>"
+  },
+  {
+    "reference": "法49条",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<span class=\"item-number\">第1項</span>\n<div class=\"subject-line\"><span class=\"subject\">厚生労働大臣</span>は、</div>\n<ul class=\"condition-list\">\n<li>派遣元事業主が当該労働者派遣事業に関し労働者派遣法（第23条第3項、第 23条の2<span class=\"logic\">及び</span>第30条第2項の規定により読み替えて適用する同条第1項の規定を除く。）その他労働に関する法律の規定（これらの規定に基づく命令の規定を含む。）に違反した場合において、適正な派遣就業を確保するため必要があると認めるときは、当該派遣元事業主に対し、派遣労働者に係る雇用管理の方法の改善その他当該労働者派遣事業の運営を改善するために必要な措置を講ずべきことを命ずることができる。</li>\n</ul>\n</div>\n<div class=\"principle-section\">\n<span class=\"item-number\">第2項</span>\n<div class=\"subject-line\"><span class=\"subject\">厚生労働大臣</span>は、</div>\n<ul class=\"condition-list\">\n<li>派遣先が第4条第3項（派遣禁止業務）の規定に違反している場合において、同項の規定に違反している派遣就業を継続させることが著しく不適当であると認めるときは、当該派遣先に労働者派遣をする派遣元事業主に対し、当該派遣就業に係る労働者派遣契約による労働者派遣の停止を命ずることができる。</li>\n</ul>\n</div>\n</div>"
+  },
+  {
+    "reference": "法49条の2",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<span class=\"item-number\">第1項</span>\n<div class=\"subject-line\"><span class=\"subject\">厚生労働大臣</span>は、</div>\n<ul class=\"condition-list\">\n<li>労働者派遣の役務の提供を受ける者が、一定の規定に違反しているとき、又はこれらの規定に違反して第48条第1項の規定による指導若しくは助言を受けたにもかかわらずなおこれらの規定に違反するおそれがあると認めるときは、当該労働者派遣の役務の提供を受ける者に対し、当該規定に違反する派遣就業を是正するために必要な措置<span class=\"logic\">又は</span>当該派遣就業が行われることを防止するために必要な措置をとるべきことを勧告</li>\n</ul>\n<div class=\"predicate-line\"><span class=\"predicate\">することができる。</span></div>\n</div>\n<div class=\"principle-section\">\n<span class=\"item-number\">第2項</span>\n<div class=\"subject-line\"><span class=\"subject\">厚生労働大臣</span>は、</div>\n<ul class=\"condition-list\">\n<li>前項の規定による勧告を<span class=\"condition\">した場合</span>において、その勧告を受けた者がこれに従わなかったときは、その旨を公表することができる。公表など</li>\n</ul>\n</div>\n</div>"
+  },
+  {
+    "reference": "法10条の2",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<span class=\"item-number\">第1項</span>\n<div class=\"subject-line\"><span class=\"subject\">定年（<span class=\"period\">65歳</span>以上<span class=\"period\">70歳</span>未満のものに限る。以下この条において同じ。）の定めをしている事業主<span class=\"logic\">又は</span>継続雇用制度（高年齢者を<span class=\"period\">70歳</span>以上まで引き続いて雇用する制度を除く。以下この項において同じ。）を導入している事業主</span>は、</div>\n<ul class=\"condition-list\">\n<li>その雇用する高年齢者（第9条第2項の契約に基づき、当該事業主と当該契約を締結した特殊関係事業主に現に雇用されている者を含み、厚生労働省令で定める者を除く。以下この条において同じ。）について、次に掲げる措置を講ずることにより、<span class=\"period\">65歳から<span class=\"period\">70歳</span>までの安定した雇用を確保するよう</span></li>\n</ul>\n<div class=\"predicate-line\"><span class=\"predicate\">努めなければならない。</span></div>\n</div>\n<div class=\"exception-section\">\n<span class=\"exception\">ただし、当該事業主が、労働者の過半数で組織する</span>\n</div>\n</div>"
+  },
+  {
+    "reference": "法52条",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<span class=\"item-number\">第1項</span>\n<div class=\"subject-line\"><span class=\"subject\">事業主</span>は、</div>\n<ul class=\"condition-list\">\n<li>毎年、<span class=\"period\">6月<span class=\"period\">1日</span>現在における定年、継続雇用制度、<span class=\"period\">65歳</span>以上継続雇用制度<span class=\"logic\">及び</span>創業支援等措置の状況その他高年齢者の就業の機会の確保に関する状況を翌月<span class=\"period\">15日</span>までに、高年齢者雇用状況等報告書により、その主たる事務所の所在地を管轄する公共職業安定所の長を経由して厚生労働大臣に報告しなければならない。雇用状況の報告「大量離職届」については、1-6-8参照。</span></li>\n</ul>\n</div>\n</div>"
+  },
+  {
+    "reference": "法36条の2",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<div class=\"subject-line\"><span class=\"subject\">事業主</span>は、</div>\n<ul class=\"condition-list\">\n<li>労働者の募集及び採用について、障害者と障害者でない者との均等な機会の確保の支障となっている事情を改善するため、労働者の募集<span class=\"logic\">及び</span>採用に当たり障害者からの申出により当該障害者の障害の特性に配慮した必要な措置を</li>\n</ul>\n<div class=\"predicate-line\"><span class=\"predicate\">講じなければならない。</span></div>\n</div>\n<div class=\"exception-section\">\n<span class=\"exception\">ただし、事業主に対して過重な負担を及ぼすこととなるときは、この限りでない。</span>\n</div>\n</div>"
+  },
+  {
+    "reference": "法36条の3",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<div class=\"subject-line\"><span class=\"subject\">事業主</span>は、</div>\n<ul class=\"condition-list\">\n<li>障害者である労働者について、障害者でない労働者との均等な待遇の確保<span class=\"logic\">又は</span>障害者である労働者の有する能力の有効な発揮の支障となっている事情を改善するため、その雇用する障害者である労働者の障害の特性に配慮した職務の円滑な遂行に必要な施設の整備、援助を行う者の配置その他の必要な措置を</li>\n</ul>\n<div class=\"predicate-line\"><span class=\"predicate\">講じなければならない。</span></div>\n</div>\n<div class=\"exception-section\">\n<span class=\"exception\">ただし、事業主に対して過重な負担を及ぼすこととなるときは、この限りでない。合理的配慮の提供義務</span>\n</div>\n</div>"
+  },
+  {
+    "reference": "法38条",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<span class=\"item-number\">第1項</span>\n<div class=\"subject-line\"><span class=\"subject\">国<span class=\"logic\">及び</span>地方公共団体の任命権者</span>は、</div>\n<ul class=\"condition-list\">\n<li>職員（当該機関に常時勤務する職員であって、警察官、自衛官その他の政令で定める職員以外のものに限る。）の採用について、当該機関に勤務する対象障害者である職員の数が、当該機関の職員の総数に、障害者雇用率を下回らない率であって政令で定めるものを乗じて得た数（その数に<span class=\"period\">1人未満の端数があるときは、その端数は、切り捨てる。）未満である場合には、対象障害者である職員の数がその率を乗じて得た数以上となるようにするため、対象障害者の採用に関する計画を作成しなければならない。国<span class=\"logic\">及び</span>地方公共団体の雇用義務国<span class=\"logic\">及び</span>地方公共団体の任命権者は、職員の採用について、当該機関に勤務する対象障害者である職員の数が、当該機関の職員の総数に、障害者雇用率を下回らない率であって政令で定めるものを乗じて得た数未満である場合には、対象障害者である職員の数がその率を乗じて得た数以上となるようにするため、対象障害者の採用に関する計画を作成</span></li>\n</ul>\n<div class=\"predicate-line\"><span class=\"predicate\">しなければならない。</span></div>\n</div>\n</div>"
+  },
+  {
+    "reference": "法43条",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<ul class=\"condition-list\">\n<li>、則6条</li>\n</ul>\n</div>\n<div class=\"principle-section\">\n<span class=\"item-number\">第1項</span>\n<div class=\"subject-line\"><span class=\"subject\">事業主</span>は、</div>\n<ul class=\"condition-list\">\n<li>常時雇用する労働者の雇入れ<span class=\"logic\">及び</span>解雇（労働者の責めに帰すべき理由による解雇を除く。）がある場合には、その雇用する対象障害者である労働者の数が、その雇用する労働者の数に障害者雇用率を乗じて得た数（その数に<span class=\"period\">1人未満の端数があるときは、その端数は、切り捨てる。「法定雇用障害者数」という。）以上であるように</span></li>\n</ul>\n<div class=\"predicate-line\"><span class=\"predicate\">しなければならない。</span></div>\n</div>\n<div class=\"principle-section\">\n<span class=\"item-number\">第8項</span>\n<div class=\"subject-line\"><span class=\"subject\">第43条第1項<span class=\"logic\">及び</span>同条第7項の雇用する労働者の数<span class=\"logic\">並びに</span>第2項の労働者の総数の算定に当たって</span>は、</div>\n<ul class=\"condition-list\">\n<li>短時間労働者は、その<span class=\"period\">1人をもって、0.<span class=\"period\">5人</span>の労働者に相当するものとみなす。一般事業主の雇用義務</span></li>\n</ul>\n</div>\n</div>"
+  },
+  {
+    "reference": "法43条1項",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<div class=\"subject-line\"><span class=\"subject\">、附則3条2項除外率設定業種に属する事業を行う事業所の事業主にあって</span>は、</div>\n<ul class=\"condition-list\">\n<li>その雇用する労働者の数から、当該事業所に係る除外率設定業種ごとの労働者の数に当該除外率設定業種に係る除外率を乗じて得た数（その数に<span class=\"period\">1人未満の端数があるときは、その端数を切り捨てる。）を合計した数を控除した数に、障害者雇用率を乗じて得た数が法定雇用障害者数となる。除外率設定業種の場合「除外率設定業種」に属する事業を行う事業主については、その雇用する労働者の数から、当該労働者の数に当該除外率設定業種に係る「除外率」を乗じて得た数を控除した数をもってその雇用する労働者の数とされ、これに、障害者雇用率を乗じて得た数が、法定雇用障害者数とされる。（法43条1項、附則3条2項）</span></li>\n</ul>\n</div>\n</div>"
+  },
+  {
+    "reference": "法53条",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"subject\">独立行政法人高齢・障害・求職者雇用支援機構</span>は、</div>障害者雇用調整金<span class=\"logic\">及び</span>助成金の支給に要する費用、業務の実施に要する費用<span class=\"logic\">並びに</span>業務に係る事務の処理に要する費用に充てるため、事業主から、毎年度、障害者雇用納付金を<span class=\"predicate\">徴収する。</span></div><div class=\"principle-section\"><span class=\"item-number\">第2項</span><div class=\"subject-line\"><span class=\"subject\">事業主</span>は、</div>障害者雇用納付金を納付する義務を<span class=\"predicate\">負う。</span></div></div></div>"
+  },
+  {
+    "reference": "法74条の2",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<span class=\"item-number\">第1項</span>\n<div class=\"subject-line\"><span class=\"subject\">厚生労働大臣</span>は、</div>\n<ul class=\"condition-list\">\n<li>在宅就業障害者の就業機会の確保を支援するため、事業主で一定の要件に該当する事業主に対して、在宅就業障害者特例調整金を支給する業務を</li>\n</ul>\n<div class=\"predicate-line\"><span class=\"predicate\">行うことができる。</span></div>\n</div>\n<div class=\"principle-section\">\n<span class=\"item-number\">第6項</span>\n<div class=\"subject-line\"><span class=\"subject\">厚生労働大臣</span>は、</div>\n<ul class=\"condition-list\">\n<li>第1項に規定する業務の全部<span class=\"logic\">又は</span>一部を独立行政法人高齢・障害・求職者雇用支援機構に行わせるものとする。在宅就業障害者特例調整金の支給厚生労働大臣（独立行政法人高齢・障害・求職者雇用支援機構）は、在宅就業障害者の就業機会の確保を支援するため、事業主で一定の要件に該当する事業主に対して、在宅就業障害者特例調整金を支給する業務を行うことができる。（法74条の2第1項・6項）</li>\n</ul>\n</div>\n</div>"
+  },
+  {
+    "reference": "法82条",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<span class=\"item-number\">第1項</span>\n<div class=\"subject-line\"><span class=\"subject\">厚生労働大臣<span class=\"logic\">又は</span>公共職業安定所長</span>は、</div>\n<ul class=\"condition-list\">\n<li>障害者雇用促進法を施行するため必要な限度において、国<span class=\"logic\">又は</span>地方公共団体の任命権者に対し、障害者の雇用の状況その他の事項についての報告を求めることができる。障害者の雇用状況の報告</li>\n</ul>\n</div>\n</div>"
+  },
+  {
+    "reference": "法81条",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<ul class=\"condition-list\">\n<li>、則42条</li>\n</ul>\n</div>\n<div class=\"principle-section\">\n<span class=\"item-number\">第1項</span>\n<div class=\"subject-line\"><span class=\"subject\">事業主</span>は、</div>\n<ul class=\"condition-list\">\n<li>障害者である労働者を解雇する場合（労働者の責めに帰すべき理由により解雇する場合<span class=\"logic\">又は</span>天災事変その他やむを得ない理由のために事業の継続が不可能となったことにより解雇する場合を除く。）には、速やかに、その旨を当該障害者である労働者の雇用に係る事業所の所在地を管轄する公共職業安定所の長に</li>\n</ul>\n<div class=\"predicate-line\"><span class=\"predicate\">届け出なければならない。</span></div>\n</div>\n<div class=\"principle-section\">\n<span class=\"item-number\">第2項</span>\n<div class=\"subject-line\"><span class=\"subject\">国<span class=\"logic\">及び</span>地方公共団体の任命権者</span>は、</div>\n<ul class=\"condition-list\">\n<li>障害者である職員を免職する場合（職員の責めに帰すべき理由に<span class=\"condition\">より免職する場合</span>その他厚生労働省令で定める場合を除く。）には、速やかに、その旨を公共職業安定所の長に届け出なければならない。解雇（免職）の</li>\n</ul>\n</div>\n</div>"
+  },
+  {
+    "reference": "法46条",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<span class=\"item-number\">第1項</span>\n<div class=\"subject-line\"><span class=\"subject\">厚生労働大臣</span>は、</div>\n<ul class=\"condition-list\">\n<li>対象障害者の雇用を促進するため必要があると認める場合には、その雇用する対象障害者である労働者の数が法定雇用障害者数未満である事業主（特定組合等<span class=\"logic\">及び</span>特定事業主であるものを除く。）に対して、対象障害者である労働者の数がその法定雇用障害者数以上となるようにするため、対象障害者の雇入れに関する計画の作成を命ずることができる。</li>\n</ul>\n</div>\n<div class=\"principle-section\">\n<span class=\"item-number\">第5項</span>\n<div class=\"subject-line\"><span class=\"subject\">厚生労働大臣</span>は、</div>\n<ul class=\"condition-list\">\n<li>第1項の計画が著しく不適当であると<span class=\"condition\">認めるとき</span>は、当該計画を作成した事業主に対してその変更を勧告</li>\n</ul>\n<div class=\"predicate-line\"><span class=\"predicate\">することができる。</span></div>\n</div>\n<div class=\"principle-section\">\n<span class=\"item-number\">第6項</span>\n<div class=\"subject-line\"><span class=\"subject\">厚生労働大臣</span>は、</div>\n<ul class=\"condition-list\">\n<li>特に必要があると<span class=\"condition\">認めるとき</span>は、第1項の計画を作成した事業主に対して、その適正な実施に関し、勧告を</li>\n</ul>\n<div class=\"predicate-line\"><span class=\"predicate\">することができる。</span></div>\n</div>\n</div>"
+  },
+  {
+    "reference": "法47条",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<div class=\"subject-line\"><span class=\"subject\">厚生労働大臣</span>は、</div>\n<ul class=\"condition-list\">\n<li>第46条第1項の計画を作成した事業主が、正当な理由がなく、同条第5項<span class=\"logic\">又は</span>第6項の勧告に従わないときは、その旨を公表することができる。一般事業主の対象障害者の雇入れに関する計画厚生労働大臣は、対象障害者の雇用を促進するため必要があると認める場合には、その雇用する対象障害者である労働者の数が法定雇用障害者数未満である事業主に対して、対象障害者である労働者の数がその法定雇用障害者数以上となるようにするため、「対象障害者の雇入れに関する計画」の作成を命ずることができる。</li>\n</ul>\n</div>\n</div>"
+  },
+  {
+    "reference": "法77条",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<span class=\"item-number\">第1項</span>\n<div class=\"subject-line\"><span class=\"subject\">厚生労働大臣</span>は、</div>\n<ul class=\"condition-list\">\n<li>その雇用する労働者の数が常時<span class=\"period\">300人以下である事業主からの申請に基づき、当該事業主について、障害者の雇用の促進<span class=\"logic\">及び</span>雇用の安定に関する取組に関し、当該取組の実施状況が優良なものであることその他の厚生労働省令で定める基準に適合するものである旨の認定を</span></li>\n</ul>\n<div class=\"predicate-line\"><span class=\"predicate\">行うことができる。</span></div>\n</div>\n</div>"
+  },
+  {
+    "reference": "法77条の2",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<span class=\"item-number\">第1項</span>\n<div class=\"subject-line\"><span class=\"subject\">第77条第1項の認定を受けた事業主</span>は、</div>\n<ul class=\"condition-list\">\n<li>商品、役務の提供の用に供する物、商品又は役務の広告又は取引に用いる書類<span class=\"logic\">若しくは</span>通信その他の厚生労働省令で定めるものに厚生労働大臣の定める表示を付することができる。認定マーク（もにす）</li>\n</ul>\n</div>\n</div>"
+  },
+  {
+    "reference": "法78条",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<span class=\"item-number\">第1項</span>\n<div class=\"subject-line\"><span class=\"subject\">国<span class=\"logic\">及び</span>地方公共団体の任命権者</span>は、</div>\n<ul class=\"condition-list\">\n<li>所定の業務を担当する者を障害者雇用推進者として選任</li>\n</ul>\n<div class=\"predicate-line\"><span class=\"predicate\">しなければならない。</span></div>\n</div>\n<div class=\"principle-section\">\n<span class=\"item-number\">第2項</span>\n<div class=\"subject-line\"><span class=\"subject\">事業主</span>は、</div>\n<ul class=\"condition-list\">\n<li>その雇用する労働者の数が常時<span class=\"period\">40人以上（特殊法人にあっては、<span class=\"period\">36人</span>）以上であるときは、障害者の雇用の促進<span class=\"logic\">及び</span>その雇用の継続を図るために必要な施設<span class=\"logic\">又は</span>設備の設置<span class=\"logic\">又は</span>整備その他の諸条件の整備を図るための業務等を担当する者（障害者雇用推進者）を選任するように努めなければならない。法79条、則38条</span></li>\n</ul>\n</div>\n<div class=\"principle-section\">\n<span class=\"item-number\">第2項</span>\n<div class=\"subject-line\"><span class=\"subject\">事業主</span>は、</div>\n<ul class=\"condition-list\">\n<li><span class=\"period\">5人以上の障害者（身体障害者、知的障害者<span class=\"logic\">及び</span>精神障害者（精神障害者保健福祉手帳の交付を受けている精神障害者等に限る。））である労働者を雇用する事業所においては、その雇用する労働者であって、厚生労働大臣が行う講習（以下「資格認定講習」という。）を修了したものその他厚生労働省令で定める資格を有するもののうちから、障害者職業生活相談員を選任し、その者に当該事業所に雇用されている障害者である労働者の職業生活に関する相談<span class=\"logic\">及び</span>指導を行わせなければならない。障害者雇用推進者</span></li>\n</ul>\n</div>\n</div>"
+  },
+  {
+    "reference": "法74条の4",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<div class=\"subject-line\"><span class=\"subject\">事業主</span>は、</div>\n<ul class=\"condition-list\">\n<li>第35条<span class=\"logic\">及び</span>第36条の3に定める事項に関し、障害者である労働者から苦情の申出を受けたときは、苦情処理機関に対し当該苦情の処理を委ねる等その自主的な解決を図るように努めなければならない。苦情の自主的な解決</li>\n</ul>\n</div>\n</div>"
+  },
+  {
+    "reference": "法74条の6",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<span class=\"item-number\">第1項</span>\n<div class=\"subject-line\"><span class=\"subject\">都道府県労働局長</span>は、</div>\n<ul class=\"condition-list\">\n<li>第74条の5に規定する紛争に関し、当該紛争の当事者の双方又は一方からその解決につき援助を求められた場合には、当該紛争の当事者に対し、必要な助言、指導<span class=\"logic\">又は</span>勧告を</li>\n</ul>\n<div class=\"predicate-line\"><span class=\"predicate\">することができる。</span></div>\n</div>\n<div class=\"principle-section\">\n<span class=\"item-number\">第2項</span>\n<div class=\"subject-line\"><span class=\"subject\">事業主</span>は、</div>\n<ul class=\"condition-list\">\n<li>労働者が前項の援助を求めたことを理由として、当該労働者に対して解雇その他不利益な取扱いを</li>\n</ul>\n<div class=\"predicate-line\"><span class=\"predicate\">してはならない。</span></div>\n</div>\n</div>"
+  },
+  {
+    "reference": "法74条の7",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<span class=\"item-number\">第1項</span>\n<div class=\"subject-line\"><span class=\"subject\">都道府県労働局長</span>は、</div>\n<ul class=\"condition-list\">\n<li>第74条の5に規定する紛争（労働者の募集及び採用についての紛争を除く。）について、当該紛争の当事者の双方<span class=\"logic\">又は</span>一方から調停の申請があった場合において当該紛争の解決のために必要があると認めるときは、紛争調整委員会に調停を行わせるもの</li>\n</ul>\n<div class=\"predicate-line\"><span class=\"predicate\">とする。</span></div>\n</div>\n</div>"
+  },
+  {
+    "reference": "法15条の7",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"subject\">国</span><span class=\"logic\">及び</span><span class=\"subject\">都道府県</span>は、</div>労働者が段階的<span class=\"logic\">かつ</span>体系的に職業に必要な技能<span class=\"logic\">及び</span>これに関する知識を習得することができるように、次の各号に掲げる施設を設置して、当該施設の区分に応じ当該各号に規定する職業訓練を<span class=\"predicate\">行うものとする。</span></div></div></div>"
+  },
+  {
+    "reference": "法50条",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\">技能検定に合格した<span class=\"subject\">者</span>は、</div><div class=\"predicate-line\">技能士と<span class=\"predicate\">称することができる。</span></div></div></div></div>"
+  },
+  {
+    "reference": "法15条の4",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"subject\">国</span>は、</div>労働者の職業生活設計に即した自発的な職業能力の開発<span class=\"logic\">及び</span>向上を促進するため、労働者の職務の経歴、職業能力その他の労働者の職業能力の開発<span class=\"logic\">及び</span>向上に関する事項を明らかにする書面（以下「職務経歴等記録書」という。）の様式を定め、その普及に<span class=\"predicate\">努めなければならない。</span></div><div class=\"principle-section\"><span class=\"item-number\">第2項</span><div class=\"subject-line\"><span class=\"subject\">国</span>は、</div>職務経歴等記録書の様式を定めるに当たっては、青少年の職業生活設計に即した自発的な職業能力の開発<span class=\"logic\">及び</span>向上が促進されるように、その特性にも配慮する<span class=\"predicate\">ものとする。</span></div></div></div>"
+  }
+]

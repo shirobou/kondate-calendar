@@ -1,0 +1,214 @@
+[
+  {
+    "reference": "法1条",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<div class=\"subject-line\"><span class=\"subject\">社会保険労務士</span>は、</div>\n<ul class=\"condition-list\">\n<li>労働及び社会保険に関する法令の円滑な実施を通じて適切な労務管理の確立及び個人の尊厳が保持された適正な労働環境の形成に寄与することにより、事業の健全な発達と労働者等の福祉の向上並びに社会保障の向上及び増進に資し、もって豊かな国民生活<span class=\"logic\">及び</span>活力ある経済社会の実現に資することを使命とする。使命</li>\n</ul>\n</div>\n</div>"
+  },
+  {
+    "reference": "法1条の2",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<div class=\"subject-line\"><span class=\"subject\">社会保険労務士</span>は、</div>\n<ul class=\"condition-list\">\n<li>常に品位を保持し、業務に関する法令<span class=\"logic\">及び</span>実務に精通して、公正な立場で、誠実にその業務を</li>\n</ul>\n<div class=\"predicate-line\"><span class=\"predicate\">行わなければならない。</span></div>\n</div>\n</div>"
+  },
+  {
+    "reference": "法2条の2",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<span class=\"item-number\">第1項</span>\n<div class=\"subject-line\"><span class=\"subject\">社会保険労務士</span>は、</div>\n<ul class=\"condition-list\">\n<li>事業における労務管理その他の労働に関する事項<span class=\"logic\">及び</span>労働社会保険諸法令に基づく社会保険に関する事項について、裁判所において、補佐人として、弁護士である代理人とともに出頭し、陳述を</li>\n</ul>\n<div class=\"predicate-line\"><span class=\"predicate\">することができる。</span></div>\n</div>\n<div class=\"principle-section\">\n<span class=\"item-number\">第2項</span>\n<div class=\"subject-line\"><span class=\"subject\">前項の陳述</span>は、</div>\n<ul class=\"condition-list\">\n<li>当事者<span class=\"logic\">又は</span>代理人が自らしたもの</li>\n</ul>\n<div class=\"predicate-line\"><span class=\"predicate\">とみなす。</span></div>\n</div>\n<div class=\"exception-section\">\n<span class=\"exception\">ただし、当事者<span class=\"logic\">又は</span>代理人が同項の陳述を直ちに取り消し、<span class=\"logic\">又は</span>更正したときは、この限りでない。</span>\n</div>\n</div>"
+  },
+  {
+    "reference": "法3条",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<span class=\"item-number\">第1項</span>\n<div class=\"subject-line\"><span class=\"subject\">次の各号の一に該当する者であって、労働社会保険諸法令に関する厚生労働省令で定める事務に従事した期間が通算して<span class=\"period\">2年</span>以上になるもの<span class=\"logic\">又は</span>厚生労働大臣がこれと同等以上の経験を有すると認めるもの</span>は、</div>\n<ul class=\"condition-list\">\n<li>社会保険労務士となる</li>\n</ul>\n</div>\n</div>"
+  },
+  {
+    "reference": "法5条",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<div class=\"subject-line\"><span class=\"subject\">次の各号のいずれかに該当する者</span>は、</div>\n<ul class=\"condition-list\">\n<li>第3条の規定にかかわらず、社会保険労務士となる</li>\n</ul>\n</div>\n</div>"
+  },
+  {
+    "reference": "法15条",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<div class=\"subject-line\"><span class=\"subject\">社会保険労務士</span>は、</div>\n<ul class=\"condition-list\">\n<li>不正に労働社会保険諸法令に基づく保険給付を受けること、不正に労働社会保険諸法令に基づく保険料の賦課<span class=\"logic\">又は</span>徴収を免れることその他労働社会保険諸法令に違反する行為について指示をし、相談に応じ、その他これらに類する行為を</li>\n</ul>\n<div class=\"predicate-line\"><span class=\"predicate\">してはならない。</span></div>\n</div>\n</div>"
+  },
+  {
+    "reference": "法17条",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><span class=\"subject\">社会保険労務士</span><span class=\"logic\">又は</span><span class=\"subject\">社会保険労務士法人</span>は、申請書等（厚生労働省令で定めるものに限る。）を<span class=\"condition\">作成した場合</span>には、当該申請書等の作成の基礎となった事項を、書面に記載して当該書面を当該申請書等に添付し、<span class=\"logic\">又は</span>当該申請書等に付記<span class=\"predicate\">することができる。</span></div></div></div></div>"
+  },
+  {
+    "reference": "法22条",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<span class=\"item-number\">第1項</span>\n<div class=\"subject-line\"><span class=\"subject\">社会保険労務士</span>は、</div>\n<ul class=\"condition-list\">\n<li>国又は地方公共団体の公務員として職務上取り扱った事件<span class=\"logic\">及び</span>仲裁手続により仲裁人として取り扱った事件については、その業務を</li>\n</ul>\n<div class=\"predicate-line\"><span class=\"predicate\">行ってはならない。</span></div>\n</div>\n<div class=\"principle-section\">\n<span class=\"item-number\">第2項</span>\n<div class=\"subject-line\"><span class=\"subject\">特定社会保険労務士</span>は、</div>\n<ul class=\"condition-list\">\n<li>次<span class=\"condition\">に掲げる</span>事件については、紛争解決手続代理業務を</li>\n</ul>\n<div class=\"predicate-line\"><span class=\"predicate\">行ってはならない。</span></div>\n</div>\n<div class=\"exception-section\">\n<span class=\"exception\">ただし、第3号に掲げる事件については、受任している事件の依頼者が同意した場合は、この限りでない。1. 紛争解決手続代理業務に関するものとして、相手方の協議を受けて賛助し、<span class=\"logic\">又は</span>その依頼を承諾した事件 2. 紛争解決手続代理業務に関するものとして相手方の協議を受けた事件で、その協議の程度<span class=\"logic\">及び</span>方法が信頼関係に基づくと認められるもの3. 紛争解決手続代理業務に関するものとして受任している事件の相手方からの依頼による他の事件 4. 開業社会保険労務士の使用人である社会保険労務士<span class=\"logic\">又は</span>社会保険労務士法人の社員<span class=\"logic\">若しくは</span>使用人である社会保険労務士としてその業務に従事していた期間内に、その開業社会保険労務士<span class=\"logic\">又は</span>社会保険労務士法人が、紛争解決手続代理業務に関するものとして、相手方の協議を受けて賛助し、<span class=\"logic\">又は</span>その依頼を承諾した事件であって、自らこれに関与したもの5. 開業社会保険労務士の使用人である社会保険労務士<span class=\"logic\">又は</span>社会保険労務士法人の社員<span class=\"logic\">若しくは</span>使用人である社会保険労務士としてその業務に従事していた期間内に、その開業社会保険労務士<span class=\"logic\">又は</span>社会保険労務士法人が紛争解決手続代理業務に関するものとして相手方の協議を受けた事件で、その協議の程度<span class=\"logic\">及び</span>方法が信頼関係に基づくと認められるものであって、自らこれに関与したもの</span>\n</div>\n</div>"
+  },
+  {
+    "reference": "法24条",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<span class=\"item-number\">第1項</span>\n<div class=\"subject-line\"><span class=\"subject\">厚生労働大臣</span>は、</div>\n<ul class=\"condition-list\">\n<li>開業社会保険労務士又は社会保険労務士法人の業務の適正な運営を確保するため必要があると認めるときは、当該開業社会保険労務士若しくは社会保険労務士法人に対し、その業務に関し必要な報告を求め、又はその職員をして当該開業社会保険労務士若しくは社会保険労務士法人の事務所に立ち入り、当該開業社会保険労務士若しくは社会保険労務士法人に質問し、若しくはその業務に関係のある帳簿書類（その作成、備付け又は保存に代えて電磁的記録の作成、備付け<span class=\"logic\">又は</span>保存がされている場合における当該電磁的記録を含む。）を検査</li>\n</ul>\n<div class=\"predicate-line\"><span class=\"predicate\">させることができる。</span></div>\n</div>\n</div>"
+  },
+  {
+    "reference": "法25条",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<div class=\"subject-line\"><span class=\"subject\">社会保険労務士に対する懲戒処分</span>は、</div>\n<ul class=\"condition-list\">\n<li>次の3種とする。1. 戒告</li>\n<li>2. <span class=\"period\">1年以内の開業社会保険労務士<span class=\"logic\">若しくは</span>開業社会保険労務士の使用人である社会保険労務士<span class=\"logic\">又は</span>社会保険労務士法人の社員<span class=\"logic\">若しくは</span>使用人である社会保険労務士の業務の停止</span></li>\n<li>3. 失格処分（社会保険労務士の</li>\n</ul>\n</div>\n</div>"
+  },
+  {
+    "reference": "法25条の10",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<span class=\"item-number\">第1項</span>\n<div class=\"subject-line\"><span class=\"subject\">社会保険労務士法人</span>は、</div>\n<ul class=\"condition-list\">\n<li>政令で定めるところにより、登記を</li>\n</ul>\n<div class=\"predicate-line\"><span class=\"predicate\">しなければならない。</span></div>\n</div>\n</div>"
+  },
+  {
+    "reference": "法25条の11",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<span class=\"item-number\">第1項</span>\n<div class=\"subject-line\"><span class=\"subject\">社会保険労務士法人を設立するに</span>は、</div>\n<ul class=\"condition-list\">\n<li>その社員になろうとする社会保険労務士が、定款を定めなければならない。</li>\n</ul>\n</div>\n</div>"
+  },
+  {
+    "reference": "法25条の9",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<span class=\"item-number\">第1項</span>\n<div class=\"subject-line\"><span class=\"subject\">社会保険労務士法人</span>は、</div>\n<ul class=\"condition-list\">\n<li>第2条第1項第1号から第1号の3まで、第2号及び第3号に掲げる業務（紛争解決手続代理業務を除く1号業務、2号業務及び3号業務）を行うほか、定款で定めるところにより、次に掲げる業務を行うことができる。1. 第2条（社会保険労務士の業務）に規定する業務に準ずるものとして厚生労働省令で定める業務の全部<span class=\"logic\">又は</span>一部</li>\n<li>2. 紛争解決手続代理業務</li>\n</ul>\n</div>\n<div class=\"principle-section\">\n<span class=\"item-number\">第2項</span>\n<div class=\"subject-line\"><span class=\"subject\">紛争解決手続代理業務</span>は、</div>\n<ul class=\"condition-list\">\n<li>社員のうちに特定社会保険労務士が<span class=\"condition\">ある社会保険労務士法人に限り</span>、</li>\n</ul>\n<div class=\"predicate-line\"><span class=\"predicate\">行うことができる。</span></div>\n</div>\n</div>"
+  },
+  {
+    "reference": "法25条の9の2",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<div class=\"subject-line\"><span class=\"subject\">法25条の9第1項に規定するもののほか、社会保険労務士法人</span>は、</div>\n<ul class=\"condition-list\">\n<li>第2条の2第1項（補佐人制度）の規定により社会保険労務士が処理することができる事務を当該社会保険労務士法人の社員<span class=\"logic\">又は</span>使用人である社会保険労務士（以下「社員等」という。）に行わせる事務の委託を受けることができる。この場合において、当該社会保険労務士法人は、委託者に、当該社会保険労務士法人の社員等のうちからその補佐人を選任</li>\n</ul>\n<div class=\"predicate-line\"><span class=\"predicate\">させなければならない。</span></div>\n</div>\n</div>"
+  },
+  {
+    "reference": "法25条の16",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<div class=\"subject-line\"><span class=\"subject\">社会保険労務士法人の事務所に</span>は、</div>\n<ul class=\"condition-list\">\n<li>その事務所の所在地の属する都道府県の区域に設立されている社会保険労務士会の会員である社員を常駐</li>\n</ul>\n<div class=\"predicate-line\"><span class=\"predicate\">させなければならない。</span></div>\n</div>\n</div>"
+  },
+  {
+    "reference": "法25条の18",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<span class=\"item-number\">第1項</span>\n<div class=\"subject-line\"><span class=\"subject\">社会保険労務士法人の社員</span>は、</div>\n<ul class=\"condition-list\">\n<li>自己<span class=\"logic\">若しくは</span>第三者のためにその社会保険労務士法人の</li>\n</ul>\n</div>\n</div>"
+  },
+  {
+    "reference": "法25条の22",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"subject\">社会保険労務士法人</span>は、</div>次に掲げる理由によって<span class=\"predicate\">解散する。</span><ul class=\"condition-list\"><li>1. 定款に定める理由の発生</li><li>2. 総社員の同意</li><li>3. 他の社会保険労務士法人との合併</li><li>4. 破産手続開始の決定</li><li>5. 解散を命ずる裁判</li><li>6. 厚生労働大臣による解散の命令</li><li>7. 社員の欠亡</li></ul></div><div class=\"principle-section\"><span class=\"item-number\">第2項</span><div class=\"subject-line\"><span class=\"subject\">社会保険労務士法人</span>は、</div><span class=\"condition\">前項第3号の事由以外の事由により解散したとき</span>は、解散の日から<span class=\"period\">2週間以内</span>に、その旨を、主たる事務所の所在地の社会保険労務士会を経由して、連合会に<span class=\"predicate\">届け出なければならない。</span></div></div></div>"
+  },
+  {
+    "reference": "法25条の26",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><span class=\"subject\">社会保険労務士</span>は、<span class=\"subject\">厚生労働大臣</span>の認可を受けて、都道府県の区域ごとに、会則を定めて、<span class=\"period\">1個</span>の<span class=\"subject\">社会保険労務士会</span>を<span class=\"predicate\">設立しなければならない。</span><br><br><span class=\"subject\">社会保険労務士会</span>は、会員の品位を保持し、その資質の向上と業務の改善進歩を図るため、会員の指導<span class=\"logic\">及び</span>連絡に関する事務を行うことを<span class=\"predicate\">目的とする。</span></div></div></div></div>"
+  },
+  {
+    "reference": "法25条の34",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\">全国の<span class=\"subject\">社会保険労務士会</span>は、<span class=\"subject\">厚生労働大臣</span>の認可を受けて、会則を定めて、<span class=\"subject\">連合会</span>を<span class=\"predicate\">設立しなければならない。</span><br><br><span class=\"subject\">連合会</span>は、社会保険労務士会の会員の品位を保持し、その資質の向上と業務の改善進歩を図るため、社会保険労務士会<span class=\"logic\">及び</span>その会員の指導<span class=\"logic\">及び</span>連絡に関する事務<span class=\"logic\">並びに</span>社会保険労務士の登録に関する事務を行うほか、試験事務<span class=\"logic\">及び</span>代理業務試験事務を行うことを<span class=\"predicate\">目的とする。</span></div></div></div></div>"
+  },
+  {
+    "reference": "法2条",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<div class=\"subject-line\"><span class=\"subject\">国民健康保険</span>は、</div>\n<ul class=\"condition-list\">\n<li>被保険者の疾病、負傷、出産<span class=\"logic\">又は</span>死亡に関して必要な保険給付を行うもの</li>\n</ul>\n<div class=\"predicate-line\"><span class=\"predicate\">とする。</span></div>\n</div>\n</div>"
+  },
+  {
+    "reference": "法83条",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<span class=\"item-number\">第1項</span>\n<div class=\"subject-line\"><span class=\"subject\">都道府県<span class=\"logic\">若しくは</span>市町村<span class=\"logic\">又は</span>組合</span>は、</div>\n<ul class=\"condition-list\">\n<li>共同してその</li>\n</ul>\n</div>\n</div>"
+  },
+  {
+    "reference": "法84条",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<span class=\"item-number\">第1項</span>\n<div class=\"subject-line\"><span class=\"subject\">連合会を設立しようとするとき</span>は、</div>\n<ul class=\"condition-list\">\n<li>当該連合会の区域をその区域に含む都道府県を統轄する都道府県知事の認可を受けなければならない。</li>\n</ul>\n</div>\n</div>"
+  },
+  {
+    "reference": "法85条の2",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<div class=\"subject-line\"><span class=\"subject\">連合会</span>は、</div>\n<ul class=\"condition-list\">\n<li>診療報酬請求書の審査における公正性及び中立性の確保を通じた国民の保健医療の向上及び福祉の増進、診療報酬請求書情報等の分析等（次条第3項に規定する業務をいう。）を通じた国民の保健医療の向上及び福祉の増進並びに医療費適正化、情報通信の技術の活用による業務運営の効率化の推進並びに業務運営における透明性の確保に努めるとともに、医療保険制度の安定的<span class=\"logic\">かつ</span>効率的な運営に資するよう、社会保険診療報酬支払基金と有機的に連携しつつ、診療報酬の適正な請求に資する支援その他の取組を行うよう</li>\n</ul>\n<div class=\"predicate-line\"><span class=\"predicate\">努めなければならない。</span></div>\n</div>\n</div>"
+  },
+  {
+    "reference": "法9条",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<span class=\"item-number\">第1項</span>\n<div class=\"subject-line\"><span class=\"subject\">世帯主</span>は、</div>\n<ul class=\"condition-list\">\n<li>その世帯に属する</li>\n</ul>\n</div>\n</div>"
+  },
+  {
+    "reference": "法54条の3",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<ul class=\"condition-list\">\n<li>の3</li>\n</ul>\n</div>\n<div class=\"principle-section\">\n<span class=\"item-number\">第1項</span>\n<div class=\"subject-line\"><span class=\"subject\">市町村<span class=\"logic\">及び</span>組合</span>は、</div>\n<ul class=\"condition-list\">\n<li>保険料を滞納している世帯主（当該市町村の区域内に住所を有する世帯主に限る。）<span class=\"logic\">又は</span>組合員（以下「保険料滞納世帯主等」という。）が、当該保険料の納期限から<span class=\"period\">1年間が経過するまでの間に、当該市町村<span class=\"logic\">又は</span>組合が当該保険料の納付の勧奨<span class=\"logic\">及び</span>当該保険料の納付に係る相談の機会の確保その他厚生労働省令で定める保険料の納付に資する取組（以下「保険料納付の勧奨等」という。）を行ってもなお当該保険料を納付しない場合においては、当該保険料の滞納につき災害その他の政令で定める特別の事情があると認められる場合を除き、当該世帯に属する</span></li>\n</ul>\n</div>\n</div>"
+  },
+  {
+    "reference": "法82条の2",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<span class=\"item-number\">第1項</span>\n<div class=\"subject-line\"><span class=\"subject\">都道府県</span>は、</div>\n<ul class=\"condition-list\">\n<li>都道府県等が行う国民健康保険の安定的な財政運営並びに当該都道府県内の市町村の国民健康保険事業の広域的<span class=\"logic\">及び</span>効率的な運営の推進を図るため、おおむね<span class=\"period\">6年ごとに、都道府県<span class=\"logic\">及び</span>当該都道府県内の市町村の国民健康保険事業の運営に関する方針（以下「都道府県国民健康保険運営方針」という。）を定めるものとする。都道府県国民健康保険運営方針</span></li>\n</ul>\n</div>\n</div>"
+  },
+  {
+    "reference": "法73条の2",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<span class=\"item-number\">第1項</span>\n<div class=\"subject-line\"><span class=\"subject\">出産育児一時金の支給に要する費用（健康保険法第101条の政令で定める金額（第58条第1項の規定に基づく条例<span class=\"logic\">又は</span>規約で定める金額が、同法第101条の政令で定める金額に満たないとき</span>は、</div>\n<ul class=\"condition-list\">\n<li>当該条例又は規約で定める金額とする。）に係る部分に限る。）の一部については、政令で定めるところにより、高齢者医療確保法第124条の4第1項の規定により社会保険診療報酬支払基金が都道府県<span class=\"logic\">又は</span>組合に対して交付する</li>\n</ul>\n</div>\n</div>"
+  },
+  {
+    "reference": "法75条の2",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<span class=\"item-number\">第1項</span>\n<div class=\"subject-line\"><span class=\"subject\">都道府県</span>は、</div>\n<ul class=\"condition-list\">\n<li>保険給付の実施その他の国民健康保険事業の円滑かつ確実な実施を図り、<span class=\"logic\">及び</span>当該都道府県内の市町村の財政状況その他の事情に応じた財政の調整を行うため、条例で、当該都道府県内の市町村に対し、当該市町村の国民健康保険に関する特別会計において負担する療養の給付等に要する費用その他の国民健康保険事業に要する費用について、国民健康保険保険給付費等交付金を</li>\n</ul>\n<div class=\"predicate-line\"><span class=\"predicate\">交付する。</span></div>\n</div>\n</div>"
+  },
+  {
+    "reference": "法75条の7",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<span class=\"item-number\">第1項</span>\n<div class=\"subject-line\"><span class=\"subject\">都道府県</span>は、</div>\n<ul class=\"condition-list\">\n<li>当該都道府県の国民健康保険に関する特別会計において負担する国民健康保険保険給付費等交付金の交付に要する費用その他の国民健康保険事業に要する費用（前期高齢者納付金等及び後期高齢者支援金等、介護納付金、流行初期医療確保拠出金等<span class=\"logic\">並びに</span>子ども・子育て支援納付金の納付に要する費用を含む。）に充てるため、条例で、年度（毎年<span class=\"period\">4月<span class=\"period\">1日</span>から翌年<span class=\"period\">3月</span><span class=\"period\">31日</span>までをいう。）ごとに、当該都道府県内の市町村から、国民健康保険事業費納付金を徴収</span></li>\n</ul>\n<div class=\"predicate-line\"><span class=\"predicate\">するものとする。</span></div>\n</div>\n</div>"
+  },
+  {
+    "reference": "法76条",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<span class=\"item-number\">第1項</span>\n<div class=\"subject-line\"><span class=\"subject\">市町村</span>は、</div>\n<ul class=\"condition-list\">\n<li>当該市町村の国民健康保険に関する特別会計において負担する国民健康保険事業費納付金の納付に要する費用（当該市町村が属する都道府県の国民健康保険に関する特別会計において負担する</li>\n</ul>\n</div>\n</div>"
+  },
+  {
+    "reference": "法63条の2",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<span class=\"item-number\">第1項</span>\n<div class=\"subject-line\"><span class=\"subject\">市町村<span class=\"logic\">及び</span>組合</span>は、</div>\n<ul class=\"condition-list\">\n<li>保険給付を受けることができる世帯主又は組合員が保険料を滞納しており、<span class=\"logic\">かつ</span>、当該保険料の納期限から<span class=\"period\">1年<span class=\"period\">6月</span>が経過するまでの間に、当該市町村<span class=\"logic\">又は</span>組合が保険料納付の勧奨等を行ってもなお当該保険料を納付しない場合においては、当該保険料の滞納につき災害その他の政令で定める特別の事情があると認められる場合を除き、保険給付の全部<span class=\"logic\">又は</span>一部の支払を一時差し止めるもの</span></li>\n</ul>\n<div class=\"predicate-line\"><span class=\"predicate\">とする。</span></div>\n</div>\n<div class=\"principle-section\">\n<span class=\"item-number\">第2項</span>\n<div class=\"subject-line\"><span class=\"subject\">市町村<span class=\"logic\">及び</span>組合</span>は、</div>\n<ul class=\"condition-list\">\n<li>当該保険料の納期限から<span class=\"period\">1年<span class=\"period\">6月</span>が経過しない場合においても、保険給付を受けることができる世帯主<span class=\"logic\">又は</span>組合員が、当該市町村<span class=\"logic\">又は</span>組合が保険料納付の勧奨等を行ってもなお保険料を滞納している場合においては、当該保険料の滞納につき災害その他の政令で定める特別の事情があると認められる場合を除き、保険給付の全部<span class=\"logic\">又は</span>一部の支払を一時差し止めることができる。</span></li>\n</ul>\n</div>\n</div>"
+  },
+  {
+    "reference": "法91条",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\">保険給付に関する処分（第9条第2項<span class=\"logic\">及び</span>第4項の規定による求めに対する処分を含む。）<span class=\"logic\">又は</span>保険料その他国民健康保険法の規定による徴収金に関する処分に不服がある者は、各都道府県に置かれた<span class=\"subject\">国民健康保険審査会</span>に審査請求を<span class=\"predicate\">することができる。</span><br><br>前項の</div></div></div></div>"
+  },
+  {
+    "reference": "法103条",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<div class=\"subject-line\"><span class=\"subject\">第91条第1項に規定する処分の取消しの訴え</span>は、</div>\n<ul class=\"condition-list\">\n<li>当該処分についての審査請求に対する裁決を経た後でなければ、提起することができない。市町村若しくは国民健康保険組合または国民健康保険団体連合会は、事業状況を「都道府県知事」に報告します。「厚生労働大臣」ではありません。</li>\n</ul>\n</div>\n</div>"
+  },
+  {
+    "reference": "法110条",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\">保険料その他国民健康保険法の規定による徴収金を徴収し、<span class=\"logic\">又は</span>その還付を受ける権利<span class=\"logic\">及び</span>保険給付を受ける権利は、これらを行使することができる時から<span class=\"period\">2年</span>を経過したときは、時効によって<span class=\"predicate\">消滅する。</span></div></div></div></div>"
+  },
+  {
+    "reference": "法32条",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><span class=\"subject\">社会保険診療報酬支払基金</span>（以下「支払基金」という。）は、各保険者（国民健康保険にあっては、都道府県。以下この章「前期高齢者に係る保険者間の費用負担調整」において同じ。）に係る加入者の数に占める前期高齢者である加入者の数の割合に係る負担の不均衡を調整するため、<span class=\"subject\">保険者</span>に対して、<span class=\"subject\">前期高齢者交付金</span>を<span class=\"predicate\">交付する。</span><br><br>前項の</div></div></div></div>"
+  },
+  {
+    "reference": "法36条",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><span class=\"subject\">支払基金</span>は、第139条第1項第1号に掲げる業務（前期高齢者交付金の交付の業務等）<span class=\"logic\">及び</span>当該業務に関する事務の処理に要する費用に充てるため、年度ごとに、<span class=\"subject\">保険者</span>から、前期高齢者納付金<span class=\"logic\">及び</span>前期高齢者関係事務費拠出金（以下「</div></div></div></div>"
+  },
+  {
+    "reference": "法8条",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><span class=\"subject\">厚生労働大臣</span>は、国民の高齢期における適切な医療の確保を図る観点から、医療に要する費用の適正化（以下「医療費適正化」という。）を総合的かつ計画的に推進するため、医療費適正化に関する施策についての基本的な方針（以下「医療費適正化基本方針」という。）を<span class=\"predicate\">定める</span>とともに、<span class=\"period\">6年</span>ごとに、<span class=\"period\">6年</span>を1期として、医療費適正化を推進するための計画（以下「全国医療費適正化計画」という。）を<span class=\"predicate\">定めるものとする。</span></div></div></div></div>"
+  },
+  {
+    "reference": "法18条",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<span class=\"item-number\">第1項</span>\n<div class=\"subject-line\"><span class=\"subject\">厚生労働大臣</span>は、</div>\n<ul class=\"condition-list\">\n<li>特定健康診査及び特定保健指導の適切<span class=\"logic\">かつ</span>有効な実施を図るための基本的な指針（以下「特定健康診査等基本指針」という。）を定めるもの</li>\n</ul>\n<div class=\"predicate-line\"><span class=\"predicate\">とする。</span></div>\n</div>\n<div class=\"principle-section\">\n<span class=\"item-number\">第3項</span>\n<div class=\"subject-line\"><span class=\"subject\">特定健康診査等基本指針</span>は、</div>\n<ul class=\"condition-list\">\n<li>健康増進法に規定する健康診査等指針と調和が保たれたものでなければならない。特定健康診査等基本指針</li>\n</ul>\n</div>\n</div>"
+  },
+  {
+    "reference": "法19条",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<span class=\"item-number\">第1項</span>\n<div class=\"subject-line\"><span class=\"subject\">保険者（国民健康保険法の定めるところにより都道府県が当該都道府県内の市町村とともに行う国民健康保険（以下「国民健康保険」という。）にあって</span>は、</div>\n<ul class=\"condition-list\">\n<li>市町村。）は、特定健康診査等基本指針に即して、<span class=\"period\">6年ごとに、<span class=\"period\">6年</span>を1期として、特定健康診査等の実施に関する計画（以下「特定健康診査等実施計画」という。）を定めるものとする。特定健康診査等実施計画</span></li>\n</ul>\n</div>\n</div>"
+  },
+  {
+    "reference": "法20条",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><span class=\"subject\">保険者</span>は、特定健康診査等実施計画に基づき、<span class=\"period\">40歳</span>以上の加入者に対し、<span class=\"subject\">特定健康診査</span>を<span class=\"predicate\">行うものとする。</span></div><div class=\"exception-section\">ただし、加入者が特定健康診査に相当する健康診査を受け、その結果を証明する書面の提出を受けたとき、<span class=\"logic\">又は</span>第26条第2項の規定により他の保険者から</div></div></div></div>"
+  },
+  {
+    "reference": "法47条",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<div class=\"subject-line\"><span class=\"subject\">後期高齢者医療</span>は、</div>\n<ul class=\"condition-list\">\n<li>高齢者の疾病、負傷<span class=\"logic\">又は</span>死亡に関して必要な給付を行うものとする。後期高齢者医療</li>\n</ul>\n</div>\n</div>"
+  },
+  {
+    "reference": "法48条",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><span class=\"subject\">市町村</span>は、後期高齢者医療の事務（保険料の徴収の事務<span class=\"logic\">及び</span>被保険者の便益の増進に寄与するものとして政令で定める事務を除く。）を処理するため、都道府県の区域ごとに当該区域内のすべての市町村が加入する広域連合（以下「</div></div></div></div>"
+  },
+  {
+    "reference": "法50条",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<div class=\"subject-line\"><span class=\"subject\">次の各号のいずれかに該当する者</span>は、</div>\n<ul class=\"condition-list\">\n<li>後期高齢者医療広域連合が行う後期高齢者医療の</li>\n</ul>\n</div>\n</div>"
+  },
+  {
+    "reference": "法118条",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<span class=\"item-number\">第1項</span>\n<div class=\"subject-line\"><span class=\"subject\">社会保険診療報酬支払基金</span>は、</div>\n<ul class=\"condition-list\">\n<li>第139条第1項第2号<span class=\"condition\">に掲げる</span>業務に要する費用に充てるため、年度ごとに、保険者（国民健康保険にあっては、都道府県。以下この節「保険者の</li>\n</ul>\n</div>\n</div>"
+  },
+  {
+    "reference": "法128条",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<span class=\"item-number\">第1項</span>\n<div class=\"subject-line\"><span class=\"subject\">後期高齢者医療給付に関する処分（第54条第3項<span class=\"logic\">及び</span>第5項の規定による求めに対する処分を含む。）<span class=\"logic\">又は</span>保険料その他この章（「後期高齢者医療制度」）の規定による徴収金（市町村<span class=\"logic\">及び</span>後期高齢者医療広域連合が徴収するものに限る。）に関する処分に不服がある者</span>は、</div>\n<ul class=\"condition-list\">\n<li>各都道府県に置かれた後期高齢者医療審査会に審査請求を</li>\n</ul>\n<div class=\"predicate-line\"><span class=\"predicate\">することができる。</span></div>\n</div>\n<div class=\"principle-section\">\n<span class=\"item-number\">第2項</span>\n<div class=\"subject-line\"><span class=\"subject\">前項の審査請求</span>は、</div>\n<ul class=\"condition-list\">\n<li>時効の完成猶予<span class=\"logic\">及び</span>更新に関しては、裁判上の請求</li>\n</ul>\n<div class=\"predicate-line\"><span class=\"predicate\">とみなす。</span></div>\n</div>\n</div>"
+  },
+  {
+    "reference": "法160条",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\">保険料その他高齢者医療確保法の規定による徴収金を徴収し、<span class=\"logic\">又は</span>その還付を受ける権利<span class=\"logic\">及び</span>後期高齢者医療給付を受ける権利は、これらを行使することができる時から<span class=\"period\">2年</span>を経過したときは、時効によって<span class=\"predicate\">消滅する。</span></div></div></div></div>"
+  },
+  {
+    "reference": "法7条",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\">、則3条 介護保険法において「<span class=\"subject\">要介護状態</span>」とは、身体上<span class=\"logic\">又は</span>精神上の障害があるために、<ul class=\"condition-list\"><li>入浴、</li><li>排せつ、</li><li>食事等</li></ul>の日常生活における基本的な動作の全部<span class=\"logic\">又は</span>一部について、<span class=\"period\">6月間</span>にわたり継続して、常時介護を要すると見込まれる状態であって、その介護の必要の程度に応じて厚生労働省令で定める区分（以下「要介護状態区分」という。）のいずれかに該当するもの（要支援状態に該当するものを除く。）を<span class=\"predicate\">いう。</span></div></div></div></div>"
+  },
+  {
+    "reference": "法10条",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\">市町村が行う介護保険の<span class=\"subject\">被保険者</span>は、</div>次の各号のいずれかに該当するに至った日から、その資格を<span class=\"predicate\">取得する。</span><ul class=\"condition-list\"><li>1. 当該市町村の区域内に住所を有する医療保険加入者が<span class=\"period\">40歳</span>に<span class=\"condition\">達したとき。</span></li><li>2. <span class=\"period\">40歳以上65歳未満</span>の医療保険加入者<span class=\"logic\">又は</span><span class=\"period\">65歳以上</span>の者が当該市町村の区域内に住所を<span class=\"condition\">有するに至ったとき。</span></li><li>3. 当該市町村の区域内に住所を有する<span class=\"period\">40歳以上65歳未満</span>の者が医療保険加入者と<span class=\"condition\">なったとき。</span></li><li>4. 当該市町村の区域内に住所を有する者（医療保険加入者を除く。）が<span class=\"period\">65歳</span>に<span class=\"condition\">達したとき。</span></li></ul></div></div></div>"
+  },
+  {
+    "reference": "法11条",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\">市町村が行う介護保険の<span class=\"subject\">被保険者</span>は、</div>当該市町村の区域内に住所を有しなくなった日の翌日から、その資格を<span class=\"predicate\">喪失する。</span></div><div class=\"exception-section\">ただし、当該市町村の区域内に住所を有しなくなった日に他の市町村の区域内に住所を<span class=\"condition\">有するに至ったとき</span>は、その日から、その資格を<span class=\"predicate\">喪失する。</span></div><div class=\"principle-section\"><span class=\"item-number\">第2項</span><div class=\"subject-line\"><span class=\"subject\">第2号被保険者</span>は、</div>医療保険加入者でなくなった日から、その資格を<span class=\"predicate\">喪失する。</span></div></div></div>"
+  },
+  {
+    "reference": "法12条",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<span class=\"item-number\">第1項</span>\n<div class=\"subject-line\"><span class=\"subject\">第1号被保険者</span>は、</div>\n<ul class=\"condition-list\">\n<li>被保険者の</li>\n</ul>\n</div>\n</div>"
+  },
+  {
+    "reference": "法27条",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<span class=\"item-number\">第11項</span>\n<div class=\"subject-line\"><span class=\"subject\">第27条第1項（要介護認定）の申請に対する処分</span>は、</div>\n<ul class=\"condition-list\">\n<li>当該申請のあった日から<span class=\"period\">30日以内に</span></li>\n</ul>\n<div class=\"predicate-line\"><span class=\"predicate\">しなければならない。</span></div>\n</div>\n<div class=\"exception-section\">\n<span class=\"exception\">ただし、当該申請に係る</span>\n</div>\n</div>"
+  },
+  {
+    "reference": "法40条",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\"><span class=\"subject\">介護給付</span>は、</div>次に掲げる保険給付とする。<ul class=\"condition-list\"><li>1. 居宅介護サービス費の支給</li><li>2. 特例居宅介護サービス費の支給</li><li>3. 地域密着型介護サービス費の支給</li><li>4. 特例地域密着型介護サービス費の支給</li><li>5. 居宅介護福祉用具購入費の支給</li><li>6. 居宅介護住宅改修費の支給</li><li>7. 居宅介護サービス計画費の支給</li><li>8. 特例居宅介護サービス計画費の支給</li><li>9. 施設介護サービス費の支給</li><li>10. 特例施設介護サービス費の支給</li><li>11. 高額介護サービス費の支給</li><li>12. 高額医療合算介護サービス費の支給</li><li>13. 特定入所者介護サービス費の支給</li><li>14. 特例特定入所者介護サービス費の支給</li></ul></div></div></div>"
+  },
+  {
+    "reference": "法52条",
+    "structured": "<div class=\"law-body\">\n<div class=\"principle-section\">\n<div class=\"subject-line\"><span class=\"subject\">予防給付</span>は、</div>\n<ul class=\"condition-list\">\n<li>次<span class=\"condition\">に掲げる</span>保険給付とする。1. 介護予防サービス費の支給</li>\n<li>2. 特例介護予防サービス費の支給</li>\n<li>3. 地域密着型介護予防サービス費の支給</li>\n<li>4. 特例地域密着型介護予防サービス費の支給</li>\n<li>5. 介護予防福祉用具購入費の支給</li>\n<li>6. 介護予防住宅改修費の支給</li>\n<li>7. 介護予防サービス計画費の支給</li>\n<li>8. 特例介護予防サービス計画費の支給</li>\n<li>9. 高額介護予防サービス費の支給</li>\n<li>10. 高額医療合算介護予防サービス費の支給</li>\n<li>11. 特定入所者介護予防サービス費の支給</li>\n<li>12. 特例特定入所者介護予防サービス費の支給予防給付予防給付には、介護予防サービス費の支給、特例介護予防サービス費の支給、地域密着型介護予防サービス費の支給、特例地域密着型介護予防サービス費の支給、介護予防福祉用具購入費の支給、介護予防住宅改修費の支給、介護予防サービス計画費の支給、特例介護予防サービス計画費の支給、高額介護予防サービス費の支給、高額医療合算介護予防サービス費の支給、特定入所者介護予防サービス費の支給、特例特定入所者介護予防サービス費の支給が設けられている</li>\n</ul>\n</div>\n</div>"
+  }
+]

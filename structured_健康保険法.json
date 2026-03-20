@@ -1,0 +1,806 @@
+[
+  {
+    "reference": "法1条",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\"><span class=\"subject\">健康保険法</span>は、</div><div class=\"predicate-line\"><span class=\"subject\">労働者</span><span class=\"logic\">又は</span>その<span class=\"subject\">被扶養者</span>の業務災害（労働者災害補償保険法第7条第1項第1 号に規定する業務災害をいう。）以外の疾病、負傷<span class=\"logic\">若しくは</span>死亡<span class=\"logic\">又は</span>出産に関して保険給付を行い、もって国民の生活の安定と福祉の向上に寄与することを<span class=\"predicate\">目的とする。</span>目的</div></div></div></div>"
+  },
+  {
+    "reference": "法2条",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\"><span class=\"subject\">健康保険制度</span>については、</div><div class=\"predicate-line\">これが医療保険制度の基本をなすものであることにかんがみ、高齢化の進展、疾病構造の変化、社会経済情勢の変化等に対応し、その他の医療保険制度<span class=\"logic\">及び</span>後期高齢者医療制度<span class=\"logic\">並びに</span>これらに密接に関連する制度と併せてその在り方に関して常に検討が加えられ、その結果に基づき、医療保険の運営の効率化、給付の内容<span class=\"logic\">及び</span>費用の負担の適正化<span class=\"logic\">並びに</span>国民が受ける医療の質の向上を総合的に図りつつ、<span class=\"predicate\">実施されなければならない。</span>基本的理念</div></div></div></div>"
+  },
+  {
+    "reference": "法204条",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">◯1</span><div class=\"subject-line\">所定の<span class=\"subject\">厚生労働大臣</span>の権限に係る事務は、</div><div class=\"predicate-line\"><span class=\"subject\">日本年金機構</span>（以下「機構」という。）に<span class=\"predicate\">行わせるものとする。</span></div></div><div class=\"exception-section\">ただし、この権限の一部は、<span class=\"subject\">厚生労働大臣</span>が自ら行うことを<span class=\"predicate\">妨げない。</span></div></div></div>"
+  },
+  {
+    "reference": "法205条の2",
+    "structured": "<div class=\"law-body\">\n  <div class=\"principle-section\">\n    <span class=\"item-number\">第1項</span>\n    <div class=\"subject-line\"><span class=\"subject\">厚生労働大臣は、</span></div>\n    <ul class=\"condition-list\">\n      <li>機構に</li>\n    </ul>\n    <div class=\"predicate-line\"><span class=\"predicate\">所定の事務を行わせるものとする。</span></div>\n  </div>\n</div>"
+  },
+  {
+    "reference": "法204条の3",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">◯1</span><div class=\"subject-line\"><span class=\"subject\">機構</span>は、</div><div class=\"predicate-line\"><span class=\"condition\">滞納処分等を行う場合</span>には、あらかじめ、<span class=\"subject\">厚生労働大臣</span>の認可を受けるとともに、滞納処分等実施規程に従い、<span class=\"subject\">徴収職員</span>に<span class=\"predicate\">行わせなければならない。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">◯2</span><div class=\"subject-line\"><span class=\"subject\">機構</span>は、</div><div class=\"predicate-line\">滞納処分等をしたときは、速やかに、その結果を<span class=\"subject\">厚生労働大臣</span>に<span class=\"predicate\">報告しなければならない。</span></div></div></div></div>"
+  },
+  {
+    "reference": "法204条の4",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">◯1</span><div class=\"subject-line\"><span class=\"subject\">機構</span>は、</div><div class=\"predicate-line\">滞納処分等実施規程を定め、<span class=\"subject\">厚生労働大臣</span>の認可を<span class=\"predicate\">受けなければならない。</span></div></div><div class=\"principle-section\"><div class=\"predicate-line\">これを変更しようとするときも、<span class=\"predicate\">同様とする。</span></div></div></div></div>"
+  },
+  {
+    "reference": "法204条の2",
+    "structured": "<div class=\"law-body\">\n  <div class=\"principle-section\">\n    <span class=\"item-number\">第1項</span>\n    <div class=\"subject-line\"><span class=\"subject\">厚生労働大臣は、</span></div>\n    <ul class=\"condition-list\">\n      <li>滞納処分等その他の処分に係る納付義務者が滞納処分等その他の処分の執行を免れる目的でその財産について隠ぺいしているおそれがあることその他の政令で定める事情があるため保険料その他健康保険法の規定による徴収金の効果的な徴収を行う上で必要があると<span class=\"condition\">認めるとき</span>は</li>\n      <li>財務大臣に</li>\n      <li>当該納付義務者に関する情報その他必要な情報を提供するとともに</li>\n    </ul>\n    <div class=\"predicate-line\"><span class=\"predicate\">当該納付義務者に係る滞納処分等その他の処分の権限の全部<span class=\"logic\">又は</span>一部を委任することができる。</span></div>\n  </div>\n</div>"
+  },
+  {
+    "reference": "法204条の7",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">◯1</span><div class=\"subject-line\">第198条第1項（立入検査等）の規定による<span class=\"subject\">厚生労働大臣</span>の命令<span class=\"logic\">並びに</span>質問<span class=\"logic\">及び</span>検査の権限（<span class=\"condition\">健康保険組合に係る場合を除き</span>、保険給付に関するものに限る。）に係る事務は、</div><div class=\"predicate-line\"><span class=\"subject\">協会</span>に<span class=\"predicate\">行わせるものとする。</span></div></div><div class=\"exception-section\">ただし、当該権限は、<span class=\"subject\">厚生労働大臣</span>が自ら行うことを<span class=\"predicate\">妨げない。</span></div></div></div>"
+  },
+  {
+    "reference": "法204条の8",
+    "structured": "<div class=\"law-body\">\n  <div class=\"principle-section\">\n    <span class=\"item-number\">第1項</span>\n    <div class=\"subject-line\"><span class=\"subject\">協会は、</span></div>\n    <ul class=\"condition-list\">\n      <li>第204条の7条第1項に規定する権限に係る事務を<span class=\"condition\">行う場合には</span></li>\n      <li>あらかじめ</li>\n    </ul>\n    <div class=\"predicate-line\"><span class=\"predicate\">厚生労働大臣の認可を受けなければならない。</span></div>\n  </div>\n</div>"
+  },
+  {
+    "reference": "法205条",
+    "structured": "<div class=\"law-body\">\n  <div class=\"principle-section\">\n    <span class=\"item-number\">第1項</span>\n    <div class=\"subject-line\"><span class=\"subject\">健康保険法に規定する厚生労働大臣の権限（第204条の2第1項<span class=\"logic\">及び</span>同条第2項において準用する厚生年金保険法第100条の5第2項に規定する財務大臣に委任することができる厚生労働大臣の権限を除く。）は、</span></div>\n    <div class=\"predicate-line\"><span class=\"predicate\">地方厚生局長に委任することができる。</span></div>\n  </div>\n  <div class=\"principle-section\">\n    <span class=\"item-number\">第2項</span>\n    <div class=\"subject-line\"><span class=\"subject\">前項の規定により地方厚生局長に委任された権限は、</span></div>\n    <div class=\"predicate-line\"><span class=\"predicate\">地方厚生支局長に委任することができる。</span></div>\n  </div>\n</div>"
+  },
+  {
+    "reference": "法205条の4",
+    "structured": "<div class=\"law-body\">\n  <div class=\"principle-section\">\n    <span class=\"item-number\">第1項</span>\n    <div class=\"subject-line\"><span class=\"subject\">保険者は、</span></div>\n    <ul class=\"condition-list\">\n      <li>第76条第5項（第85条第9項、第85条の2第5項、第86条第4項、第110条第7項及び第149 条において準用する場合を含む。第1号において同じ。）及び第88条第11項（第111条第3項<span class=\"logic\">及び</span>第149条において準用する場合を含む。同号において同じ。）に規定する事務のほか</li>\n    </ul>\n    <div class=\"predicate-line\"><span class=\"predicate\">所定の事務を社会保険診療報酬支払基金（「基金」という。）<span class=\"logic\">又は</span>国民健康保険団体連合会（「国保連合会」という。）に委託することができる。</span></div>\n  </div>\n</div>"
+  },
+  {
+    "reference": "法4条",
+    "structured": "<div class=\"law-body\">\n  <div class=\"principle-section\">\n    <div class=\"subject-line\"><span class=\"subject\">健康保険（日雇特例被保険者の保険を除く。）の保険者は、</span></div>\n    <div class=\"predicate-line\"><span class=\"predicate\">全国健康保険協会<span class=\"logic\">及び</span>健康保険組合とする。</span></div>\n  </div>\n</div>"
+  },
+  {
+    "reference": "法123条",
+    "structured": "<div class=\"law-body\">\n  <div class=\"principle-section\">\n    <span class=\"item-number\">第1項</span>\n    <div class=\"subject-line\"><span class=\"subject\">日雇特例被保険者の保険の保険者は、</span></div>\n    <div class=\"predicate-line\"><span class=\"predicate\">協会とする。</span></div>\n  </div>\n</div>"
+  },
+  {
+    "reference": "法5条",
+    "structured": "<div class=\"law-body\">\n  <div class=\"principle-section\">\n    <span class=\"item-number\">第1項</span>\n    <div class=\"subject-line\"><span class=\"subject\">全国健康保険協会は、</span></div>\n    <div class=\"predicate-line\"><span class=\"predicate\">健康保険組合の組合員でない被保険者（日雇特例被保険者を除く。）の保険を管掌する。</span></div>\n  </div>\n</div>"
+  },
+  {
+    "reference": "法6条",
+    "structured": "<div class=\"law-body\">\n  <div class=\"principle-section\">\n    <div class=\"subject-line\"><span class=\"subject\">健康保険組合は、</span></div>\n    <div class=\"predicate-line\"><span class=\"predicate\">その組合員である被保険者の保険を管掌する。</span></div>\n  </div>\n</div>"
+  },
+  {
+    "reference": "法7条の2",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">◯1</span><div class=\"subject-line\">健康保険組合の組合員でない被保険者に係る健康保険事業を行うため、</div><div class=\"predicate-line\"><span class=\"subject\">全国健康保険協会</span>（以下「協会」という。）を<span class=\"predicate\">設ける。</span></div></div></div></div>"
+  },
+  {
+    "reference": "法7条の9",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\"><span class=\"subject\">協会</span>に、役員として、</div><div class=\"predicate-line\"><span class=\"subject\">理事長</span><span class=\"period\">1人</span>、<span class=\"subject\">理事</span><span class=\"period\">6人以内</span><span class=\"logic\">及び</span><span class=\"subject\">監事</span><span class=\"period\">2人</span>を<span class=\"predicate\">置く。</span></div></div></div></div>"
+  },
+  {
+    "reference": "法7条の11",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">◯1</span><div class=\"subject-line\"><span class=\"subject\">理事長</span><span class=\"logic\">及び</span><span class=\"subject\">監事</span>は、</div><div class=\"predicate-line\"><span class=\"subject\">厚生労働大臣</span>が<span class=\"predicate\">任命する。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">◯2</span><div class=\"subject-line\"><span class=\"subject\">厚生労働大臣</span>は、</div><div class=\"predicate-line\">前項の規定により<span class=\"subject\">理事長</span>を<span class=\"condition\">任命しようとするとき</span>は、あらかじめ、第7条の18第1項に規定する<span class=\"subject\">運営委員会</span>の意見を<span class=\"predicate\">聴かなければならない。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">◯3</span><div class=\"subject-line\"><span class=\"subject\">理事</span>は、</div><div class=\"predicate-line\"><span class=\"subject\">理事長</span>が<span class=\"predicate\">任命する。</span></div></div></div></div>"
+  },
+  {
+    "reference": "法7条の23",
+    "structured": "<div class=\"law-body\">\n  <div class=\"principle-section\">\n    <div class=\"subject-line\"><span class=\"subject\">協会の職員は、</span></div>\n    <div class=\"predicate-line\"><span class=\"predicate\">理事長が任命する。</span></div>\n  </div>\n</div>"
+  },
+  {
+    "reference": "法7条の27",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\"><span class=\"subject\">協会</span>は、</div><div class=\"predicate-line\">毎事業年度、事業計画<span class=\"logic\">及び</span>予算を作成し、当該事業年度開始前に、<span class=\"subject\">厚生労働大臣</span>の認可を<span class=\"predicate\">受けなければならない。</span></div></div><div class=\"principle-section\"><div class=\"predicate-line\">これを変更しようとするときも、<span class=\"predicate\">同様とする。</span></div></div></div></div>"
+  },
+  {
+    "reference": "法7条の28",
+    "structured": "<div class=\"law-body\">\n  <div class=\"principle-section\">\n    <span class=\"item-number\">第1項</span>\n    <div class=\"subject-line\"><span class=\"subject\">協会は、</span></div>\n    <div class=\"predicate-line\"><span class=\"predicate\">毎事業年度の決算を翌事業年度の<span class=\"period\">5月</span><span class=\"period\">31日</span>までに完結しなければならない。</span></div>\n  </div>\n  <div class=\"principle-section\">\n    <span class=\"item-number\">第2項</span>\n    <div class=\"subject-line\"><span class=\"subject\">協会は、</span></div>\n    <ul class=\"condition-list\">\n      <li>毎事業年度</li>\n      <li>貸借対照表</li>\n      <li>損益計算書</li>\n      <li>利益の処分又は損失の処理に関する書類その他厚生労働省令で定める書類<span class=\"logic\">及び</span>これらの附属明細書（以下「財務諸表」という。）を作成し</li>\n      <li>これに当該事業年度の事業報告書<span class=\"logic\">及び</span>決算報告書を添え</li>\n      <li>監事<span class=\"logic\">及び</span>会計監査人の意見を付けて</li>\n      <li>決算完結後<span class=\"period\">2月以内に厚生労働大臣に提出し</span></li>\n    </ul>\n    <div class=\"predicate-line\"><span class=\"predicate\">その承認を受けなければならない。</span></div>\n  </div>\n</div>"
+  },
+  {
+    "reference": "法7条の30",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">◯1</span><div class=\"subject-line\"><span class=\"subject\">厚生労働大臣</span>は、</div><div class=\"predicate-line\"><span class=\"subject\">協会</span>の事業年度ごとの業績について、評価を<span class=\"predicate\">行わなければならない。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">◯2</span><div class=\"subject-line\"><span class=\"subject\">厚生労働大臣</span>は、</div><div class=\"predicate-line\">前項の評価を行ったときは、遅滞なく、<span class=\"subject\">協会</span>に対し、当該評価の結果を通知するとともに、これを<span class=\"predicate\">公表しなければならない。</span></div></div></div></div>"
+  },
+  {
+    "reference": "法160条の3",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\"><span class=\"subject\">保険者</span>は、</div><div class=\"predicate-line\">健康保険事業に要する費用の支出に備えるため、毎事業年度末において、準備金を<span class=\"predicate\">積み立てなければならない。</span></div></div></div></div>"
+  },
+  {
+    "reference": "令46条",
+    "structured": "<div class=\"law-body\">\n  <div class=\"principle-section\">\n    <span class=\"item-number\">第1項</span>\n    <div class=\"subject-line\"><span class=\"subject\">協会は、</span></div>\n    <ul class=\"condition-list\">\n      <li>毎事業年度末において</li>\n      <li>当該事業年度及びその直前の二事業年度内において行った保険給付に要した費用の額（前期高齢者納付金等、後期高齢者支援金等及び日雇拠出金、介護納付金並びに流行初期医療確保拠出金等の納付に要した費用の額（前期高齢者交付金がある場合には、これを控除した額）を含み、出産育児交付金の額並びに法第153条<span class=\"logic\">及び</span>第154条の規定による国庫補助の額を除く。）の一事業年度当たりの平均額の<span class=\"period\">12分の1に相当する額に達するまでは</span></li>\n    </ul>\n    <div class=\"predicate-line\"><span class=\"predicate\">当該事業年度の剰余金の額を準備金として積み立てなければならない。</span></div>\n  </div>\n</div>"
+  },
+  {
+    "reference": "法7条の31",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">◯1</span><div class=\"subject-line\"><span class=\"subject\">協会</span>は、</div><div class=\"predicate-line\">その業務に要する費用に充てるため<span class=\"condition\">必要な場合</span>において、<span class=\"subject\">厚生労働大臣</span>の認可を受けて、短期借入金を<span class=\"predicate\">することができる。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">◯2</span><div class=\"subject-line\">前項の規定による短期借入金は、</div><div class=\"predicate-line\">当該事業年度内に<span class=\"predicate\">償還しなければならない。</span></div></div><div class=\"exception-section\">ただし、資金の不足のため<span class=\"condition\">償還することができないとき</span>は、その償還することができない金額に限り、<span class=\"subject\">厚生労働大臣</span>の認可を受けて、これを借り換えることができる。</div><div class=\"principle-section\"><span class=\"item-number\">◯3</span><div class=\"subject-line\">前項ただし書の規定により借り換えた短期借入金は、</div><div class=\"predicate-line\"><span class=\"period\">1年以内</span>に<span class=\"predicate\">償還しなければならない。</span></div></div></div></div>"
+  },
+  {
+    "reference": "法7条の33",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\"><span class=\"subject\">協会</span>の業務上の余裕金の運用は、</div><div class=\"predicate-line\">事業の目的<span class=\"logic\">及び</span>資金の性質に応じ、安全<span class=\"logic\">かつ</span>効率的に<span class=\"predicate\">しなければならない。</span></div></div></div></div>"
+  },
+  {
+    "reference": "法7条の34",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\"><span class=\"subject\">協会</span>は、</div><div class=\"predicate-line\">厚生労働省令で定める重要な財産を譲渡し、<span class=\"logic\">又は</span>担保に<span class=\"condition\">供しようとするとき</span>は、<span class=\"subject\">厚生労働大臣</span>の認可を<span class=\"predicate\">受けなければならない。</span></div></div></div></div>"
+  },
+  {
+    "reference": "法7条の39",
+    "structured": "<div class=\"law-body\">\n  <div class=\"principle-section\">\n    <span class=\"item-number\">第1項</span>\n    <div class=\"subject-line\"><span class=\"subject\">厚生労働大臣は、</span></div>\n    <ul class=\"condition-list\">\n      <li>協会の事業若しくは財産の管理<span class=\"logic\">若しくは</span>執行が法令</li>\n      <li>定款<span class=\"logic\">若しくは</span>厚生労働大臣の処分に違反していると認めるとき</li>\n      <li>確保すべき収入を不当に確保せず</li>\n      <li>不当に経費を支出し</li>\n      <li><span class=\"logic\">若しくは</span>不当に財産を処分し</li>\n      <li>その他協会の事業若しくは財産の管理<span class=\"logic\">若しくは</span>執行が著しく適正を欠くと認めるとき</li>\n      <li>又は協会の役員がその事業若しくは財産の管理<span class=\"logic\">若しくは</span>執行を明らかに怠っていると認めるときは</li>\n      <li>期間を定めて</li>\n      <li>協会<span class=\"logic\">又は</span>その役員に対し</li>\n    </ul>\n    <div class=\"predicate-line\"><span class=\"predicate\">その事業<span class=\"logic\">若しくは</span>財産の管理<span class=\"logic\">若しくは</span>執行について違反の是正<span class=\"logic\">又は</span>改善のため必要な措置を採るべき旨を命ずることができる。</span></div>\n  </div>\n</div>"
+  },
+  {
+    "reference": "法8条",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\"><span class=\"subject\">健康保険組合</span>は、</div><div class=\"predicate-line\">適用事業所の<span class=\"subject\">事業主</span>、その適用事業所に使用される<span class=\"subject\">被保険者</span><span class=\"logic\">及び</span><span class=\"subject\">任意継続被保険者</span>をもって<span class=\"predicate\">組織する。</span></div></div></div></div>"
+  },
+  {
+    "reference": "法9条",
+    "structured": "<div class=\"law-body\">\n  <div class=\"principle-section\">\n    <span class=\"item-number\">第1項</span>\n    <div class=\"subject-line\"><span class=\"subject\">健康保険組合は、</span></div>\n    <div class=\"predicate-line\"><span class=\"predicate\">法人とする。</span></div>\n  </div>\n</div>"
+  },
+  {
+    "reference": "法11条",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">◯1</span><div class=\"subject-line\"><span class=\"period\">1又は2以上</span>の適用事業所について<span class=\"period\">常時700人以上</span>の被保険者を使用する<span class=\"subject\">事業主</span>は、</div><div class=\"predicate-line\">当該1又は2以上の適用事業所について、健康保険組合を<span class=\"predicate\">設立することができる。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">◯2</span><div class=\"subject-line\">適用事業所の<span class=\"subject\">事業主</span>は、</div><div class=\"predicate-line\">共同して健康保険組合を<span class=\"predicate\">設立することができる。</span></div></div><div class=\"principle-section\"><div class=\"predicate-line\">この場合において、被保険者の数は、合算して<span class=\"period\">常時3,000人以上</span>で<span class=\"predicate\">なければならない。</span></div></div></div></div>"
+  },
+  {
+    "reference": "法12条",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">◯1</span><div class=\"subject-line\">適用事業所の<span class=\"subject\">事業主</span>は、</div><div class=\"predicate-line\"><span class=\"condition\">健康保険組合を設立しようとするとき</span>は、健康保険組合を設立しようとする適用事業所に使用される被保険者の<span class=\"period\">2分の1以上</span>の同意を得て、規約を作り、<span class=\"subject\">厚生労働大臣</span>の認可を<span class=\"predicate\">受けなければならない。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">◯2</span><div class=\"subject-line\"><span class=\"condition\">2以上の適用事業所について健康保険組合を設立しようとする場合</span>においては、</div><div class=\"predicate-line\">前項の同意は、各適用事業所について<span class=\"predicate\">得なければならない。</span>組合の任意設立</div></div></div></div>"
+  },
+  {
+    "reference": "法14条",
+    "structured": "<div class=\"law-body\">\n  <div class=\"principle-section\">\n    <span class=\"item-number\">第1項</span>\n    <div class=\"subject-line\"><span class=\"subject\">厚生労働大臣は、</span></div>\n    <ul class=\"condition-list\">\n      <li>1<span class=\"logic\">又は</span>2以上の適用事業所について常時政令で定める数以上の被保険者を使用する事業主に対し</li>\n    </ul>\n    <div class=\"predicate-line\"><span class=\"predicate\">健康保険組合の設立を命ずることができる。</span></div>\n  </div>\n  <div class=\"principle-section\">\n    <span class=\"item-number\">第2項</span>\n    <div class=\"subject-line\"><span class=\"subject\">前項の規定により健康保険組合の設立を命ぜられた事業主は、</span></div>\n    <ul class=\"condition-list\">\n      <li>規約を作り</li>\n    </ul>\n    <div class=\"predicate-line\"><span class=\"predicate\">その設立について厚生労働大臣の認可を受けなければならない。</span></div>\n  </div>\n</div>"
+  },
+  {
+    "reference": "法15条",
+    "structured": "<div class=\"law-body\">\n  <div class=\"principle-section\">\n    <div class=\"subject-line\"><span class=\"subject\">健康保険組合は、</span></div>\n    <div class=\"predicate-line\"><span class=\"predicate\">設立の認可を受けた時に成立する。</span></div>\n  </div>\n</div>"
+  },
+  {
+    "reference": "法17条",
+    "structured": "<div class=\"law-body\">\n  <div class=\"principle-section\">\n    <span class=\"item-number\">第1項</span>\n    <div class=\"subject-line\"><span class=\"subject\">健康保険組合が設立された適用事業所（以下「設立事業所」という。）の事業主<span class=\"logic\">及び</span>その設立事業所に使用される被保険者は、</span></div>\n    <div class=\"predicate-line\"><span class=\"predicate\">当該健康保険組合の組合員とする。</span></div>\n  </div>\n  <div class=\"principle-section\">\n    <span class=\"item-number\">第2項</span>\n    <div class=\"subject-line\"><span class=\"subject\">前項の被保険者は、</span></div>\n    <ul class=\"condition-list\">\n      <li>当該設立事業所に<span class=\"condition\">使用されなくなったとき</span>であっても</li>\n      <li><span class=\"condition\">任意継続被保険者であるときは</span></li>\n    </ul>\n    <div class=\"predicate-line\"><span class=\"predicate\">なお当該健康保険組合の組合員とする。</span></div>\n  </div>\n</div>"
+  },
+  {
+    "reference": "法21条",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">◯1</span><div class=\"subject-line\"><span class=\"subject\">健康保険組合</span>に、役員として</div><div class=\"predicate-line\"><span class=\"subject\">理事</span><span class=\"logic\">及び</span><span class=\"subject\">監事</span>を<span class=\"predicate\">置く。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">◯2</span><div class=\"subject-line\"><span class=\"subject\">理事</span>の定数は、偶数とし、</div><div class=\"predicate-line\">その半数は設立事業所の事業主の選定した組合会議員において、他の半数は被保険者である組合員の互選した組合会議員において、それぞれ<span class=\"predicate\">互選する。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">◯3</span><div class=\"subject-line\"><span class=\"subject\">理事</span>のうち<span class=\"period\">1人</span>を<span class=\"subject\">理事長</span>とし、</div><div class=\"predicate-line\">設立事業所の事業主の選定した組合会議員である理事のうちから、理事が<span class=\"predicate\">選挙する。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">◯4</span><div class=\"subject-line\"><span class=\"subject\">監事</span>は、</div><div class=\"predicate-line\">組合会において、設立事業所の事業主の選定した組合会議員<span class=\"logic\">及び</span>被保険者である組合員の互選した組合会議員のうちから、それぞれ<span class=\"period\">1人</span>を<span class=\"predicate\">選挙する。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">◯5</span><div class=\"subject-line\"><span class=\"subject\">監事</span>は、</div><div class=\"predicate-line\">理事<span class=\"logic\">又は</span>健康保険組合の職員と<span class=\"predicate\">兼ねることができない。</span>役員健康保険組合には、役員として理事及び監事を置く。</div></div></div></div>"
+  },
+  {
+    "reference": "法18条",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">◯1</span><div class=\"subject-line\"><span class=\"subject\">健康保険組合</span>に、</div><div class=\"predicate-line\">組合会を<span class=\"predicate\">置く。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">◯2</span><div class=\"subject-line\"><span class=\"subject\">組合会</span>は、</div><div class=\"predicate-line\">組合会議員をもって<span class=\"predicate\">組織する。</span></div></div></div></div>"
+  },
+  {
+    "reference": "令15条",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\"><span class=\"subject\">健康保険組合</span>の会計年度は、</div><div class=\"predicate-line\">毎年<span class=\"period\">4月1日</span>に始まり、翌年<span class=\"period\">3月31日</span>に<span class=\"predicate\">終わる。</span></div></div><div class=\"exception-section\">ただし、事業開始の初年度にあっては、事業開始の日に始まり、翌年（事業開始の日が<span class=\"period\">1月1日以降3月31日以前</span>であるときは、その年）の<span class=\"period\">3月31日</span>に終わる。</div></div></div>"
+  },
+  {
+    "reference": "令16条",
+    "structured": "<div class=\"law-body\">\n  <div class=\"principle-section\">\n    <span class=\"item-number\">第1項</span>\n    <div class=\"subject-line\"><span class=\"subject\">健康保険組合は、</span></div>\n    <ul class=\"condition-list\">\n      <li>毎年度</li>\n      <li>収入支出の予算を作成し</li>\n      <li>当該年度の開始前に</li>\n    </ul>\n    <div class=\"predicate-line\"><span class=\"predicate\">厚生労働大臣に届け出なければならない。</span></div>\n  </div>\n  <div class=\"principle-section\">\n    <ul class=\"condition-list\">\n      <li>これを変更したときも</li>\n    </ul>\n    <div class=\"predicate-line\"><span class=\"predicate\">同様とする。</span></div>\n  </div>\n  <div class=\"principle-section\">\n    <span class=\"item-number\">第2項</span>\n    <div class=\"subject-line\"><span class=\"subject\">予算に定めた各款の金額は、</span></div>\n    <div class=\"predicate-line\"><span class=\"predicate\">相互に流用することができない。</span></div>\n  </div>\n  <div class=\"principle-section\">\n    <span class=\"item-number\">第3項</span>\n    <div class=\"subject-line\"><span class=\"subject\">予算に定めた各項の金額は、</span></div>\n    <ul class=\"condition-list\">\n      <li>組合会の議決を経て</li>\n    </ul>\n    <div class=\"predicate-line\"><span class=\"predicate\">相互に流用することができる。</span></div>\n  </div>\n</div>"
+  },
+  {
+    "reference": "令22条",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">◯1</span><div class=\"subject-line\"><span class=\"subject\">健康保険組合</span>は、</div><div class=\"predicate-line\">組合債を起こし、<span class=\"logic\">又は</span>起債の方法、利率<span class=\"logic\">若しくは</span>償還の方法を<span class=\"condition\">変更しようとするとき</span>は、<span class=\"subject\">厚生労働大臣</span>の認可を<span class=\"predicate\">受けなければならない。</span></div></div><div class=\"exception-section\">ただし、厚生労働省令で定める<span class=\"condition\">軽微な変更をしようとするとき</span>は、この限りでない。</div><div class=\"principle-section\"><span class=\"item-number\">◯2</span><div class=\"subject-line\"><span class=\"subject\">健康保険組合</span>は、</div><div class=\"predicate-line\">前項ただし書の厚生労働省令で定める軽微な変更をしたときは、遅滞なく、その旨を<span class=\"subject\">厚生労働大臣</span>に<span class=\"predicate\">届け出なければならない。</span></div></div></div></div>"
+  },
+  {
+    "reference": "法23条",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">◯1</span><div class=\"subject-line\"><span class=\"subject\">健康保険組合</span>は、</div><div class=\"predicate-line\"><span class=\"condition\">合併しようとするとき</span>は、組合会において組合会議員の定数の<span class=\"period\">4分の3以上</span>の多数により議決し、<span class=\"subject\">厚生労働大臣</span>の認可を<span class=\"predicate\">受けなければならない。</span></div></div></div></div>"
+  },
+  {
+    "reference": "法24条",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">◯1</span><div class=\"subject-line\"><span class=\"subject\">健康保険組合</span>は、</div><div class=\"predicate-line\"><span class=\"condition\">分割しようとするとき</span>は、組合会において組合会議員の定数の<span class=\"period\">4分の3以上</span>の多数により議決し、<span class=\"subject\">厚生労働大臣</span>の認可を<span class=\"predicate\">受けなければならない。</span></div></div></div></div>"
+  },
+  {
+    "reference": "法25条",
+    "structured": "<div class=\"law-body\">\n  <div class=\"principle-section\">\n    <span class=\"item-number\">第1項</span>\n    <div class=\"subject-line\"><span class=\"subject\">健康保険組合がその設立事業所を増加させ、<span class=\"logic\">又は</span>減少させようとするときは、</span></div>\n    <div class=\"predicate-line\"><span class=\"predicate\">その増加<span class=\"logic\">又は</span>減少に係る適用事業所の事業主の全部<span class=\"logic\">及び</span>その適用事業所に使用される被保険者の<span class=\"period\">2分の1以上</span>の同意を得なければならない。</span></div>\n  </div>\n</div>"
+  },
+  {
+    "reference": "法26条",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">◯1</span><div class=\"subject-line\"><span class=\"subject\">健康保険組合</span>は、次に掲げる理由により<span class=\"predicate\">解散する。</span></div><ul class=\"condition-list\"><li>1. 組合会議員の定数の<span class=\"period\">4分の3以上</span>の多数による組合会の議決</li><li>2. 健康保険組合の事業の継続の不能</li><li>3. 第29条第2項の規定による<span class=\"subject\">厚生労働大臣</span>による解散の命令</li></ul></div><div class=\"principle-section\"><span class=\"item-number\">◯2</span><div class=\"subject-line\"><span class=\"subject\">健康保険組合</span>は、</div><div class=\"predicate-line\">前項第1号<span class=\"logic\">又は</span>第2号に掲げる理由により<span class=\"condition\">解散しようとするとき</span>は、<span class=\"subject\">厚生労働大臣</span>の認可を<span class=\"predicate\">受けなければならない。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">◯4</span><div class=\"subject-line\"><span class=\"subject\">協会</span>は、</div><div class=\"predicate-line\">解散により消滅した健康保険組合の権利義務を<span class=\"predicate\">承継する。</span></div></div></div></div>"
+  },
+  {
+    "reference": "法28条",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">◯1</span><div class=\"subject-line\">健康保険事業の収支が均衡しない<span class=\"subject\">健康保険組合</span>であって、政令で定める要件に該当するものとして<span class=\"subject\">厚生労働大臣</span>の指定を受けたもの（以下「指定健康保険組合」という。）は、</div><div class=\"predicate-line\">その財政の健全化に関する計画（以下「健全化計画」という。）を定め、<span class=\"subject\">厚生労働大臣</span>の承認を<span class=\"predicate\">受けなければならない。</span></div></div><div class=\"principle-section\"><div class=\"predicate-line\">これを変更しようとするときも、<span class=\"predicate\">同様とする。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">◯2</span><div class=\"subject-line\">前項の承認を受けた<span class=\"subject\">指定健康保険組合</span>は、</div><div class=\"predicate-line\">当該承認に係る健全化計画に従い、その事業を<span class=\"predicate\">行わなければならない。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">◯3</span><div class=\"subject-line\"><span class=\"subject\">厚生労働大臣</span>は、</div><div class=\"predicate-line\">第1項の承認を受けた指定健康保険組合の事業<span class=\"logic\">及び</span>財産の状況により、その健全化計画を<span class=\"condition\">変更する必要があると認めるとき</span>は、当該指定健康保険組合に対し、期限を定めて、当該健全化計画の変更を<span class=\"predicate\">求めることができる。</span></div></div></div></div>"
+  },
+  {
+    "reference": "法29条",
+    "structured": "<div class=\"law-body\">\n  <div class=\"principle-section\">\n    <span class=\"item-number\">第1項</span>\n    <div class=\"subject-line\"><span class=\"subject\">第7条の38（報告の徴収等）<span class=\"logic\">及び</span>第7条の39（監督）の規定は、</span></div>\n    <div class=\"predicate-line\"><span class=\"predicate\">健康保険組合について次のように準用する。</span></div>\n  </div>\n  <div class=\"principle-section\">\n    <div class=\"subject-line\"><span class=\"subject\">1. 厚生労働大臣は、</span></div>\n    <ul class=\"condition-list\">\n      <li>健康保険組合について</li>\n      <li><span class=\"condition\">必要があると認めるときは</span></li>\n      <li>その事業<span class=\"logic\">及び</span>財産の状況に関する報告を徴し</li>\n      <li><span class=\"logic\">又は</span>当該職員をして健康保険組合の事務所に立ち入って関係者に質問させ</li>\n    </ul>\n    <div class=\"predicate-line\"><span class=\"predicate\"><span class=\"logic\">若しくは</span>実地にその状況を検査させることができる。</span></div>\n  </div>\n  <div class=\"principle-section\">\n    <div class=\"subject-line\"><span class=\"subject\">2. 厚生労働大臣は、</span></div>\n    <ul class=\"condition-list\">\n      <li>健康保険組合の事業若しくは財産の管理<span class=\"logic\">若しくは</span>執行が法令</li>\n      <li>規約<span class=\"logic\">若しくは</span>厚生労働大臣の処分に違反していると認めるとき</li>\n      <li>確保すべき収入を不当に確保せず</li>\n      <li>不当に経費を支出し</li>\n      <li><span class=\"logic\">若しくは</span>不当に財産を処分し</li>\n      <li>その他健康保険組合の事業若しくは財産の管理<span class=\"logic\">若しくは</span>執行が著しく適正を欠くと認めるとき</li>\n      <li>又は健康保険組合の役員がその事業若しくは財産の管理<span class=\"logic\">若しくは</span>執行を明らかに怠っていると認めるときは</li>\n      <li>期間を定めて</li>\n      <li>健康保険組合<span class=\"logic\">又は</span>その役員に対し</li>\n    </ul>\n    <div class=\"predicate-line\"><span class=\"predicate\">その事業<span class=\"logic\">若しくは</span>財産の管理<span class=\"logic\">若しくは</span>執行について違反の是正<span class=\"logic\">又は</span>改善のため必要な措置を採るべき旨を命ずることができる。</span></div>\n  </div>\n  <div class=\"principle-section\">\n    <span class=\"item-number\">第2項</span>\n    <div class=\"subject-line\"><span class=\"subject\">健康保険組合が前項2.の規定による命令に違反したとき、<span class=\"logic\">又は</span>第28条第2項（健全化計画に従った事業運営）の規定に違反した指定健康保険組合、同条第3項（健全化計画の変更）の求めに応じない指定健康保険組合その他政令で定める指定健康保険組合の事業<span class=\"logic\">若しくは</span>財産の状況によりその事業の継続が困難であると認めるときは、</span></div>\n    <ul class=\"condition-list\">\n      <li>厚生労働大臣は</li>\n    </ul>\n    <div class=\"predicate-line\"><span class=\"predicate\">当該健康保険組合の解散を命ずることができる。</span></div>\n  </div>\n</div>"
+  },
+  {
+    "reference": "法184条",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">◯1</span><div class=\"subject-line\"><span class=\"subject\">健康保険組合</span>は、</div><div class=\"predicate-line\">共同してその目的を達成するため、<span class=\"subject\">健康保険組合連合会</span>（以下「連合会」という。）を<span class=\"predicate\">設立することができる。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">◯2</span><div class=\"subject-line\"><span class=\"subject\">連合会</span>は、</div><div class=\"predicate-line\"><span class=\"predicate\">法人とする。</span></div></div></div></div>"
+  },
+  {
+    "reference": "法185条",
+    "structured": "<div class=\"law-body\">\n  <div class=\"principle-section\">\n    <span class=\"item-number\">第1項</span>\n    <div class=\"subject-line\"><span class=\"subject\">連合会を設立しようとするときは、</span></div>\n    <ul class=\"condition-list\">\n      <li>規約を作り</li>\n    </ul>\n    <div class=\"predicate-line\"><span class=\"predicate\">厚生労働大臣の認可を受けなければならない。</span></div>\n  </div>\n  <div class=\"principle-section\">\n    <span class=\"item-number\">第2項</span>\n    <div class=\"subject-line\"><span class=\"subject\">連合会は、</span></div>\n    <div class=\"predicate-line\"><span class=\"predicate\">設立の認可を受けた時に成立する。</span></div>\n  </div>\n</div>"
+  },
+  {
+    "reference": "法3条",
+    "structured": "<div class=\"law-body\">\n  <div class=\"principle-section\">\n    <span class=\"item-number\">第3項</span>\n    <div class=\"subject-line\"><span class=\"subject\">「適用事業所」とは、</span></div>\n    <div class=\"predicate-line\"><span class=\"predicate\">次の各号のいずれかに該当する事業所をいう。</span></div>\n  </div>\n  <div class=\"principle-section\">\n    <div class=\"predicate-line\"><span class=\"predicate\">1. 適用業種である事業の事業所であって、常時<span class=\"period\">5人以上</span>の従業員を使用するもの 2. 前号に掲げるもののほか、国、地方公共団体<span class=\"logic\">又は</span>法人の事業所であって、常時従業員を使用するもの</span></div>\n  </div>\n</div>"
+  },
+  {
+    "reference": "法31条",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">◯1</span><div class=\"subject-line\">適用事業所以外の事業所の<span class=\"subject\">事業主</span>は、</div><div class=\"predicate-line\"><span class=\"subject\">厚生労働大臣</span>の認可を受けて、当該事業所を適用事業所と<span class=\"predicate\">することができる。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">◯2</span><div class=\"subject-line\">前項の<span class=\"condition\">認可を受けようとするとき</span>は、</div><div class=\"predicate-line\">当該事業所の<span class=\"subject\">事業主</span>は、当該事業所に使用される者（被保険者となるべき者に限る。）の<span class=\"period\">2分の1以上</span>の同意を得て、<span class=\"subject\">厚生労働大臣</span>に<span class=\"predicate\">申請しなければならない。</span></div></div></div></div>"
+  },
+  {
+    "reference": "法32条",
+    "structured": "<div class=\"law-body\">\n  <div class=\"principle-section\">\n    <div class=\"subject-line\"><span class=\"subject\">適用事業所が、第3条第3項各号（強制適用事業所の要件）に該当しなくなったときは、</span></div>\n    <div class=\"predicate-line\"><span class=\"predicate\">その事業所について第31条第1項（任意適用）の認可があったものとみなす。</span></div>\n  </div>\n</div>"
+  },
+  {
+    "reference": "法33条",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">◯1</span><div class=\"subject-line\">任意適用事業所の<span class=\"subject\">事業主</span>は、</div><div class=\"predicate-line\"><span class=\"subject\">厚生労働大臣</span>の認可を受けて、当該事業所を適用事業所でなく<span class=\"predicate\">することができる。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">◯2</span><div class=\"subject-line\">前項の<span class=\"condition\">認可を受けようとするとき</span>は、</div><div class=\"predicate-line\">当該事業所の<span class=\"subject\">事業主</span>は、当該事業所に使用される者（被保険者である者に限る。）の<span class=\"period\">4分の3以上</span>の同意を得て、<span class=\"subject\">厚生労働大臣</span>に<span class=\"predicate\">申請しなければならない。</span></div></div></div></div>"
+  },
+  {
+    "reference": "法34条",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">◯1</span><div class=\"subject-line\"><span class=\"period\">2以上</span>の適用事業所の事業主が同一である場合には、当該<span class=\"subject\">事業主</span>は、</div><div class=\"predicate-line\"><span class=\"subject\">厚生労働大臣</span>の承認を受けて、当該2以上の事業所を一の適用事業所と<span class=\"predicate\">することができる。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">◯2</span><div class=\"subject-line\">前項の承認があったときは、</div><div class=\"predicate-line\">当該2以上の適用事業所は、適用事業所でなくなったものと<span class=\"predicate\">みなす。</span></div></div></div></div>"
+  },
+  {
+    "reference": "則19条",
+    "structured": "<div class=\"law-body\">\n  <div class=\"principle-section\">\n    <span class=\"item-number\">第1項</span>\n    <div class=\"subject-line\"><span class=\"subject\">初めて法第3条第3項に規定する適用事業所となった事業所の事業主は、</span></div>\n    <ul class=\"condition-list\">\n      <li>当該事実があった日から <span class=\"period\">5日以内に</span></li>\n    </ul>\n    <div class=\"predicate-line\"><span class=\"predicate\">所定の事項を記載した届書を厚生労働大臣（日本年金機構）（初めて適用事業所となったと同時に当該適用事業所を健康保険組合の設立に係る適用事業所としようとするときは、健康保険組合）に提出しなければならない。</span></div>\n  </div>\n</div>"
+  },
+  {
+    "reference": "則30条",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\"><span class=\"subject\">事業主</span>は、</div><div class=\"predicate-line\">その氏名<span class=\"logic\">若しくは</span>名称<span class=\"logic\">若しくは</span>住所、事業所の名称<span class=\"logic\">若しくは</span>所在地、第19条第1項第3号に掲げる事項<span class=\"logic\">又は</span>同項第4号に掲げる事項（法人番号等）に変更があったときは、<span class=\"period\">5日以内</span>に、次に掲げる事項を記載した届書を<span class=\"subject\">厚生労働大臣</span>（日本年金機構）<span class=\"logic\">又は</span><span class=\"subject\">健康保険組合</span>に<span class=\"predicate\">提出しなければならない。</span></div></div></div></div>"
+  },
+  {
+    "reference": "則20条",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">◯1</span><div class=\"subject-line\">適用事業所の<span class=\"subject\">事業主</span>は、</div><div class=\"predicate-line\">廃止、休止その他の事情により<span class=\"condition\">適用事業所に該当しなくなったとき</span>は、第22条の規定により申請する場合を除き、当該事実があった日から<span class=\"period\">5日以内</span>に、次に掲げる事項を記載した届書を<span class=\"subject\">厚生労働大臣</span><span class=\"logic\">又は</span><span class=\"subject\">健康保険組合</span>に<span class=\"predicate\">提出しなければならない。</span></div></div><div class=\"principle-section\"><div class=\"predicate-line\">この場合において、<span class=\"subject\">協会</span>が管掌する健康保険の被保険者の事業主が同時に厚生年金保険の被保険者の適用事業所であるときは、当該届書にその旨を<span class=\"predicate\">付記しなければならない。</span></div></div></div></div>"
+  },
+  {
+    "reference": "法3条1項",
+    "structured": "<div class=\"law-body\">\n  <div class=\"principle-section\">\n    <span class=\"item-number\">第1項</span>\n    <div class=\"subject-line\"><span class=\"subject\">次の各号のいずれかに該当する者は、</span></div>\n    <ul class=\"condition-list\">\n      <li><span class=\"condition\">日雇特例被保険者となる場合を除き</span></li>\n    </ul>\n    <div class=\"predicate-line\"><span class=\"predicate\">被保険者となることができない。</span></div>\n  </div>\n  <div class=\"principle-section\">\n    <ul class=\"condition-list\">\n      <li>1. 船員保険の被保険者（船員保険法に規定する疾病任意継続被保険者を除く。）2. 臨時に使用される者であって</li>\n      <li>次に掲げるものイ.日々雇い入れられる者（<span class=\"period\">1月を超えて引き続き使用されるに至った場合を除く。）ロ.<span class=\"period\">2月以内</span>の期間を定めて使用される者であって</span></li>\n      <li>当該定めた期間を超えて使用されることが見込まれないもの（定めた期間を超えて引き続き使用されるに至った場合を除く。）3. 事業所で所在地が一定しないものに使用される者 4. 季節的業務に使用される者（継続して<span class=\"period\">4月を超えて使用されるべき場合を除く。）5. 臨時的事業の事業所に使用される者（継続して<span class=\"period\">6月を超えて</span>使用されるべき場合を除く。）6. 国民健康保険組合の事業所に使用される者 7. 後期高齢者医療の被保険者（高齢者医療確保法第50条の規定による被保険者をいう。）<span class=\"logic\">及び</span>同条各号のいずれかに該当する者で同法第51条（適用除外）の規定により後期高齢者医療の被保険者とならないもの（以下「後期高齢者医療の被保険者等」という。）8. 厚生労働大臣</span></li>\n      <li>健康保険組合<span class=\"logic\">又は</span>共済組合の承認を受けた者（健康保険の被保険者でないことにより国民健康保険の被保険者であるべき期間に限る。）適用除外適用事業所に使用される者は</li>\n      <li>原則として</li>\n      <li>被保険者となるが</li>\n      <li>次に掲げる適用除外に該当する者は</li>\n      <li><span class=\"condition\">日雇特例被保険者となる場合を除き</span></li>\n    </ul>\n    <div class=\"predicate-line\"><span class=\"predicate\">被保険者となることはできない。</span></div>\n  </div>\n</div>"
+  },
+  {
+    "reference": "法200条",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">◯1</span><div class=\"subject-line\">国に使用される<span class=\"subject\">被保険者</span>、地方公共団体の事務所に使用される<span class=\"subject\">被保険者</span><span class=\"logic\">又は</span>法人に使用される<span class=\"subject\">被保険者</span>であって共済組合の組合員であるものに対しては、</div><div class=\"predicate-line\">健康保険法による保険給付は、<span class=\"predicate\">行わない。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">◯2</span><div class=\"subject-line\"><span class=\"subject\">共済組合</span>の給付の種類<span class=\"logic\">及び</span>程度は、</div><div class=\"predicate-line\">健康保険法の給付の種類<span class=\"logic\">及び</span>程度以上であることを<span class=\"predicate\">要する。</span></div></div></div></div>"
+  },
+  {
+    "reference": "法201条",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\"><span class=\"subject\">厚生労働大臣</span>は、</div><div class=\"predicate-line\"><span class=\"subject\">共済組合</span>について、<span class=\"condition\">必要があると認めるとき</span>は、その事業<span class=\"logic\">及び</span>財産に関する報告を徴し、<span class=\"logic\">又は</span>その運営に関する指示を<span class=\"predicate\">することができる。</span></div></div></div></div>"
+  },
+  {
+    "reference": "法202条",
+    "structured": "<div class=\"law-body\">\n  <div class=\"principle-section\">\n    <div class=\"subject-line\"><span class=\"subject\">第200条第1項の規定により保険給付を受けない者に関しては、</span></div>\n    <div class=\"predicate-line\"><span class=\"predicate\">保険料を徴収しない。</span></div>\n  </div>\n</div>"
+  },
+  {
+    "reference": "法48条",
+    "structured": "<div class=\"law-body\">\n  <div class=\"principle-section\">\n    <div class=\"subject-line\"><span class=\"subject\">適用事業所の事業主は、</span></div>\n    <div class=\"predicate-line\"><span class=\"predicate\">被保険者の資格の取得<span class=\"logic\">及び</span>喪失<span class=\"logic\">並びに</span>報酬月額<span class=\"logic\">及び</span>賞与額に関する事項を保険者等（厚生労働大臣<span class=\"logic\">又は</span>健康保険組合をいう。）に届け出なければならない。</span></div>\n  </div>\n</div>"
+  },
+  {
+    "reference": "法50条",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">◯1</span><div class=\"subject-line\"><span class=\"subject\">保険者等</span>（厚生労働大臣又は健康保険組合をいう。）は、</div><div class=\"predicate-line\">第48条の規定による届出があった場合において、その届出に係る<span class=\"condition\">事実がないと認めるとき</span>は、その旨をその届出をした<span class=\"subject\">事業主</span>に<span class=\"predicate\">通知しなければならない。</span></div></div></div></div>"
+  },
+  {
+    "reference": "法35条",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\"><span class=\"subject\">被保険者</span>（任意継続被保険者を除く。）は、</div><div class=\"predicate-line\">適用事業所に使用されるに至った日<span class=\"logic\">若しくは</span>その使用される事業所が適用事業所となった日<span class=\"logic\">又は</span>第3条第1項ただし書の適用除外の規定に該当しなくなった日から、被保険者の資格を<span class=\"predicate\">取得する。</span></div></div></div></div>"
+  },
+  {
+    "reference": "則24条",
+    "structured": "<div class=\"law-body\">\n  <div class=\"principle-section\">\n    <span class=\"item-number\">第1項</span>\n    <div class=\"subject-line\"><span class=\"subject\">被保険者（任意継続被保険者を除く。）の資格の取得に関する届出は、</span></div>\n    <ul class=\"condition-list\">\n      <li>当該事実があった日から <span class=\"period\">5日以内に</span></li>\n    </ul>\n    <div class=\"predicate-line\"><span class=\"predicate\">健康保険被保険者資格取得届を機構<span class=\"logic\">又は</span>健康保険組合に提出することによって行うものとする。</span></div>\n  </div>\n</div>"
+  },
+  {
+    "reference": "法36条",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\"><span class=\"subject\">被保険者</span>（任意継続被保険者を除く。）は、</div><div class=\"predicate-line\">次の各号のいずれかに該当するに至った日の翌日（その事実があった日に更に被保険者の資格を取得するに至ったときは、その日）から、被保険者の資格を<span class=\"predicate\">喪失する。</span></div><ul class=\"condition-list\"><li>1. 死亡したとき。</li><li>2. その事業所に使用されなくなったとき。</li><li>3. 適用除外の規定に該当するに至ったとき。</li><li>4. 任意適用事業所の取消しの認可があったとき。</li></ul></div></div></div>"
+  },
+  {
+    "reference": "則29条",
+    "structured": "<div class=\"law-body\">\n  <div class=\"principle-section\">\n    <span class=\"item-number\">第1項</span>\n    <div class=\"subject-line\"><span class=\"subject\">被保険者（任意継続被保険者を除く。）の資格の喪失に関する届出は、</span></div>\n    <ul class=\"condition-list\">\n      <li>当該事実があった日から <span class=\"period\">5日以内に</span></li>\n    </ul>\n    <div class=\"predicate-line\"><span class=\"predicate\">健康保険被保険者資格喪失届を機構<span class=\"logic\">又は</span>健康保険組合に提出することによって行うものとする。</span></div>\n  </div>\n</div>"
+  },
+  {
+    "reference": "法37条",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">◯1</span><div class=\"subject-line\">第3条第4項の申出は、</div><div class=\"predicate-line\">被保険者の資格を喪失した日から<span class=\"period\">20日以内</span>に<span class=\"predicate\">しなければならない。</span></div></div><div class=\"exception-section\">ただし、<span class=\"subject\">保険者</span>は、<span class=\"condition\">正当な理由があると認めるとき</span>は、この期間を経過した後の申出であっても、受理することができる。</div><div class=\"principle-section\"><span class=\"item-number\">◯2</span><div class=\"subject-line\">第3条第4項の申出をした者が、初めて納付すべき保険料をその納付期日までに<span class=\"condition\">納付しなかったとき</span>は、</div><div class=\"predicate-line\">同項の規定にかかわらず、その者は、任意継続被保険者と<span class=\"predicate\">ならなかったものとみなす。</span></div></div><div class=\"exception-section\">ただし、その納付の遅延について<span class=\"condition\">正当な理由があると保険者が認めたとき</span>は、この限りでない。任意継続被保険者</div></div></div>"
+  },
+  {
+    "reference": "法38条",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\"><span class=\"subject\">任意継続被保険者</span>は、</div><div class=\"predicate-line\">次の各号のいずれかに該当するに至った日の翌日（第4号から第6号までのいずれかに該当するに至ったときは、その日）から、その資格を<span class=\"predicate\">喪失する。</span></div><ul class=\"condition-list\"><li>1. 任意継続被保険者となった日から起算して<span class=\"period\">2年</span>を経過したとき。</li><li>2. 死亡したとき。</li><li>3. 保険料（初めて納付すべき保険料を除く。）を納付期日までに納付しなかったとき（<span class=\"condition\">納付の遅延について正当な理由があると保険者が認めたときを除く</span>。）。</li><li>4. 強制被保険者となったとき。</li><li>5. 船員保険の被保険者となったとき。</li><li>6. 後期高齢者医療の被保険者等となったとき。</li><li>7. 任意継続被保険者でなくなることを希望する旨を、<span class=\"subject\">保険者</span>に申し出た場合において、その申出が受理された日の属する月の末日が到来したとき。</li></ul>資格の喪失</div></div></div>"
+  },
+  {
+    "reference": "附則3条1項",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">◯1</span><div class=\"subject-line\">厚生労働省令で定める要件に該当するものとして<span class=\"subject\">厚生労働大臣</span>の認可を受けた<span class=\"subject\">健康保険組合</span>（以下「特定健康保険組合」という。）の組合員である被保険者であった者であって、改正前の国民健康保険法に規定する退職被保険者であるべきもののうち当該特定健康保険組合の規約で定めるものは、</div><div class=\"predicate-line\">当該特定健康保険組合に申し出て、当該特定健康保険組合の被保険者（以下「特例退職被保険者」という。）と<span class=\"predicate\">なることができる。</span></div></div><div class=\"exception-section\">ただし、<span class=\"condition\">任意継続被保険者であるとき</span>は、この限りでない。</div></div></div>"
+  },
+  {
+    "reference": "附則3条6項",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\"><span class=\"subject\">特例退職被保険者</span>は、</div><div class=\"predicate-line\">次の各号のいずれかに該当するに至った日の翌日（第3号に該当するに至ったときは、その日）から、その資格を<span class=\"predicate\">喪失する。</span></div><ul class=\"condition-list\"><li>1. 改正前の国民健康保険法に規定する退職被保険者であるべき者に該当しなくなったとき。</li><li>2. 保険料（初めて納付すべき保険料を除く。）を納付期日までに納付しなかったとき（<span class=\"condition\">納付の遅延について正当な理由があると特定健康保険組合が認めたときを除く</span>。）。</li><li>3. 後期高齢者医療の被保険者等となったとき。</li><li>4. 特例退職被保険者でなくなることを希望する旨を、<span class=\"subject\">特定健康保険組合</span>に申し出た場合において、その申出が受理された日の属する月の末日が到来したとき。</li></ul>資格の喪失特例退職被保険者は、次のいずれかに該当するに至った日の翌日（3.に該当するに至ったときは、その日）から、その資格を喪失する。</div></div></div>"
+  },
+  {
+    "reference": "法39条",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">◯1</span><div class=\"subject-line\">被保険者の資格の取得<span class=\"logic\">及び</span>喪失は、</div><div class=\"predicate-line\"><span class=\"subject\">保険者等</span>（厚生労働大臣又は健康保険組合）の確認によって、その効力を<span class=\"predicate\">生ずる。</span></div></div><div class=\"exception-section\">ただし、任意適用事業所の取消しによる被保険者の資格の喪失<span class=\"logic\">並びに</span>任意継続被保険者<span class=\"logic\">及び</span>特例退職被保険者の資格の取得<span class=\"logic\">及び</span>喪失は、この限りでない。</div></div></div>"
+  },
+  {
+    "reference": "法51条",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">◯1</span><div class=\"subject-line\"><span class=\"subject\">被保険者</span><span class=\"logic\">又は</span><span class=\"subject\">被保険者であった者</span>は、</div><div class=\"predicate-line\">いつでも、第39条第1項の規定による確認を<span class=\"predicate\">請求することができる。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">◯2</span><div class=\"subject-line\"><span class=\"subject\">保険者等</span>は、</div><div class=\"predicate-line\">前項の規定による請求があった場合において、その請求に係る<span class=\"condition\">事実がないと認めるとき</span>は、その請求を<span class=\"predicate\">却下しなければならない。</span></div></div></div></div>"
+  },
+  {
+    "reference": "法49条",
+    "structured": "<div class=\"law-body\">\n  <div class=\"principle-section\">\n    <span class=\"item-number\">第1項</span>\n    <div class=\"subject-line\"><span class=\"subject\">厚生労働大臣は、</span></div>\n    <ul class=\"condition-list\">\n      <li>第33条第1項の規定による任意適用事業所の取消しの認可を<span class=\"condition\">行ったとき</span>は</li>\n      <li>その旨を当該事業主に通知するものとし</li>\n      <li>保険者等（厚生労働大臣<span class=\"logic\">又は</span>健康保険組合）は</li>\n      <li>第 39条第1項の規定による確認又は標準報酬（標準報酬月額及び標準賞与額をいう。以下同じ。）の決定<span class=\"logic\">若しくは</span>改定を行ったときは</li>\n    </ul>\n    <div class=\"predicate-line\"><span class=\"predicate\">その旨を当該事業主に通知しなければならない。</span></div>\n  </div>\n  <div class=\"principle-section\">\n    <span class=\"item-number\">第2項</span>\n    <div class=\"subject-line\"><span class=\"subject\">事業主は、</span></div>\n    <ul class=\"condition-list\">\n      <li><span class=\"condition\">前項の通知があったときは</span></li>\n      <li>速やかに</li>\n    </ul>\n    <div class=\"predicate-line\"><span class=\"predicate\">これを被保険者<span class=\"logic\">又は</span>被保険者であった者に通知しなければならない。</span></div>\n  </div>\n</div>"
+  },
+  {
+    "reference": "則36条",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\"><span class=\"subject\">被保険者</span>は、</div><div class=\"predicate-line\">その氏名を変更したときは、速やかに、変更後の氏名を<span class=\"subject\">事業主</span>に申し出るとともに、第47条第2項に規定する資格確認書（書面に限る。）の交付を受けている被保険者は、当該資格確認書を<span class=\"subject\">事業主</span>に<span class=\"predicate\">提出しなければならない。</span></div></div></div></div>"
+  },
+  {
+    "reference": "則28条",
+    "structured": "<div class=\"law-body\">\n  <div class=\"principle-section\">\n    <div class=\"subject-line\"><span class=\"subject\">事業主は、</span></div>\n    <ul class=\"condition-list\">\n      <li>第36条の規定による氏名変更の申出を<span class=\"condition\">受けたとき</span>は</li>\n      <li>遅滞なく</li>\n    </ul>\n    <div class=\"predicate-line\"><span class=\"predicate\">健康保険被保険者氏名変更届を厚生労働大臣（日本年金機構）<span class=\"logic\">又は</span>健康保険組合に提出しなければならない。</span></div>\n  </div>\n</div>"
+  },
+  {
+    "reference": "則36条の2",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\"><span class=\"subject\">被保険者</span>は、</div><div class=\"predicate-line\">その住所を変更したときは、速やかに、変更後の住所を<span class=\"subject\">事業主</span>に<span class=\"predicate\">申し出なければならない。</span></div></div><div class=\"exception-section\">ただし、当該被保険者が<span class=\"subject\">協会</span>が管掌する健康保険の被保険者であって、<span class=\"subject\">厚生労働大臣</span>が当該被保険者に係る機構保存本人確認情報の提供を受けることができるとき<span class=\"logic\">及び</span>当該被保険者が<span class=\"subject\">健康保険組合</span>が管掌する健康保険の被保険者であって、当該健康保険組合が当該被保険者に係る機構保存本人確認情報の提供を受けることができるとき（当該健康保険組合が、事業主に対し、当該被保険者の住所に係る情報の提供を求めないときに限る。）は、この限りでない。</div></div></div>"
+  },
+  {
+    "reference": "則28条の2",
+    "structured": "<div class=\"law-body\">\n  <div class=\"principle-section\">\n    <span class=\"item-number\">第1項</span>\n    <div class=\"subject-line\"><span class=\"subject\">事業主は、</span></div>\n    <ul class=\"condition-list\">\n      <li>第36条の2の規定による住所変更の申出を<span class=\"condition\">受けたとき</span>は</li>\n      <li>遅滞なく</li>\n    </ul>\n    <div class=\"predicate-line\"><span class=\"predicate\">所定事項を記載した届書（健康保険被保険者住所変更届）を厚生労働大臣（日本年金機構）<span class=\"logic\">又は</span>健康保険組合に提出しなければならない。</span></div>\n  </div>\n</div>"
+  },
+  {
+    "reference": "則32条",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">◯1</span><div class=\"subject-line\"><span class=\"subject\">事業主</span>は、</div><div class=\"predicate-line\"><span class=\"subject\">被保険者</span><span class=\"logic\">又は</span>その<span class=\"subject\">被扶養者</span>が次の各号のいずれかに該当し、<span class=\"logic\">又は</span>該当しなくなったときは、<span class=\"period\">5日以内</span>に、所定の事項を<span class=\"subject\">厚生労働大臣</span>（日本年金機構）<span class=\"logic\">又は</span><span class=\"subject\">健康保険組合</span>に<span class=\"predicate\">届け出なければならない。</span></div><ul class=\"condition-list\"><li>1. 少年院その他これに準ずる施設に収容されたとき。</li><li>2. 刑事施設、労役場その他これらに準ずる施設に拘禁されたとき。</li></ul></div></div></div>"
+  },
+  {
+    "reference": "則38条",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">◯1</span><div class=\"subject-line\"><span class=\"subject\">被保険者</span>は、</div><div class=\"predicate-line\">被扶養者を有するとき、<span class=\"logic\">又は</span>被扶養者を有するに至ったときは、<span class=\"period\">5日以内</span>に、所定事項を記載した</div></div></div></div>"
+  },
+  {
+    "reference": "則40条",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">◯1</span><div class=\"subject-line\"><span class=\"subject\">被保険者</span>は、</div><div class=\"predicate-line\"><span class=\"subject\">被保険者</span><span class=\"logic\">又は</span>その<span class=\"subject\">被扶養者</span>が介護保険第2号被保険者に<span class=\"condition\">該当しなくなったとき</span>は、遅滞なく、所定の事項を記載した届書を<span class=\"subject\">事業主</span>を経由して<span class=\"subject\">厚生労働大臣</span>（日本年金機構）<span class=\"logic\">又は</span><span class=\"subject\">健康保険組合</span>に<span class=\"predicate\">届け出なければならない。</span></div></div><div class=\"exception-section\">ただし、<span class=\"subject\">被保険者</span><span class=\"logic\">又は</span>その<span class=\"subject\">被扶養者</span>が<span class=\"period\">65歳</span>に達したときは、この限りでない。</div></div></div>"
+  },
+  {
+    "reference": "則41条",
+    "structured": "<div class=\"law-body\">\n  <div class=\"principle-section\">\n    <span class=\"item-number\">第1項</span>\n    <div class=\"subject-line\"><span class=\"subject\">被保険者は、</span></div>\n    <ul class=\"condition-list\">\n      <li>介護保険第2号被保険者に該当しない被保険者<span class=\"logic\">又は</span>その被扶養者が介護保険第2号被保険者に該当するに至ったときは</li>\n      <li>遅滞なく</li>\n    </ul>\n    <div class=\"predicate-line\"><span class=\"predicate\">所定の事項を記載した届書を事業主を経由して厚生労働大臣（日本年金機構）<span class=\"logic\">又は</span>健康保険組合に届け出なければならない。</span></div>\n  </div>\n  <div class=\"exception-section\">\n    <div class=\"exception-keyword\"><span class=\"exception\">ただし、</span></div>\n    <ul class=\"condition-list\">\n      <li>被保険者<span class=\"logic\">又は</span>その被扶養者が<span class=\"period\">40歳に達したときは</span></li>\n    </ul>\n    <div class=\"predicate-line\"><span class=\"exception\">この限りでない。</span></div>\n  </div>\n</div>"
+  },
+  {
+    "reference": "則50条の2",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">◯1</span><div class=\"subject-line\"><span class=\"subject\">厚生労働大臣</span>（日本年金機構）は、</div><div class=\"predicate-line\"><span class=\"subject\">協会</span>が管掌する健康保険の<span class=\"subject\">被保険者</span>に対し、第24条の4の規定による被保険者情報の登録<span class=\"logic\">又は</span>この省令の規定による資格確認書の交付、提供、返付<span class=\"logic\">若しくは</span>再交付（第3項において「交付等」という。）が行われるまでの間に当該被保険者を使用する<span class=\"subject\">事業主</span><span class=\"logic\">又は</span>当該<span class=\"subject\">被保険者</span>から求めがあった場合において、当該被保険者<span class=\"logic\">又は</span>その被扶養者が<span class=\"condition\">療養を受ける必要があると認めたとき</span>に限り、被保険者資格証明書を有効期限を定めて<span class=\"predicate\">交付するものとする。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">◯2</span><div class=\"subject-line\">被保険者資格証明書の交付を受けた<span class=\"subject\">被保険者</span>は、</div><div class=\"predicate-line\">前項に規定する間、第53条の規定にかかわらず、被保険者資格証明書を提出することによって療養の給付を受ける資格を<span class=\"predicate\">明らかにすることができる。</span></div></div></div></div>"
+  },
+  {
+    "reference": "則52条",
+    "structured": "<div class=\"law-body\">\n  <div class=\"principle-section\">\n    <span class=\"item-number\">第1項</span>\n    <div class=\"subject-line\"><span class=\"subject\">保険者（全国健康保険協会<span class=\"logic\">又は</span>健康保険組合）は、</span></div>\n    <ul class=\"condition-list\">\n      <li>被保険者が法第74条第1項第2号<span class=\"logic\">若しくは</span>第3号（<span class=\"period\">70歳以上の被保険者に係る一部負担割合）の規定の適用を受ける場合</span></li>\n      <li>又はその被扶養者が法第 110条第2項第1号ハ<span class=\"logic\">若しくは</span>ニ（<span class=\"period\">70歳以上の被扶養者に係る給付割合）の規定の適用を受ける場合であって</span></li>\n      <li>当該被保険者又はその被扶養者が資格確認書（一部負担金の割合<span class=\"logic\">又は</span><span class=\"period\">100分の100から同号ハ<span class=\"logic\">若しくは</span>ニに定める割合を控除して得た割合が記載され、<span class=\"logic\">又は</span>記録されていないものに限る。）の交付<span class=\"logic\">又は</span>提供を受けているときは</span></li>\n    </ul>\n    <div class=\"predicate-line\"><span class=\"predicate\">当該被保険者に高齢受給者証を有効期限を定めて交付しなければならない。</span></div>\n  </div>\n</div>"
+  },
+  {
+    "reference": "法46条",
+    "structured": "<div class=\"law-body\">\n  <div class=\"principle-section\">\n    <span class=\"item-number\">第1項</span>\n    <ul class=\"condition-list\">\n      <li>報酬又は賞与の全部<span class=\"logic\">又は</span>一部が</li>\n      <li><span class=\"condition\">通貨以外のもので支払われる場合においては</span></li>\n      <li>その価額は</li>\n      <li>その地方の時価によって</li>\n    </ul>\n    <div class=\"predicate-line\"><span class=\"predicate\">厚生労働大臣が定める。</span></div>\n  </div>\n  <div class=\"principle-section\">\n    <span class=\"item-number\">第2項</span>\n    <div class=\"subject-line\"><span class=\"subject\">健康保険組合は、</span></div>\n    <ul class=\"condition-list\">\n      <li><span class=\"condition\">前項の規定にかかわらず</span></li>\n    </ul>\n    <div class=\"predicate-line\"><span class=\"predicate\">規約で別段の定めをすることができる。</span></div>\n  </div>\n</div>"
+  },
+  {
+    "reference": "法40条",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">◯1</span><div class=\"subject-line\"><span class=\"subject\">標準報酬月額</span>は、</div><div class=\"predicate-line\">被保険者の報酬月額に基づき、次の等級区分（第40条第2項の規定により等級区分の改定が行われたときは、改定後の等級区分）によって<span class=\"predicate\">定める。</span></div></div></div></div>"
+  },
+  {
+    "reference": "法44条",
+    "structured": "<div class=\"law-body\">\n  <div class=\"principle-section\">\n    <span class=\"item-number\">第3項</span>\n    <ul class=\"condition-list\">\n      <li>同時に2以上の事業所で報酬を受ける被保険者について報酬月額を<span class=\"condition\">算定する場合</span>においては</li>\n      <li>各事業所について</li>\n      <li>第41条第1項（定時決定）</li>\n      <li>第42条第1項（資格取得時決定）</li>\n      <li>第43条第1項（随時改定）</li>\n    </ul>\n    <div class=\"predicate-line\"><span class=\"predicate\">第43条の2第1項（育児休業等終了時改定）<span class=\"logic\">若しくは</span>第43条の3第1項（産前産後休業終了時改定）<span class=\"logic\">又は</span>第44 条第1項（保険者等算定）の規定によって算定した額の合算額をその者の報酬月額とする。</span></div>\n  </div>\n</div>"
+  },
+  {
+    "reference": "法41条",
+    "structured": "<div class=\"law-body\">\n  <div class=\"principle-section\">\n    <span class=\"item-number\">第1項</span>\n    <div class=\"subject-line\"><span class=\"subject\">保険者等（厚生労働大臣<span class=\"logic\">又は</span>健康保険組合）は、</span></div>\n    <ul class=\"condition-list\">\n      <li>被保険者が毎年<span class=\"period\">7月<span class=\"period\">1日</span>現に使用される事業所において同日前<span class=\"period\">3月間</span>（その事業所で継続して使用された期間に限るものとし、<span class=\"logic\">かつ</span>、報酬支払の基礎となった日数が<span class=\"period\">17日</span>（<span class=\"period\">4分の3</span>基準を満たさない短時間労働者にあっては、<span class=\"period\">11日</span>。）未満である月があるときは、その月を除く。）に受けた報酬の総額をその期間の月数で除して得た額を報酬月額として</span></li>\n    </ul>\n    <div class=\"predicate-line\"><span class=\"predicate\">標準報酬月額を決定する。</span></div>\n  </div>\n</div>"
+  },
+  {
+    "reference": "則25条",
+    "structured": "<div class=\"law-body\">\n  <div class=\"principle-section\">\n    <span class=\"item-number\">第1項</span>\n    <div class=\"subject-line\"><span class=\"subject\">毎年<span class=\"period\">7月</span><span class=\"period\">1日</span>現に使用する被保険者（法第41条第3項に該当する者（定時決定の対象とされない者）を除く。）の報酬月額に関する法第48条（適用事業所の届出）の規定による届出は、</span></div>\n    <ul class=\"condition-list\">\n      <li><span class=\"period\">7月<span class=\"period\">10日</span>までに</span></li>\n    </ul>\n    <div class=\"predicate-line\"><span class=\"predicate\">健康保険被保険者報酬月額算定基礎届を日本年金機構<span class=\"logic\">又は</span>健康保険組合に提出することによって行うものとする。</span></div>\n  </div>\n  <div class=\"principle-section\">\n    <div class=\"subject-line\"><span class=\"subject\">この場合において、協会が管掌する健康保険の被保険者が同時に厚生年金保険の被保険者であるときは、</span></div>\n    <div class=\"predicate-line\"><span class=\"predicate\">健康保険被保険者報酬月額算定基礎届に厚生年金保険の従前の標準報酬月額を付記しなければならない。</span></div>\n  </div>\n</div>"
+  },
+  {
+    "reference": "法42条",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">◯1</span><div class=\"subject-line\"><span class=\"subject\">保険者等</span>（厚生労働大臣又は健康保険組合）は、</div><div class=\"predicate-line\">被保険者の資格を取得した者があるときは、次に掲げる額を報酬月額として、標準報酬月額を<span class=\"predicate\">決定する。</span></div></div></div></div>"
+  },
+  {
+    "reference": "法43条",
+    "structured": "<div class=\"law-body\">\n  <div class=\"principle-section\">\n    <span class=\"item-number\">第1項</span>\n    <div class=\"subject-line\"><span class=\"subject\">保険者等（厚生労働大臣<span class=\"logic\">又は</span>健康保険組合）は、</span></div>\n    <ul class=\"condition-list\">\n      <li>被保険者が現に使用される事業所において継続した<span class=\"period\">3月間（各月とも、報酬支払の基礎となった日数が、<span class=\"period\">17日</span>（<span class=\"period\">4分の3</span>基準を満たさない短時間労働者にあっては、<span class=\"period\">11日</span>）以上でなければならない。）に受けた報酬の総額を3で除して得た額が</span></li>\n      <li>その者の標準報酬月額の基礎となった報酬月額に比べて</li>\n      <li>著しく高低を生じた場合において</li>\n      <li><span class=\"condition\">必要があると認めるときは</span></li>\n      <li>その額を報酬月額として</li>\n      <li>その著しく高低を生じた月の翌月から</li>\n    </ul>\n    <div class=\"predicate-line\"><span class=\"predicate\">標準報酬月額を改定することができる。</span></div>\n  </div>\n</div>"
+  },
+  {
+    "reference": "則26条",
+    "structured": "<div class=\"law-body\">\n  <div class=\"principle-section\">\n    <span class=\"item-number\">第1項</span>\n    <div class=\"subject-line\"><span class=\"subject\">法第43条第1項の随時改定の要件に該当する場合の被保険者の報酬月額に関する届出は、</span></div>\n    <ul class=\"condition-list\">\n      <li>速やかに</li>\n    </ul>\n    <div class=\"predicate-line\"><span class=\"predicate\">健康保険被保険者報酬月額変更届を日本年金機構<span class=\"logic\">又は</span>健康保険組合に提出することによって行うものとする。</span></div>\n  </div>\n  <div class=\"principle-section\">\n    <div class=\"subject-line\"><span class=\"subject\">この場合において、協会が管掌する健康保険の被保険者が同時に厚生年金保険の被保険者であるときは、</span></div>\n    <div class=\"predicate-line\"><span class=\"predicate\">健康保険被保険者報酬月額変更届に厚生年金保険の従前の標準報酬月額を付記しなければならない。</span></div>\n  </div>\n</div>"
+  },
+  {
+    "reference": "法43条の2",
+    "structured": "<div class=\"law-body\">\n  <div class=\"principle-section\">\n    <span class=\"item-number\">第1項</span>\n    <div class=\"subject-line\"><span class=\"subject\">保険者等（厚生労働大臣<span class=\"logic\">又は</span>健康保険組合）は、</span></div>\n    <ul class=\"condition-list\">\n      <li>育児休業等を終了した被保険者が</li>\n      <li>当該育児休業等を終了した日（以下「育児休業等終了日」という。）において当該育児休業等に係る <span class=\"period\">3歳に満たない子を養育する場合において</span></li>\n      <li>その使用される事業所の事業主を経由して厚生労働省令で定めるところにより保険者等に申出を<span class=\"condition\">したとき</span>は</li>\n      <li><span class=\"condition\">第41条の規定にかかわらず</span></li>\n      <li>育児休業等終了日の翌日が属する月以後<span class=\"period\">3月間（育児休業等終了日の翌日において使用される事業所で継続して使用された期間に限るものとし、<span class=\"logic\">かつ</span>、報酬支払の基礎となった日数が<span class=\"period\">17日</span>（<span class=\"period\">4分の3</span>基準を満たさない短時間労働者にあっては、<span class=\"period\">11日</span>）未満である月があるときは、その月を除く。）に受けた報酬の総額をその期間の月数で除して得た額を報酬月額として</span></li>\n    </ul>\n    <div class=\"predicate-line\"><span class=\"predicate\">標準報酬月額を改定する。</span></div>\n  </div>\n  <div class=\"exception-section\">\n    <div class=\"exception-keyword\"><span class=\"exception\">ただし、</span></div>\n    <ul class=\"condition-list\">\n      <li>育児休業等終了日の翌日に第43条の3条第1項に規定する産前産後休業を開始している被保険者は</li>\n    </ul>\n    <div class=\"predicate-line\"><span class=\"exception\">この限りでない。</span></div>\n  </div>\n</div>"
+  },
+  {
+    "reference": "則26条の2",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\">育児休業等終了時改定の要件に該当する被保険者の報酬月額に関する届出は、</div><div class=\"predicate-line\">速やかに、育児休業等終了時報酬月額変更届を<span class=\"subject\">日本年金機構</span><span class=\"logic\">又は</span><span class=\"subject\">健康保険組合</span>に提出することによって<span class=\"predicate\">行うものとする。</span></div></div><div class=\"principle-section\"><div class=\"predicate-line\">この場合において、<span class=\"subject\">協会</span>が管掌する健康保険の被保険者が同時に厚生年金保険の被保険者であるときは、厚生年金保険の従前の標準報酬月額を<span class=\"predicate\">付記しなければならない。</span>届出</div></div></div></div>"
+  },
+  {
+    "reference": "法43条の3",
+    "structured": "<div class=\"law-body\">\n  <div class=\"principle-section\">\n    <span class=\"item-number\">第1項</span>\n    <div class=\"subject-line\"><span class=\"subject\">保険者等（厚生労働大臣<span class=\"logic\">又は</span>健康保険組合）は、</span></div>\n    <ul class=\"condition-list\">\n      <li>産前産後休業を終了した被保険者が</li>\n      <li>当該産前産後休業を終了した日（以下「産前産後休業終了日」という。）において当該産前産後休業に係る子を<span class=\"condition\">養育する場合</span>において</li>\n      <li>その使用される事業所の事業主を経由して厚生労働省令で定めるところにより保険者等に申出を<span class=\"condition\">したとき</span>は</li>\n      <li><span class=\"condition\">第41条の規定にかかわらず</span></li>\n      <li>産前産後休業終了日の翌日が属する月以後<span class=\"period\">3月間（産前産後休業終了日の翌日において使用される事業所で継続して使用された期間に限るものとし、<span class=\"logic\">かつ</span>、報酬支払の基礎となった日数が<span class=\"period\">17日</span>（<span class=\"period\">4分の3</span>基準を満たさない短時間労働者にあっては、<span class=\"period\">11日</span>）未満である月があるときは、その月を除く。）に受けた報酬の総額をその期間の月数で除して得た額を報酬月額として</span></li>\n    </ul>\n    <div class=\"predicate-line\"><span class=\"predicate\">標準報酬月額を改定する。</span></div>\n  </div>\n  <div class=\"exception-section\">\n    <div class=\"exception-keyword\"><span class=\"exception\">ただし、</span></div>\n    <ul class=\"condition-list\">\n      <li>産前産後休業終了日の翌日に育児休業等を開始している被保険者は</li>\n    </ul>\n    <div class=\"predicate-line\"><span class=\"exception\">この限りでない。</span></div>\n  </div>\n</div>"
+  },
+  {
+    "reference": "則26条の3",
+    "structured": "<div class=\"law-body\">\n  <div class=\"principle-section\">\n    <div class=\"subject-line\"><span class=\"subject\">法第43条の3第1項の産前産後休業終了時改定の要件に該当する被保険者の報酬月額に関する届出は、</span></div>\n    <ul class=\"condition-list\">\n      <li>速やかに</li>\n    </ul>\n    <div class=\"predicate-line\"><span class=\"predicate\">産前産後休業終了時報酬月額変更届を日本年金機構<span class=\"logic\">又は</span>健康保険組合に提出することによって行うものとする。</span></div>\n  </div>\n  <div class=\"principle-section\">\n    <div class=\"subject-line\"><span class=\"subject\">この場合において、協会が管掌する健康保険の被保険者が同時に厚生年金保険の被保険者であるときは、</span></div>\n    <div class=\"predicate-line\"><span class=\"predicate\">厚生年金保険の従前の標準報酬月額を付記しなければならない。</span></div>\n  </div>\n</div>"
+  },
+  {
+    "reference": "法47条",
+    "structured": "<div class=\"law-body\">\n  <div class=\"principle-section\">\n    <span class=\"item-number\">第1項</span>\n    <div class=\"subject-line\"><span class=\"subject\">任意継続被保険者の標準報酬月額については、</span></div>\n    <ul class=\"condition-list\">\n      <li>第41条から第44条までの規定にかかわらず</li>\n      <li>次の<span class=\"condition\">各号に掲げる</span>額のうちいずれか少ない額をもって</li>\n    </ul>\n    <div class=\"predicate-line\"><span class=\"predicate\">その者の標準報酬月額とする。</span></div>\n  </div>\n  <div class=\"principle-section\">\n    <div class=\"predicate-line\"><span class=\"predicate\">1. 当該任意継続被保険者が被保険者の資格を喪失したときの標準報酬月額 2. 前年（<span class=\"period\">1月</span>から<span class=\"period\">3月</span>までの標準報酬月額については、前々年）の<span class=\"period\">9月</span><span class=\"period\">30日</span>における当該任意継続被保険者の属する保険者が管掌する全被保険者の同月の標準報酬月額を平均した額（健康保険組合が当該平均した額の範囲内においてその規約で定めた額があるときは、当該規約で定めた額）を標準報酬月額の基礎となる報酬月額とみなしたときの標準報酬月額</span></div>\n  </div>\n  <div class=\"principle-section\">\n    <span class=\"item-number\">第2項</span>\n    <ul class=\"condition-list\">\n      <li><span class=\"condition\">保険者が健康保険組合である場合においては</span></li>\n      <li><span class=\"condition\">前項の規定にかかわらず</span></li>\n      <li>同項第1号に掲げる額が同項第2号に掲げる額を超える任意継続被保険者について</li>\n      <li>規約で定めるところにより</li>\n    </ul>\n    <div class=\"predicate-line\"><span class=\"predicate\">同項第1号に掲げる額（当該健康保険組合が同項第2号に掲げる額を超え同項第1号に掲げる額未満の範囲内においてその規約で定めた額があるときは、当該規約で定めた額を標準報酬月額の基礎となる報酬月額とみなしたときの標準報酬月額）をその者の標準報酬月額とすることができる。</span></div>\n  </div>\n</div>"
+  },
+  {
+    "reference": "附則3条",
+    "structured": "<div class=\"law-body\">\n  <div class=\"principle-section\">\n    <div class=\"subject-line\"><span class=\"subject\">特定健康保険組合の任意継続被保険者に対して支給する保険給付については、</span></div>\n    <ul class=\"condition-list\">\n      <li>当該特定健康保険組合の規約で定めるところにより</li>\n    </ul>\n    <div class=\"predicate-line\"><span class=\"predicate\">法第99条の傷病手当金<span class=\"logic\">及び</span>法第102条の出産手当金を支給しないことができる。</span></div>\n  </div>\n</div>"
+  },
+  {
+    "reference": "法45条",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">◯1</span><div class=\"subject-line\"><span class=\"subject\">保険者等</span>（厚生労働大臣又は健康保険組合）は、</div><div class=\"predicate-line\">被保険者が賞与を受けた月において、その月に当該被保険者が受けた賞与額に基づき、これに<span class=\"period\">1,000円</span>未満の端数を生じたときは、これを切り捨てて、その月における標準賞与額を<span class=\"predicate\">決定する。</span></div></div><div class=\"exception-section\">ただし、その月に当該被保険者が受けた賞与によりその年度（毎年<span class=\"period\">4月1日</span>から翌年<span class=\"period\">3月31日</span>までをいう。以下同じ。）における標準賞与額の累計額が<span class=\"period\">573万円</span>（標準報酬月額の等級区分の改定が行われたときは、政令で定める額。以下同じ。）を超えることとなる場合には、当該累計額が<span class=\"period\">573万円</span>となるようその月の標準賞与額を決定し、その年度においてその月の翌月以降に受ける賞与の標準賞与額は零とする。</div></div></div>"
+  },
+  {
+    "reference": "則27条",
+    "structured": "<div class=\"law-body\">\n  <div class=\"principle-section\">\n    <span class=\"item-number\">第1項</span>\n    <div class=\"subject-line\"><span class=\"subject\">被保険者の賞与額に関する法第48条の規定による届出は、</span></div>\n    <ul class=\"condition-list\">\n      <li>賞与を支払った日から<span class=\"period\">5日以内に</span></li>\n    </ul>\n    <div class=\"predicate-line\"><span class=\"predicate\">健康保険被保険者賞与支払届を日本年金機構<span class=\"logic\">又は</span>健康保険組合に提出することによって行うものとする。</span></div>\n  </div>\n</div>"
+  },
+  {
+    "reference": "法151条",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\"><span class=\"subject\">国庫</span>は、</div><div class=\"predicate-line\">毎年度、予算の範囲内において、健康保険事業の事務（前期高齢者納付金等、後期高齢者支援金等<span class=\"logic\">及び</span>第173条の規定による日雇拠出金、介護納付金、流行初期医療確保拠出金<span class=\"logic\">並びに</span>子ども・子育て支援納付金の納付に関する事務を含む。）の執行に要する費用を<span class=\"predicate\">負担する。</span></div></div></div></div>"
+  },
+  {
+    "reference": "法152条",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">◯1</span><div class=\"subject-line\"><span class=\"subject\">健康保険組合</span>に対して交付する国庫負担金は、</div><div class=\"predicate-line\">各健康保険組合における被保険者数を基準として、<span class=\"subject\">厚生労働大臣</span>が<span class=\"predicate\">算定する。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">◯2</span><div class=\"subject-line\">前項の国庫負担金については、</div><div class=\"predicate-line\">概算払を<span class=\"predicate\">することができる。</span>事務費の負担</div></div></div></div>"
+  },
+  {
+    "reference": "法153条",
+    "structured": "<div class=\"law-body\">\n  <div class=\"principle-section\">\n    <span class=\"item-number\">第1項</span>\n    <div class=\"subject-line\"><span class=\"subject\">国庫は、</span></div>\n    <ul class=\"condition-list\">\n      <li><span class=\"condition\">第151条に規定する費用のほか</span></li>\n      <li>協会が管掌する健康保険の事業の執行に要する費用のうち</li>\n      <li>被保険者に係る療養の給付<span class=\"logic\">並びに</span>入院時食事療養費</li>\n      <li>入院時生活療養費</li>\n      <li>保険外併用療養費</li>\n      <li>療養費</li>\n      <li>訪問看護療養費</li>\n      <li>移送費</li>\n      <li>傷病手当金</li>\n      <li>出産手当金</li>\n      <li>家族療養費</li>\n      <li>家族訪問看護療養費</li>\n      <li>家族移送費</li>\n      <li>高額療養費<span class=\"logic\">及び</span>高額介護合算療養費の支給に要する費用（療養の給付については、一部負担金に相当する額を控除するものとする。）の額（高齢者医療確保法第34 条第1項各号の調整対象給付費見込額の<span class=\"period\">3分の1に相当する額を除く。）</span></li>\n    </ul>\n    <div class=\"predicate-line\"><span class=\"predicate\">同法の規定による前期高齢者納付金の納付に要する費用の額に同号に掲げる額の第2号に掲げる額に対する割合を乗じて得た額<span class=\"logic\">並びに</span>流行初期医療確保拠出金の納付に要する費用の額の合算額（同法の規定による前期高齢者交付金がある場合には、当該合算額から当該前期高齢者交付金の額を基準として政令で定める額を控除した額）に1,<span class=\"period\">000分の1</span> 30から1,<span class=\"period\">000分の200</span>までの範囲内において政令で定める割合（当分の間1,<span class=\"period\">000分の164</span>）を乗じて得た額を補助する。</span></div>\n  </div>\n  <div class=\"principle-section\">\n    <div class=\"predicate-line\"><span class=\"predicate\">1. 調整対象給付費見込額の<span class=\"period\">3分の2</span>に相当する額に高齢者医療確保法第34条第7項に規定する概算加入者調整率を乗じて得た額から調整対象給付費見込額の<span class=\"period\">3分の2</span>に相当する額を控除した額（当該額が零を下回る場合には、零とする。）2. 高齢者医療確保法第38条第2項第1号イ<span class=\"logic\">及び</span>ロに掲げる額の合計額主要給付費と前期高齢者納付金などに対する補助</span></div>\n  </div>\n</div>"
+  },
+  {
+    "reference": "法154条の2",
+    "structured": "<div class=\"law-body\">\n  <div class=\"principle-section\">\n    <div class=\"subject-line\"><span class=\"subject\">国庫は、</span></div>\n    <ul class=\"condition-list\">\n      <li>第151条（国庫負担）及び第153条<span class=\"logic\">及び</span>第154条（国庫補助）に規定する費用のほか</li>\n      <li>予算の範囲内において</li>\n      <li>健康保険事業の執行に要する費用のうち</li>\n    </ul>\n    <div class=\"predicate-line\"><span class=\"predicate\">特定健康診査等の実施に要する費用の一部を補助することができる。</span></div>\n  </div>\n</div>"
+  },
+  {
+    "reference": "法152条の2",
+    "structured": "<div class=\"law-body\">\n  <div class=\"principle-section\">\n    <span class=\"item-number\">第1項</span>\n    <div class=\"subject-line\"><span class=\"subject\">国庫は、</span></div>\n    <ul class=\"condition-list\">\n      <li>予算の範囲内において</li>\n    </ul>\n    <div class=\"predicate-line\"><span class=\"predicate\">協会が管掌する健康保険の被保険者に係る後期高齢者支援金<span class=\"logic\">及び</span>後期高齢者関係事務費拠出金<span class=\"logic\">並びに</span>介護納付金の納付に要する費用の一部を補助する。</span></div>\n  </div>\n</div>"
+  },
+  {
+    "reference": "法155条",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">◯1</span><div class=\"subject-line\"><span class=\"subject\">保険者等</span>（厚生労働大臣又は健康保険組合）は、</div><div class=\"predicate-line\">健康保険事業に要する費用（前期高齢者納付金等<span class=\"logic\">及び</span>後期高齢者支援金等、介護納付金、流行初期医療確保拠出金等<span class=\"logic\">並びに</span>子ども・子育て支援納付金<span class=\"logic\">並びに</span>健康保険組合においては、日雇拠出金の納付に要する費用を含む。）に充てるため、保険料を<span class=\"predicate\">徴収する。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">◯2</span><div class=\"subject-line\">前項の規定にかかわらず、<span class=\"subject\">協会</span>が管掌する健康保険の<span class=\"subject\">任意継続被保険者</span>に関する保険料は、</div><div class=\"predicate-line\"><span class=\"subject\">協会</span>が<span class=\"predicate\">徴収する。</span></div></div></div></div>"
+  },
+  {
+    "reference": "法155条の2",
+    "structured": "<div class=\"law-body\">\n  <div class=\"principle-section\">\n    <div class=\"subject-line\"><span class=\"subject\">政府は、</span></div>\n    <ul class=\"condition-list\">\n      <li>協会が行う健康保険事業に要する費用に充てるため</li>\n      <li>協会に対し</li>\n    </ul>\n    <div class=\"predicate-line\"><span class=\"predicate\">厚生労働大臣が徴収した保険料その他健康保険法の規定による徴収金の額<span class=\"logic\">及び</span>印紙をもってする歳入金納付に関する法律の規定による納付金に相当する額から厚生労働大臣が行う健康保険事業の事務の執行に要する費用に相当する額（当該費用に係る国庫負担金の額を除く。）を控除した額を交付する。</span></div>\n  </div>\n</div>"
+  },
+  {
+    "reference": "法156条",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">◯1</span><div class=\"subject-line\">被保険者に関する保険料額は、各月につき、</div><div class=\"predicate-line\">次の各号に掲げる被保険者の区分に応じ、当該各号に定める額とする。</div><ul class=\"condition-list\"><li>1. 介護保険法第9条第2号に規定する被保険者（以下「介護保険第2号被保険者」という。）である被保険者… 一般保険料等額（各被保険者の標準報酬月額<span class=\"logic\">及び</span>標準賞与額にそれぞれ一般保険料率（基本保険料率と特定保険料率とを合算した率をいう。）と子ども・子育て支援金率とを合算した率を乗じて得た額をいう。以下同じ。）と介護保険料額（各被保険者の標準報酬月額<span class=\"logic\">及び</span>標準賞与額にそれぞれ介護保険料率を乗じて得た額をいう。以下同じ。</li></ul></div></div></div>"
+  },
+  {
+    "reference": "附則7条",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">◯1</span><div class=\"subject-line\"><span class=\"subject\">健康保険組合</span>は、</div><div class=\"predicate-line\">規約で定めるところにより、介護保険第2号被保険者である被保険者以外の被保険者（介護保険第2号被保険者である被扶養者があるものに限る。以下「特定被保険者」という。）に関する保険料額を一般保険料等額と介護保険料額との合算額と<span class=\"predicate\">することができる。</span></div></div></div></div>"
+  },
+  {
+    "reference": "附則8条",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">◯1</span><div class=\"subject-line\">政令で定める要件に該当するものとして<span class=\"subject\">厚生労働大臣</span>の承認を受けた<span class=\"subject\">健康保険組合</span>（以下「承認健康保険組合」という。）は、</div><div class=\"predicate-line\">介護保険第2号被保険者である被保険者（その保険料額を一般保険料等額と介護保険料額との合算額とされた特定被保険者を含む。）に関する保険料額を一般保険料等額と特別介護保険料額との合算額と<span class=\"predicate\">することができる。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">◯2</span><div class=\"subject-line\">前項の特別介護保険料額の算定方法は、</div><div class=\"predicate-line\">政令で定める基準に従い、各年度における当該承認健康保険組合の特別介護保険料額の総額と当該承認健康保険組合が納付すべき介護納付金の額とが等しくなるように規約で<span class=\"predicate\">定めるものとする。</span></div></div></div></div>"
+  },
+  {
+    "reference": "法160条",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">◯1</span><div class=\"subject-line\"><span class=\"subject\">協会</span>が管掌する健康保険の被保険者に関する一般保険料率は、</div><div class=\"predicate-line\"><span class=\"period\">1,000分の30</span>から<span class=\"period\">1,000分の130</span>までの範囲内において、支部被保険者を単位として<span class=\"subject\">協会</span>が<span class=\"predicate\">決定するものとする。</span></div></div></div></div>"
+  },
+  {
+    "reference": "附則3条の2",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">◯1</span><div class=\"subject-line\">合併により設立された<span class=\"subject\">健康保険組合</span><span class=\"logic\">又は</span>合併後存続する<span class=\"subject\">健康保険組合</span>のうち次の要件のいずれにも該当する合併に係るもの（以下「地域型健康保険組合」という。）は、</div><div class=\"predicate-line\">当該合併が行われた日の属する年度<span class=\"logic\">及び</span>これに続く<span class=\"period\">5箇年度</span>に限り、<span class=\"period\">1,000分の30</span>から<span class=\"period\">1,000分の130</span>までの範囲内において、不均一の一般保険料率を<span class=\"predicate\">決定することができる。</span></div><ul class=\"condition-list\"><li>1. 合併前の健康保険組合の設立事業所がいずれも同一都道府県の区域にあること。</li><li>2. 当該合併が第28条第1項に規定する指定健康保険組合、被保険者の数が第11条第1項<span class=\"logic\">又は</span>第2項の政令で定める数に満たなくなった健康保険組合その他事業運営基盤の安定が必要と認められる健康保険組合として厚生労働省令で定めるものを含むこと。</li></ul></div><div class=\"principle-section\"><span class=\"item-number\">◯2</span><div class=\"subject-line\">前項の一般保険料率の決定は、</div><div class=\"predicate-line\"><span class=\"subject\">厚生労働大臣</span>の認可を<span class=\"predicate\">受けなければならない。</span></div></div></div></div>"
+  },
+  {
+    "reference": "法161条",
+    "structured": "<div class=\"law-body\">\n  <div class=\"principle-section\">\n    <span class=\"item-number\">第1項</span>\n    <div class=\"subject-line\"><span class=\"subject\">被保険者<span class=\"logic\">及び</span>被保険者を使用する事業主は、</span></div>\n    <div class=\"predicate-line\"><span class=\"predicate\">それぞれ保険料額の<span class=\"period\">2分の1</span>を負担する。</span></div>\n  </div>\n  <div class=\"exception-section\">\n    <div class=\"exception-keyword\"><span class=\"exception\">ただし、</span></div>\n    <ul class=\"condition-list\">\n      <li>任意継続被保険者<span class=\"logic\">及び</span>特例退職被保険者は</li>\n    </ul>\n    <div class=\"predicate-line\"><span class=\"exception\">その全額を負担する。</span></div>\n  </div>\n</div>"
+  },
+  {
+    "reference": "法162条",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\"><span class=\"subject\">健康保険組合</span>は、</div><div class=\"predicate-line\">第161条第1項の規定にかかわらず、規約で定めるところにより、<span class=\"subject\">事業主</span>の負担すべき一般保険料等額<span class=\"logic\">又は</span>介護保険料額の負担の割合を<span class=\"predicate\">増加することができる。</span></div></div></div></div>"
+  },
+  {
+    "reference": "法158条",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\">前月から引き続き<span class=\"subject\">被保険者</span>（任意継続被保険者<span class=\"logic\">及び</span>特例退職被保険者を除く。）である者が、次の各号のいずれかに該当するに至った場合は、</div><div class=\"predicate-line\">その月以後（被保険者がその資格を取得した月に当該各号のいずれかに該当するに至った場合はその翌月以後）、次の各号のいずれかに該当しなくなった月の前月までの期間、保険料を<span class=\"predicate\">徴収しない。</span></div></div><div class=\"exception-section\">ただし、被保険者が当該各号のいずれかに該当するに至った月に当該各号のいずれかに該当しなくなったときは、この限りでない。</div><div class=\"principle-section\"><ul class=\"condition-list\"><li>1. 少年院その他これに準ずる施設に収容されたとき。</li><li>2. 刑事施設、労役場その他これらに準ずる施設に拘禁されたとき。</li></ul>少年院などに収容などされた場合の保険料免除少年院その他これに準ずる施設に収容されたときまたは刑事施設、労役場その他これらに準ずる施設に拘禁されたときは、原則として被保険者（任意継続被保険者及び特例退職被保険者を除く）の保険料は、事業主負担分・被保険者負担分とも免除される。（法158条、法118条1項、附則3条6項）原則として、少年院などに収容などされた月以後、要件に該当しなくなった月の前月までの期間、保険料は免除される。（法158条、法118条1項）</div></div></div>"
+  },
+  {
+    "reference": "法159条",
+    "structured": "<div class=\"law-body\">\n  <div class=\"principle-section\">\n    <span class=\"item-number\">第1項</span>\n    <div class=\"subject-line\"><span class=\"subject\">育児休業等をしている被保険者（第159条の3（産前産後期間中の保険料免除）の規定の適用を受けている被保険者を除く。次項において同じ）が使用される事業所の事業主が、厚生労働省令で定めるところにより保険者等に申出をしたときは、</span></div>\n    <ul class=\"condition-list\">\n      <li>次の各号に掲げる場合の区分に応じ</li>\n      <li>当該各号に定める月の当該被保険者に関する保険料（その育児休業等の期間が<span class=\"period\">1月以下である者については、標準報酬月額に係る保険料に限る。）は</span></li>\n    </ul>\n    <div class=\"predicate-line\"><span class=\"predicate\">徴収しない。</span></div>\n  </div>\n  <div class=\"principle-section\">\n    <div class=\"predicate-line\"><span class=\"predicate\">1. その育児休業等を開始した日の属する月とその育児休業等が終了する日の翌日が属する月とが異なる場合…その育児休業等を開始した日の属する月からその育児休業等が終了する日の翌日が属する月の前月までの月 2. その育児休業等を開始した日の属する月とその育児休業等が終了する日の翌日が属する月とが同一であり、<span class=\"logic\">かつ</span>、当該月における育児休業等の日数として厚生労働省令で定めるところにより計算した日数が<span class=\"period\">14日</span>以上である場合…当該月</span></div>\n  </div>\n  <div class=\"principle-section\">\n    <span class=\"item-number\">第2項</span>\n    <div class=\"subject-line\"><span class=\"subject\">被保険者が連続する2以上の育児休業等をしている場合（これに準ずる場合として厚生労働省令で定める場合を含む。）における前項の規定の適用については、</span></div>\n    <div class=\"predicate-line\"><span class=\"predicate\">その全部を一の育児休業等とみなす。</span></div>\n  </div>\n</div>"
+  },
+  {
+    "reference": "法159条の3",
+    "structured": "<div class=\"law-body\">\n  <div class=\"principle-section\">\n    <div class=\"subject-line\"><span class=\"subject\">産前産後休業をしている被保険者が使用される事業所の事業主が、厚生労働省令で定めるところにより保険者等に申出をしたときは、</span></div>\n    <ul class=\"condition-list\">\n      <li>その産前産後休業を開始した日の属する月からその産前産後休業が終了する日の翌日が属する月の前月までの期間</li>\n    </ul>\n    <div class=\"predicate-line\"><span class=\"predicate\">当該被保険者に関する保険料を徴収しない。</span></div>\n  </div>\n</div>"
+  },
+  {
+    "reference": "法167条",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">◯1</span><div class=\"subject-line\"><span class=\"subject\">事業主</span>は、</div><div class=\"predicate-line\"><span class=\"subject\">被保険者</span>に対して通貨をもって報酬を支払う場合においては、被保険者の負担すべき前月の標準報酬月額に係る保険料（被保険者がその事業所に使用されなくなった場合においては、前月<span class=\"logic\">及び</span>その月の標準報酬月額に係る保険料）を報酬から<span class=\"predicate\">控除することができる。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">◯2</span><div class=\"subject-line\"><span class=\"subject\">事業主</span>は、</div><div class=\"predicate-line\"><span class=\"subject\">被保険者</span>に対して通貨をもって賞与を支払う場合においては、被保険者の負担すべき標準賞与額に係る保険料に相当する額を当該賞与から<span class=\"predicate\">控除することができる。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">◯3</span><div class=\"subject-line\"><span class=\"subject\">事業主</span>は、</div><div class=\"predicate-line\">前2項の規定によって保険料を控除したときは、保険料の控除に関する計算書を作成し、その控除額を<span class=\"subject\">被保険者</span>に<span class=\"predicate\">通知しなければならない。</span>保険料の源泉徴収</div></div></div></div>"
+  },
+  {
+    "reference": "法164条",
+    "structured": "<div class=\"law-body\">\n  <div class=\"principle-section\">\n    <span class=\"item-number\">第1項</span>\n    <div class=\"subject-line\"><span class=\"subject\">被保険者に関する毎月の保険料は、</span></div>\n    <ul class=\"condition-list\">\n      <li>翌月末日までに</li>\n    </ul>\n    <div class=\"predicate-line\"><span class=\"predicate\">納付しなければならない。</span></div>\n  </div>\n  <div class=\"exception-section\">\n    <div class=\"exception-keyword\"><span class=\"exception\">ただし、</span></div>\n    <ul class=\"condition-list\">\n      <li>任意継続被保険者<span class=\"logic\">及び</span>特例退職被保険者に関する保険料については</li>\n    </ul>\n    <div class=\"predicate-line\"><span class=\"exception\">その月の<span class=\"period\">10日</span>（初めて納付すべき保険料については、保険者が指定する日）までとする。</span></div>\n  </div>\n</div>"
+  },
+  {
+    "reference": "法165条",
+    "structured": "<div class=\"law-body\">\n  <div class=\"principle-section\">\n    <span class=\"item-number\">第1項</span>\n    <div class=\"subject-line\"><span class=\"subject\">任意継続被保険者<span class=\"logic\">及び</span>特例退職被保険者は、</span></div>\n    <div class=\"predicate-line\"><span class=\"predicate\">自己の負担する保険料を前納することができる。</span></div>\n  </div>\n</div>"
+  },
+  {
+    "reference": "法166条",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\"><span class=\"subject\">厚生労働大臣</span>は、</div><div class=\"predicate-line\"><span class=\"subject\">納付義務者</span>から、預金<span class=\"logic\">又は</span>貯金の払出しとその払い出した金銭による保険料の納付をその預金口座<span class=\"logic\">又は</span>貯金口座のある金融機関に委託して行うことを希望する旨の申出があった場合においては、その納付が確実と認められ、<span class=\"logic\">かつ</span>、その申出を承認することが保険料の徴収上有利と認められるときに限り、その申出を<span class=\"predicate\">承認することができる。</span>口座振替による納付厚生労働大臣は、納付義務者から、預金または貯金の払出しとその払い出した金銭による保険料の納付をその預金口座または貯金口座のある金融機関に委託して行うことを希望する旨の申出があった場合においては、その納付が確実と認められ、かつ、その申出を承認することが保険料の徴収上有利と認められるときに限り、その申出を承認することができる。</div></div></div></div>"
+  },
+  {
+    "reference": "附則2条",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">◯1</span><div class=\"subject-line\"><span class=\"subject\">健康保険組合</span>が管掌する健康保険の医療に関する給付、保健事業<span class=\"logic\">及び</span>福祉事業の実施<span class=\"logic\">又は</span>健康保険組合に係る前期高齢者納付金等、後期高齢者支援金等、日雇拠出金、介護納付金、流行初期医療確保拠出金等<span class=\"logic\">若しくは</span>子ども・子育て支援納付金の納付に要する費用の財源の不均衡を調整するため、</div><div class=\"predicate-line\"><span class=\"subject\">健康保険組合連合会</span>は、政令で定めるところにより、会員である健康保険組合に対する交付金の交付の事業を<span class=\"predicate\">行うものとする。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">◯2</span><div class=\"subject-line\">会員である<span class=\"subject\">健康保険組合</span>は、</div><div class=\"predicate-line\">前項の事業に要する費用に充てるため、<span class=\"subject\">健康保険組合連合会</span>に対し、政令で定めるところにより、拠出金を<span class=\"predicate\">拠出するものとする。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">◯3</span><div class=\"subject-line\">会員である<span class=\"subject\">健康保険組合</span>は、</div><div class=\"predicate-line\">前項の規定による拠出金の拠出に要する費用に充てるため、調整保険料を<span class=\"predicate\">徴収する。</span></div></div></div></div>"
+  },
+  {
+    "reference": "法172条",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\">保険料は、次に掲げる場合においては、</div><div class=\"predicate-line\">納期前であっても、すべて<span class=\"predicate\">徴収することができる。</span></div><ul class=\"condition-list\"><li>1. <span class=\"subject\">納付義務者</span>が、次のいずれかに該当する場合<br>ア.国税、地方税その他の公課の滞納によって、滞納処分を受けるとき。<br>イ.強制執行を受けるとき。<br>ウ.破産手続開始の決定を受けたとき。<br>エ.企業担保権の実行手続の開始があったとき。<br>オ.競売の開始があったとき。</li><li>2. 法人である<span class=\"subject\">納付義務者</span>が、解散をした場合</li><li>3. 被保険者の使用される事業所が、廃止された場合</li></ul>保険料の</div></div></div>"
+  },
+  {
+    "reference": "法180条",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">◯1</span><div class=\"subject-line\">保険料等を滞納する者（以下「滞納者」という。）があるときは、</div><div class=\"predicate-line\"><span class=\"subject\">保険者等</span>は、期限を指定して、これを<span class=\"predicate\">督促しなければならない。</span></div></div><div class=\"exception-section\">ただし、第172条（保険料の繰上徴収）の規定により保険料を徴収するときは、この限りでない。</div><div class=\"principle-section\"><span class=\"item-number\">◯2</span><div class=\"subject-line\">前項の規定によって督促をしようとするときは、</div><div class=\"predicate-line\"><span class=\"subject\">保険者等</span>は、<span class=\"subject\">納付義務者</span>に対して、督促状を<span class=\"predicate\">発する。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">◯3</span><div class=\"subject-line\">前項の督促状により指定する期限は、</div><div class=\"predicate-line\">督促状を発する日から起算して<span class=\"period\">10日以上</span>を経過した日で<span class=\"predicate\">なければならない。</span></div></div><div class=\"exception-section\">ただし、第172条（保険料の繰上徴収）各号のいずれかに該当する場合は、この限りでない。督促滞納者があるときは、保険者等は、期限を指定して、これを督促しなければならない。ただし、法172条（保険料の繰上徴収）の規定により保険料を徴収するときは、この限りでない。</div></div></div>"
+  },
+  {
+    "reference": "法181条",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">◯1</span><div class=\"subject-line\">第180条第1項の規定によって督促をしたときは、</div><div class=\"predicate-line\"><span class=\"subject\">保険者等</span>は、徴収金額に、納期限の翌日から徴収金完納<span class=\"logic\">又は</span>財産差押えの日の前日までの期間の日数に応じ、年<span class=\"period\">14.6パーセント</span>（当該督促が保険料に係るものであるときは、当該納期限の翌日から<span class=\"period\">3月</span>を経過する日までの期間については、年<span class=\"period\">7.3パーセント</span>）の割合を乗じて計算した延滞金を<span class=\"predicate\">徴収する。</span></div></div><div class=\"exception-section\">ただし、次の各号のいずれかに該当する場合<span class=\"logic\">又は</span>滞納につきやむを得ない事情があると認められる場合は、この限りでない。<ul class=\"condition-list\"><li>1. 徴収金額が<span class=\"period\">1,000円</span>未満であるとき。</li><li>2. 納期を繰り上げて徴収するとき。</li><li>3. 納付義務者の住所<span class=\"logic\">若しくは</span>居所が国内にないため、<span class=\"logic\">又は</span>その住所<span class=\"logic\">及び</span>居所がいずれも明らかでないため、公示送達の方法によって督促をしたとき。</li></ul></div><div class=\"principle-section\"><span class=\"item-number\">◯3</span><div class=\"subject-line\">延滞金を計算するに当たり、徴収金額に<span class=\"period\">1,000円</span>未満の端数があるときは、</div><div class=\"predicate-line\">その端数は、<span class=\"predicate\">切り捨てる。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">◯4</span><div class=\"subject-line\">督促状に指定した期限までに徴収金を完納したとき、<span class=\"logic\">又は</span>第1項から第3項の規定によって計算した金額が<span class=\"period\">100円</span>未満であるときは、</div><div class=\"predicate-line\">延滞金は、<span class=\"predicate\">徴収しない。</span></div></div></div></div>"
+  },
+  {
+    "reference": "法181条の3",
+    "structured": "<div class=\"law-body\">\n  <div class=\"principle-section\">\n    <span class=\"item-number\">第1項</span>\n    <div class=\"subject-line\"><span class=\"subject\">厚生労働大臣は、</span></div>\n    <ul class=\"condition-list\">\n      <li>協会と協議を行い</li>\n      <li>効果的な保険料の徴収を行うために必要があると<span class=\"condition\">認めるとき</span>は</li>\n      <li>協会に保険料の滞納者に関する情報その他必要な情報を提供するとともに</li>\n    </ul>\n    <div class=\"predicate-line\"><span class=\"predicate\">当該滞納者に係る保険料の徴収を行わせることができる。</span></div>\n  </div>\n</div>"
+  },
+  {
+    "reference": "法182条",
+    "structured": "<div class=\"law-body\">\n  <div class=\"principle-section\">\n    <div class=\"subject-line\"><span class=\"subject\">保険給付の消滅時効は、</span></div>\n    <div class=\"predicate-line\"><span class=\"predicate\">国税<span class=\"logic\">及び</span>地方税に次ぐものとする。</span></div>\n  </div>\n</div>"
+  },
+  {
+    "reference": "法183条",
+    "structured": "<div class=\"law-body\">\n  <div class=\"principle-section\">\n    <div class=\"subject-line\"><span class=\"subject\">保険料等は、</span></div>\n    <ul class=\"condition-list\">\n      <li><span class=\"condition\">健康保険法に別段の規定があるものを除き</span></li>\n    </ul>\n    <div class=\"predicate-line\"><span class=\"predicate\">国税徴収の例により徴収する。</span></div>\n  </div>\n</div>"
+  },
+  {
+    "reference": "法63条",
+    "structured": "<div class=\"law-body\">\n  <div class=\"principle-section\">\n    <span class=\"item-number\">第3項</span>\n    <div class=\"subject-line\"><span class=\"subject\">療養の給付を受けようとする者は、</span></div>\n    <ul class=\"condition-list\">\n      <li>次に掲げる病院若しくは診療所<span class=\"logic\">又は</span>薬局のうち</li>\n      <li>自己の選定するものから</li>\n      <li>電子資格確認により被保険者であることの確認を受け</li>\n    </ul>\n    <div class=\"predicate-line\"><span class=\"predicate\">療養の給付を受けるものとする。</span></div>\n  </div>\n  <div class=\"principle-section\">\n    <div class=\"predicate-line\"><span class=\"predicate\">1. 厚生労働大臣の指定を受けた病院<span class=\"logic\">若しくは</span>診療所（以下「保険医療機関」という。）<span class=\"logic\">又は</span>薬局（以下「保険薬局」という。）2. 特定の保険者が管掌する被保険者に対して診療<span class=\"logic\">又は</span>調剤を行う病院<span class=\"logic\">若しくは</span>診療所<span class=\"logic\">又は</span>薬局であって、当該保険者が指定したもの 3. 健康保険組合である保険者が開設する病院<span class=\"logic\">若しくは</span>診療所<span class=\"logic\">又は</span>薬局</span></div>\n  </div>\n</div>"
+  },
+  {
+    "reference": "法70条",
+    "structured": "<div class=\"law-body\">\n  <div class=\"principle-section\">\n    <span class=\"item-number\">第1項</span>\n    <div class=\"subject-line\"><span class=\"subject\">保険医療機関<span class=\"logic\">又は</span>保険薬局は、</span></div>\n    <ul class=\"condition-list\">\n      <li>当該保険医療機関において診療に従事する保険医<span class=\"logic\">又は</span>当該保険薬局において調剤に従事する保険薬剤師に</li>\n      <li>診療<span class=\"logic\">又は</span>調剤に当たらせるほか</li>\n    </ul>\n    <div class=\"predicate-line\"><span class=\"predicate\">療養の給付を担当しなければならない。</span></div>\n  </div>\n</div>"
+  },
+  {
+    "reference": "法65条",
+    "structured": "<div class=\"law-body\">\n  <div class=\"principle-section\">\n    <span class=\"item-number\">第1項</span>\n    <div class=\"subject-line\"><span class=\"subject\">保険医療機関<span class=\"logic\">又は</span>保険薬局の指定は、</span></div>\n    <div class=\"predicate-line\"><span class=\"predicate\">病院<span class=\"logic\">若しくは</span>診療所<span class=\"logic\">又は</span>薬局の開設者の申請により行う。</span></div>\n  </div>\n</div>"
+  },
+  {
+    "reference": "法82条",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">◯2</span><div class=\"subject-line\"><span class=\"subject\">厚生労働大臣</span>は、</div><div class=\"predicate-line\"><span class=\"subject\">保険医療機関</span><span class=\"logic\">若しくは</span><span class=\"subject\">保険薬局</span>に係る指定を行おうとするとき、<span class=\"logic\">若しくは</span>その指定を取り消そうとするとき、<span class=\"logic\">又は</span><span class=\"subject\">保険医</span><span class=\"logic\">若しくは</span><span class=\"subject\">保険薬剤師</span>に係る登録を取り消そうとするときは、<span class=\"subject\">地方社会保険医療協議会</span>に<span class=\"predicate\">諮問するものとする。</span></div></div></div></div>"
+  },
+  {
+    "reference": "法68条",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">◯1</span><div class=\"subject-line\"><span class=\"subject\">保険医療機関</span><span class=\"logic\">又は</span><span class=\"subject\">保険薬局</span>の指定は、</div><div class=\"predicate-line\">指定の日から起算して<span class=\"period\">6年</span>を経過したときは、その効力を<span class=\"predicate\">失う。</span></div></div></div></div>"
+  },
+  {
+    "reference": "法67条",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\"><span class=\"subject\">厚生労働大臣</span>は、</div><div class=\"predicate-line\"><span class=\"subject\">保険医療機関</span>に係る指定をしないこととするとき、<span class=\"logic\">若しくは</span>その申請に係る病床の全部<span class=\"logic\">若しくは</span>一部を除いて指定（指定の変更を含む）を行おうとするとき、<span class=\"logic\">又は</span><span class=\"subject\">保険薬局</span>に係る指定をしないこととするときは、<span class=\"subject\">地方社会保険医療協議会</span>の議を<span class=\"predicate\">経なければならない。</span></div></div></div></div>"
+  },
+  {
+    "reference": "法79条",
+    "structured": "<div class=\"law-body\">\n  <div class=\"principle-section\">\n    <span class=\"item-number\">第1項</span>\n    <div class=\"subject-line\"><span class=\"subject\">保険医療機関<span class=\"logic\">又は</span>保険薬局は、</span></div>\n    <ul class=\"condition-list\">\n      <li><span class=\"period\">1月以上の予告期間を設けて</span></li>\n    </ul>\n    <div class=\"predicate-line\"><span class=\"predicate\">その指定を辞退することができる。</span></div>\n  </div>\n</div>"
+  },
+  {
+    "reference": "法64条",
+    "structured": "<div class=\"law-body\">\n  <div class=\"principle-section\">\n    <div class=\"subject-line\"><span class=\"subject\">保険医療機関において健康保険の診療に従事する医師<span class=\"logic\">若しくは</span>歯科医師<span class=\"logic\">又は</span>保険薬局において健康保険の調剤に従事する薬剤師は、</span></div>\n    <div class=\"predicate-line\"><span class=\"predicate\">厚生労働大臣の登録を受けた医師<span class=\"logic\">若しくは</span>歯科医師（以下「保険医」と総称する。）<span class=\"logic\">又は</span>薬剤師（以下「保険薬剤師」という。）でなければならない。</span></div>\n  </div>\n</div>"
+  },
+  {
+    "reference": "法72条",
+    "structured": "<div class=\"law-body\">\n  <div class=\"principle-section\">\n    <span class=\"item-number\">第1項</span>\n    <div class=\"subject-line\"><span class=\"subject\">保険医療機関において診療に従事する保険医<span class=\"logic\">又は</span>保険薬局において調剤に従事する保険薬剤師は、</span></div>\n    <ul class=\"condition-list\">\n      <li>保険医療機関及び保険医療養担当規則に定める保険医の診療方針又は保険薬局<span class=\"logic\">及び</span>保険薬剤師療養担当規則に定める調剤の一般的方針に従って</li>\n    </ul>\n    <div class=\"predicate-line\"><span class=\"predicate\">健康保険の診療<span class=\"logic\">又は</span>調剤に当たらなければならない。</span></div>\n  </div>\n</div>"
+  },
+  {
+    "reference": "法73条",
+    "structured": "<div class=\"law-body\">\n  <div class=\"principle-section\">\n    <span class=\"item-number\">第1項</span>\n    <ul class=\"condition-list\">\n      <li>保険医療機関<span class=\"logic\">及び</span>保険薬局は療養の給付に関し</li>\n      <li>保険医及び保険薬剤師は健康保険の診療<span class=\"logic\">又は</span>調剤に関し</li>\n    </ul>\n    <div class=\"predicate-line\"><span class=\"predicate\">厚生労働大臣の指導を受けなければならない。</span></div>\n  </div>\n</div>"
+  },
+  {
+    "reference": "法71条",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">◯1</span><div class=\"subject-line\"><span class=\"subject\">保険医</span><span class=\"logic\">又は</span><span class=\"subject\">保険薬剤師</span>の登録は、</div><div class=\"predicate-line\"><span class=\"subject\">医師</span><span class=\"logic\">若しくは</span><span class=\"subject\">歯科医師</span><span class=\"logic\">又は</span><span class=\"subject\">薬剤師</span>の申請により<span class=\"predicate\">行う。</span>保険医または保険薬剤師の登録保険医または保険薬剤師の登録は、医師若しくは歯科医師または薬剤師の申請により厚生労働大臣が行う。</div></div></div></div>"
+  },
+  {
+    "reference": "法69条",
+    "structured": "<div class=\"law-body\">\n  <div class=\"principle-section\">\n    <div class=\"subject-line\"><span class=\"subject\">診療所<span class=\"logic\">又は</span>薬局が医師<span class=\"logic\">若しくは</span>歯科医師<span class=\"logic\">又は</span>薬剤師の開設したものであり、<span class=\"logic\">かつ</span>、当該開設者である医師<span class=\"logic\">若しくは</span>歯科医師<span class=\"logic\">又は</span>薬剤師のみが診療<span class=\"logic\">又は</span>調剤に従事している場合において、当該医師<span class=\"logic\">若しくは</span>歯科医師<span class=\"logic\">又は</span>薬剤師について保険医<span class=\"logic\">又は</span>保険薬剤師の登録があったときは、</span></div>\n    <ul class=\"condition-list\">\n      <li>当該診療所<span class=\"logic\">又は</span>薬局について</li>\n    </ul>\n    <div class=\"predicate-line\"><span class=\"predicate\">保険医療機関<span class=\"logic\">又は</span>保険薬局の指定があったものとみなす。</span></div>\n  </div>\n</div>"
+  },
+  {
+    "reference": "法90条",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">◯1</span><div class=\"subject-line\"><span class=\"subject\">指定訪問看護事業者</span>は、</div><div class=\"predicate-line\">指定訪問看護の事業の運営に関する基準に従い、訪問看護を受ける者の心身の状況等に応じて自ら適切な指定訪問看護を<span class=\"predicate\">提供するものとする。</span></div></div></div></div>"
+  },
+  {
+    "reference": "法89条",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">◯1</span><div class=\"subject-line\"><span class=\"subject\">指定訪問看護事業者</span>の指定は、</div><div class=\"predicate-line\">訪問看護事業を行う者の申請により、訪問看護事業所ごとに<span class=\"predicate\">行う。</span></div></div></div></div>"
+  },
+  {
+    "reference": "法95条",
+    "structured": "<div class=\"law-body\">\n  <div class=\"principle-section\">\n    <div class=\"subject-line\"><span class=\"subject\">厚生労働大臣は、</span></div>\n    <ul class=\"condition-list\">\n      <li><span class=\"condition\">所定の事項に該当する場合においては</span></li>\n    </ul>\n    <div class=\"predicate-line\"><span class=\"predicate\">当該指定訪問看護事業者に係る第88条第1 項の指定を取り消すことができる。</span></div>\n  </div>\n</div>"
+  },
+  {
+    "reference": "法53条",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\"><span class=\"condition\">保険者が健康保険組合である場合</span>においては、</div><div class=\"predicate-line\">健康保険法で定める保険給付に併せて、規約で定めるところにより、保険給付としてその他の給付を<span class=\"predicate\">行うことができる。</span></div></div></div></div>"
+  },
+  {
+    "reference": "法74条",
+    "structured": "<div class=\"law-body\">\n  <div class=\"principle-section\">\n    <span class=\"item-number\">第1項</span>\n    <div class=\"subject-line\"><span class=\"subject\">保険医療機関<span class=\"logic\">又は</span>保険薬局から療養の給付を受ける者は、</span></div>\n    <ul class=\"condition-list\">\n      <li>その給付を受ける際</li>\n      <li>その各号に掲げる場合の区分に応じ</li>\n      <li>当該給付につき第76条第2項<span class=\"logic\">又は</span>第3項の規定により算定した額に当該各号に定める割合を乗じて得た額を</li>\n      <li>一部負担金として</li>\n    </ul>\n    <div class=\"predicate-line\"><span class=\"predicate\">当該保険医療機関<span class=\"logic\">又は</span>保険薬局に支払わなければならない。</span></div>\n  </div>\n  <div class=\"principle-section\">\n    <div class=\"predicate-line\"><span class=\"predicate\">1. <span class=\"period\">70歳</span>に達する日の属する月の翌月以前である場合…<span class=\"period\">100分の30</span> 2. <span class=\"period\">70歳</span>に達する日の属する月の翌月以後である場合（次号に掲げる場合を除く。）…<span class=\"period\">100分の20</span> 3. <span class=\"period\">70歳</span>に達する日の属する月の翌月以後である場合であって、政令で定めるところにより算定した収入の額が政令で定める額（<span class=\"period\">28万円</span>）以上であるとき…<span class=\"period\">100分の30</span></span></div>\n  </div>\n</div>"
+  },
+  {
+    "reference": "法75条の2",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">◯1</span><div class=\"subject-line\"><span class=\"subject\">保険者</span>は、</div><div class=\"predicate-line\">災害その他の厚生労働省令で定める特別の事情がある<span class=\"subject\">被保険者</span>であって、<span class=\"subject\">保険医療機関</span><span class=\"logic\">又は</span><span class=\"subject\">保険薬局</span>に一部負担金を支払うことが困難であると認められるものに対し、次の措置を採ることができる。</div><ul class=\"condition-list\"><li>1. 一部負担金を減額すること。</li><li>2. 一部負担金の支払を免除すること。</li><li>3. <span class=\"subject\">保険医療機関</span><span class=\"logic\">又は</span><span class=\"subject\">保険薬局</span>に対する支払に代えて、一部負担金を直接に徴収することとし、その徴収を猶予すること。</li></ul></div></div></div>"
+  },
+  {
+    "reference": "法76条",
+    "structured": "<div class=\"law-body\">\n  <div class=\"principle-section\">\n    <span class=\"item-number\">第1項</span>\n    <div class=\"subject-line\"><span class=\"subject\">保険者は、</span></div>\n    <ul class=\"condition-list\">\n      <li>療養の給付に関する費用を保険医療機関<span class=\"logic\">又は</span>保険薬局に支払うものとし</li>\n      <li>保険医療機関<span class=\"logic\">又は</span>保険薬局が療養の給付に関し保険者に請求することができる費用の額は</li>\n      <li>療養の給付に要する費用の額から</li>\n    </ul>\n    <div class=\"predicate-line\"><span class=\"predicate\">当該療養の給付に関し被保険者が当該保険医療機関<span class=\"logic\">又は</span>保険薬局に対して支払わなければならない一部負担金に相当する額を控除した額とする。</span></div>\n  </div>\n  <div class=\"principle-section\">\n    <span class=\"item-number\">第5項</span>\n    <div class=\"subject-line\"><span class=\"subject\">保険者は、</span></div>\n    <div class=\"predicate-line\"><span class=\"predicate\">療養の給付に関する費用の審査<span class=\"logic\">及び</span>支払に関する事務を社会保険診療報酬支払基金<span class=\"logic\">又は</span>国民健康保険団体連合会に委託することができる。</span></div>\n  </div>\n</div>"
+  },
+  {
+    "reference": "法85条",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">◯1</span><div class=\"subject-line\"><span class=\"subject\">被保険者</span>（特定長期入院被保険者を除く。）が、</div><div class=\"predicate-line\"><span class=\"subject\">保険医療機関等</span>である病院<span class=\"logic\">又は</span>診療所のうち自己の選定するものから、電子資格確認等により、被保険者であることの確認を受け、療養の給付（病院<span class=\"logic\">又は</span>診療所への入院<span class=\"logic\">及び</span>その療養に伴う世話その他の看護に限る。）と併せて受けた食事療養に要した費用について、</div></div></div></div>"
+  },
+  {
+    "reference": "則62条",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\"><span class=\"subject\">保険医療機関等</span>は、</div><div class=\"predicate-line\">交付しなければならない領収証には、入院時食事療養費に係る療養について<span class=\"subject\">被保険者</span>から支払を受けた費用の額のうち食事療養標準負担額とその他の費用の額とを区分して<span class=\"predicate\">記載しなければならない。</span></div></div></div></div>"
+  },
+  {
+    "reference": "法85条の2",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">◯1</span><div class=\"subject-line\"><span class=\"subject\">特定長期入院被保険者</span>が、</div><div class=\"predicate-line\"><span class=\"subject\">保険医療機関等</span>である病院<span class=\"logic\">又は</span>診療所のうち自己の選定するものから、電子資格確認等により、被保険者であることの確認を受け、療養の給付（病院<span class=\"logic\">又は</span>診療所への入院<span class=\"logic\">及び</span>その療養に伴う世話その他の看護に限る。）と併せて受けた生活療養に要した費用について、</div></div></div></div>"
+  },
+  {
+    "reference": "法85条の2第5項",
+    "structured": "<div class=\"law-body\">\n  <div class=\"principle-section\">\n    <div class=\"subject-line\"><span class=\"subject\">◯被保険者が保険医療機関等である病院<span class=\"logic\">又は</span>診療所（組合直営病院を除く。）から生活療養を受けたときは、</span></div>\n    <ul class=\"condition-list\">\n      <li>保険者は</li>\n      <li>その被保険者が当該病院<span class=\"logic\">又は</span>診療所に支払うべき生活療養に要した費用について</li>\n      <li>入院時生活療養費として被保険者に対し支給すべき額の限度において</li>\n      <li>被保険者に代わり</li>\n    </ul>\n    <div class=\"predicate-line\"><span class=\"predicate\">当該病院<span class=\"logic\">又は</span>診療所に支払うことができる。</span></div>\n  </div>\n  <div class=\"principle-section\">\n    <div class=\"subject-line\"><span class=\"subject\">◯当該支払があったときは、</span></div>\n    <div class=\"predicate-line\"><span class=\"predicate\">被保険者に対し入院時生活療養費の支給があったものとみなす。</span></div>\n  </div>\n  <div class=\"principle-section\">\n    <div class=\"subject-line\"><span class=\"subject\">◯被保険者が組合直営病院等から生活療養を受けた場合において、保険者がその被保険者の支払うべき生活療養に要した費用のうち入院時生活療養費として被保険者に支給すべき額に相当する額の支払を免除したときは、</span></div>\n    <div class=\"predicate-line\"><span class=\"predicate\">入院時生活療養費の支給があったものとみなす。</span></div>\n  </div>\n  <div class=\"principle-section\">\n    <div class=\"subject-line\"><span class=\"subject\">支給方式被保険者が保険医療機関等である病院または診療所から生活療養を受けたときは、</span></div>\n    <ul class=\"condition-list\">\n      <li>保険者は</li>\n      <li>その被保険者が当該病院または診療所に支払うべき生活療養に要した費用について</li>\n      <li>入院時生活療養費として被保険者に対し支給すべき額の限度において</li>\n      <li>被保険者に代わり</li>\n    </ul>\n    <div class=\"predicate-line\"><span class=\"predicate\">当該病院または診療所に支払うことができる。</span></div>\n  </div>\n  <div class=\"principle-section\">\n    <div class=\"subject-line\"><span class=\"subject\">（法85条の2第5項、法85条5項）当該支払があったときは、</span></div>\n    <div class=\"predicate-line\"><span class=\"predicate\">被保険者に対し入院時生活療養費の支給があったものとみなされる。</span></div>\n  </div>\n  <div class=\"principle-section\">\n    <div class=\"subject-line\"><span class=\"subject\">（法85条の2第5項、法85条6項）被保険者が組合直営病院等から生活療養を受けた場合において、保険者がその被保険者の支払うべき生活療養に要した費用のうち入院時生活療養費として被保険者に支給すべき額に相当する額の支払を免除したときは、</span></div>\n    <div class=\"predicate-line\"><span class=\"predicate\">入院時生活療養費の支給があったものとみなされる。</span></div>\n  </div>\n</div>"
+  },
+  {
+    "reference": "則62条の5",
+    "structured": "<div class=\"law-body\">\n  <div class=\"principle-section\">\n    <div class=\"subject-line\"><span class=\"subject\">保険医療機関等は、</span></div>\n    <ul class=\"condition-list\">\n      <li>交付しなければならない領収証には</li>\n      <li>正当な理由がない限り</li>\n    </ul>\n    <div class=\"predicate-line\"><span class=\"predicate\">入院時生活療養費に係る療養について被保険者から支払を受けた費用の額のうち生活療養標準負担額とその他の費用の額とを区分して記載しなければならない。</span></div>\n  </div>\n</div>"
+  },
+  {
+    "reference": "法86条",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">◯1</span><div class=\"subject-line\"><span class=\"subject\">被保険者</span>が、</div><div class=\"predicate-line\"><span class=\"subject\">保険医療機関等</span>のうち自己の選定するものから、電子資格確認等により、被保険者であることの確認を受け、評価療養、患者申出療養<span class=\"logic\">又は</span>選定療養を受けたときは、その療養に要した費用について、保険外併用療養費を<span class=\"predicate\">支給する。</span></div></div></div></div>"
+  },
+  {
+    "reference": "法86条4項",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\"><span class=\"subject\">保険医療機関等</span>である病院<span class=\"logic\">若しくは</span>診療所<span class=\"logic\">又は</span>薬局は、</div><div class=\"predicate-line\">評価療養、患者申出療養<span class=\"logic\">又は</span>選定療養に要した費用につき、その支払を受ける際、当該支払をした<span class=\"subject\">被保険者</span>に対し、領収証を<span class=\"predicate\">交付しなければならない。</span></div></div></div></div>"
+  },
+  {
+    "reference": "則64条",
+    "structured": "<div class=\"law-body\">\n  <div class=\"principle-section\">\n    <div class=\"subject-line\"><span class=\"subject\">保険医療機関等は、</span></div>\n    <ul class=\"condition-list\">\n      <li>交付しなければならない領収証には</li>\n    </ul>\n    <div class=\"predicate-line\"><span class=\"predicate\">保険外併用療養費に係る療養について被保険者から支払を受けた費用の額のうち保険外併用療養費に係る一部負担相当額とその他の費用の額とを区分（当該費用の額に食事療養に係る食事療養標準負担額<span class=\"logic\">又は</span>生活療養に係る生活療養標準負担額が含まれるときは、当該額についても区分）して記載しなければならない。</span></div>\n  </div>\n</div>"
+  },
+  {
+    "reference": "法87条",
+    "structured": "<div class=\"law-body\">\n  <div class=\"principle-section\">\n    <span class=\"item-number\">第1項</span>\n    <div class=\"subject-line\"><span class=\"subject\">保険者は、</span></div>\n    <ul class=\"condition-list\">\n      <li>療養の給付<span class=\"logic\">若しくは</span>入院時食事療養費</li>\n      <li>入院時生活療養費<span class=\"logic\">若しくは</span>保険外併用療養費の支給（以下「療養の給付等」という。）を行うことが困難であると認めるとき</li>\n      <li><span class=\"logic\">又は</span>被保険者が保険医療機関等以外の病院</li>\n      <li>診療所</li>\n      <li>薬局その他の者から診療</li>\n      <li>薬剤の支給<span class=\"logic\">若しくは</span>手当を受けた場合において</li>\n      <li><span class=\"condition\">保険者がやむを得ないものと認めるときは</span></li>\n      <li>療養の給付等に代えて</li>\n    </ul>\n    <div class=\"predicate-line\"><span class=\"predicate\">療養費を支給することができる。</span></div>\n  </div>\n  <div class=\"principle-section\">\n    <div class=\"subject-line\"><span class=\"subject\">支給要件保険者は、</span></div>\n    <ul class=\"condition-list\">\n      <li><span class=\"condition\">次のいずれかに該当するときは</span></li>\n      <li>療養の給付等に代えて</li>\n    </ul>\n    <div class=\"predicate-line\"><span class=\"predicate\">療養費を支給することができる。</span></div>\n  </div>\n</div>"
+  },
+  {
+    "reference": "法110条",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">◯1</span><div class=\"subject-line\">被保険者の<span class=\"subject\">被扶養者</span>が<span class=\"subject\">保険医療機関等</span>のうち自己の選定するものから療養を受けたときは、</div><div class=\"predicate-line\"><span class=\"subject\">被保険者</span>に対し、その療養に要した費用について、</div></div></div></div>"
+  },
+  {
+    "reference": "法110条の2",
+    "structured": "<div class=\"law-body\">\n  <div class=\"principle-section\">\n    <span class=\"item-number\">第1項</span>\n    <div class=\"subject-line\"><span class=\"subject\">保険者は、</span></div>\n    <ul class=\"condition-list\">\n      <li>第75条の2第1項に規定する被保険者（災害等の特別の事情がある被保険者であって、保険医療機関<span class=\"logic\">又は</span>保険薬局に一部負担金を支払うことが困難であると認められるもの）の被扶養者に係る家族療養費の支給について</li>\n      <li>第110条第2項第1号イ.からニ.までに定める割合を</li>\n    </ul>\n    <div class=\"predicate-line\"><span class=\"predicate\">それぞれの割合を超え <span class=\"period\">100分の10</span> 0以下の範囲内において保険者が定めた割合とする措置を採ることができる。</span></div>\n  </div>\n</div>"
+  },
+  {
+    "reference": "法88条",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">◯1</span><div class=\"subject-line\"><span class=\"subject\">被保険者</span>が、</div><div class=\"predicate-line\"><span class=\"subject\">厚生労働大臣</span>が指定する者（以下「指定訪問看護事業者」という。）から当該指定に係る訪問看護事業を行う事業所により行われる訪問看護（以下「指定訪問看護」という。）を受けたときは、その指定訪問看護に要した費用について、訪問看護療養費を<span class=\"predicate\">支給する。</span></div></div></div></div>"
+  },
+  {
+    "reference": "則72条",
+    "structured": "<div class=\"law-body\">\n  <div class=\"principle-section\">\n    <div class=\"subject-line\"><span class=\"subject\">指定訪問看護事業者は、</span></div>\n    <ul class=\"condition-list\">\n      <li>交付しなければならない領収証には</li>\n      <li>基本利用料<span class=\"logic\">及び</span>その他の利用料について</li>\n    </ul>\n    <div class=\"predicate-line\"><span class=\"predicate\">個別の費用ごとに区分して記載しなければならない。</span></div>\n  </div>\n</div>"
+  },
+  {
+    "reference": "法111条",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">◯1</span><div class=\"subject-line\">被保険者の<span class=\"subject\">被扶養者</span>が<span class=\"subject\">指定訪問看護事業者</span>から指定訪問看護を受けたときは、</div><div class=\"predicate-line\"><span class=\"subject\">被保険者</span>に対し、その指定訪問看護に要した費用について、家族訪問看護療養費を<span class=\"predicate\">支給する。</span></div></div></div></div>"
+  },
+  {
+    "reference": "法115条",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">◯1</span><div class=\"subject-line\">療養の給付について支払われた一部負担金の額<span class=\"logic\">又は</span>療養（食事療養<span class=\"logic\">及び</span>生活療養を除く。次項において同じ。）に要した費用の額からその療養に要した費用につき保険外併用療養費、療養費、訪問看護療養費、家族療養費<span class=\"logic\">若しくは</span>家族訪問看護療養費として支給される額に相当する額を控除した額（以下「一部負担金等の額」という。）が著しく高額であるときは、</div><div class=\"predicate-line\">その療養の給付<span class=\"logic\">又は</span>その保険外併用療養費、療養費、訪問看護療養費、家族療養費<span class=\"logic\">若しくは</span>家族訪問看護療養費の支給を受けた者に対し、高額療養費を<span class=\"predicate\">支給する。</span></div></div></div></div>"
+  },
+  {
+    "reference": "法115条の2",
+    "structured": "<div class=\"law-body\">\n  <div class=\"principle-section\">\n    <span class=\"item-number\">第1項</span>\n    <div class=\"subject-line\"><span class=\"subject\">一部負担金等の額（高額療養費が支給される場合においては、当該支給額に相当する額を控除した額）<span class=\"logic\">並びに</span>介護保険法に規定するサービス利用者負担額（同法の高額サービスが支給される場合においては、当該支給額を控除した額）<span class=\"logic\">及び</span>同法に規定する予防サービス利用者負担額（同法の高額予防サービスが支給される場合においては、当該支給額を控除した額）の合計額が著しい額であるときは、</span></div>\n    <ul class=\"condition-list\">\n      <li>当該一部負担金等の額に係る療養の給付<span class=\"logic\">又は</span>保険外併用療養費</li>\n      <li>療養費</li>\n      <li>高額療養費</li>\n      <li>家族療養費<span class=\"logic\">若しくは</span>家族高額療養費の支給を受けた者に対し</li>\n    </ul>\n    <div class=\"predicate-line\"><span class=\"predicate\">高額介護合算療養費を支給する。</span></div>\n  </div>\n</div>"
+  },
+  {
+    "reference": "法97条",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">◯1</span><div class=\"subject-line\"><span class=\"subject\">被保険者</span>が療養の給付（保険外併用療養費に係る療養を含む。）を受けるため、病院<span class=\"logic\">又は</span>診療所に移送されたときは、</div><div class=\"predicate-line\">移送費として、厚生労働省令で定めるところにより算定した金額を<span class=\"predicate\">支給する。</span></div></div></div></div>"
+  },
+  {
+    "reference": "則80条",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\">移送費の金額は、</div><div class=\"predicate-line\">最も経済的な通常の経路<span class=\"logic\">及び</span>方法により移送された場合の費用により算定した金額と<span class=\"predicate\">する。</span></div></div><div class=\"exception-section\">ただし、現に移送に要した費用の金額を超えることが<span class=\"predicate\">できない。</span></div></div></div>"
+  },
+  {
+    "reference": "法112条",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">◯1</span><div class=\"subject-line\">被保険者の<span class=\"subject\">被扶養者</span>が家族療養費に係る療養を受けるため、病院<span class=\"logic\">又は</span>診療所に移送されたときは、</div></div></div></div>"
+  },
+  {
+    "reference": "法99条",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">◯1</span><div class=\"subject-line\"><span class=\"subject\">被保険者</span>（任意継続被保険者<span class=\"logic\">及び</span>特例退職被保険者を除く。）が<span class=\"condition\">療養のため労務に服することができないとき</span>は、</div><div class=\"predicate-line\">その労務に服することができなくなった日から起算して<span class=\"period\">3日</span>を経過した日から労務に服することができない期間、</div></div></div></div>"
+  },
+  {
+    "reference": "法103条",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">◯1</span><div class=\"subject-line\"><span class=\"condition\">出産手当金を支給する場合</span>（第108条第3項<span class=\"logic\">又は</span>第4項（障害年金<span class=\"logic\">又は</span>障害手当金との調整）に該当するときを除く。）においては、</div><div class=\"predicate-line\">その期間、傷病手当金は、<span class=\"predicate\">支給しない。</span></div></div><div class=\"exception-section\">ただし、その受けることができる出産手当金の額（同条第2項ただし書（報酬との差額支給）の場合においては、同項ただし書に規定する報酬の額と同項ただし書の規定により算定される出産手当金の額との合算額）が、傷病手当金の額より少ないときは、その差額を支給する。</div><div class=\"principle-section\"><span class=\"item-number\">◯2</span><div class=\"subject-line\"><span class=\"condition\">出産手当金を支給すべき場合</span>において傷病手当金が支払われたときは、</div><div class=\"predicate-line\">その支払われた傷病手当金（前項ただし書の規定により支払われたものを除く。）は、出産手当金の内払と<span class=\"predicate\">みなす。</span></div></div></div></div>"
+  },
+  {
+    "reference": "法108条",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">◯1</span><div class=\"subject-line\"><span class=\"condition\">疾病にかかり、又は負傷した場合</span>において報酬の全部<span class=\"logic\">又は</span>一部を受けることができる者に対しては、</div><div class=\"predicate-line\">これを受けることができる期間は、傷病手当金を<span class=\"predicate\">支給しない。</span></div></div><div class=\"exception-section\">ただし、その受けることができる報酬の額が、傷病手当金の額より少ないとき（第103条第1項<span class=\"logic\">又は</span>第3項<span class=\"logic\">若しくは</span>第4項に該当するときを除く。）は、その差額を支給する。</div></div></div>"
+  },
+  {
+    "reference": "則84条の3",
+    "structured": "<div class=\"law-body\">\n  <div class=\"principle-section\">\n    <div class=\"subject-line\"><span class=\"subject\">傷病手当金は、</span></div>\n    <div class=\"predicate-line\"><span class=\"predicate\">同一の傷病について支給を始めた日の累計が法第99条第4項に規定する支給期間の日数に達するまで支給する。</span></div>\n  </div>\n</div>"
+  },
+  {
+    "reference": "則84条",
+    "structured": "<div class=\"law-body\">\n  <div class=\"principle-section\">\n    <span class=\"item-number\">第1項</span>\n    <div class=\"subject-line\"><span class=\"subject\">傷病手当金の支給を受けようとする者は、</span></div>\n    <div class=\"predicate-line\"><span class=\"predicate\">所定の事項を記載した申請書を保険者に提出しなければならない。</span></div>\n  </div>\n</div>"
+  },
+  {
+    "reference": "法100条",
+    "structured": "<div class=\"law-body\">\n  <div class=\"principle-section\">\n    <span class=\"item-number\">第1項</span>\n    <div class=\"subject-line\"><span class=\"subject\">被保険者が死亡したときは、</span></div>\n    <ul class=\"condition-list\">\n      <li>その者により生計を維持していた者であって</li>\n      <li>埋葬を行うものに対し</li>\n      <li>埋葬料として</li>\n    </ul>\n    <div class=\"predicate-line\"><span class=\"predicate\">政令で定める金額を支給する。</span></div>\n  </div>\n</div>"
+  },
+  {
+    "reference": "法113条",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\">被保険者の<span class=\"subject\">被扶養者</span>が死亡したときは、</div><div class=\"predicate-line\">家族埋葬料として、<span class=\"subject\">被保険者</span>に対し、第100条第1項の政令で定める金額を<span class=\"predicate\">支給する。</span></div></div></div></div>"
+  },
+  {
+    "reference": "法101条",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\"><span class=\"subject\">被保険者</span>が出産したときは、</div><div class=\"predicate-line\">出産育児一時金として、政令で定める金額を<span class=\"predicate\">支給する。</span></div></div></div></div>"
+  },
+  {
+    "reference": "法114条",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\">被保険者の<span class=\"subject\">被扶養者</span>が出産したときは、</div><div class=\"predicate-line\">家族出産育児一時金として、<span class=\"subject\">被保険者</span>に対し、第101条の政令で定める金額を<span class=\"predicate\">支給する。</span></div></div></div></div>"
+  },
+  {
+    "reference": "法102条",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">◯1</span><div class=\"subject-line\"><span class=\"subject\">被保険者</span>（任意継続被保険者<span class=\"logic\">及び</span>特例退職被保険者を除く。）が出産したときは、</div><div class=\"predicate-line\">出産の日（出産の日が出産の予定日後であるときは、出産の予定日）以前<span class=\"period\">42日</span>（多胎妊娠の場合においては、<span class=\"period\">98日</span>）から出産の日後<span class=\"period\">56日</span>までの間において労務に服さなかった期間、</div></div></div></div>"
+  },
+  {
+    "reference": "法104条",
+    "structured": "<div class=\"law-body\">\n  <div class=\"principle-section\">\n    <div class=\"subject-line\"><span class=\"subject\">附則3条5項・6項被保険者の資格を喪失した日の前日まで引き続き<span class=\"period\">1年</span>以上被保険者（任意継続被保険者、特例退職被保険者<span class=\"logic\">又は</span>共済組合の組合員である被保険者を除く。）であった者であって、その資格を喪失した際に傷病手当金<span class=\"logic\">又は</span>出産手当金の支給を受けているもの（特例退職被保険者となった者を除く。）は、</span></div>\n    <ul class=\"condition-list\">\n      <li>被保険者として受けることができるはずであった期間</li>\n    </ul>\n    <div class=\"predicate-line\"><span class=\"predicate\">継続して同一の保険者からその給付を受けることができる。</span></div>\n  </div>\n</div>"
+  },
+  {
+    "reference": "法105条",
+    "structured": "<div class=\"law-body\">\n  <div class=\"principle-section\">\n    <span class=\"item-number\">第1項</span>\n    <div class=\"subject-line\"><span class=\"subject\">第104条（傷病手当金・出産手当金の継続給付）の規定により保険給付を受ける者が死亡したとき、同条（傷病手当金・出産手当金の継続給付）の規定により保険給付を受けていた者がその給付を受けなくなった日後<span class=\"period\">3月以内</span>に死亡したとき、<span class=\"logic\">又は</span>その他の被保険者であった者が被保険者の資格を喪失した日後<span class=\"period\">3月以内</span>に死亡したときは、</span></div>\n    <ul class=\"condition-list\">\n      <li>被保険者であった者により生計を維持していた者であって</li>\n      <li>埋葬を行うものは</li>\n    </ul>\n    <div class=\"predicate-line\"><span class=\"predicate\">その被保険者の最後の保険者から埋葬料の支給を受けることができる。</span></div>\n  </div>\n  <div class=\"principle-section\">\n    <span class=\"item-number\">第2項</span>\n    <ul class=\"condition-list\">\n      <li>前項の規定により埋葬料の支給を受けるべき者が<span class=\"condition\">ない場合</span>においては</li>\n      <li>埋葬を行った者に対し</li>\n    </ul>\n    <div class=\"predicate-line\"><span class=\"predicate\">埋葬料の金額の範囲内においてその埋葬に要した費用に相当する金額を支給する。</span></div>\n  </div>\n</div>"
+  },
+  {
+    "reference": "法106条",
+    "structured": "<div class=\"law-body\">\n  <div class=\"principle-section\">\n    <div class=\"subject-line\"><span class=\"subject\">法104条被保険者の資格を喪失した日の前日まで引き続き<span class=\"period\">1年</span>以上被保険者（任意継続被保険者、特例退職被保険者<span class=\"logic\">又は</span>共済組合の組合員である被保険者を除く。）であった者が被保険者の資格を喪失した日後<span class=\"period\">6月以内</span>に出産したときは、</span></div>\n    <div class=\"predicate-line\"><span class=\"predicate\">被保険者として受けることができるはずであった出産育児一時金の支給を最後の保険者から受けることができる。</span></div>\n  </div>\n</div>"
+  },
+  {
+    "reference": "法107条",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\">第104条から第106条の規定にかかわらず、</div><div class=\"predicate-line\">被保険者であった者が船員保険の被保険者となったときは、保険給付は、<span class=\"predicate\">行わない。</span>併給調整被保険者であった者が船員保険の被保険者になったときは、資格喪失後の傷病手当金または出産手当金の継続給付、資格喪失後の出産育児一時金及び埋葬料（埋葬費）の支給は行われない。</div></div></div></div>"
+  },
+  {
+    "reference": "法61条",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\">保険給付を受ける権利は、</div><div class=\"predicate-line\">譲り渡し、担保に供し、<span class=\"logic\">又は</span>差し押さえることが<span class=\"predicate\">できない。</span></div></div></div></div>"
+  },
+  {
+    "reference": "法62条",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\">租税その他の公課は、</div><div class=\"predicate-line\">保険給付として支給を受けた金品を標準として、課することが<span class=\"predicate\">できない。</span></div></div></div></div>"
+  },
+  {
+    "reference": "法55条",
+    "structured": "<div class=\"law-body\">\n  <div class=\"principle-section\">\n    <span class=\"item-number\">第1項</span>\n    <div class=\"subject-line\"><span class=\"subject\">被保険者に係る療養の給付<span class=\"logic\">又は</span>入院時食事療養費、入院時生活療養費、保険外併用療養費、療養費、訪問看護療養費、移送費、傷病手当金、埋葬料、家族療養費、家族訪問看護療養費、家族移送費<span class=\"logic\">若しくは</span>家族埋葬料の支給は、</span></div>\n    <div class=\"predicate-line\"><span class=\"predicate\">同一の疾病、負傷<span class=\"logic\">又は</span>死亡について、労働者災害補償保険法、国家公務員災害補償</span></div>\n  </div>\n</div>"
+  },
+  {
+    "reference": "法",
+    "structured": "<div class=\"law-body\">\n  <div class=\"principle-section\">\n    <ul class=\"condition-list\">\n      <li>又は地方公務員災害補償法<span class=\"logic\">若しくは</span>同法に基づく条例の規定によりこれらに相当する給付を受けることができる場合には</li>\n    </ul>\n    <div class=\"predicate-line\"><span class=\"predicate\">行わない。</span></div>\n  </div>\n  <div class=\"principle-section\">\n    <div class=\"subject-line\"><span class=\"subject\">労災保険法などによる給付との調整同一の傷病につき「健康保険法」の療養の給付等に相当する給付を他の法令（労災保険法、国家公務員災害補償法、地方公務員災害補償法など）の規定により受けることができるときは、</span></div>\n    <div class=\"predicate-line\"><span class=\"predicate\">健康保険の保険給付は行われない。</span></div>\n  </div>\n  <div class=\"principle-section\">\n    <div class=\"subject-line\"><span class=\"subject\">（法55条1項）2022改正保険者は、</span></div>\n    <ul class=\"condition-list\">\n      <li>「傷病手当金」の支給を行うにつき必要があると<span class=\"condition\">認めるとき</span>は</li>\n      <li>労働者災害補償保険法</li>\n      <li>国家公務員災害補償法または地方公務員災害補償法<span class=\"logic\">若しくは</span>同法に基づく条例の規定により給付を行う者に対し</li>\n      <li>当該給付の支給状況につき</li>\n    </ul>\n    <div class=\"predicate-line\"><span class=\"predicate\">必要な資料の提供を求めることができる。</span></div>\n  </div>\n</div>"
+  },
+  {
+    "reference": "法118条",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">◯1</span><div class=\"subject-line\"><span class=\"subject\">被保険者</span><span class=\"logic\">又は</span><span class=\"subject\">被保険者であった者</span>が、次の各号のいずれかに該当する場合には、</div><div class=\"predicate-line\">疾病、負傷<span class=\"logic\">又は</span>出産につき、その期間に係る保険給付（傷病手当金<span class=\"logic\">及び</span>出産手当金の支給にあっては、厚生労働省令で定める場合に限る。）は、<span class=\"predicate\">行わない。</span></div><ul class=\"condition-list\"><li>1. 少年院その他これに準ずる施設に収容されたとき。</li><li>2. 刑事施設、労役場その他これらに準ずる施設に拘禁されたとき。</li></ul></div><div class=\"principle-section\"><span class=\"item-number\">◯2</span><div class=\"subject-line\"><span class=\"subject\">保険者</span>は、</div><div class=\"predicate-line\"><span class=\"subject\">被保険者</span><span class=\"logic\">又は</span><span class=\"subject\">被保険者であった者</span>が前項各号のいずれかに該当する場合であっても、<span class=\"subject\">被扶養者</span>に係る保険給付を行うことを<span class=\"predicate\">妨げない。</span>被保険者が少年院などに収容などされた場合①（被保険者本人に係る保険給付）</div></div></div></div>"
+  },
+  {
+    "reference": "法116条",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\"><span class=\"subject\">被保険者</span><span class=\"logic\">又は</span><span class=\"subject\">被保険者であった者</span>が、自己の故意の犯罪行為により、<span class=\"logic\">又は</span>故意に給付事由を生じさせたときは、</div><div class=\"predicate-line\">当該給付事由に係る保険給付は、<span class=\"predicate\">行わない。</span></div></div></div></div>"
+  },
+  {
+    "reference": "法117条",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\"><span class=\"subject\">被保険者</span>が闘争、泥酔<span class=\"logic\">又は</span>著しい不行跡によって給付事由を生じさせたときは、</div><div class=\"predicate-line\">当該給付事由に係る保険給付は、その全部<span class=\"logic\">又は</span>一部を<span class=\"predicate\">行わないことができる。</span></div></div></div></div>"
+  },
+  {
+    "reference": "法121条",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\"><span class=\"subject\">保険者</span>は、</div><div class=\"predicate-line\">保険給付を受ける者が、正当な理由なしに、第59条の規定による命令に従わず、<span class=\"logic\">又は</span>答弁<span class=\"logic\">若しくは</span>受診を拒んだときは、保険給付の全部<span class=\"logic\">又は</span>一部を<span class=\"predicate\">行わないことができる。</span>相対的給付制限（全部または一部の給付制限）被保険者が闘争、泥酔または著しい不行跡によって給付事由を生じさせたときは、当該給付事由に係る保険給付は、その全部または一部を行わないことができる。</div></div></div></div>"
+  },
+  {
+    "reference": "法119条",
+    "structured": "<div class=\"law-body\">\n  <div class=\"principle-section\">\n    <div class=\"subject-line\"><span class=\"subject\">保険者は、</span></div>\n    <ul class=\"condition-list\">\n      <li>被保険者<span class=\"logic\">又は</span>被保険者であった者が</li>\n      <li>正当な理由なしに療養に関する指示に<span class=\"condition\">従わないとき</span>は</li>\n    </ul>\n    <div class=\"predicate-line\"><span class=\"predicate\">保険給付の一部を行わないことができる。</span></div>\n  </div>\n</div>"
+  },
+  {
+    "reference": "法120条",
+    "structured": "<div class=\"law-body\">\n  <div class=\"principle-section\">\n    <div class=\"subject-line\"><span class=\"subject\">保険者は、</span></div>\n    <ul class=\"condition-list\">\n      <li>偽りその他不正の行為により保険給付を受け</li>\n      <li><span class=\"logic\">又は</span>受けようとした者に対して</li>\n      <li><span class=\"period\">6月以内の期間を定め</span></li>\n    </ul>\n    <div class=\"predicate-line\"><span class=\"predicate\">その者に支給すべき傷病手当金<span class=\"logic\">又は</span>出産手当金の全部<span class=\"logic\">又は</span>一部を支給しない旨の決定をすることができる。</span></div>\n  </div>\n  <div class=\"exception-section\">\n    <div class=\"exception-keyword\"><span class=\"exception\">ただし、</span></div>\n    <ul class=\"condition-list\">\n      <li>偽りその他不正の行為があった日から<span class=\"period\">1年を経過したときは</span></li>\n    </ul>\n    <div class=\"predicate-line\"><span class=\"exception\">この限りでない。</span></div>\n  </div>\n</div>"
+  },
+  {
+    "reference": "法58条",
+    "structured": "<div class=\"law-body\">\n  <div class=\"principle-section\">\n    <span class=\"item-number\">第1項</span>\n    <div class=\"subject-line\"><span class=\"subject\">偽りその他不正の行為によって保険給付を受けた者があるときは、</span></div>\n    <ul class=\"condition-list\">\n      <li>保険者は</li>\n    </ul>\n    <div class=\"predicate-line\"><span class=\"predicate\">その者からその給付の価額（当該保険給付が療養の給付であるときは、当該療養の給付に要する費用の額から当該療養の給付に関し被保険者が負担しなければならない一部負担金に相当する額を控除した額。）の全部<span class=\"logic\">又は</span>一部を徴収することができる。</span></div>\n  </div>\n</div>"
+  },
+  {
+    "reference": "法57条",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">◯1</span><div class=\"subject-line\"><span class=\"subject\">保険者</span>は、</div><div class=\"predicate-line\">給付事由が第三者の行為によって生じた場合において、保険給付を行ったときは、その給付の価額（当該保険給付が療養の給付であるときは、当該療養の給付に要する費用の額から当該療養の給付に関し<span class=\"subject\">被保険者</span>が負担しなければならない一部負担金に相当する額を控除した額。）の限度において、保険給付を受ける権利を有する者（当該給付事由が被保険者の<span class=\"subject\">被扶養者</span>について生じた場合には、当該被扶養者を含む。次項において同じ。）が第三者に対して有する損害賠償の請求権を<span class=\"predicate\">取得する。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">◯2</span><div class=\"subject-line\">前項の場合において、保険給付を受ける権利を有する者が第三者から同一の事由について損害賠償を受けたときは、</div><div class=\"predicate-line\"><span class=\"subject\">保険者</span>は、その価額の限度において、保険給付を行う責めを<span class=\"predicate\">免れる。</span></div></div></div></div>"
+  },
+  {
+    "reference": "法203条",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">◯1</span><div class=\"subject-line\"><span class=\"subject\">日雇特例被保険者</span>の保険の保険者の事務のうち<span class=\"subject\">厚生労働大臣</span>が行うものの一部は、</div><div class=\"predicate-line\"><span class=\"subject\">市町村長</span>（特別区の区長を含むものとし、指定都市にあっては、区長<span class=\"logic\">又は</span>総合区長とする。）が行うこととすることが<span class=\"predicate\">できる。</span></div></div></div></div>"
+  },
+  {
+    "reference": "法124条",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">◯1</span><div class=\"subject-line\"><span class=\"subject\">標準賃金日額</span>は、</div><div class=\"predicate-line\"><span class=\"subject\">日雇特例被保険者</span>の賃金日額に基づき、所定の等級区分（等級区分の改定が行われたときは、改定後の等級区分）に<span class=\"predicate\">よる。</span></div></div></div></div>"
+  },
+  {
+    "reference": "法169条",
+    "structured": "<div class=\"law-body\">\n  <div class=\"principle-section\">\n    <span class=\"item-number\">第2項</span>\n    <div class=\"subject-line\"><span class=\"subject\">事業主（日雇特例被保険者が<span class=\"period\">1日</span>において2以上の事業所に使用される場合においては、初めにその者を使用する事業主）は、</span></div>\n    <ul class=\"condition-list\">\n      <li>日雇特例被保険者を使用する日ごとに</li>\n    </ul>\n    <div class=\"predicate-line\"><span class=\"predicate\">その者<span class=\"logic\">及び</span>自己の負担すべきその日の標準賃金日額に係る保険料を納付する義務を負う。</span></div>\n  </div>\n</div>"
+  },
+  {
+    "reference": "法173条",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">◯1</span><div class=\"subject-line\"><span class=\"subject\">厚生労働大臣</span>は、</div><div class=\"predicate-line\">日雇特例被保険者に係る健康保険事業に要する費用（前期高齢者納付金等<span class=\"logic\">及び</span>後期高齢者支援金等、介護納付金、流行初期医療確保拠出金等<span class=\"logic\">並びに</span>子ども・子育て支援納付金の納付に要する費用を含む。第175条において同じ。）に充てるため、第155条の規定により保険料を徴収するほか、毎年度、日雇特例被保険者を使用する事業主の設立する健康保険組合（以下「日雇関係組合」という。）から</div></div></div></div>"
+  },
+  {
+    "reference": "法150条",
+    "structured": "<div class=\"law-body\">\n  <div class=\"principle-section\">\n    <span class=\"item-number\">第1項</span>\n    <div class=\"subject-line\"><span class=\"subject\">保険者は、</span></div>\n    <ul class=\"condition-list\">\n      <li>高齢者医療確保法の規定による特定健康診査（次項において単に「特定健康診査」という。）<span class=\"logic\">及び</span>特定保健指導（以下「特定健康診査等」という。）を行うものとするほか</li>\n      <li>特定健康診査等以外の事業であって</li>\n      <li>健康教育</li>\n    </ul>\n    <div class=\"predicate-line\"><span class=\"predicate\">健康相談<span class=\"logic\">及び</span>健康診査<span class=\"logic\">並びに</span>健康管理<span class=\"logic\">及び</span>疾病の予防に係る被保険者<span class=\"logic\">及び</span>その被扶養者（以下「被保険者等」という。）の自助努力についての支援その他の被保険者等の健康の保持増進のために必要な事業を行うように努めなければならない。</span></div>\n  </div>\n</div>"
+  },
+  {
+    "reference": "法150条の2",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">◯1</span><div class=\"subject-line\"><span class=\"subject\">厚生労働大臣</span>は、</div><div class=\"predicate-line\">国民保健の向上に資するため、匿名診療等関連情報（診療等関連情報に係る特定の被保険者その他の厚生労働省令で定める者（「本人」という。）を識別すること<span class=\"logic\">及び</span>その作成に用いる診療等関連情報を復元することができないようにするために厚生労働省令で定める基準に従い加工した診療等関連情報をいう。以下同じ。）を利用し、<span class=\"logic\">又は</span>次の各号に掲げる者であって、匿名診療等関連情報の提供を受けて行うことについて相当の公益性を有すると認められる業務としてそれぞれ当該各号に定めるものを行うものに提供することが<span class=\"predicate\">できる。</span></div><ul class=\"condition-list\"><li>1. 国の他の行政機関<span class=\"logic\">及び</span>地方公共団体…適正な保健医療サービスの提供に資する施策の企画<span class=\"logic\">及び</span>立案に関する調査</li><li>2. 大学その他の研究機関…疾病の原因<span class=\"logic\">並びに</span>疾病の予防、診断<span class=\"logic\">及び</span>治療の方法に関する研究その他の公衆衛生の向上<span class=\"logic\">及び</span>増進に関する研究</li><li>3. 民間事業者その他の厚生労働省令で定める者…医療分野の研究開発に資する分析その他の厚生労働省令で定める業務（特定の商品<span class=\"logic\">又は</span>役務の広告<span class=\"logic\">又は</span>宣伝に利用するために行うものを除く。）</li></ul></div><div class=\"principle-section\"><span class=\"item-number\">◯3</span><div class=\"subject-line\"><span class=\"subject\">厚生労働大臣</span>は、</div><div class=\"predicate-line\">第1項の規定により匿名診療等関連情報を<span class=\"condition\">提供しようとする場合</span>には、あらかじめ、<span class=\"subject\">社会保障審議会</span>の意見を<span class=\"predicate\">聴かなければならない。</span></div></div></div></div>"
+  },
+  {
+    "reference": "法189条",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">◯1</span><div class=\"subject-line\">被保険者の資格、標準報酬<span class=\"logic\">又は</span>保険給付に関する処分に不服がある者は、</div><div class=\"predicate-line\"><span class=\"subject\">社会保険審査官</span>に対して審査請求をし、その決定に不服がある者は、<span class=\"subject\">社会保険審査会</span>に対して再審査請求を<span class=\"predicate\">することができる。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">◯2</span><div class=\"subject-line\">審査請求をした日から<span class=\"period\">2月以内</span>に決定がないときは、</div><div class=\"predicate-line\"><span class=\"subject\">審査請求人</span>は、<span class=\"subject\">社会保険審査官</span>が審査請求を棄却したものと<span class=\"predicate\">みなすことができる。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">◯3</span><div class=\"subject-line\">第1項の審査請求<span class=\"logic\">及び</span>再審査請求は、</div><div class=\"predicate-line\">時効の完成猶予<span class=\"logic\">及び</span>更新に関しては、裁判上の請求と<span class=\"predicate\">みなす。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">◯4</span><div class=\"subject-line\">被保険者の資格<span class=\"logic\">又は</span>標準報酬に関する処分が確定したときは、</div><div class=\"predicate-line\">その処分についての不服を当該処分に基づく保険給付に関する処分についての不服の理由とすることが<span class=\"predicate\">できない。</span>審査請求及び再審査請求</div></div></div></div>"
+  },
+  {
+    "reference": "法190条",
+    "structured": "<div class=\"law-body\">\n  <div class=\"principle-section\">\n    <div class=\"subject-line\"><span class=\"subject\">保険給付の処分<span class=\"logic\">若しくは</span>徴収の処分<span class=\"logic\">又は</span>滞納処分<span class=\"logic\">及び</span>滞納処分に不服がある者は、</span></div>\n    <div class=\"predicate-line\"><span class=\"predicate\">社会保険審査官に対して審査請求をすることができる。</span></div>\n  </div>\n</div>"
+  },
+  {
+    "reference": "法192条",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\">被保険者の資格、標準報酬<span class=\"logic\">又は</span>保険給付に関する処分の取消しの訴えは、</div><div class=\"predicate-line\">当該処分についての審査請求に対する<span class=\"subject\">社会保険審査官</span>の決定を経た後でなければ、提起することが<span class=\"predicate\">できない。</span>訴訟との関係</div></div></div></div>"
+  },
+  {
+    "reference": "法193条",
+    "structured": "<div class=\"law-article\"><div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">◯1</span><div class=\"subject-line\">保険料等を徴収し、<span class=\"logic\">又は</span>その還付を受ける権利<span class=\"logic\">及び</span>保険給付を受ける権利は、</div><div class=\"predicate-line\">これらを行使することができる時から<span class=\"period\">2年</span>を経過したときは、時効によって<span class=\"predicate\">消滅する。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">◯2</span><div class=\"subject-line\">保険料等の納入の告知<span class=\"logic\">又は</span>督促は、</div><div class=\"predicate-line\">時効更新の効力を<span class=\"predicate\">有する。</span></div></div></div></div>"
+  }
+]
