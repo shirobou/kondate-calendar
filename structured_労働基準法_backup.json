@@ -1,0 +1,458 @@
+[
+  {
+    "reference": "法1条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"subject\">労働条件</span>は、</div><ul class=\"condition-list\"><li><span class=\"subject\">労働者</span>が人たるに値する生活を営むための</li><li>必要を充たすべきもので</li></ul><div class=\"predicate-line\"><span class=\"predicate\">なければならない。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">第2項</span><div class=\"subject-line\"><span class=\"subject\">労働基準法で定める労働条件の基準</span>は<span class=\"period\">最低のもの</span>であるから、</div><div class=\"subject-line\"><span class=\"subject\">労働関係の当事者</span>は、</div><ul class=\"condition-list\"><li>この基準を理由として労働条件を低下<span class=\"predicate\">させてはならない</span>ことはもとより、</li><li>その向上を図るように<span class=\"predicate\">努めなければならない。</span></li></ul></div></div>"
+  },
+  {
+    "reference": "法112条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\"><span class=\"subject\">労働基準法<span class=\"logic\">及び</span>労働基準法に基づいて発する命令</span>は、</div><ul class=\"condition-list\"><li>国、</li><li>都道府県、</li><li>市町村その他これに準ずべきものについても</li></ul><div class=\"predicate-line\"><span class=\"predicate\">適用あるものとする。</span></div></div></div>"
+  },
+  {
+    "reference": "法116条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"subject\">労働基準法</span>は、</div><ul class=\"condition-list\"><li>第1条から第11条まで、次項、第117条から第119条まで<span class=\"logic\">及び</span>第121条の規定を除き、</li><li>船員法第1条第1項に規定する船員については、</li></ul><div class=\"predicate-line\"><span class=\"predicate\">適用しない。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">第2項</span><div class=\"subject-line\"><span class=\"subject\">労働基準法</span>は、</div><ul class=\"condition-list\"><li>同居の親族のみを使用する事業</li><li class=\"logic-item\"><span class=\"logic\">及び</span></li><li>家事使用人</li></ul><div class=\"predicate-line\">については、<span class=\"predicate\">適用しない。</span></div></div></div>"
+  },
+  {
+    "reference": "法9条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\">労働基準法で「<span class=\"subject\">労働者</span>」とは、</div><ul class=\"condition-list\"><li>職業の種類を問わず、</li><li>事業<span class=\"logic\">又は</span>事務所（以下「事業」という。）に使用される者で、</li></ul><div class=\"predicate-line\"><span class=\"predicate\">賃金を支払われる者をいう。</span></div></div></div>"
+  },
+  {
+    "reference": "法10条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\">労働基準法で「<span class=\"subject\">使用者</span>」とは、</div><ul class=\"condition-list\"><li>事業主</li><li class=\"logic-item\"><span class=\"logic\">又は</span></li><li>事業の経営担当者</li><li>その他その事業の労働者に関する事項について、</li><li>事業主のために行為をするすべての者</li></ul><div class=\"predicate-line\">を<span class=\"predicate\">いう。</span></div></div></div>"
+  },
+  {
+    "reference": "法2条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"subject\">労働条件</span>は、</div><ul class=\"condition-list\"><li><span class=\"subject\">労働者と使用者</span>が、対等の立場において</li></ul><div class=\"predicate-line\"><span class=\"predicate\">決定すべきものである。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">第2項</span><div class=\"subject-line\"><span class=\"subject\">労働者<span class=\"logic\">及び</span>使用者</span>は、</div><ul class=\"condition-list\"><li>労働協約、就業規則<span class=\"logic\">及び</span>労働契約を遵守し、</li><li>誠実に各々その義務を</li></ul><div class=\"predicate-line\"><span class=\"predicate\">履行しなければならない。</span></div></div></div>"
+  },
+  {
+    "reference": "法3条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\"><span class=\"subject\">使用者</span>は、</div><ul class=\"condition-list\"><li><span class=\"subject\">労働者</span>の国籍、信条<span class=\"logic\">又は</span>社会的身分を理由として、</li><li>賃金、労働時間その他の労働条件について、</li></ul><div class=\"predicate-line\"><span class=\"predicate\">差別的取扱をしてはならない。</span></div></div></div>"
+  },
+  {
+    "reference": "法4条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\"><span class=\"subject\">使用者</span>は、</div><ul class=\"condition-list\"><li><span class=\"subject\">労働者</span>が女性であることを理由として、</li><li>賃金について、男性と</li></ul><div class=\"predicate-line\"><span class=\"predicate\">差別的取扱いをしてはならない。</span></div></div></div>"
+  },
+  {
+    "reference": "法7条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\"><span class=\"subject\">使用者</span>は、</div><ul class=\"condition-list\"><li><span class=\"subject\">労働者が労働時間中に、選挙権その他公民としての権利を行使し、<span class=\"logic\">又は</span>公の職務を執行するために必要な時間を請求した場合</span>においては、</li></ul><div class=\"predicate-line\"><span class=\"predicate\">拒んではならない。</span></div></div><div class=\"exception-section\"><div class=\"exception-keyword\"><span class=\"exception\">ただし、</span></div><ul class=\"condition-list\"><li>権利の行使<span class=\"logic\">又は</span>公の職務の執行に妨げがない限り、</li></ul><div class=\"predicate-line\"><span class=\"exception\">請求された時刻を変更することができる。</span></div></div></div>"
+  },
+  {
+    "reference": "法5条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\"><span class=\"subject\">使用者</span>は、</div><ul class=\"condition-list\"><li>暴行、脅迫、監禁その他精神<span class=\"logic\">又は</span>身体の自由を不当に拘束する手段によって、</li><li><span class=\"subject\">労働者</span>の意思に反して</li></ul><div class=\"predicate-line\">労働を<span class=\"predicate\">強制してはならない。</span></div></div></div>"
+  },
+  {
+    "reference": "法6条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\"><span class=\"subject\">何人</span>も、</div><ul class=\"condition-list\"><li><span class=\"condition\">法律に基づいて許される場合</span>の外、</li><li>業として他人の就業に介入して利益を得て</li></ul><div class=\"predicate-line\"><span class=\"predicate\">はならない。</span></div></div></div>"
+  },
+  {
+    "reference": "法16条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\"><span class=\"subject\">使用者</span>は、</div><ul class=\"condition-list\"><li>労働契約の不履行について違約金を定め、</li><li class=\"logic-item\"><span class=\"logic\">又は</span></li><li>損害賠償額を予定する契約を</li></ul><div class=\"predicate-line\"><span class=\"predicate\">してはならない。</span></div></div></div>"
+  },
+  {
+    "reference": "法17条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\"><span class=\"subject\">使用者</span>は、</div><ul class=\"condition-list\"><li>前借金その他労働することを条件とする前貸の債権と</li><li>賃金を</li></ul><div class=\"predicate-line\"><span class=\"predicate\">相殺してはならない。</span></div></div></div>"
+  },
+  {
+    "reference": "法18条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"subject\">使用者</span>は、</div><ul class=\"condition-list\"><li>労働契約に附随して貯蓄の契約をさせ、</li><li class=\"logic-item\"><span class=\"logic\">又は</span></li><li>貯蓄金を管理する契約を</li></ul><div class=\"predicate-line\"><span class=\"predicate\">してはならない。</span></div></div></div>"
+  },
+  {
+    "reference": "法13条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\"><span class=\"subject\">労働基準法で定める基準に達しない労働条件を定める労働契約</span>は、</div><div class=\"predicate-line\">その部分については<span class=\"predicate\">無効とする。</span></div></div><div class=\"principle-section\"><div class=\"subject-line\">この場合において、<span class=\"subject\">無効となった部分</span>は、</div><div class=\"predicate-line\"><span class=\"predicate\">労働基準法で定める基準による。</span></div></div></div>"
+  },
+  {
+    "reference": "法14条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"subject\">労働契約</span>は、</div><ul class=\"condition-list\"><li>期間の定めのないものを除き、</li><li>一定の事業の完了に必要な期間を定めるもののほかは、</li></ul><div class=\"predicate-line\"><span class=\"period\">3年</span>（次の各号のいずれかに該当する労働契約にあっては、<span class=\"period\">5年</span>）を超える期間について<span class=\"predicate\">締結してはならない。</span></div><ul class=\"condition-list\"><li>1. 高度の専門的知識等を有する<span class=\"subject\">労働者</span>との間に締結される労働契約</li><li>2. <span class=\"period\">満60歳以上</span>の<span class=\"subject\">労働者</span>との間に締結される労働契約</li></ul></div></div>"
+  },
+  {
+    "reference": "附則137条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\"><span class=\"subject\">期間の定めのある労働契約を締結した労働者</span>は、</div><ul class=\"condition-list\"><li>（一定の事業の完了に必要な期間を定めるものを除き、その期間が<span class=\"period\">1年を超えるもの</span>に限る。）</li><li>（契約期間の上限が<span class=\"period\">5年である労働者</span>を除く。）</li></ul><div class=\"predicate-line\">当分の間、当該労働契約の期間の初日から<span class=\"period\">1年を経過した日以後</span>においては、<br>その使用者に申し出ることにより、いつでも<span class=\"predicate\">退職することができる。</span></div></div></div>"
+  },
+  {
+    "reference": "法15条1項",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"subject\">使用者</span>は、</div><ul class=\"condition-list\"><li>労働契約の締結に際し、</li><li><span class=\"subject\">労働者</span>に対して賃金、労働時間その他の労働条件を</li></ul><div class=\"predicate-line\"><span class=\"predicate\">明示しなければならない。</span></div></div></div>"
+  },
+  {
+    "reference": "法15条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第2項</span><div class=\"subject-line\">明示された労働条件が<span class=\"condition\">事実と相違する場合</span>においては、</div><ul class=\"condition-list\"><li><span class=\"subject\">労働者</span>は、</li></ul><div class=\"predicate-line\">即時に労働契約を<span class=\"predicate\">解除することができる。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">第3項</span><div class=\"subject-line\">就業のために住居を変更した<span class=\"subject\">労働者</span>が、</div><ul class=\"condition-list\"><li>契約解除の日から<span class=\"period\">14日以内</span>に帰郷する<span class=\"condition\">場合</span>においては、</li></ul><div class=\"predicate-line\"><span class=\"subject\">使用者</span>は、必要な旅費を<span class=\"predicate\">負担しなければならない。</span></div></div></div>"
+  },
+  {
+    "reference": "法19条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"subject\">使用者</span>は、</div><ul class=\"condition-list\"><li><span class=\"subject\">労働者が業務上負傷し、<span class=\"logic\">又は</span>疾病にかかり療養のために休業する期間</span><span class=\"logic\">及び</span>その後<span class=\"period\">30日間</span></li><li class=\"logic-item\"><span class=\"logic\">並びに</span></li><li>産前産後の<span class=\"subject\">女性が第65条の規定によって休業する期間</span><span class=\"logic\">及び</span>その後<span class=\"period\">30日間</span></li></ul><div class=\"predicate-line\">は、<span class=\"predicate\">解雇してはならない。</span></div></div></div>"
+  },
+  {
+    "reference": "法19条1項",
+    "structured": "<div class=\"law-body\"><div class=\"exception-section\"><div class=\"exception-keyword\"><span class=\"exception\">ただし、</span>次の場合には解雇制限は適用されない。</div><ul class=\"condition-list\"><li>1. <span class=\"subject\">使用者が法第81条の規定によって<span class=\"period\">打切補償</span>を支払う場合</span></li><li>2. 天災事変その他やむを得ない事由のために事業の継続が不可能と<span class=\"condition\">なった場合</span></li></ul></div><div class=\"principle-section\"><span class=\"item-number\">第2項</span><div class=\"subject-line\">前項2.の<span class=\"condition\">場合</span>においては、</div><div class=\"predicate-line\">その事由について<span class=\"subject\">行政官庁</span>（所轄労働基準監督署長）の<span class=\"predicate\">認定を受けなければならない。</span></div></div></div>"
+  },
+  {
+    "reference": "法20条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"subject\">使用者</span>は、</div><ul class=\"condition-list\"><li><span class=\"subject\">労働者</span>を解雇しようとする<span class=\"condition\">場合</span>においては、</li></ul><div class=\"predicate-line\">少なくとも<span class=\"period\">30日前</span>にその予告を<span class=\"predicate\">しなければならない。</span></div></div><div class=\"principle-section\"><div class=\"subject-line\"><span class=\"period\">30日前</span>に予告をしない<span class=\"subject\">使用者</span>は、</div><div class=\"predicate-line\"><span class=\"period\">30日分以上</span>の<span class=\"period\">平均賃金</span>を<span class=\"predicate\">支払わなければならない。</span></div></div></div>"
+  },
+  {
+    "reference": "法20条1項",
+    "structured": "<div class=\"law-body\"><div class=\"exception-section\"><div class=\"exception-keyword\"><span class=\"exception\">ただし、</span>次の場合には解雇予告の規定は適用されない。</div><ul class=\"condition-list\"><li>1. 天災事変その他やむを得ない事由のために事業の継続が不可能と<span class=\"condition\">なった場合</span></li><li class=\"logic-item\"><span class=\"logic\">又は</span></li><li>2. <span class=\"subject\">労働者の責に帰すべき事由に基づいて解雇する場合</span></li></ul></div><div class=\"principle-section\"><span class=\"item-number\">第3項</span><div class=\"subject-line\">上記1.の<span class=\"condition\">場合</span>においては、</div><div class=\"predicate-line\">その事由について<span class=\"subject\">行政官庁</span>（所轄労働基準監督署長）の<span class=\"predicate\">認定を受けなければならない。</span></div></div></div>"
+  },
+  {
+    "reference": "法21条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\">第20条の<span class=\"subject\">解雇予告の規定</span>は、</div><div class=\"predicate-line\">次に掲げる<span class=\"subject\">労働者</span>については<span class=\"predicate\">適用しない。</span></div><ul class=\"condition-list\"><li>1. 日日雇い入れられる者（<span class=\"period\">1箇月を超えて引き続き使用される</span>に至った場合を除く。）</li><li>2. <span class=\"period\">2箇月以内の期間を定めて使用される者</span>（所定の期間を超えて引き続き使用されるに至った場合を除く。）</li><li>3. 季節的業務に<span class=\"period\">4箇月以内の期間を定めて使用される者</span>（所定の期間を超えて引き続き使用されるに至った場合を除く。）</li><li>4. 試の使用期間中の者（<span class=\"period\">14日を超えて引き続き使用される</span>に至った場合を除く。）</li></ul></div></div>"
+  },
+  {
+    "reference": "法22条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"subject\">労働者</span>が、退職の場合において、</div><ul class=\"condition-list\"><li>使用期間、</li><li>業務の種類、</li><li>その事業における地位、</li><li>賃金<span class=\"logic\">又は</span>退職の事由<br>（退職の事由が解雇の場合にあっては、その理由を含む。）</li></ul><div class=\"subject-line\">について証明書を請求した<span class=\"condition\">場合</span>においては、</div><div class=\"predicate-line\"><span class=\"subject\">使用者</span>は、<span class=\"predicate\">遅滞なくこれを交付しなければならない。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">第2項</span><div class=\"subject-line\"><span class=\"subject\">労働者</span>が、<span class=\"period\">解雇の予告がされた日</span>から退職の日までの間において、</div><ul class=\"condition-list\"><li>当該解雇の理由について証明書を請求した<span class=\"condition\">場合</span>においては、</li></ul><div class=\"predicate-line\"><span class=\"subject\">使用者</span>は、<span class=\"predicate\">遅滞なくこれを交付しなければならない。</span></div></div><div class=\"exception-section\"><div class=\"exception-keyword\"><span class=\"exception\">ただし、</span></div><ul class=\"condition-list\"><li>解雇の予告がされた日以後に<span class=\"subject\">労働者</span>が当該解雇以外の事由により退職した<span class=\"condition\">場合</span>においては、</li></ul><div class=\"predicate-line\"><span class=\"subject\">使用者</span>は、当該退職の日以後、これを<span class=\"exception\">交付することを要しない。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">第3項</span><div class=\"subject-line\">前2項の<span class=\"subject\">証明書</span>には、</div><div class=\"predicate-line\"><span class=\"subject\">労働者</span>の請求しない事項を<span class=\"predicate\">記入してはならない。</span></div></div></div>"
+  },
+  {
+    "reference": "法23条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"subject\">使用者</span>は、</div><ul class=\"condition-list\"><li><span class=\"subject\">労働者の死亡<span class=\"logic\">又は</span>退職の場合</span>において、</li><li><span class=\"condition\">権利者の請求があった場合</span>においては、</li></ul><div class=\"predicate-line\"><span class=\"period\">7日以内</span>に賃金を支払い、積立金、保証金、貯蓄金その他名称のいかんを問わず、労働者の権利に属する金品を<span class=\"predicate\">返還しなければならない。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">第2項</span><div class=\"subject-line\">賃金<span class=\"logic\">又は</span>金品に関して争いがある場合においては、</div><div class=\"predicate-line\"><span class=\"subject\">使用者</span>は、異議のない部分を、<span class=\"period\">7日以内</span>に支払い、<span class=\"logic\">又は</span><span class=\"predicate\">返還しなければならない。</span></div></div></div>"
+  },
+  {
+    "reference": "法11条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\">労働基準法で<span class=\"subject\">賃金</span>とは、</div><ul class=\"condition-list\"><li>賃金、給料、手当、賞与その他名称のいかんを問わず、</li><li>労働の対償として<span class=\"subject\">使用者</span>が<span class=\"subject\">労働者</span>に支払うすべてのもの</li></ul><div class=\"predicate-line\">を<span class=\"predicate\">いう。</span></div></div></div>"
+  },
+  {
+    "reference": "法12条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\">労働基準法で<span class=\"subject\">平均賃金</span>とは、</div><ul class=\"condition-list\"><li>これを算定すべき事由の発生した日以前<span class=\"period\">3箇月間</span>に</li><li>その<span class=\"subject\">労働者</span>に対し支払われた<span class=\"period\">賃金の総額</span>を、</li><li>その期間の<span class=\"period\">総日数</span>で除した金額</li></ul><div class=\"predicate-line\">を<span class=\"predicate\">いう。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">第2項</span><div class=\"subject-line\">前項の<span class=\"subject\">期間</span>は、</div><ul class=\"condition-list\"><li><span class=\"condition\">賃金締切日がある場合</span>においては、</li></ul><div class=\"predicate-line\"><span class=\"period\">直前の賃金締切日</span>から<span class=\"predicate\">起算する。</span></div></div></div>"
+  },
+  {
+    "reference": "法12条1項",
+    "structured": "<div class=\"law-body\"><div class=\"exception-section\"><div class=\"exception-keyword\"><span class=\"exception\">ただし、</span><span class=\"subject\">平均賃金の金額</span>は、次の各号によって計算した金額を下ってはならない。</div><ul class=\"condition-list\"><li>ア. 賃金が、労働した日<span class=\"logic\">若しくは</span>時間によって算定され、<span class=\"logic\">又は</span>出来高払制その他の請負制によって定められた<span class=\"condition\">場合</span><br>→ <span class=\"period\">賃金の総額</span>をその期間中に<span class=\"period\">労働した日数</span>で除した金額の<span class=\"period\">100分の60</span></li><li>イ. 賃金の一部が、月、週その他一定の期間によって定められた<span class=\"condition\">場合</span><br>→ その部分の総額をその期間の<span class=\"period\">総日数</span>で除した金額と<br>　 ア.の金額の<span class=\"period\">合算額</span></li></ul></div></div>"
+  },
+  {
+    "reference": "法24条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"subject\">賃金</span>は、</div><ul class=\"condition-list\"><li><span class=\"period\">通貨</span>で、</li><li><span class=\"period\">直接</span>労働者に、</li><li>その<span class=\"period\">全額</span>を</li></ul><div class=\"predicate-line\"><span class=\"predicate\">支払わなければならない。</span></div></div><div class=\"exception-section\"><div class=\"exception-keyword\"><span class=\"exception\">ただし、</span>通貨払いの例外：</div><ul class=\"condition-list\"><li><span class=\"period\">労働協約</span>に別段の定めがある場合</li><li class=\"logic-item\"><span class=\"logic\">又は</span></li><li>厚生労働省令で定める確実な支払方法による場合</li></ul><div class=\"predicate-line\">→ <span class=\"period\">通貨以外のもの</span>で<span class=\"exception\">支払うことができる。</span></div></div><div class=\"exception-section\"><div class=\"exception-keyword\">全額払いの例外：</div><ul class=\"condition-list\"><li><span class=\"period\">法令</span>に別段の定めがある場合</li><li class=\"logic-item\"><span class=\"logic\">又は</span></li><li><span class=\"period\">労使協定</span>がある場合</li></ul><div class=\"predicate-line\">→ 賃金の<span class=\"period\">一部を控除</span>して<span class=\"exception\">支払うことができる。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">第2項</span><div class=\"subject-line\"><span class=\"subject\">賃金</span>は、</div><ul class=\"condition-list\"><li><span class=\"period\">毎月1回以上</span>、</li><li><span class=\"period\">一定の期日</span>を定めて</li></ul><div class=\"predicate-line\"><span class=\"predicate\">支払わなければならない。</span></div></div><div class=\"exception-section\"><div class=\"exception-keyword\"><span class=\"exception\">ただし、</span></div><ul class=\"condition-list\"><li>臨時に支払われる賃金、</li><li><span class=\"period\">賞与</span>その他これに準ずるもので厚生労働省令で定める賃金</li></ul><div class=\"predicate-line\">については、<span class=\"exception\">この限りでない。</span></div></div></div>"
+  },
+  {
+    "reference": "令",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"subject\">賃金</span>は、</div><ul class=\"condition-list\"><li><span class=\"period\">通貨</span>で、</li><li><span class=\"period\">直接</span>労働者に、</li><li>その<span class=\"period\">全額</span>を</li></ul><div class=\"predicate-line\"><span class=\"predicate\">支払わなければならない。</span></div></div><div class=\"exception-section\"><div class=\"exception-keyword\"><span class=\"exception\">ただし、</span>通貨払いの例外：</div><ul class=\"condition-list\"><li><span class=\"period\">労働協約</span>に別段の定めがある場合</li><li class=\"logic-item\"><span class=\"logic\">又は</span></li><li>厚生労働省令で定める確実な支払方法による場合</li></ul><div class=\"predicate-line\">→ <span class=\"period\">通貨以外のもの</span>で<span class=\"exception\">支払うことができる。</span></div></div><div class=\"exception-section\"><div class=\"exception-keyword\">全額払いの例外：</div><ul class=\"condition-list\"><li><span class=\"period\">法令</span>に別段の定めがある場合</li><li class=\"logic-item\"><span class=\"logic\">又は</span></li><li><span class=\"period\">労使協定</span>がある場合</li></ul><div class=\"predicate-line\">→ 賃金の<span class=\"period\">一部を控除</span>して<span class=\"exception\">支払うことができる。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">第2項</span><div class=\"subject-line\"><span class=\"subject\">賃金</span>は、</div><ul class=\"condition-list\"><li><span class=\"period\">毎月1回以上</span>、</li><li><span class=\"period\">一定の期日</span>を定めて</li></ul><div class=\"predicate-line\"><span class=\"predicate\">支払わなければならない。</span></div></div><div class=\"exception-section\"><div class=\"exception-keyword\"><span class=\"exception\">ただし、</span></div><ul class=\"condition-list\"><li>臨時に支払われる賃金、</li><li><span class=\"period\">賞与</span>その他これに準ずるもので厚生労働省令で定める賃金</li></ul><div class=\"predicate-line\">については、<span class=\"exception\">この限りでない。</span></div></div></div>"
+  },
+  {
+    "reference": "法25条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\"><span class=\"subject\">使用者</span>は、</div><ul class=\"condition-list\"><li><span class=\"subject\">労働者</span>が出産、疾病、災害その他厚生労働省令で定める非常の場合の費用に充てるために<span class=\"condition\">請求する場合</span>においては、</li><li><span class=\"period\">支払期日前</span>であっても、</li></ul><div class=\"predicate-line\">既往の労働に対する賃金を<span class=\"predicate\">支払わなければならない。</span></div></div></div>"
+  },
+  {
+    "reference": "法26条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\"><span class=\"condition\">使用者の責に帰すべき事由による休業の場合</span>においては、</div><ul class=\"condition-list\"><li><span class=\"subject\">使用者</span>は、</li><li>休業期間中当該<span class=\"subject\">労働者</span>に、</li></ul><div class=\"predicate-line\">その<span class=\"period\">平均賃金の100分の60以上</span>の手当を<span class=\"predicate\">支払わなければならない。</span></div></div></div>"
+  },
+  {
+    "reference": "法27条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\"><span class=\"subject\">出来高払制その他の請負制</span>で使用する<span class=\"subject\">労働者</span>については、</div><ul class=\"condition-list\"><li><span class=\"subject\">使用者</span>は、</li></ul><div class=\"predicate-line\"><span class=\"period\">労働時間</span>に応じ一定額の賃金の保障を<span class=\"predicate\">しなければならない。</span></div></div></div>"
+  },
+  {
+    "reference": "法41条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\">次のいずれかに該当する者には、</div><ul class=\"condition-list\"><li>1. 農業<span class=\"logic\">又は</span>水産・畜産業の事業に従事する者</li><li>2. 監督若しくは管理の地位にある者<span class=\"logic\">又は</span>機密の事務を取り扱う者</li><li>3. 監視<span class=\"logic\">又は</span>断続的労働に従事する者で、<span class=\"subject\">行政官庁の許可を受けたもの</span></li></ul><div class=\"predicate-line\">労働時間、休憩<span class=\"logic\">及び</span>休日に関する規定は、<span class=\"predicate\">適用しない。</span></div></div></div>"
+  },
+  {
+    "reference": "法41条の2",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"subject\">労使委員会</span>が設置された事業場において、</div><ul class=\"condition-list\"><li>当該委員会がその委員の<span class=\"period\">5分の4以上</span>の多数による議決により所定事項に関する決議をし、</li><li class=\"logic-item\"><span class=\"logic\">かつ</span></li><li><span class=\"subject\">使用者</span>が当該決議を<span class=\"subject\">行政官庁</span>（所轄労働基準監督署長）に届け出た<span class=\"condition\">場合</span>において、</li><li><span class=\"subject\">対象労働者</span>であって書面によりその同意を得たものを<br>当該事業場における対象業務に就かせたときは、</li></ul><div class=\"predicate-line\">労働時間、休憩、休日<span class=\"logic\">及び</span>深夜の割増賃金に関する規定は、<span class=\"predicate\">適用しない。</span></div></div></div>"
+  },
+  {
+    "reference": "則6条の2",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\">「<span class=\"subject\">過半数代表者</span>」は、次の各号の<span class=\"condition\">いずれにも該当する者</span>とする。</div><ul class=\"condition-list\"><li>ア. 法第41条第2号に規定する監督<span class=\"logic\">又は</span>管理の地位にある者<span class=\"predicate\">でないこと。</span></li><li>イ. 法に規定する協定等をする者を選出することを明らかにして実施される投票、挙手等の方法による手続により選出された者であって、<span class=\"subject\">使用者の意向に基づき選出されたもの<span class=\"predicate\">でない</span>こと。</span></li></ul></div></div>"
+  },
+  {
+    "reference": "法32条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"subject\">使用者</span>は、</div><ul class=\"condition-list\"><li><span class=\"subject\">労働者</span>に、</li><li>休憩時間を除き<span class=\"period\">1週間について40時間</span>を超えて、</li></ul><div class=\"predicate-line\"><span class=\"predicate\">労働させてはならない。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">第2項</span><div class=\"subject-line\"><span class=\"subject\">使用者</span>は、</div><ul class=\"condition-list\"><li><span class=\"period\">1週間の各日</span>については、<span class=\"subject\">労働者</span>に、</li><li>休憩時間を除き<span class=\"period\">1日について8時間</span>を超えて、</li></ul><div class=\"predicate-line\"><span class=\"predicate\">労働させてはならない。</span></div></div></div>"
+  },
+  {
+    "reference": "則25条の2",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"subject\">使用者</span>は、</div><ul class=\"condition-list\"><li>法別表第1第8号（<span class=\"period\">商業</span>）、</li><li>第10号（<span class=\"period\">映画・演劇業</span>（映画の製作の事業を除く。））、</li><li>第13号（<span class=\"period\">保健衛生業</span>）<span class=\"logic\">及び</span></li><li>第14号（<span class=\"period\">接客娯楽業</span>）</li></ul><div class=\"subject-line\">に掲げる事業のうち<span class=\"period\">常時10人未満</span>の労働者を使用するものについては、</div><div class=\"predicate-line\">法第32条の規定にかかわらず、<span class=\"period\">1週間について44時間</span>、<span class=\"period\">1日について8時間</span>まで<span class=\"predicate\">労働させることができる。</span></div></div></div>"
+  },
+  {
+    "reference": "法38条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"subject\">労働時間</span>は、</div><ul class=\"condition-list\"><li><span class=\"condition\">事業場を異にする場合</span>においても、</li></ul><div class=\"predicate-line\">労働時間に関する規定の適用については<span class=\"predicate\">通算する。</span></div></div></div>"
+  },
+  {
+    "reference": "法32条の2",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"subject\">使用者</span>は、</div><ul class=\"condition-list\"><li>労使協定により、<span class=\"logic\">又は</span>就業規則その他これに準ずるものにより、</li><li><span class=\"period\">1箇月以内の一定の期間を平均し<span class=\"period\">1週間当たりの労働時間が40時間</span>を超えない定めをしたとき</span>は、</li></ul><div class=\"predicate-line\">その定めにより、特定された週において<span class=\"period\">40時間</span><span class=\"logic\">又は</span>特定された日において<span class=\"period\">8時間</span>を超えて、<span class=\"predicate\">労働させることができる。</span></div></div></div>"
+  },
+  {
+    "reference": "法32条の3第1項",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\"><span class=\"subject\">使用者</span>は、</div><ul class=\"condition-list\"><li>就業規則その他これに準ずるものにより、始業<span class=\"logic\">及び</span>終業の時刻を労働者の決定に委ねることとした<span class=\"subject\">労働者</span>については、</li><li><span class=\"condition\">労使協定により所定の事項を定めたとき</span>は、</li></ul><div class=\"predicate-line\"><span class=\"predicate\">労働させることができる。</span></div></div></div>"
+  },
+  {
+    "reference": "法32条の4",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"subject\">使用者</span>は、</div><ul class=\"condition-list\"><li><span class=\"condition\">労使協定により所定の事項を定めたとき</span>は、</li></ul><div class=\"predicate-line\">対象期間を平均し<span class=\"period\">1週間当たり40時間</span>を超えない範囲内において、特定された週において<span class=\"period\">40時間</span><span class=\"logic\">又は</span>特定された日において<span class=\"period\">8時間</span>を超えて、<span class=\"predicate\">労働させることができる。</span></div></div></div>"
+  },
+  {
+    "reference": "法32条の4第1項",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\"><span class=\"subject\">使用者</span>は、</div><ul class=\"condition-list\"><li>対象期間を<span class=\"period\">1箇月以上の期間ごとに区分することとした場合</span>においては、</li></ul><div class=\"predicate-line\">労使協定に、最初の期間における労働日<span class=\"logic\">及び</span>労働日ごとの労働時間<span class=\"logic\">並びに</span>最初の期間を除く各期間における労働日数<span class=\"logic\">及び</span>総労働時間の定めを<span class=\"predicate\">しなければならない。</span></div></div></div>"
+  },
+  {
+    "reference": "法32条の4第2項",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第2項</span><div class=\"subject-line\"><span class=\"subject\">使用者</span>は、</div><ul class=\"condition-list\"><li>最初の期間を除く各期間における労働日数<span class=\"logic\">及び</span>総労働時間を定めたときは、</li></ul><div class=\"predicate-line\">当該各期間の初日の少なくとも<span class=\"period\">30日前</span>に、過半数労働組合<span class=\"logic\">又は</span>過半数代表者の同意を得て、労働日<span class=\"logic\">及び</span>労働日ごとの労働時間を<span class=\"predicate\">定めなければならない。</span></div></div></div>"
+  },
+  {
+    "reference": "法32条の4の2",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\"><span class=\"subject\">使用者</span>が、</div><ul class=\"condition-list\"><li>1年単位の変形労働時間制により労働させた期間が対象期間より短い<span class=\"subject\">労働者</span>について、</li><li>当該労働させた期間を平均し<span class=\"period\">1週間当たり40時間を超えて労働させた場合</span>においては、</li></ul><div class=\"predicate-line\">その超えた時間の労働については、第37条の規定の例により<span class=\"period\">割増賃金</span>を<span class=\"predicate\">支払わなければならない。</span></div></div></div>"
+  },
+  {
+    "reference": "法32条の5",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"subject\">使用者</span>は、</div><ul class=\"condition-list\"><li>日ごとの業務に著しい繁閑の差が生ずることが多く、かつ、各日の労働時間を特定することが困難である小売業、旅館、料理店<span class=\"logic\">及び</span>飲食店の事業であって、<span class=\"period\">常時30人未満のもの</span>に従事する<span class=\"subject\">労働者</span>については、</li><li><span class=\"condition\">労使協定があるとき</span>は、</li></ul><div class=\"predicate-line\"><span class=\"period\">1日について10時間</span>まで<span class=\"predicate\">労働させることができる。</span></div></div></div>"
+  },
+  {
+    "reference": "法34条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"subject\">使用者</span>は、</div><ul class=\"condition-list\"><li>労働時間が<span class=\"period\">6時間を超える場合</span> → 少なくとも<span class=\"period\">45分</span></li><li><span class=\"period\">8時間を超える場合</span> → 少なくとも<span class=\"period\">1時間</span></li></ul><div class=\"predicate-line\">の休憩時間を労働時間の途中に<span class=\"predicate\">与えなければならない。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">第2項</span><div class=\"subject-line\">前項の<span class=\"subject\">休憩時間</span>は、</div><div class=\"predicate-line\"><span class=\"predicate\">一斉に与えなければならない。</span></div></div><div class=\"exception-section\"><div class=\"exception-keyword\"><span class=\"exception\">ただし、</span></div><ul class=\"condition-list\"><li><span class=\"condition\">労使協定があるとき</span></li></ul><div class=\"predicate-line\"><span class=\"exception\">→ この限りでない。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">第3項</span><div class=\"subject-line\"><span class=\"subject\">使用者</span>は、</div><div class=\"predicate-line\">第1項の休憩時間を<span class=\"predicate\">自由に利用させなければならない。</span></div></div></div>"
+  },
+  {
+    "reference": "法35条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"subject\">使用者</span>は、</div><div class=\"predicate-line\"><span class=\"subject\">労働者</span>に対して、<span class=\"period\">毎週少なくとも1回</span>の休日を<span class=\"predicate\">与えなければならない。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">第2項</span><div class=\"subject-line\">前項の規定は、</div><ul class=\"condition-list\"><li><span class=\"period\">4週間を通じ4日以上の休日を与える<span class=\"subject\">使用者</span></span>については</li></ul><div class=\"predicate-line\"><span class=\"predicate\">適用しない。</span></div></div></div>"
+  },
+  {
+    "reference": "法33条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><ul class=\"condition-list\"><li>災害その他避けることのできない事由によって、臨時の必要が<span class=\"condition\">ある場合</span>においては、</li></ul><div class=\"predicate-line\"><span class=\"subject\">使用者</span>は、<span class=\"subject\">行政官庁</span>の許可を受けて、その必要の限度において労働時間を延長し、<span class=\"logic\">又は</span>休日に<span class=\"predicate\">労働させることができる。</span></div></div><div class=\"exception-section\"><div class=\"exception-keyword\"><span class=\"exception\">ただし、</span></div><ul class=\"condition-list\"><li>事態急迫のために行政官庁の許可を受ける暇が<span class=\"condition\">ない場合</span>においては、</li></ul><div class=\"predicate-line\"><span class=\"exception\">事後に遅滞なく届け出なければならない。</span></div></div></div>"
+  },
+  {
+    "reference": "法36条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"subject\">使用者</span>は、</div><ul class=\"condition-list\"><li>労使協定をし、<span class=\"logic\">かつ</span>、これを<span class=\"subject\">行政官庁に届け出た場合</span>においては、</li></ul><div class=\"predicate-line\">その労使協定で定めるところによって労働時間を延長し、<span class=\"logic\">又は</span>休日に<span class=\"predicate\">労働させることができる。</span></div></div></div>"
+  },
+  {
+    "reference": "法36条6項",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第6項第1号</span><div class=\"subject-line\"><span class=\"subject\">使用者</span>は、</div><ul class=\"condition-list\"><li>36協定で定めるところによって労働時間を延長し、<span class=\"logic\">又は</span>休日に労働させる場合であっても、</li><li>坑内労働その他健康上特に有害な業務について、</li></ul><div class=\"predicate-line\"><span class=\"period\">1日</span>について延長した時間は、<span class=\"period\">2時間</span>を<span class=\"predicate\">超えないものとしなければならない。</span></div></div></div>"
+  },
+  {
+    "reference": "法37条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項 本文</span><div class=\"subject-line\"><span class=\"subject\">使用者</span>が、</div><ul class=\"condition-list\"><li>第33条<span class=\"logic\">又は</span>第36条第1項の規定により労働時間を延長し、<span class=\"logic\">又は</span>休日に労働させた<span class=\"condition\">場合</span>においては、</li></ul><div class=\"predicate-line\">通常の労働時間<span class=\"logic\">又は</span>労働日の賃金の計算額の<br><span class=\"period\">2割5分以上5割以下</span>の率で計算した<span class=\"period\">割増賃金</span>を<span class=\"predicate\">支払わなければならない。</span></div></div><div class=\"exception-section\"><div class=\"exception-keyword\"><span class=\"exception\">ただし、</span></div><ul class=\"condition-list\"><li>延長して労働させた時間が<span class=\"period\">1箇月について60時間を超えた場合</span>においては、</li></ul><div class=\"predicate-line\">その超えた時間の労働については、<br><span class=\"period\">5割以上</span>の率で計算した割増賃金を<span class=\"predicate\">支払わなければならない。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">第4項</span><div class=\"subject-line\"><span class=\"subject\">使用者</span>が、</div><ul class=\"condition-list\"><li><span class=\"period\">午後10時</span>から<span class=\"period\">午前5時</span>までの間において労働させた<span class=\"condition\">場合</span>においては、</li></ul><div class=\"predicate-line\"><span class=\"period\">2割5分以上</span>の率で計算した割増賃金を<span class=\"predicate\">支払わなければならない。</span></div></div></div>"
+  },
+  {
+    "reference": "法38条の2",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項 本文</span><div class=\"subject-line\"><span class=\"subject\">労働者が労働時間の全部<span class=\"logic\">又は</span>一部について事業場外で業務に従事した場合</span>において、</div><ul class=\"condition-list\"><li><span class=\"condition\">労働時間を算定し難いとき</span>は、</li></ul><div class=\"predicate-line\"><span class=\"period\">所定労働時間</span>労働した<span class=\"predicate\">ものとみなす。</span></div></div><div class=\"exception-section\"><div class=\"exception-keyword\"><span class=\"exception\">ただし、</span></div><ul class=\"condition-list\"><li>当該業務を遂行するためには通常所定労働時間を超えて労働することが必要と<span class=\"condition\">なる場合</span>においては、</li></ul><div class=\"predicate-line\"><span class=\"exception\">当該業務の遂行に通常必要とされる時間労働したものとみなす。</span></div></div></div>"
+  },
+  {
+    "reference": "則24条の2第2項",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\">法第38条の2第2項の<span class=\"subject\">労使協定</span>（労働協約による場合を除く。）には、</div><div class=\"predicate-line\"><span class=\"period\">有効期間</span>の定めを<span class=\"predicate\">するものとする。</span></div></div></div>"
+  },
+  {
+    "reference": "法38条の3",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"subject\">使用者が、労使協定により所定の事項を定めた場合</span>において、</div><ul class=\"condition-list\"><li><span class=\"subject\">労働者を対象業務に就かせたとき</span>は、</li></ul><div class=\"predicate-line\">当該<span class=\"subject\">労働者</span>は、労使協定で定める時間労働した<span class=\"predicate\">ものとみなす。</span></div></div></div>"
+  },
+  {
+    "reference": "法38条の4第1項",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"subject\">労使委員会が設置された事業場において、当該委員会がその委員の<span class=\"period\">5分の4以上</span>の多数による議決により所定の事項に関する決議をし、</span></div><ul class=\"condition-list\"><li><span class=\"logic\">かつ</span>、<span class=\"subject\">使用者が当該決議を<span class=\"subject\">行政官庁</span>に届け出た場合</span>において、</li><li>対象業務を適切に遂行するための知識、経験等を有する<span class=\"subject\">労働者を対象業務に就かせたとき</span>は、</li></ul><div class=\"predicate-line\">当該<span class=\"subject\">労働者</span>は、当該決議で定める時間労働した<span class=\"predicate\">ものとみなす。</span></div></div></div>"
+  },
+  {
+    "reference": "法38条の4",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第3項</span><div class=\"subject-line\"><span class=\"subject\">厚生労働大臣</span>は、</div><ul class=\"condition-list\"><li>対象業務に従事する<span class=\"subject\">労働者の適正な労働条件の確保を図るために</span>、</li></ul><div class=\"predicate-line\"><span class=\"subject\">労働政策審議会</span>の意見を聴いて、<span class=\"subject\">労使委員会</span>が決議する事項について指針を定め、これを<span class=\"predicate\">公表するものとする。</span></div></div></div>"
+  },
+  {
+    "reference": "法39条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"subject\">使用者</span>は、</div><ul class=\"condition-list\"><li>その雇入れの日から起算して<span class=\"period\">6箇月間継続勤務</span>し</li><li class=\"logic-item\"><span class=\"logic\">かつ</span></li><li><span class=\"period\">全労働日の8割以上出勤した</span><span class=\"subject\">労働者</span>に対して、</li></ul><div class=\"predicate-line\">継続し、<span class=\"logic\">又は</span>分割した<span class=\"period\">10労働日</span>の有給休暇を<span class=\"predicate\">与えなければならない。</span></div></div></div>"
+  },
+  {
+    "reference": "則24条の6",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"subject\">使用者</span>は、</div><ul class=\"condition-list\"><li>法第39条第7項の規定により<span class=\"subject\">労働者に有給休暇を時季を定めることにより与えるに当たって</span>は、</li></ul><div class=\"predicate-line\">あらかじめ、当該有給休暇を与えることを当該<span class=\"subject\">労働者</span>に明らかにした上で、その時季について当該<span class=\"subject\">労働者</span>の意見を<span class=\"predicate\">聴かなければならない。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">第2項</span><div class=\"subject-line\"><span class=\"subject\">使用者</span>は、</div><div class=\"predicate-line\">聴取した意見を尊重するよう<span class=\"predicate\">努めなければならない。</span></div></div></div>"
+  },
+  {
+    "reference": "法115条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\"><span class=\"subject\">年次有給休暇の消滅時効</span>は、</div><div class=\"predicate-line\">これを行使することができる時から<span class=\"period\">2年</span>である。</div></div></div>"
+  },
+  {
+    "reference": "附則136条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\"><span class=\"subject\">使用者</span>は、</div><ul class=\"condition-list\"><li>第39条第1項から第4項までの規定による有給休暇を取得した<span class=\"subject\">労働者</span>に対して、</li></ul><div class=\"predicate-line\">賃金の減額その他不利益な取扱いを<span class=\"predicate\">しないようにしなければならない。</span></div></div></div>"
+  },
+  {
+    "reference": "法56条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"subject\">使用者</span>は、</div><div class=\"predicate-line\"><span class=\"subject\">児童</span>が<span class=\"period\">満15歳</span>に達した日以後の最初の<span class=\"period\">3月31日</span>が終了するまで、これを<span class=\"predicate\">使用してはならない。</span></div></div></div>"
+  },
+  {
+    "reference": "法57条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"subject\">使用者</span>は、</div><ul class=\"condition-list\"><li><span class=\"period\">満18歳</span>に満たない者について、</li></ul><div class=\"predicate-line\">その年齢を証明する戸籍証明書を事業場に<span class=\"predicate\">備え付けなければならない。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">第2項</span><div class=\"subject-line\"><span class=\"subject\">使用者</span>は、</div><ul class=\"condition-list\"><li>第56条第2項の規定によって使用する児童については、</li></ul><div class=\"predicate-line\">修学に差し支えないことを証明する学校長の証明書<span class=\"logic\">及び</span>親権者<span class=\"logic\">又は</span>後見人の同意書を事業場に<span class=\"predicate\">備え付けなければならない。</span></div></div></div>"
+  },
+  {
+    "reference": "法64条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><ul class=\"condition-list\"><li><span class=\"period\">満18歳に満たない者が解雇の日から<span class=\"period\">14日以内</span>に帰郷する場合</span>においては、</li></ul><div class=\"predicate-line\"><span class=\"subject\">使用者</span>は、必要な旅費を<span class=\"predicate\">負担しなければならない。</span></div></div><div class=\"exception-section\"><div class=\"exception-keyword\"><span class=\"exception\">ただし、</span></div><ul class=\"condition-list\"><li><span class=\"period\">満18歳に満たない者がその責めに帰すべき事由に基づいて解雇され、<span class=\"subject\">使用者</span>がその事由について<span class=\"subject\">行政官庁</span>の認定を受けたとき</span>は、</li></ul><div class=\"predicate-line\"><span class=\"exception\">この限りでない。</span></div></div></div>"
+  },
+  {
+    "reference": "法58条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"subject\">親権者<span class=\"logic\">又は</span>後見人</span>は、</div><div class=\"predicate-line\"><span class=\"subject\">未成年者</span>に代って労働契約を<span class=\"predicate\">締結してはならない。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">第2項</span><div class=\"subject-line\"><span class=\"subject\">親権者<span class=\"logic\">若しくは</span>後見人<span class=\"logic\">又は</span>行政官庁</span>は、</div><ul class=\"condition-list\"><li>労働契約が未成年者に不利であると<span class=\"condition\">認める場合</span>においては、</li></ul><div class=\"predicate-line\">将来に向かってこれを<span class=\"predicate\">解除することができる。</span></div></div></div>"
+  },
+  {
+    "reference": "法59条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\"><span class=\"subject\">未成年者</span>は、</div><div class=\"predicate-line\">独立して賃金を<span class=\"predicate\">請求することができる。</span></div></div><div class=\"principle-section\"><div class=\"subject-line\"><span class=\"subject\">親権者<span class=\"logic\">又は</span>後見人</span>は、</div><div class=\"predicate-line\"><span class=\"subject\">未成年者</span>の賃金を代わって<span class=\"predicate\">受け取ってはならない。</span></div></div></div>"
+  },
+  {
+    "reference": "法60条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\">次の規定は、<span class=\"period\">満18歳</span>に満たない者については、</div><div class=\"predicate-line\"><span class=\"predicate\">適用しない。</span></div><ul class=\"condition-list\"><li>・第32条の2から第32条の5まで（変形労働時間制）</li><li>・第36条（36協定による時間外<span class=\"logic\">及び</span>休日労働）</li><li>・第40条（労働時間<span class=\"logic\">及び</span>休憩の特例）</li><li>・第41条の2（高度プロフェッショナル制度）</li></ul></div></div>"
+  },
+  {
+    "reference": "法61条1項",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"subject\">使用者</span>は、</div><div class=\"predicate-line\"><span class=\"period\">満18歳</span>に満たない者を<span class=\"period\">午後10時</span>から<span class=\"period\">午前5時</span>までの間において<span class=\"predicate\">使用してはならない。</span></div></div><div class=\"exception-section\"><div class=\"exception-keyword\"><span class=\"exception\">ただし、</span></div><ul class=\"condition-list\"><li>交替制によって使用する<span class=\"period\">満16歳以上の男性</span>については、</li></ul><div class=\"predicate-line\"><span class=\"exception\">この限りでない。</span></div></div></div>"
+  },
+  {
+    "reference": "法61条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第5項</span><div class=\"subject-line\"><span class=\"subject\">使用者</span>は、</div><div class=\"predicate-line\">第56条第2項の規定によって使用する<span class=\"subject\">児童</span>を<span class=\"period\">午後8時</span>から<span class=\"period\">午前5時</span>までの間において<span class=\"predicate\">使用してはならない。</span></div></div><div class=\"principle-section\"><div class=\"subject-line\"><span class=\"subject\">厚生労働大臣</span>は、</div><ul class=\"condition-list\"><li><span class=\"condition\">必要であると認める場合</span>においては、</li></ul><div class=\"predicate-line\">前項の時刻を、地域<span class=\"logic\">又は</span>期間を限って、<span class=\"period\">午後9時</span><span class=\"logic\">及び</span><span class=\"period\">午前6時</span>とすることが<span class=\"predicate\">できる。</span></div></div></div>"
+  },
+  {
+    "reference": "法63条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\"><span class=\"subject\">使用者</span>は、</div><div class=\"predicate-line\"><span class=\"period\">満18歳</span>に満たない者を坑内で<span class=\"predicate\">労働させてはならない。</span></div></div></div>"
+  },
+  {
+    "reference": "法62条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"subject\">使用者</span>は、</div><ul class=\"condition-list\"><li><span class=\"period\">満18歳</span>に満たない者に、</li></ul><div class=\"predicate-line\">厚生労働省令で定める危険な業務に就かせ、<span class=\"logic\">又は</span>厚生労働省令で定める重量物を取り扱う業務に<span class=\"predicate\">就かせてはならない。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">第2項</span><div class=\"subject-line\"><span class=\"subject\">使用者</span>は、</div><ul class=\"condition-list\"><li><span class=\"period\">満18歳</span>に満たない者を、</li></ul><div class=\"predicate-line\">毒劇薬、毒劇物その他有害な原料若しくは材料又は爆発性、発火性若しくは引火性の原料<span class=\"logic\">若しくは</span>材料を取り扱う業務等に<span class=\"predicate\">就かせてはならない。</span></div></div></div>"
+  },
+  {
+    "reference": "法64条の2",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\"><span class=\"subject\">使用者</span>は、</div><div class=\"predicate-line\">次の各号に掲げる<span class=\"subject\">女性</span>を当該各号に定める業務に<span class=\"predicate\">就かせてはならない。</span></div><ul class=\"condition-list\"><li>1. 妊娠中の女性<span class=\"logic\">及び</span>坑内業務に従事しない旨を申し出た産後1年を経過しない女性<br>→ 坑内で行われるすべての業務</li><li>2. 前号に掲げる女性以外の<span class=\"period\">満18歳以上の女性</span><br>→ 坑内で行われる業務のうち人力により行われる掘削の業務その他の女性に有害な業務</li></ul></div></div>"
+  },
+  {
+    "reference": "法64条の3",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"subject\">使用者</span>は、</div><ul class=\"condition-list\"><li><span class=\"subject\">妊娠中の女性<span class=\"logic\">及び</span>産後1年を経過しない女性</span>（以下「<span class=\"subject\">妊産婦</span>」という。）を、</li></ul><div class=\"predicate-line\">重量物を取り扱う業務、有害ガスを発散する場所における業務その他妊産婦の妊娠、出産、哺育等に有害な業務に<span class=\"predicate\">就かせてはならない。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">第2項</span><div class=\"subject-line\"><span class=\"subject\">使用者</span>は、</div><ul class=\"condition-list\"><li><span class=\"subject\">妊産婦以外の女性</span>を、</li></ul><div class=\"predicate-line\">前項に規定する業務のうち女性の妊娠<span class=\"logic\">又は</span>出産に係る機能に有害である業務として厚生労働省令で定める業務に<span class=\"predicate\">就かせてはならない。</span></div></div></div>"
+  },
+  {
+    "reference": "法65条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第3項</span><div class=\"subject-line\"><span class=\"subject\">使用者</span>は、</div><ul class=\"condition-list\"><li><span class=\"subject\">妊娠中の女性が請求した場合</span>においては、</li></ul><div class=\"predicate-line\">他の軽易な業務に<span class=\"predicate\">転換させなければならない。</span></div></div></div>"
+  },
+  {
+    "reference": "法66条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\"><span class=\"subject\">使用者</span>は、</div><ul class=\"condition-list\"><li><span class=\"subject\">妊産婦</span>が<span class=\"condition\">請求した場合</span>においては、</li><li>1箇月単位の変形労働時間制、</li><li>1年単位の変形労働時間制<span class=\"logic\">及び</span></li><li>1週間単位の非定型的変形労働時間制</li></ul><div class=\"predicate-line\">の規定にかかわらず、<span class=\"period\">1週間</span>について法定労働時間、<span class=\"period\">1日</span>について<span class=\"period\">8時間</span>を超えて労働<span class=\"predicate\">させてはならない。</span></div></div></div>"
+  },
+  {
+    "reference": "法67条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\">生後<span class=\"period\">満1年に達しない生児を育てる<span class=\"subject\">女性</span></span>は、</div><div class=\"predicate-line\">第34条の休憩時間のほか、<span class=\"period\">1日2回</span>各々少なくとも<span class=\"period\">30分</span>、その生児を育てるための時間を<span class=\"predicate\">請求することができる。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">第2項</span><div class=\"subject-line\"><span class=\"subject\">使用者</span>は、</div><div class=\"predicate-line\">前項の育児時間中は、その<span class=\"subject\">女性</span>を<span class=\"predicate\">使用してはならない。</span></div></div></div>"
+  },
+  {
+    "reference": "法68条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\"><span class=\"subject\">使用者</span>は、</div><ul class=\"condition-list\"><li>生理日の就業が著しく困難な<span class=\"subject\">女性が休暇を請求したとき</span>は、</li></ul><div class=\"predicate-line\">その者を生理日に<span class=\"predicate\">就業させてはならない。</span></div></div></div>"
+  },
+  {
+    "reference": "法69条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"subject\">使用者</span>は、</div><ul class=\"condition-list\"><li>徒弟、見習、養成工その他名称のいかんを問わず、技能の習得を目的とする者であることを理由として、</li></ul><div class=\"predicate-line\"><span class=\"subject\">労働者</span>を<span class=\"predicate\">酷使してはならない。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">第2項</span><div class=\"subject-line\"><span class=\"subject\">使用者</span>は、</div><div class=\"predicate-line\">技能の習得を目的とする<span class=\"subject\">労働者</span>を家事その他技能の習得に関係のない作業に<span class=\"predicate\">従事させてはならない。</span></div></div></div>"
+  },
+  {
+    "reference": "法70条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\">都道府県知事の認定を受けて行う職業訓練を受ける<span class=\"subject\">労働者</span>について必要がある場合においては、</div><div class=\"predicate-line\">その必要の限度で、以下の規定について、厚生労働省令で別段の定めを<span class=\"predicate\">することができる。</span></div><ul class=\"condition-list\"><li>1. 第14条第1項の契約期間</li><li>2. 第62条の年少者の危険有害業務の就業制限</li><li>3. 第63条の年少者の坑内労働の禁止</li><li>4. 第64条の2の妊産婦等の坑内業務の就業制限</li></ul></div><div class=\"exception-section\"><div class=\"exception-keyword\"><span class=\"exception\">ただし、</span></div><ul class=\"condition-list\"><li>第63条の坑内労働の禁止については、<span class=\"period\">満16歳に満たない者</span>に関しては、</li></ul><div class=\"predicate-line\"><span class=\"exception\">この限りでない。</span></div></div></div>"
+  },
+  {
+    "reference": "法72条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\">第70条の規定に基づく職業訓練に関する特例の許可を受ける<span class=\"subject\">未成年者</span>に対して付与される<span class=\"subject\">年次有給休暇の日数</span>は、</div><div class=\"predicate-line\">雇入れの日から起算して<span class=\"period\">6箇月間</span>継続勤務し<span class=\"period\">全労働日の8割以上</span>出勤した場合に<span class=\"period\">12労働日</span>とする。</div></div></div>"
+  },
+  {
+    "reference": "法89条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\"><span class=\"period\">常時10人以上</span>の労働者を使用する<span class=\"subject\">使用者</span>は、</div><div class=\"predicate-line\">所定の事項について就業規則を作成し、<span class=\"subject\">行政官庁</span>に<span class=\"predicate\">届け出なければならない。</span></div></div><div class=\"principle-section\"><div class=\"subject-line\">所定の事項を変更した場合においても、</div><div class=\"predicate-line\"><span class=\"predicate\">同様とする。</span></div></div></div>"
+  },
+  {
+    "reference": "法90条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"subject\">使用者</span>は、</div><ul class=\"condition-list\"><li>就業規則の作成<span class=\"logic\">又は</span>変更について、</li><li>当該事業場に、<span class=\"condition\">過半数労働組合がある場合</span>においてはその労働組合、</li><li><span class=\"condition\">過半数労働組合がない場合</span>においては過半数代表者の</li></ul><div class=\"predicate-line\">意見を<span class=\"predicate\">聴かなければならない。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">第2項</span><div class=\"subject-line\"><span class=\"subject\">使用者</span>は、</div><div class=\"predicate-line\">就業規則の届出をなすについて、前項の意見を記した書面を<span class=\"predicate\">添付しなければならない。</span></div></div></div>"
+  },
+  {
+    "reference": "法91条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\"><span class=\"subject\">就業規則で、<span class=\"subject\">労働者</span>に対して減給の制裁を定める場合</span>においては、</div><div class=\"predicate-line\">その減給は、<span class=\"period\">1回の額</span>が<span class=\"period\">平均賃金の1日分の半額</span>を超え、<span class=\"period\">総額</span>が<span class=\"period\">一賃金支払期における賃金の総額の10分の1</span>を<span class=\"predicate\">超えてはならない。</span></div></div></div>"
+  },
+  {
+    "reference": "法92条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"subject\">就業規則</span>は、</div><div class=\"predicate-line\">法令<span class=\"logic\">又は</span>当該事業場について適用される労働協約に反して<span class=\"predicate\">はならない。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">第2項</span><div class=\"subject-line\"><span class=\"subject\">行政官庁</span>は、</div><div class=\"predicate-line\">法令<span class=\"logic\">又は</span>労働協約に牴触する就業規則の変更を<span class=\"predicate\">命ずることができる。</span></div></div></div>"
+  },
+  {
+    "reference": "法93条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\"><span class=\"subject\">就業規則</span>で定める基準に達しない労働条件を定める<span class=\"subject\">労働契約</span>は、</div><div class=\"predicate-line\">その部分については、<span class=\"predicate\">無効とする。</span></div></div><div class=\"principle-section\"><div class=\"subject-line\"><span class=\"subject\">無効となった部分</span>は、</div><div class=\"predicate-line\"><span class=\"subject\">就業規則</span>で定める基準に<span class=\"predicate\">よる。</span></div></div></div>"
+  },
+  {
+    "reference": "法94条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"subject\">使用者</span>は、</div><div class=\"predicate-line\">事業の附属寄宿舎に寄宿する<span class=\"subject\">労働者</span>の私生活の自由を<span class=\"predicate\">侵してはならない。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">第2項</span><div class=\"subject-line\"><span class=\"subject\">使用者</span>は、</div><div class=\"predicate-line\">寮長、室長その他寄宿舎生活の自治に必要な役員の選任に<span class=\"predicate\">干渉してはならない。</span></div></div></div>"
+  },
+  {
+    "reference": "法95条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\">事業の附属寄宿舎に労働者を寄宿させる<span class=\"subject\">使用者</span>は、</div><div class=\"predicate-line\">所定の事項について寄宿舎規則を作成し、<span class=\"subject\">行政官庁</span>に<span class=\"predicate\">届け出なければならない。</span></div></div></div>"
+  },
+  {
+    "reference": "法96条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"subject\">使用者</span>は、</div><div class=\"predicate-line\">事業の附属寄宿舎について、換気、採光、照明、保温、防湿、清潔、避難、定員の収容、就寝に必要な措置その他<span class=\"subject\">労働者</span>の健康、風紀<span class=\"logic\">及び</span>生命の保持に必要な措置を<span class=\"predicate\">講じなければならない。</span></div></div></div>"
+  },
+  {
+    "reference": "法96条の2",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"subject\">使用者</span>は、</div><ul class=\"condition-list\"><li><span class=\"period\">常時10人以上</span>の労働者を就業させる事業、</li><li>厚生労働省令で定める危険な事業<span class=\"logic\">又は</span>衛生上有害な事業</li></ul><div class=\"subject-line\">の附属寄宿舎を設置し、移転し、<span class=\"logic\">又は</span>変更しようとする<span class=\"condition\">場合</span>においては、</div><div class=\"predicate-line\">厚生労働省令で定める危害防止等に関する基準に従い定めた計画を、<br>工事着手<span class=\"period\">14日前</span>までに、<span class=\"subject\">行政官庁</span>に<span class=\"predicate\">届け出なければならない。</span></div></div></div>"
+  },
+  {
+    "reference": "法96条の3",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><ul class=\"condition-list\"><li>事業の附属寄宿舎が、安全<span class=\"logic\">及び</span>衛生に関し定められた基準に反する場合においては、</li></ul><div class=\"predicate-line\"><span class=\"subject\">行政官庁</span>は、<span class=\"subject\">使用者</span>に対して、その全部<span class=\"logic\">又は</span>一部の使用の停止、変更その他必要な事項を<span class=\"predicate\">命ずることができる。</span></div></div></div>"
+  },
+  {
+    "reference": "法75条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><ul class=\"condition-list\"><li><span class=\"subject\">労働者が業務上負傷し、<span class=\"logic\">又は</span>疾病にかかった場合</span>においては、</li></ul><div class=\"predicate-line\"><span class=\"subject\">使用者</span>は、その費用で必要な療養を行い、<span class=\"logic\">又は</span>必要な療養の費用を<span class=\"predicate\">負担しなければならない。</span></div></div></div>"
+  },
+  {
+    "reference": "法76条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><ul class=\"condition-list\"><li><span class=\"subject\">労働者が第75条の規定による療養のため、労働することができないために賃金を受けない場合</span>においては、</li></ul><div class=\"predicate-line\"><span class=\"subject\">使用者</span>は、<span class=\"subject\">労働者</span>の療養中<span class=\"period\">平均賃金の100分の60</span>の休業補償を<span class=\"predicate\">行わなければならない。</span></div></div></div>"
+  },
+  {
+    "reference": "法77条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><ul class=\"condition-list\"><li><span class=\"subject\">労働者が業務上負傷し、<span class=\"logic\">又は</span>疾病にかかり、治った場合</span>において、</li><li><span class=\"condition\">その身体に障害が存するとき</span>は、</li></ul><div class=\"predicate-line\"><span class=\"subject\">使用者</span>は、その障害の程度に応じて、<span class=\"period\">平均賃金</span>に別表第2に定める日数を乗じて得た金額の障害補償を<span class=\"predicate\">行わなければならない。</span></div></div></div>"
+  },
+  {
+    "reference": "法78条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><ul class=\"condition-list\"><li><span class=\"subject\">労働者が重大な過失によって業務上負傷し、<span class=\"logic\">又は</span>疾病にかかり、</span></li><li class=\"logic-item\"><span class=\"logic\">かつ</span></li><li><span class=\"subject\">使用者がその過失について<span class=\"subject\">行政官庁</span>の認定を受けた場合</span>においては、</li></ul><div class=\"predicate-line\">休業補償<span class=\"logic\">又は</span>障害補償を<span class=\"predicate\">行わなくてもよい。</span></div></div></div>"
+  },
+  {
+    "reference": "法79条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><ul class=\"condition-list\"><li><span class=\"subject\">労働者が業務上死亡した場合</span>においては、</li></ul><div class=\"predicate-line\"><span class=\"subject\">使用者</span>は、遺族に対して、<span class=\"period\">平均賃金の1,000日分</span>の遺族補償を<span class=\"predicate\">行わなければならない。</span></div></div></div>"
+  },
+  {
+    "reference": "法80条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><ul class=\"condition-list\"><li><span class=\"subject\">労働者が業務上死亡した場合</span>においては、</li></ul><div class=\"predicate-line\"><span class=\"subject\">使用者</span>は、葬祭を行う者に対して、<span class=\"period\">平均賃金の60日分</span>の葬祭料を<span class=\"predicate\">支払わなければならない。</span></div></div></div>"
+  },
+  {
+    "reference": "法81条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><ul class=\"condition-list\"><li>第75条の規定によって補償を受ける<span class=\"subject\">労働者が、<span class=\"period\">療養開始後3年</span>を経過しても負傷<span class=\"logic\">又は</span>疾病がなおらない場合</span>においては、</li></ul><div class=\"predicate-line\"><span class=\"subject\">使用者</span>は、<span class=\"period\">平均賃金の1,200日分</span>の打切補償を行い、その後は労働基準法の規定による補償を<span class=\"predicate\">行わなくてもよい。</span></div></div></div>"
+  },
+  {
+    "reference": "法82条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\"><span class=\"subject\">使用者</span>は、</div><ul class=\"condition-list\"><li>支払能力のあることを証明し、</li><li class=\"logic-item\"><span class=\"logic\">かつ</span></li><li><span class=\"condition\">補償を受けるべき者の同意を得た場合</span>においては、</li></ul><div class=\"predicate-line\">第77条（障害補償）<span class=\"logic\">又は</span>第79条（遺族補償）の規定による補償に替え、<span class=\"period\">平均賃金</span>に別表第3に定める日数を乗じて得た金額を、<span class=\"period\">6年</span>にわたり毎年<span class=\"predicate\">補償することができる。</span></div></div></div>"
+  },
+  {
+    "reference": "法83条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\">補償を受ける<span class=\"subject\">権利</span>は、</div><div class=\"predicate-line\"><span class=\"subject\">労働者</span>の退職によって変更<span class=\"predicate\">されることはない。</span></div></div></div>"
+  },
+  {
+    "reference": "法84条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><ul class=\"condition-list\"><li>労働基準法に規定する災害補償の事由について、</li><li>労災保険法<span class=\"logic\">又は</span>厚生労働省令で指定する法令に基づいて</li><li>労働基準法の災害補償に相当する給付が行われるべきものである<span class=\"condition\">場合</span>においては、</li></ul><div class=\"predicate-line\"><span class=\"subject\">使用者</span>は、補償の責を<span class=\"predicate\">免れる。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">第2項</span><ul class=\"condition-list\"><li><span class=\"subject\">使用者</span>が労働基準法による補償を行った<span class=\"condition\">場合</span>においては、</li></ul><div class=\"predicate-line\">同一の事由については、その価額の限度において<br>民法による損害賠償の責を<span class=\"predicate\">免れる。</span></div></div></div>"
+  },
+  {
+    "reference": "法87条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><ul class=\"condition-list\"><li><span class=\"condition\">建設業が数次の請負によって行われる場合</span>においては、</li></ul><div class=\"predicate-line\">災害補償については、その<span class=\"subject\">元請負人</span>を<span class=\"subject\">使用者</span>と<span class=\"predicate\">みなす。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">第2項</span><ul class=\"condition-list\"><li><span class=\"subject\">元請負人が書面による契約で<span class=\"subject\">下請負人</span>に補償を引き受けさせた場合</span>においては、</li></ul><div class=\"predicate-line\">その<span class=\"subject\">下請負人</span>もまた<span class=\"subject\">使用者</span>と<span class=\"predicate\">する。</span></div></div></div>"
+  },
+  {
+    "reference": "法97条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"subject\">労働基準主管局</span>、<span class=\"subject\">都道府県労働局</span><span class=\"logic\">及び</span><span class=\"subject\">労働基準監督署</span>に</div><div class=\"predicate-line\"><span class=\"subject\">労働基準監督官</span>を<span class=\"predicate\">置く。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">第2項</span><div class=\"subject-line\"><span class=\"subject\">労働基準主管局長</span>、<span class=\"subject\">都道府県労働局長</span><span class=\"logic\">及び</span><span class=\"subject\">労働基準監督署長</span>は、</div><div class=\"predicate-line\"><span class=\"subject\">労働基準監督官</span>をもってこれに<span class=\"predicate\">充てる。</span></div></div></div>"
+  },
+  {
+    "reference": "法101条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"subject\">労働基準監督官</span>は、</div><ul class=\"condition-list\"><li>事業場、寄宿舎その他の附属建設物に<span class=\"predicate\">臨検</span>し、</li><li>帳簿<span class=\"logic\">及び</span>書類の提出を求め、</li><li class=\"logic-item\"><span class=\"logic\">又は</span></li><li><span class=\"subject\">使用者</span><span class=\"logic\">若しくは</span><span class=\"subject\">労働者</span>に対して<span class=\"predicate\">尋問を行うことができる。</span></li></ul></div><div class=\"principle-section\"><span class=\"item-number\">第2項</span><div class=\"subject-line\"><span class=\"subject\">労働基準監督官</span>は、</div><div class=\"predicate-line\">その身分を証明する証票を<span class=\"predicate\">携帯しなければならない。</span></div></div></div>"
+  },
+  {
+    "reference": "法102条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\"><span class=\"subject\">労働基準監督官</span>は、</div><div class=\"predicate-line\">労働基準法違反の罪について、刑事訴訟法に規定する司法警察官の職務を<span class=\"predicate\">行う。</span></div></div></div>"
+  },
+  {
+    "reference": "法104条の2",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"subject\">行政官庁</span>は、</div><ul class=\"condition-list\"><li>労働基準法を施行するため必要があると<span class=\"condition\">認めるとき</span>は、</li></ul><div class=\"predicate-line\"><span class=\"subject\">使用者<span class=\"logic\">又は</span>労働者</span>に対し、必要な事項を報告させ、<span class=\"logic\">又は</span>出頭を<span class=\"predicate\">命ずることができる。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">第2項</span><div class=\"subject-line\"><span class=\"subject\">労働基準監督官</span>は、</div><ul class=\"condition-list\"><li>労働基準法を施行するため必要があると<span class=\"condition\">認めるとき</span>は、</li></ul><div class=\"predicate-line\"><span class=\"subject\">使用者<span class=\"logic\">又は</span>労働者</span>に対し、必要な事項を報告させ、<span class=\"logic\">又は</span>出頭を<span class=\"predicate\">命ずることができる。</span></div></div></div>"
+  },
+  {
+    "reference": "法104条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><ul class=\"condition-list\"><li>事業場に、労働基準法<span class=\"logic\">又は</span>労働基準法に基いて発する命令に違反する事実がある場合においては、</li></ul><div class=\"predicate-line\"><span class=\"subject\">労働者</span>は、その事実を<span class=\"subject\">行政官庁<span class=\"logic\">又は</span>労働基準監督官</span>に<span class=\"predicate\">申告することができる。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">第2項</span><div class=\"subject-line\"><span class=\"subject\">使用者</span>は、</div><ul class=\"condition-list\"><li>前項の申告をしたことを理由として、</li></ul><div class=\"predicate-line\"><span class=\"subject\">労働者</span>に対して解雇その他不利益な取扱を<span class=\"predicate\">してはならない。</span></div></div></div>"
+  },
+  {
+    "reference": "法106条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"subject\">使用者</span>は、</div><ul class=\"condition-list\"><li>労働基準法<span class=\"logic\">及び</span>労働基準法に基づく命令の要旨、</li><li>就業規則、</li><li>労使協定、</li><li>労使委員会の決議</li></ul><div class=\"predicate-line\">を、常時各作業場の見やすい場所へ掲示し、<span class=\"logic\">又は</span>備え付けること、<br>書面を交付することその他の方法によって、<br><span class=\"subject\">労働者</span>に<span class=\"predicate\">周知させなければならない。</span></div></div></div>"
+  },
+  {
+    "reference": "法107条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><div class=\"subject-line\"><span class=\"subject\">使用者</span>は、</div><ul class=\"condition-list\"><li>各事業場ごとに<span class=\"period\">労働者名簿</span>を、</li><li>各<span class=\"subject\">労働者</span>（日日雇い入れられる者を除く。）について調製し、</li><li>氏名、生年月日、履歴その他厚生労働省令で定める事項を</li></ul><div class=\"predicate-line\"><span class=\"predicate\">記入しなければならない。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">第2項</span><div class=\"subject-line\"><span class=\"condition\">記入すべき事項に変更があった場合</span>においては、</div><div class=\"predicate-line\"><span class=\"predicate\">遅滞なく訂正しなければならない。</span></div></div></div>"
+  },
+  {
+    "reference": "法108条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\"><span class=\"subject\">使用者</span>は、</div><ul class=\"condition-list\"><li>各事業場ごとに<span class=\"period\">賃金台帳</span>を調製し、</li><li>賃金計算の基礎となる事項<span class=\"logic\">及び</span>賃金の額その他厚生労働省令で定める事項を</li></ul><div class=\"predicate-line\">賃金支払の都度遅滞なく<span class=\"predicate\">記入しなければならない。</span></div></div></div>"
+  },
+  {
+    "reference": "法109条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\"><span class=\"subject\">使用者</span>は、</div><ul class=\"condition-list\"><li>労働者名簿、</li><li>賃金台帳<span class=\"logic\">及び</span></li><li>雇入れ、解雇、災害補償、賃金その他労働関係に関する重要な書類を</li></ul><div class=\"predicate-line\"><span class=\"period\">5年間</span>（当分の間、<span class=\"period\">3年間</span>）<span class=\"predicate\">保存しなければならない。</span></div></div></div>"
+  },
+  {
+    "reference": "法111条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\"><span class=\"subject\">労働者<span class=\"logic\">及び</span>労働者になろうとする者</span>は、</div><div class=\"predicate-line\">その戸籍に関して戸籍事務を掌る者<span class=\"logic\">又は</span>その代理者に対して、<span class=\"period\">無料</span>で証明を<span class=\"predicate\">請求することができる。</span></div></div><div class=\"principle-section\"><div class=\"subject-line\"><span class=\"subject\">使用者</span>が証明を請求する場合においても</div><div class=\"predicate-line\"><span class=\"predicate\">同様とする。</span></div></div></div>"
+  },
+  {
+    "reference": "法114条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><div class=\"subject-line\"><span class=\"subject\">裁判所</span>は、</div><ul class=\"condition-list\"><li>第20条（解雇予告手当）、</li><li>第26条（休業手当）<span class=\"logic\">若しくは</span></li><li>第37条（割増賃金）の規定に違反した<span class=\"subject\">使用者</span></li><li class=\"logic-item\"><span class=\"logic\">又は</span></li><li>第39条第9項（年次有給休暇中の賃金）の規定による賃金を支払わなかった<span class=\"subject\">使用者</span>に対して、</li></ul><div class=\"predicate-line\"><span class=\"subject\">労働者</span>の請求により、<br>未払金のほか、これと同一額の<span class=\"period\">付加金</span>の支払を<span class=\"predicate\">命ずることができる。</span></div></div></div>"
+  },
+  {
+    "reference": "法121条",
+    "structured": "<div class=\"law-body\"><div class=\"principle-section\"><span class=\"item-number\">第1項</span><ul class=\"condition-list\"><li>労働基準法の違反行為をした者が、当該事業の<span class=\"subject\">労働者に関する事項について、<span class=\"subject\">事業主</span>のために行為した代理人、使用人その他の従業者である場合</span>においては、</li></ul><div class=\"predicate-line\"><span class=\"subject\">事業主</span>に対しても各本条の<span class=\"period\">罰金刑</span>を<span class=\"predicate\">科する。</span></div></div><div class=\"exception-section\"><div class=\"exception-keyword\"><span class=\"exception\">ただし、</span></div><ul class=\"condition-list\"><li><span class=\"subject\">事業主が違反の防止に必要な措置をした場合</span>においては、</li></ul><div class=\"predicate-line\"><span class=\"exception\">この限りでない。</span></div></div><div class=\"principle-section\"><span class=\"item-number\">第2項</span><ul class=\"condition-list\"><li><span class=\"subject\">事業主が違反の計画を知りその防止に必要な措置を講じなかった場合</span>、</li><li>違反行為を知りその是正に必要な措置を<span class=\"condition\">講じなかった場合</span></li><li class=\"logic-item\"><span class=\"logic\">又は</span></li><li><span class=\"condition\">違反を教唆した場合</span>においては、</li></ul><div class=\"predicate-line\"><span class=\"subject\">事業主</span>も行為者として<span class=\"predicate\">罰する。</span></div></div></div>"
+  }
+]
